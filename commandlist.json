@@ -1,0 +1,142 @@
+[
+	{
+		"name": "invite",
+		"description": "Receive a DM for the bot's invite for your server."
+	},
+	{
+		"name": "srchant",
+		"description": "Get 1 random Super Rare star's chant"
+	},
+	{
+		"name": "addscout",
+		"description": "Add a scout channel",
+		"options": [
+			{
+				"name": "id",
+				"type": "INTEGER",
+				"description": "1 or 2 for scout channel schedule",
+				"required": true,
+				"choices": [
+					{
+						"name": 1,
+						"value": 1
+					},
+					{
+						"name": 2,
+						"value": 2
+					}
+				]
+			},
+			{
+				"name": "name",
+				"type": "STRING",
+				"description": "Star name",
+				"required": true
+			},
+			{
+				"name": "startday",
+				"type": "INTEGER",
+				"description": "Start day of scout channels",
+				"required": true
+			},
+			{
+				"name": "attribute",
+				"type": "STRING",
+				"description": "Star's attribute",
+				"required": true,
+				"choices": [
+					{
+						"name": "Vocal",
+						"value": "vocal"
+					},
+					{
+						"name": "Dancer",
+						"value": "dancer"
+					},
+					{
+						"name": "Session",
+						"value": "session"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "emotes",
+		"description": "Get a list of emotes",
+		"options": [
+			{
+				"name": "name",
+				"type": "STRING",
+				"description": "An emoji name to filter, case-sensitive",
+				"required": false
+			},
+			{
+				"name": "animated",
+				"type": "BOOLEAN",
+				"description": "filter static/animated emojis",
+				"required": false
+			}
+		]
+	},
+	{
+		"name": "scoutannounce",
+		"description": "Trigger announcement of scout channel",
+		"options": [
+			{
+				"name": "channel",
+				"type": "CHANNEL",
+				"description": "Channel to announce in",
+				"required": true
+			}
+		]
+	},
+	{
+		"name": "song",
+		"description": "Search a song's info + meta teams per chart",
+		"options": [
+			{
+				"name": "title",
+				"type": "STRING",
+				"description": "song title",
+				"required": true
+			}
+		]
+	},
+	{
+		"name": "star",
+		"description": "Search a star's info",
+		"options": [
+			{
+				"name": "name",
+				"type": "STRING",
+				"description": "star name",
+				"required": true
+			}
+		]
+	},
+	{
+		"name": "say",
+		"description": "Send a message. Use :emoji_name: or :emoji_id: to use emotes from other servers.",
+		"options": [
+			{
+				"name": "message",
+				"type": "STRING",
+				"description": "message to send",
+				"required": true
+			},
+			{
+				"name": "reply",
+				"type": "STRING",
+				"description": "message link/message id",
+				"required": false
+			},
+			{
+				"name": "mention",
+				"type": "BOOLEAN",
+				"description": "mention user in reply, defaults to false",
+				"required": false
+			}
+		]
+	}
+]

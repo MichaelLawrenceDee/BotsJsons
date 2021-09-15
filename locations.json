@@ -1,0 +1,212 @@
+[
+	{
+		"country": "Australia",
+		"code": "AU",
+		"flag": "🇦🇺",
+		"regionname": "state",
+		"regions": [
+			{"region": "Australian Capital Territory", "code": "ACT", "locations": [
+				{"location":"Canberra", "roleId": "683629677008650240"}
+			]},
+			{"region": "New South Wales", "code": "NSW", "alias": "Sydney", "locations": [
+				{"location":"Central Park", "roleId": "683629745300439066"},
+				{"location":"Haymarket", "roleId": "683629802690838538"},
+				{"location":"Macquarie Park", "roleId": "683629865957589005"}
+			]},
+			{"region": "Queensland", "code": "QLD", "locations": [
+				{"location":"Garden City", "roleId": "683629978784497664"},
+				{"location":"Surfers Paradise", "roleId": "683630033645862984"}
+			]},
+			{"region": "Victoria", "code": "VIC", "locations": [
+				{"location":"Highpoint", "roleId": "683630120518680592"},
+				{"location":"Crown", "roleId": "683630083847749674"}
+			]},
+			{"region": "Western Australia", "code": "WA", "locations": [
+				{"location":"Northbridge", "roleId": "683630205423976467"}
+			]}
+		]
+	},
+	{
+		"country": "Canada",
+		"code": "CAN",
+		"flag": "🇨🇦",
+		"roleId": "629540500332085268",
+		"regions": []
+	},
+	{
+		"country": "China",
+		"code": "CN",
+		"flag": "🇨🇳",
+		"roleId": "683361938788450319",
+		"regions": []
+	},
+	{
+		"country": "Indonesia",
+		"code": "ID",
+		"flag": "🇮🇩",
+		"roleId": "678808795648098304",
+		"regions": []
+	},
+	{
+		"country": "Japan",
+		"code": "JP",
+		"flag": "🇯🇵",
+		"roleId": "573901962165092375",
+		"regions": []
+	},
+	{
+		"country": "Korea",
+		"code": "KR",
+		"flag": "🇰🇷",
+		"roleId": "683601069330268160",
+		"regions": []
+	},
+	{
+		"country": "New Zealand",
+		"code": "NZ",
+		"flag": "🇳🇿",
+		"roleId": "664253416071102505",
+		"regions": []
+	},
+	{
+		"country": "Pakistan",
+		"code": "PK",
+		"flag": "🇵🇰",
+		"roleId": "728376126040440862",
+		"regions": []
+	},
+	{
+		"country": "Philippines",
+		"code": "PH",
+		"flag": "🇵🇭",
+		"roleId": "626251895257825290",
+		"regions": []
+	},
+	{
+		"country": "Singapore",
+		"code": "SG",
+		"flag": "🇸🇬",
+		"roleId": "570532743168000031",
+		"regions": []
+	},
+	{
+		"country": "Taiwan",
+		"code": "TW",
+		"flag": "🇹🇼",
+		"roleId": "678721629567713309",
+		"regions": []
+	},
+	{
+		"country": "Thailand",
+		"code": "TH",
+		"flag": "🇹🇭",
+		"roleId": "672604325431869461",
+		"regions": []
+	},
+	{
+		"country": "United Kingdom",
+		"code": "UK",
+		"flag": "🇬🇧",
+		"roleId": "678685923617144837",
+		"regions": []
+	},
+	{
+		"country": "USA",
+		"code": "US",
+		"flag": "🇺🇸",
+		"regionname": "state",
+		"regions": [
+			{"region": "Arizona", "code": "AZ", "locations": [
+				{"location":"Tucson", "roleId": "643014654133665823"}
+			]},
+			{"region": "California", "code": "CA", "locations": [
+				{"location":"Burbank", "roleId": "662885758696161311"},
+				{"location":"Hayward", "roleId": "625568317305782272"},
+				{"location":"Moreno Valley", "roleId": "571900957844176907"},
+				{"location":"Puente Hills", "roleId": "569683341394182164"},
+				{"location":"San Jose", "roleId": "571917176894652418"},
+				{"location":"Lakewood", "roleId": "572437061936611339"},
+				{"location":"Santa Ana", "roleId": "571939528059781130"},
+				{"location":"Concord", "roleId": "571972913654398983"},
+				{"location":"Salinas", "roleId": "574618412945506314"},
+				{"location":"Temecula", "roleId": "622969566359715879"}
+			]},
+			{"region": "Colorado", "code": "CO", "locations": [
+				{"location":"Littleton", "roleId": "584741233977458710"}
+			]},
+			{"region": "Florida", "code": "FL", "locations": [
+				{"location":"Oviedo Arcade Monsters", "roleId": "714361088199884801"}
+			]},
+			{"region": "Georgia", "code": "GA", "locations": [
+				{"location":"Stonecrest", "roleId": "607481501495328809"}
+			]},
+			{"region": "Illinois", "code": "IL", "locations": [
+				{"location":"Aurora", "roleId": "607481217587216384"},
+				{"location":"North Riverside", "roleId": "620103460775264266"},
+				{"location":"Northwoods Mall", "roleId": "823072715371708447"}
+			]},
+			{"region": "Kansas", "code": "KS", "locations": [
+				{"location":"Wichita", "roleId": "748209390854864917"}
+			]},
+			{"region": "Kentucky", "code": "KY", "locations": [
+				{"location":"Louisville", "roleId": "832850113361084456"}
+			]},
+			{"region": "Massachusetts", "code": "MA", "locations": [
+				{"location":"Holyoke", "roleId": "653453087427788800"}
+			]},
+			{"region": "Maryland", "code": "MD", "locations": [
+				{"location":"Towson", "roleId": "569683240688943127"}
+			]},
+			{"region": "Michigan", "code": "MI", "locations": [
+				{"location":"Auburn Hills", "roleId": "569737743408562191"}
+			]},
+			{"region": "North Carolina", "code": "NC", "locations": [
+				{"location":"Four Seasons", "roleId": "571962133785477140"}
+			]},
+			{"region": "New Jersey", "code": "NJ", "locations": [
+				{"location":"Deptford Mall", "roleId": "812147207062552617"}
+			]},
+			{"region": "New Mexico", "code": "NM", "locations": [
+				{"location":"Coronado", "roleId": "573901390229929984"}
+			]},
+			{"region": "Nevada", "code": "NV", "locations": [
+				{"location":"Las Vegas", "roleId": "640230674355191845"},
+				{"location":"Reno", "roleId": "682057274356793344"}
+			]},
+			{"region": "New York", "code": "NY", "locations": [
+				{"location":"Hicksville", "roleId": "571739486585880616"},
+				{"location":"Middletown", "roleId": "575717897847046145"}
+			]},
+			{"region": "Ohio", "code": "OH", "locations": [
+				{"location":"Beavercreek", "roleId": "878896361079209984"},
+				{"location":"Mentor", "roleId": "571917120560955402"}
+			]},
+			{"region": "Oklahoma", "code": "OK", "locations": [
+				{"location":"Quail Springs Mall", "roleId": "872338035201704007"}
+			]},
+			{"region": "Oregon", "code": "OR", "locations": [
+				{"location":"Eugene", "roleId": "864819836970729473"}
+			]},
+			{"region": "Pennsylvania", "code": "PA", "locations": [
+				{"location":"Exton", "roleId": "569683199064539174"},
+				{"location":"Lancaster", "roleId": "857306868828078150"},
+				{"location":"Millcreek", "roleId": "643684910376419349"},
+				{"location":"Philadelphia", "roleId": "857307910748110849"}
+			]},
+			{"region": "Texas", "code": "TX", "locations": [
+				{"location":"Grapevine", "roleId": "569682829324058656"},
+				{"location":"Arlington", "roleId": "572437181864476703"}
+			]},
+			{"region": "Utah", "code": "UT", "locations": [
+				{"location":"Southtowne", "roleId": "823415668871135253"}
+			]},
+			{"region": "Virginia", "code": "VA", "locations": [
+				{"location":"Woodbridge", "roleId": "849459700919697439"}
+			]},
+			{"region": "Washington", "code": "WA", "locations": [
+				{"location":"Southcenter Mall", "roleId": "569701202330124289"},
+				{"location":"Vancouver", "roleId": "844760953055870976"}
+			]}
+		]
+	}
+]

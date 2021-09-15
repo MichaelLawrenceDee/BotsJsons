@@ -19543,7 +19543,55 @@
 		"missions": [
 			
 		],
-		"teams": null,
+		"teams": {
+			"easy": [
+				{
+					"hr": "1-2-1-X",
+					"hrlabel": [[6,1]],
+					"lsd": "1 Perfect",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "21 Jun 2020"
+				},
+				{
+					"hr": "  ''",
+					"hrlabel": [],
+					"lsd": "   ''",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"normal": [
+				{
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"hard": [
+				{
+					"hr": "2-1-13-3-X",
+					"hrlabel": [[9,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
 		"altteams": null
 	},
 	{
@@ -19562,8 +19610,129 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"hr": "1-2-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "11 Jul 2021"
+				},
+				{
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Horyeon", "costume": false },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"normal": [
+				{
+					"hr": "2-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Nicol", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 6 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"expert": [
+				{
+					"lsd": "After the 1st LS, Perfect while no skills activated.",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "HT Czerny" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"hr": "1-2-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"hr": "2-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "11 Jul 2021"
+				},
+				{
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "2-1-2-1-2-1-2-1-2-X",
+					"hrlabel": [[18,1]],
+					"lsd": "3-4 Perfects",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Horyeon", "costume": false },
+					"flick": { "star": "HT Senah", "leader": true },
+					"last_update": "11 Jul 2021"
+				},
+				{
+					"hr": "        ''",
+					"hrlabel": [],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"lsd": "After the 1st LS, Perfect while no skills activated.",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "11 Jul 2021"
+				}
+			]
+		}
 	},
 	{
 		"title": "Space of Soul",

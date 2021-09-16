@@ -20464,8 +20464,123 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 7 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "04 Jul 2021"
+				}
+			],
+			"normal": [
+				{
+					"hr": "2-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true }
+				}
+			],
+			"hard": [
+				{
+					"lsd": "10 Perfects",
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "04 Jul 2021"
+				},
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true }
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"hr": "2-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true }
+				},
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "04 Jul 2021"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"lsd": "10 Perfects",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "04 Jul 2021"
+				},
+				{
+					"lsd": "10 Perfects (Potentially top meta, S9 Beatrice ~ S3 Aria)",
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Aria", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
+					"label": "Hard(GB)",
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true }
+				},
+				{
+					"lsd": "30 GOODs, Perfect up to Nicol skill",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "28 Feb 2021"
+				}
+			]
+		}
 	},
 	{
 		"title": "Out Law",

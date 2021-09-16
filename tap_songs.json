@@ -16781,7 +16781,7 @@
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Jaguar", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true },
-					"flick": { "star": "Suah" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "18 Jul 2021"
 				}
 			],

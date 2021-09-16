@@ -20061,8 +20061,111 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"hr": "1-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "31 Jan 2021"
+				}
+			],
+			"normal": [
+				{
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				}
+			],
+			"hard": [
+				{
+					"hr": "2-1-X",
+					"hrlabel": [[4,1]],
+					"lsd": "Perfect up to x2 combo",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"expert": [
+				{
+					"hr": "3-31-1-X",
+					"hrlabel": [[7,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"tap": { "star": "Kermilla", "leader": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "31 Jan 2021"
+				},
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Partina", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				},
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true }
+				},
+				{
+					"tap": { "star": "Kermilla", "leader": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true }
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"lsd": "None (Also used in GB using Beatrice (L))",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "2-1-X",
+					"hrlabel": [[4,1]],
+					"lsd": "GOOD and Perfect up to x2 combo (Jessi > Elly w/ top meta delay)",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"hr": "3-31-1-X",
+					"hrlabel": [[7,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		}
 	},
 	{
 		"title": "Haikei, Kingyobachi no sokokara",
@@ -20081,8 +20184,144 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"lsd": "GOOD up to x2. During x2, Perfect slides and GOOD flicks. After x2 ends,",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Mary" },
+					"last_update": "27 Jun 2021"
+				},
+				{
+					"lsd": "adjust with GOODs to trigger 1st LS at the long at about 324 combo.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"normal": [
+				{
+					"hr": "1-2-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "2-1-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"expert": [
+				{
+					"lsd": "After 1st LS, GOOD and Perfect while no skills activated",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"lsd": "OR 35 Perfects (Use if not confident with above delay)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"lsd": "After 2nd LS, and the double slides, 22 Perfects and 7 GOODs.",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Ava", "leader": true },
+					"flick": { "star": "Mary" },
+					"last_update": "23 Feb 2020"
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"hr": "1-2-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "2-1-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1]],
+					"lsd": "None (Also used in GB using Rose (L) if you have no Titana)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Ava" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"hr": "   ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				},
+				{
+					"hr": "   ''",
+					"hrlabel": [],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "   ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"hr": "   ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "27 Jun 2021"
+				}
+			]
+		}
 	},
 	{
 		"title": "Placebo Dying",
@@ -20100,8 +20339,114 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Partina", "leader": true },
+					"flick": { "star": "Suah" },
+					"last_update": "09 May 2021"
+				}
+			],
+			"normal": [
+				{
+					"lsd": "26 Perfects, then Perfect when x2 combo ends. After 2nd LS, GOOD until x2 combo.",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "HT Senah" }
+				}
+			],
+			"hard": [
+				{
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "HT Senah" }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Suah" },
+					"last_update": "07 Mar 2021"
+				},
+				{
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Nicol", "leader": true },
+					"flick": { "star": "Suah" }
+				},
+				{
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Spacy", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Suah" }
+				},
+				{
+					"tap": { "star": "Carol", "costume": true, "leader": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Suah" }
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"tap": { "star": "Carol", "costume": true, "leader": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Suah" }
+				},
+				{
+					"label": "Hard(GB)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			]
+		}
 	},
 	{
 		"title": "For the Ikarus",

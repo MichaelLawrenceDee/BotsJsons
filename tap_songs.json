@@ -21708,8 +21708,98 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Glory" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "16 May 2021"
+				}
+			],
+			"normal": [
+				{
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Partina", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				}
+			],
+			"hard": [
+				{
+					"lsd": "GOOD while no x2 combo. If only x2, Perfect longs and slides.",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				}
+			],
+			"expert": [
+				{
+					"hr": "2-1-31-3-2-1-31-X",
+					"hrlabel": [[16,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"tap": { "star": "Chops" },
+					"long": { "star": "Franken" },
+					"slide": { "star": "Partina", "leader": true },
+					"flick": { "star": "Amy" },
+					"last_update": "20 Dec 2020"
+				}
+			],
+			"normal": [
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"lsd": "GOOD while no x2 combo. If only x2, Perfect longs and slides.",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Jaguar", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "16 May 2021"
+				},
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "20 Dec 2020"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"hr": "2-1-31-3-2-1-31-X",
+					"hrlabel": [[16,1]],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "16 May 2021"
+				},
+				{
+					"label": "Expert(GB)",
+					"hr": "       ''",
+					"hrlabel": [],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
+				}
+			]
+		}
 	},
 	{
 		"title": "Keys to the World",

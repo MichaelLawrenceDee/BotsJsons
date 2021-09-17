@@ -21817,8 +21817,179 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"lsd": "GOOD while no x2 and all flicks. Perfect while only x2 with",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "30 May 2021"
+				},
+				{
+					"lsd": "20% GOOD. Adjust to trigger LS at Lane Change Note.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"normal": [
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher", "skill": 9 },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "HT Senah" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "3-2-1-X",
+					"hrlabel": [[6,1]],
+					"lsd": "GOOD up to x2 combo, and Perfect until about 200 combo.",
+					"tap": { "star": "Lucifer", "skill": 9 },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				},
+				{
+					"lsd": "Adjust to trigger LS at the 2nd double flick.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"lsd": "10 GOODs and 2 Perfects. After x2 ends, Perfect until the next x2 combo.",
+					"tap": { "star": "Lucifer", "costume": true },
+					"long": { "star": "Franken" },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "02 Feb 2020"
+				},
+				{
+					"tap": { "star": "Lucifer", "leader": true },
+					"long": { "star": "Franken" },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"lsd": "None (Franken S5 ~ Tanya S8)",
+					"tap": { "star": "Lucifer", "costume": true },
+					"long": { "star": "Franken" },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "HT Senah", "leader": true },
+					"last_update": "02 Feb 2020"
+				},
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "HT Senah" },
+					"last_update": "30 May 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "Unknown delay",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher", "skill": 9 },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "HT Senah" },
+					"last_update": "???"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "3-2-1-X",
+					"hrlabel": [[6,1]],
+					"lsd": "Follow top team delay",
+					"tap": { "star": "Lucifer", "skill": 9 },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "30 May 2021"
+				},
+				{
+					"hr": "  ''",
+					"hrlabel": [],
+					"lsd": "GOOD up to x2 combo. After x2 combo ends, Perfect until LS activates.",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "06 Dec 2020"
+				},
+				{
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"hr": "3-2-1-X",
+					"hrlabel": [[6,1]],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "HT Senah", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "  ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer", "skill": 9 },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "06 Dec 2020"
+				},
+				{
+					"lsd": "None (Potentially top meta if Trasher 8 and HT Czerny are enhanced enough)",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "skill": 8 },
+					"slide": { "star": "HT Czerny" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true }
+				}
+			]
+		}
 	},
 	{
 		"title": "Memoirs",

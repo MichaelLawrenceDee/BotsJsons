@@ -4647,11 +4647,24 @@
 		"folders": [ "BEMANI" ],
 		"thumbnail": "izayoi_jacket.png",
 		"remyurl": "Izayoi_setsuna",
-		"easy":4,
-		"normal":7,
-		"unlock": "Watching all the videos and collecting the stamps from [this site](https://p.eagate.573.jp/game/bpl/bpl2021/special/stamp/stamp.html 'Collect stamp') during the BPL応援 楽曲解禁スタンプラリー event. <:ichikarush:738792248338284644>. (You don't need to finish the videos to collect the stamps.)",
+		"easy": 4,
+		"normal": 7,
+		"unlock": "Watching all the videos and collecting the stamps from [this site](https://p.eagate.573.jp/game/bpl/bpl2021/special/stamp/stamp.html 'Collect stamp') from the 1st page during the BPL応援 楽曲解禁スタンプラリー event. <:ichikarush:738792248338284644>. (You don't need to finish the videos to collect the stamps.)",
 		"easyurl": "aUmPilmTTc8",
 		"normalurl": "q0rr3ppg3k8"
+	},
+	{
+		"title": "FUTURE is Dead",
+		"artist": "C-Show",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "future_is_dead_jacket.png",
+		"remyurl": "FUTURE_is_Dead",
+		"easy": 5,
+		"normal": 8,
+		"unlock": "Watching all the videos and collecting the stamps from [this site](https://p.eagate.573.jp/game/bpl/bpl2021/special/stamp/stamp.html 'Collect stamp') from the 2nd page during the BPL応援 楽曲解禁スタンプラリー event. <:ichikarush:738792248338284644>. (You don't need to finish the videos to collect the stamps.)",
+		"easyurl": "cqZdPmONJHA",
+		"normalurl": "w5fUnrAAYrU"
 	},
 	{
 		"title": "7 to Smoke",
@@ -4899,7 +4912,9 @@
 		"remyurl": "Yumebuki",
 		"easy":5,
 		"normal":8,
-		"unlock": "unlocking the song in [this site](https://p.eagate.573.jp/game/bemani/bsb2021/yell/yell.html?team_id=A&round_id=4th 'Unlock song') for 7200 Yell during the BEMANI 2021真夏の歌合戦5番勝負 event. <:midsummerbattle2021:870940944323739648>"
+		"unlock": "unlocking the song in [this site](https://p.eagate.573.jp/game/bemani/bsb2021/yell/yell.html?team_id=A&round_id=4th 'Unlock song') for 7200 Yell during the BEMANI 2021真夏の歌合戦5番勝負 event. <:midsummerbattle2021:870940944323739648>",
+		"easyurl": "gglvfNYXzXY",
+		"normalurl": "E2jQUxb9Qk4"
 	},
 	{
 		"title": "BBoom Bboom",

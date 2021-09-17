@@ -21454,8 +21454,121 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"hr": "1-2-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Patra" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Charon", "leader": true },
+					"last_update": "30 May 2021"
+				}
+			],
+			"normal": [
+				{
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"hard": [
+				{
+					"hr": "3-X",
+					"hrlabel": [[2,1]],
+					"lsd": "After the 1st LS, 5 Perfects. After the 2nd LS, GOOD",
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"lsd": "all flicks to trigger LS on the last Vibrato Note.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "HT Senah" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"hr": "1-2-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Patra" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Charon", "leader": true },
+					"last_update": "30 May 2021"
+				},
+				{
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "HT Jay" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Partina", "leader": true },
+					"flick": { "star": "Rose" }
+				},
+				{
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "Patra" },
+					"long": { "star": "Django" },
+					"slide": { "star": "Partina", "leader": true },
+					"flick": { "star": "Aresmus" }
+				},
+				{
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "HT Jay" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Charon", "leader": true }
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 4 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "HT Senah", "leader": true }
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "3-X",
+					"hrlabel": [[2,1]],
+					"lsd": "After the 2nd LS, Perfect while no x2 combo.",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
+				}
+			],
+			"expert": [
+			]
+		}
 	},
 	{
 		"title": "Taekwonburi",
@@ -21474,8 +21587,110 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"lsd": "Perfect a long w/o x2 combo. After the 1st LS, Perfect until Arwen skill,",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Franken" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "13 Dec 2020"
+				},
+				{
+					"lsd": "and Perfect 2 longs without x2 combo. Adjust to trigger LS at 424 combo.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"normal": [
+				{
+					"lsd": "8-10 Perfects",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Aresmus" }
+				},
+				{
+					"lsd": "     ''",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "leader": true },
+					"slide": { "star": "Horyeon", "costume": false },
+					"flick": { "star": "Aresmus" }
+				},
+				{
+					"lsd": "     ''",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 8 },
+					"flick": { "star": "Aresmus" }
+				}
+			],
+			"hard": [
+				{
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "13 Dec 2020"
+				},
+				{
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "HT Senah" },
+					"last_update": "11 Oct 2020"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard(GB)",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+			]
+		}
 	},
 	{
 		"title": "Luv Flow",

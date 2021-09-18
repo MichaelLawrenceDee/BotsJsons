@@ -3167,8 +3167,103 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "30 May 2021"
+				}
+			],
+			"normal": [
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				}
+			],
+			"hard": [
+				{
+					"hr": "3-2-1-X",
+					"hrlabel": [[4,1]],
+					"lsd": "After 1st LS, GOOD up to Slasher skill (very minimum score difference)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Kermilla", "leader": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Suah" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Partina", "leader": true },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "30 May 2021"
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"lsd": "None (Also used in GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "07 Mar 2021"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"lsd": "None (Also used in GB using Beatrice (L))",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "30 May 2021"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Eve", "leader": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Suah" },
+					"last_update": "30 May 2021"
+				},
+				{
+					"lsd": "None (Also used in GB using Beatrice (L))",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "07 Mar 2021"
+				},
+				{
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "HT Senah", "leader": true },
+					"last_update": "27 Dec 2020"
+				}
+			]
+		}
 	},
 	{
 		"title": "The Feeling (feat. Wes Joseph)",
@@ -22007,8 +22102,62 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"lsd": "Perfect up to Slasher skill, +2 more Perfects while no skills activated.",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "01 Aug 2021"
+				}
+			],
+			"normal": [
+				{
+					"hr": "2-1-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+			],
+			"normal": [
+			],
+			"hard": [
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				}
+			]
+		}
 	},
 	{
 		"title": "Eternal damnation",
@@ -22026,8 +22175,86 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"lsd": "After 1st Leader Skill, 4-5 Perfect taps",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Rose" },
+					"last_update": "24 Jan 2021"
+				}
+			],
+			"normal": [
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"hard": [
+				{
+					"hr": "3-2-1-X-X-X",
+					"hrlabel": [[6,1],[8,1],[10,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"normal": [
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "12 Apr 2020"
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "20 Jun 2021"
+				}
+			]
+		}
 	},
 	{
 		"title": "VORTEX",
@@ -22045,8 +22272,82 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"lsd": "1 Perfect",
+					"tap": { "star": "HT Jay" },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "29 Mar 2020"
+				}
+			],
+			"normal": [
+				{
+					"lsd": "26 Perfect",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "2-1-X",
+					"hrlabel": [[4,1]],
+					"lsd": "GOOD up to x2, 20 Perfect+, and Perfect the rest until LS activates.",
+					"tap": { "star": "Shirley" },
+					"long": { "star": "Dr. Trasher", "skill": 9 },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" }
+				},
+				{
+					"lsd": "After 1st LS, GOOD the long, then Perfect while no x2 combo.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+			],
+			"normal": [
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "2-1-31",
+					"hrlabel": [[4,2]],
+					"lsd": "At start of 3-1 Lane, Perfect until LS activates (Also used in GB using Rose (L))",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django", "skill": 9 },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			]
+		}
 	},
 	{
 		"title": "Can We Talk ~Broken Dog Leg Mix~",
@@ -22064,8 +22365,132 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "12 Sep 2021"
+				}
+			],
+			"normal": [
+				{
+					"lsd": "Perfect until Rose skill activates.",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "2-1-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1]],
+					"tap": { "star": "Lucifer", "skill": 9 },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"expert": [
+				{
+					"hr": "2-1-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+			],
+			"normal": [
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "2-1-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1]],
+					"lsd": "None (Lucifer 9/Trasher 10 > Lucifer 10/Trasher 9 > Lucifer 10/Trasher 10)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher", "skill": 9 },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "12 Sep 2021"
+				},
+				{
+					"hr": "2-1-3-X",
+					"hrlabel": [[6,1]],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "22 Nov 2020"
+				},
+				{
+					"hr": "2-X-X",
+					"hrlabel": [[2,1],[4,1]],
+					"tap": { "star": "Lucifer", "skill": 9 },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "2-1-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"hr": "2-1-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "22 Nov 2020"
+				},
+				{
+					"lsd": "None (Jaguar 9 > Jaguar 10)",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true, "skill": 9 },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "22 Nov 2020"
+				},
+				{
+					"label": "Expert(GB)",
+					"hr": "2-1-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"hr": "2-1-3-X",
+					"hrlabel": [[6,1]],
+					"tap": { "star": "Arwen", "costume": true, "leader": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				}
+			]
+		}
 	},
 	{
 		"title": "Across Starlight",
@@ -22492,6 +22917,7 @@
 	},
 	{
 		"title": "Flight",
+		"alias": ["飛行"],
 		"artist": "Warak",
 		"attribute": "Vocal",
 		"index": 204,

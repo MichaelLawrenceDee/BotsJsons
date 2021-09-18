@@ -23274,8 +23274,90 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "23 May 2021"
+				}
+			],
+			"normal": [
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				}
+			],
+			"hard": [
+				{
+					"hr": "3-2-1-X",
+					"hrlabel": [[6,1]],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Raphael", "skill": 8 },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Mary" }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"lsd": "None (Nicol 9 > Nicol 10)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "23 May 2021"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "3-2-1-X",
+					"hrlabel": [[6,1]],
+					"lsd": "None (Raphael 8 > Raphael 9 > Raphael 10)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Raphael", "skill": 9 },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Mary" }
+				},
+				{
+					"hr": "  ''",
+					"hrlabel": [],
+					"lsd": "None (Jessi SU > Elly | For Elly, Nicol 10 > Nicol 9)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "08 Nov 2020"
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"expert": [
+			]
+		}
 	},
 	{
 		"title": "Bad Elixir",

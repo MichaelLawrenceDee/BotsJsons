@@ -23375,8 +23375,104 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "23 May 2021"
+				}
+			],
+			"normal": [
+				{
+					"lsd": "GOOD up to 60 combo, GOOD/Perfect up to the 1st slide (1st orange",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Aresmus" }
+				},
+				{
+					"lsd": "note) Perfect (and adjust with GOODs) to trigger LS at 300 combo",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"hard": [
+				{
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"expert": [
+				{
+					"hr": "3-X-1-13-3",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"lsd": "None (Patra > Carol > HT Jay > Shirley 8)",
+					"tap": { "star": "HT Jay" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "25 Oct 2020"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"lsd": "Follow top meta delay",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Aresmus" }
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "23 May 2021"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"hr": "3-X-1-13-3",
+					"hrlabel": [[2,1]],
+					"lsd": "GOOD the 1st long, Perfect until Carol activates",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		}
 	},
 	{
 		"title": "Boom!",

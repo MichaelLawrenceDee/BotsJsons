@@ -23007,8 +23007,131 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "Patra" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Apollo", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "24 Jan 2021"
+				}
+			],
+			"normal": [
+				{
+					"hr": "1-2-1-X-2-1",
+					"hrlabel": [[6,1]],
+					"lsd": "GOOD until before the 1st slide.",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "2-1-2-1-2-1-X-X",
+					"hrlabel": [[12,1],[14,1]],
+					"lsd": "Mostly GOOD and a few Perfects except slides, to trigger",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Mary" }
+				},
+				{
+					"lsd": "LS at the first tap after the first missed Lane Change",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"expert": [
+				{
+					"hr": "2-1-X",
+					"hrlabel": [[4,1]],
+					"lsd": "No delay but needs really high accuracy",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"tap": { "star": "Seete" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Charon", "leader": true },
+					"last_update": "22 Aug 2021"
+				},
+				{
+					"tap": { "star": "Seete" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Apollo", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"normal": [
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "2-1-2-1-2-1-X-X",
+					"hrlabel": [[12,1],[14,1]],
+					"lsd": "Follow top meta delay (Shirley > Lucifer | Raphael > Trasher)",
+					"tap": { "star": "Shirley" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Mary" },
+					"last_update": "22 Aug 2021"
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				},
+				{
+					"hr": "2-1-2-1-2-1-X-X",
+					"hrlabel": [[12,1],[14,1]],
+					"lsd": "None (Use if not confident in delay)",
+					"tap": { "star": "Shirley" },
+					"long": { "star": "Django" },
+					"slide": { "star": "Asura", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"hr": "2-1-X",
+					"hrlabel": [[4,1]],
+					"lsd": "No delay but needs really high accuracy (Shirley > Lucifer)",
+					"tap": { "star": "Shirley" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "03 Jan 2021"
+				},
+				{
+					"label": "Expert(GB)",
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "Shirley" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			]
+		}
 	},
 	{
 		"title": "Brand New Days",
@@ -23026,8 +23149,114 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"lsd": "8 Perfect flicks",
+					"tap": { "star": "Lucifer", "skill": 9 },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "24 Jan 2021"
+				}
+			],
+			"normal": [
+				{
+					"hr": "2-1-X-2",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "3-1-X",
+					"hrlabel": [[4,1]],
+					"lsd": "GOOD until Rose skill. After 1st LS, x2 ends, Perfect the Vibrato, GOOD all taps, trigger",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				},
+				{
+					"lsd": "Leader Skill at the start of next slide. On iOS, Perfect/GOOD a few slides after x2 ends",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"expert": [
+				{
+					"hr": "3-2-1-X",
+					"hrlabel": [[6,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": "2-1-X-2",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "3-1-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "18 Oct 2020"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert(GB)",
+					"hr": "3-2-1-X",
+					"hrlabel": [[6,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			]
+		}
 	},
 	{
 		"title": "RED",

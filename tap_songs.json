@@ -5021,7 +5021,14 @@
 					"last_update": "19 Sep 2021"
 				},
 				{
-					"label": "Easy/Alt",
+					"hr": "       ''",
+					"hrlabel": [],
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Partina", "leader": true },
+					"flick": { "star": "Suah" }
+				},
+				{
 					"hr": "       ''",
 					"hrlabel": [],
 					"tap": { "star": "Carol", "costume": true, "leader": true },
@@ -18169,11 +18176,21 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "08 Mar 2020"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "Follow top meta delay and HR",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [
 				{
 					"label": "Normal/Alt",
+					"lsd": "None (Also used in GB using Rose (L) if no Dominiciel)",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -18189,6 +18206,16 @@
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "   ''",
+					"hrlabel": [],
+					"lsd": "             ''      (Also used in GB using Rose (L) if no Dominiciel)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				}
 			],
@@ -19826,6 +19853,15 @@
 			"normal": [
 			],
 			"hard": [
+				{
+					"label": "Hard(GB)",
+					"hr": "2-1-13-3-X",
+					"hrlabel": [[9,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			],
 			"expert": [
 			]
@@ -20814,9 +20850,9 @@
 				{
 					"lsd": "30 GOODs, Perfect up to Nicol skill",
 					"tap": { "star": "Elly" },
-					"long": { "star": "Beatrice", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Nicol", "skill": 9 },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
+					"flick": { "star": "Slasher", "costume": true }
 				}
 			],
 			"expert": [
@@ -25364,8 +25400,130 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "29 Aug 2021"
+				}
+			],
+			"normal": [
+				{
+					"lsd": "Perfect the first 2 slides. Perfect+ the next 2 slides,",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Aria", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				},
+				{
+					"lsd": "adjust with GOOD/Perfect trigger LS at the right slide",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"hard": [
+				{
+					"lsd": "GOOD up to x2 combo. After x2 ends, 2 GOODs, Perfect up to",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Aria", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				},
+				{
+					"lsd": "before the slide. After 1st LS, 4 GOODs, Perfect during x2",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "29 Aug 2021"
+				},
+				{
+					"lsd": "(Adjust on iOS) (Android) GOOD until x2, Perfect until before the slide. After",
+					"hr": "1-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"lsd": "the 1st LS, GOOD the Vibrato Note and the tap after the Lane Change Note.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"lsd": "Follow top meta delay",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "28 Mar 2021"
+				},
+				{
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"lsd": "None (Jessi > Elly)",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"lsd": "Follow top meta delay",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "17 Jan 2021"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				}
+			]
+		}
 	},
 	{
 		"title": "Astral Supplication",
@@ -25383,8 +25541,74 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"hr": "1-X-2-X",
+					"hrlabel": [[2,1],[6,1]],
+					"lsd": "Perfect until Raphael skill activates",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Mary" },
+					"last_update": "20 Dec 2020"
+				}
+			],
+			"normal": [
+				{
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"lsd": "After 1st LS, Perfect a few flicks. After 2nd&3rd LS, Perfect about 20 Perfects",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "HT Senah", "leader": true }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Mary" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"hr": "1-X-2-X",
+					"hrlabel": [[2,1],[6,1]],
+					"lsd": "Perfect until Raphael skill activates",
+					"tap": { "star": "HT Jay" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Mary" },
+					"last_update": "20 Dec 2020"
+				}
+			],
+			"normal": [
+			],
+			"hard": [
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "HT Senah" },
+					"last_update": "20 Dec 2020"
+				}
+			]
+		}
 	},
 	{
 		"title": "StarFish",
@@ -25402,7 +25626,47 @@
 		"missions": [
 			
 		],
-		"teams": null,
+		"teams": {
+			"easy": [
+				{
+					"lsd": "Perfect some flicks (1-2 on Android), trigger LS at start of first right slide",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "28 Feb 2021"
+				}
+			],
+			"normal": [
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "2-1-X",
+					"hrlabel": [[4,1]],
+					"lsd": "Perfect 1st long, GOOD from flick to next flick, Perfect up to x2 combo.",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"expert": [
+				{
+					"hr": "3-2-1-X",
+					"hrlabel": [[6,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
 		"altteams": null
 	},
 	{
@@ -25421,8 +25685,99 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "HT Jay" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Apollo", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "21 Mar 2021"
+				}
+			],
+			"normal": [
+				{
+					"hr": "1-2-1-2-1-X-X",
+					"hrlabel": [[10,1],[12,1]],
+					"lsd": "Perfect while no x2 combo.",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael", "skill": 9 },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "3-1-X-3-1",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael", "skill": 9 },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"expert": [
+				{
+					"hr": "3-2-1-X-X-X",
+					"hrlabel": [[6,1],[8,1],[10,1]],
+					"lsd": "GOOD until Rose skill activates, Perfect until x2 combo.",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"hr": "1-2-1-2-1-X-X",
+					"hrlabel": [[10,1],[12,1]],
+					"lsd": "Perfect while no x2 combo.",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "21 Mar 2021"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "3-1-X-3-1",
+					"hrlabel": [[4,1]],
+					"lsd": "7-8 GOODs, Perfect up to x2 combo.",
+					"tap": { "star": "Shirley" },
+					"long": { "star": "Raphael", "skill": 9 },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"hr": "3-2-1-X-X-X",
+					"hrlabel": [[6,1],[8,1],[10,1]],
+					"lsd": "GOOD until Rose skill activates, Perfect until x2 combo.",
+					"tap": { "star": "Shirley", "skill": 8 },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "21 Mar 2021"
+				},
+				{
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "20 Sep 2020"
+				}
+			]
+		}
 	},
 	{
 		"title": "A Little Dream",
@@ -25459,8 +25814,102 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"hr": "1-2-X",
+					"hrlabel": [[4,1]],
+					"lsd": "4 GOOD taps",
+					"tap": { "star": "Lucifer", "leader": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose" },
+					"last_update": "04 Oct 2020"
+				}
+			],
+			"normal": [
+				{
+					"hr": "1-2-1-X-X",
+					"hrlabel": [[6,1],[8,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "3-1-X-31-3-13-1-X",
+					"hrlabel": [[4,1],[16,1]],
+					"lsd": "GOOD up to Rose skill, Perfect up to x2 combo. After 1st LS, Perfect while no x2",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"expert": [
+				{
+					"hr": "2-1-X-X",
+					"hrlabel": [[4,1],[6,1]],
+					"lsd": "GOOD (Perfect slides) up to Rose skill",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"hr": "1-2-X",
+					"hrlabel": [[4,1]],
+					"lsd": "4 GOOD taps",
+					"tap": { "star": "Lucifer", "leader": true },
+					"long": { "star": "Franken" },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"hr": "1-2-1-X-X",
+					"hrlabel": [[6,1],[8,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Franken" },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
+					"hr": "   ''",
+					"hrlabel": [],
+					"lsd": "GOOD up to the slide, Perfect the next slide. After 1st LS, few Perfects while no x2",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Ava", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"lsd": "GOOD/Perfect up to x2, so that 1st LS triggers when Paris skill ends.",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+			]
+		}
 	},
 	{
 		"title": "Secret World",

@@ -3157,6 +3157,16 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "27 Jun 2021"
+				},
+				{
+					"label": "Easy(GB)",
+					"hr": "    ''",
+					"hrlabel": [],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -25947,8 +25957,106 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "29 Aug 2021"
+				}
+			],
+			"normal": [
+				{
+					"hr": "2-1-2-1-2-1-2-1-X",
+					"hrlabel": [[16,1]],
+					"lsd": "After the 1st LS, Perfect 4 slides.",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "2-1-2-1-X-X-X",
+					"hrlabel": [[8,1],[10,1],[12,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Mary" }
+				}
+			],
+			"expert": [
+				{
+					"hr": "3-1-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "07 Mar 2021"
+				}
+			],
+			"normal": [
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "2-1-2-1-X-X-X",
+					"hrlabel": [[8,1],[10,1],[12,1]],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Mary" },
+					"last_update": "29 Aug 2021"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "     ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"hr": "3-1-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Ava" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "29 Aug 2021"
+				},
+				{
+					"label": "Expert(GB)",
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			]
+		}
 	},
 	{
 		"title": "Eternal Fantasy ~유니의 꿈~",
@@ -25966,8 +26074,98 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"hr": "1-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Mary" },
+					"last_update": "08 Aug 2021"
+				}
+			],
+			"normal": [
+				{
+					"hr": "2-X",
+					"hrlabel": [[2,1]],
+					"lsd": "After the 1st LS, 5 Perfects",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"hard": [
+				{
+					"hr": "2-1-X-X",
+					"hrlabel": [[4,1],[6,1]],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Raphael", "skill": 8 },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Mary" }
+				}
+			],
+			"expert": [
+				{
+					"hr": "3-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+			],
+			"normal": [
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "2-1-X-X",
+					"hrlabel": [[4,1],[6,1]],
+					"lsd": "None (Jessi SU/Raphael 8 > Jessi SU/Raphael 9 > Elly/Aria > Jessi SU/Raphael 10)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Aria", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Mary" },
+					"last_update": "08 Aug 2021"
+				},
+				{
+					"hr": "  ''",
+					"hrlabel": [],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"hr": "3-X",
+					"hrlabel": [[2,1]],
+					"lsd": "None (Also used in GB using Rose (L))",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "08 Aug 2021"
+				}
+			]
+		}
 	},
 	{
 		"title": "Enter The Universe",
@@ -26004,8 +26202,109 @@
 		"missions": [
 			
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+				{
+					"lsd": "(Android) None (iOS) Trigger the 1st Leader Skill at about 165",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "22 Aug 2021"
+				},
+				{
+					"lsd": "combo (About 3 Perfect longs, and adjust with GOOD flicks)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"normal": [
+				{
+					"hr": "2-1-X-2-1-X",
+					"hrlabel": [[4,1],[10,1]],
+					"lsd": "GOOD while no x2, trigger 1st LS at about 64 combo after missing Lane Change Note",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"hr": "3-2-1-X-2",
+					"hrlabel": [[6,1]],
+					"lsd": "GOOD up to Rose skill. After 1st LS, Perfect while only Rose, GOOD while no x2",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				},
+				{
+					"lsd": "combo, adjust so the 2nd LS triggers after missing the Lane Change Note.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
+			],
+			"expert": [
+				{
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"hr": "2-1-X-2-1-X",
+					"hrlabel": [[4,1],[10,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Ava", "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "04 Apr 2021"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "3-2-1-X-2",
+					"hrlabel": [[6,1]],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "22 Aug 2021"
+				},
+				{
+					"hr": "   ''",
+					"hrlabel": [],
+					"lsd": "Follow top meta delay",
+					"tap": { "star": "Lucifer", "skill": 9 },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana", "leader": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true, "skill": 9 },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "04 Apr 2021"
+				}
+			]
+		}
 	},
 	{
 		"title": "For Boyhood",

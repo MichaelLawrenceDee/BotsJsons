@@ -19020,7 +19020,7 @@
 					"label": "Hard(GB)",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael", "skill": 9 },
-					"slide": { "star": "Horyeon", "costume": false, "skill": 9 },
+					"slide": { "star": "Horyeon", "costume": false },
 					"flick": { "star": "Rose", "leader": true }
 				}
 			],

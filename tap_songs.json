@@ -22826,6 +22826,7 @@
 				{
 					"hr": "3-2-1-31",
 					"hrlabel": [[6,2]],
+					"lsd": "None (Also used in GB using Rose (L) if no Dominiciel)",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },

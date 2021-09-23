@@ -26883,8 +26883,8 @@
 			],
 			"normal": [
 				{
-					"hr": "1-X",
-					"hrlabel": [[2,1]],
+					"hr": "1-X-X",
+					"hrlabel": [[2,1],[4,1]],
 					"tap": { "star": "Patra" },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },

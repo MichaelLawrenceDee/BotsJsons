@@ -8354,7 +8354,7 @@
 					"label": "Easy/Alt",
 					"hr": "1-X",
 					"hrlabel": [[2,1]],
-					"lsd": "2-6 Perfects after 1st LS",
+					"lsd": "2-6 Perfects after 1st LS (Also used in GB without delay)",
 					"tap": { "star": "Arwen", "costume": true, "leader": true },
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true },

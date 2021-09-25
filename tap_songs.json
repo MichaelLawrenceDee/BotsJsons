@@ -15107,6 +15107,15 @@
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
 					"flick": { "star": "Rose" },
 					"last_update": "15 Nov 2020"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "Perfect until Rose skill activates",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Horyeon", "costume": false, "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [

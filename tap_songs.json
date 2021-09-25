@@ -15110,7 +15110,7 @@
 				},
 				{
 					"label": "Easy(GB)",
-					"lsd": "Perfect until Rose skill activates",
+					"lsd": "Perfect until Tanya skill activates",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Horyeon", "costume": false, "skill": 9 },

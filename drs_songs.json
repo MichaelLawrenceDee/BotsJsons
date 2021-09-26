@@ -4952,5 +4952,38 @@
 		"easy": 4,
 		"normal": 7,
 		"notes": [ "Available only in South Korea" ]
+	},
+	{
+		"title": "Make you happy",
+		"artist": "NiziU",
+		"record": "No",
+		"folders": [ "POPS" ],
+		"thumbnail": "NiziU_Make_You_Happy_cover.jpg",
+		"remyurl": "Make_You_Happy",
+		"easy": 3,
+		"normal": 7,
+		"notes": [ "Available only in Japan" ]
+	},
+	{
+		"title": "うっせぇわ",
+		"alias": [ "Usseewa" ],
+		"artist": "Ado",
+		"record": "No",
+		"folders": [ "POPS" ],
+		"thumbnail": "Usseewa.png",
+		"remyurl": "Usseewa",
+		"easy": 3,
+		"normal": 7
+	},
+	{
+		"title": "怪物",
+		"alias": [ "Kaibutsu", "Monster" ],
+		"artist": "Ayase",
+		"record": "No",
+		"folders": [ "POPS" ],
+		"thumbnail": "Kaibutsucoverart.jpg",
+		"remyurl": "Kaibutsu",
+		"easy": 3,
+		"normal": 7
 	}
 ]

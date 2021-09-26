@@ -8171,6 +8171,15 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "    ''",
+					"hrlabel": [],
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true }
 				}
 			],
 			"expert": [

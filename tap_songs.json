@@ -13798,6 +13798,14 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "           ''",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose", "leader": true }
 				}
 			],
 			"expert": [
@@ -14024,9 +14032,9 @@
 					"hr": "2-X",
 					"hrlabel": [[2,1]],
 					"lsd": "After 1st LS, Perfect 5 taps w/o x2 combo.",
-					"tap": { "star": "Patra" },
+					"tap": { "star": "Patra", "skill": 8 },
 					"long": { "star": "Valentine", "costume": true },
-					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "21 Mar 2021"
 				}

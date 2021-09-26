@@ -3179,6 +3179,15 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "27 Mar 2020"
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": "   ''",
+					"hrlabel": [],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true }
 				}
 			],
 			"hard": [
@@ -9227,6 +9236,16 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"hr": "2-1-13",
+					"hrlabel": [[4,2]],
+					"lsd": "3 Perfect taps",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			],
 			"hard": [
 				{
@@ -17431,6 +17450,14 @@
 			"easy": [
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"lsd": "Perfect the 1st slide (3rd orange note)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			],
 			"hard": [
 				{
@@ -21886,6 +21913,13 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			]
 		}
 	},
@@ -23302,6 +23336,15 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
 					"last_update": "???"
+				},
+				,
+				{
+					"label": "Normal(GB)",
+					"lsd": "(Same team as rank | Potential GB meta)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"hard": [

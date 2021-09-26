@@ -4087,7 +4087,6 @@
 					"hr": "2-1-X-X-3-1-2",
 					"hrlabel": [[4,1],[6,1]],
 					"lsd": "GOOD until Rose skill activates, Perfect until the 1st long.",
-					"hrlabel": [[4,1],[6,1]],
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
@@ -23337,7 +23336,6 @@
 					"flick": { "star": "Rose" },
 					"last_update": "???"
 				},
-				,
 				{
 					"label": "Normal(GB)",
 					"lsd": "(Same team as rank | Potential GB meta)",

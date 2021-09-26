@@ -8721,7 +8721,7 @@
 					"label": "Easy/Alt",
 					"hr": "1-X-13",
 					"hrlabel": [[2,1],[4,2]],
-					"lsd": "Perfect 1 Vibrato Long",
+					"lsd": "Perfect 1 Vibrato Long (Also used in GB using Rose (L) if no Dominiciel)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
@@ -8982,6 +8982,7 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
+					"lsd": "None (Also used in GB using Rose (L) if no Dominiciel)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -16489,6 +16490,14 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"normal": [
 				{
@@ -16498,6 +16507,15 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "40 Perfects without skills applied",
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
 				}
 			],

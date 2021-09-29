@@ -7904,7 +7904,7 @@
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Nicol", "skill": 9 },
-					"flick": { "star": "Slasher", "costume": false }
+					"flick": { "star": "Slasher", "costume": true }
 				}
 			],
 			"hard": [
@@ -9907,6 +9907,14 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "14 Feb 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -16179,7 +16187,7 @@
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": false },
-					"flick": { "star": "Slasher", "costume": false, "leader": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "20 Dec 2020"
 				},
 				{

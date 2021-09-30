@@ -1041,6 +1041,7 @@
 					"last_update": "21 Feb 2021"
 				},
 				{
+					"lsd": "None (Also used in GB using Beatrice (L) if no Dominiciel)",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -6992,11 +6993,22 @@
 				{
 					"hr": "   ''",
 					"hrlabel": [],
+					"lsd": "None (Also used in GB using Rose (L) for Android)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": "   ''",
+					"hrlabel": [],
+					"lsd": "None (Potential GB meta for iOS)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true }
 				}
 			],
 			"hard": [
@@ -8747,6 +8759,17 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": "  ''",
+					"hrlabel": [[4,2]],
+					"lsd": "Follow top meta delay",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -18905,7 +18928,7 @@
 					"hrlabel": [[5,1],[9,1]],
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
-					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "09 May 2021"
 				},

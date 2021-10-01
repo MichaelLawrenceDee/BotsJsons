@@ -910,6 +910,7 @@
 			"normal": [
 				{
 					"label": "Normal/Alt",
+					"lsd": "None (Also used in GB using Beatrice (L) if no Dominiciel)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -5183,6 +5184,13 @@
 			"easy": [
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			],
 			"hard": [
 				{

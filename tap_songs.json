@@ -1984,6 +1984,16 @@
 					"slide": { "star": "Paris Upton", "skill": 8 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "22 Dec 2019"
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": "      ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "skill": 8 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [

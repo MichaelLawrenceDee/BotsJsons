@@ -4387,6 +4387,7 @@
 				{
 					"hr": "     ''",
 					"hrlabel": [],
+					"lsd": "None (Also used in GB using Rose (L) if no Dominiciel)",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
@@ -4397,6 +4398,15 @@
 					"hrlabel": [],
 					"tap": { "star": "Elly" },
 					"long": { "star": "Aria", "costume": true },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": "     ''",
+					"hrlabel": [],
+					"tap": { "star": "Jessi", "costume": true, "skill": 9 },
+					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				}
@@ -4717,14 +4727,14 @@
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
-					"last_update": "28 Feb 2021"
+					"last_update": "03 Oct 2021"
 				}
 			],
 			"normal": [
 				{
 					"hr": "2-1-13-X",
 					"hrlabel": [[4,2],[7,1]],
-					"tap": { "star": "Patra" },
+					"tap": { "star": "Patra", "skill": 9 },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" }
@@ -4787,11 +4797,12 @@
 					"label": "Normal/Alt",
 					"hr": "2-1-13-X",
 					"hrlabel": [[4,2],[7,1]],
+					"lsd": "None (Patra 9 > Patra 10 > Carol)",
 					"tap": { "star": "Patra" },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
-					"last_update": "28 Feb 2021"
+					"last_update": "03 Oct 2021"
 				},
 				{
 					"hr": "   ''",
@@ -4799,8 +4810,7 @@
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Partina", "leader": true },
-					"flick": { "star": "Rose" },
-					"last_update": "22 Nov 2020"
+					"flick": { "star": "Rose" }
 				}
 			],
 			"hard": [
@@ -4808,12 +4818,19 @@
 					"label": "Hard/Alt",
 					"hr": "1-13-X",
 					"hrlabel": [[2,2],[5,1]],
+					"tap": { "star": "Carol", "costume": true, "leader": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Glory" },
+					"flick": { "star": "Rose" }
+				},
+				{
+					"hr": "  ''",
+					"hrlabel": [],
 					"lsd": "Perfect until just before the first slide. After 2nd LS, Perfect about 4 notes.",
 					"tap": { "star": "Carol", "costume": true, "leader": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": false },
-					"flick": { "star": "Rose" },
-					"last_update": "28 Feb 2021"
+					"flick": { "star": "Rose" }
 				},
 				{
 					"hr": "  ''",
@@ -8045,7 +8062,7 @@
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "21 Feb 2021"
+					"last_update": "03 Oct 2021"
 				}
 			],
 			"normal": [
@@ -13004,7 +13021,7 @@
 					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true },
-					"last_update": "22 Nov 2020"
+					"last_update": "03 Oct 2021"
 				}
 			],
 			"normal": [
@@ -13021,16 +13038,23 @@
 				{
 					"hr": "3-2-1-X-2-1-X-2",
 					"hrlabel": [[6,1],[12,1]],
-					"lsd": "GOOD up to x2",
+					"lsd": "GOOD up to x2. After x2, Perfect until the slide, adjust GOODs, trigger LS at next",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
-					"slide": { "star": "Nicol" },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				},
+				{
+					"lsd": "slide. After 1st LS, GOOD until x2. After x2 ends, Perfect until LS activates.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"expert": [
 				{
-					"tap": { "star": "Elly" },
+					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
@@ -13072,24 +13096,24 @@
 					"label": "Hard/Alt",
 					"hr": "3-2-1-X-2-1-X-2",
 					"hrlabel": [[6,1],[12,1]],
-					"lsd": "GOOD up to x2",
+					"lsd": "GOOD up to x2 (Aria 8 > Beatrice)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Aria", "costume": true, "skill": 8 },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "03 Oct 2021"
+				},
+				{
+					"hr": "      ''",
+					"hrlabel": [],
+					"lsd": "GOOD up to x2 (Nicol 10 > Nicol 9 | Also used in GB using Rose (L) if no Dominiciel)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
-					"slide": { "star": "Nicol", "skill": 9 },
+					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
 					"label": "Hard(GB)",
-					"hr": "      ''",
-					"hrlabel": [],
-					"lsd": "     ''",
-					"tap": { "star": "Elly" },
-					"long": { "star": "Beatrice", "costume": true },
-					"slide": { "star": "Nicol" },
-					"flick": { "star": "Rose", "leader": true },
-					"last_update": "???"
-				},
-				{
 					"hr": "      ''",
 					"hrlabel": [],
 					"lsd": "None (Use this if not confident in above delay)",
@@ -13113,17 +13137,12 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
+					"lsd": "None (Nicol 9 > Nicol 10)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
-					"slide": { "star": "Nicol" },
+					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "22 Nov 2020"
-				},
-				{
-					"tap": { "star": "Jessi", "costume": false },
-					"long": { "star": "Beatrice", "costume": true },
-					"slide": { "star": "Nicol", "skill": 9 },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				}
 			]
 		}
@@ -15656,7 +15675,7 @@
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "14 Feb 2021"
+					"last_update": "03 Oct 2021"
 				}
 			],
 			"normal": [
@@ -15670,7 +15689,7 @@
 			"hard": [
 				{
 					"tap": { "star": "Lucifer" },
-					"long": { "star": "Dr. Trasher" },
+					"long": { "star": "Dr. Trasher", "skill": 9 },
 					"slide": { "star": "Titana" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				}
@@ -15682,7 +15701,7 @@
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Dr. Trasher", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
-					"flick": { "star": "Rose" }
+					"flick": { "star": "Aresmus" }
 				}
 			]
 		},
@@ -15718,6 +15737,13 @@
 				{
 					"label": "Hard/Alt",
 					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "03 Oct 2021"
+				},
+				{
+					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher", "skill": 9 },
 					"slide": { "star": "Titana", "leader": true },
 					"flick": { "star": "Rose" },
@@ -15748,6 +15774,15 @@
 					"label": "Expert/Alt",
 					"hr": "3-13-1-13-3-2-X",
 					"hrlabel": [[14,1]],
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "03 Oct 2021"
+				},
+				{
+					"hr": "      ''",
+					"hrlabel": [],
 					"lsd": "4 GOOD slides",
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Jaguar", "costume": true, "skill": 9 },
@@ -20540,18 +20575,18 @@
 		"teams": {
 			"easy": [
 				{
-					"tap": { "star": "Carol", "costume": true },
+					"tap": { "star": "Patra", "skill": 9 },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
-					"last_update": "28 Mar 2020"
+					"last_update": "03 Oct 2021"
 				}
 			],
 			"normal": [
 				{
 					"hr": "3-13-3",
 					"hrlabel": [[2,2]],
-					"tap": { "star": "Shirley" },
+					"tap": { "star": "Patra" },
 					"long": { "star": "Valentine", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
@@ -20561,6 +20596,69 @@
 				{
 					"hr": "2-X",
 					"hrlabel": [[2,1]],
+					"tap": { "star": "Patra" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				}
+			],
+			"expert": [
+				{
+					"hr": "3-X-31-3",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose" }
+				}
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy/Alt",
+					"lsd": "None (Patra 9 > Patra 10 > Carol)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "03 Oct 2021"
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal/Alt",
+					"hr": "3-13-3",
+					"hrlabel": [[2,2]],
+					"tap": { "star": "Shirley" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"hr": "  ''",
+					"hrlabel": [],
+					"lsd": "2 long Perfects (Patra > Shirley > Carol)",
+					"tap": { "star": "Shirley" },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" }
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard/Alt",
+					"hr": "2-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Patra" },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" }
+				},
+				{
+					"hr": " ''",
+					"hrlabel": [],
+					"lsd": "None (Patra > Shirley > Carol)",
 					"tap": { "star": "Shirley" },
 					"long": { "star": "Valentine", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true },
@@ -20569,34 +20667,15 @@
 			],
 			"expert": [
 				{
+					"label": "Expert/Alt",
 					"hr": "3-X-X",
 					"hrlabel": [[2,1],[4,1]],
+					"lsd": "None (Patra > Carol)",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" }
-				}
-			]
-		},
-		"altteams": {
-			"easy": [
-			],
-			"normal": [
-				{
-					"label": "Normal/Alt",
-					"hr": "3-13-3",
-					"hrlabel": [[2,2]],
-					"lsd": "2 long Perfects (Shirley > Carol)",
-					"tap": { "star": "Shirley" },
-					"long": { "star": "Django", "leader": true },
-					"slide": { "star": "Paris Upton", "costume": true },
-					"flick": { "star": "Rose" },
-					"last_update": "???"
-				}
-			],
-			"hard": [
-			],
-			"expert": [
+				},
 				{
 					"label": "Expert(GB)",
 					"hr": "3-X-31-3",
@@ -23309,15 +23388,14 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "04 Oct 2020"
+					"last_update": "03 Oct 2021"
 				},
 				{
 					"lsd": "GOOD longs. Adjust to trigger Leader Skill at 212 combo",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "" },
-					"flick": { "star": "" },
-					"last_update": "04 Oct 2020"
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -23330,18 +23408,18 @@
 			],
 			"hard": [
 				{
-					"tap": { "star": "Jessi", "costume": true },
+					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
-					"slide": { "star": "Nicol" },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Rose" }
 				}
 			],
 			"expert": [
 				{
-					"tap": { "star": "Elly" },
-					"long": { "star": "Beatrice", "costume": true },
-					"slide": { "star": "Nicol" },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
+					"tap": { "star": "Jessi", "costume": true, "skill": 9 },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Mary" }
 				}
 			]
 		},
@@ -23362,6 +23440,20 @@
 			"hard": [
 				{
 					"label": "Hard/Alt",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "03 Oct 2021"
+				},
+				{
+					"lsd": "Adjust to top meta delay",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Rose" }
+				},
+				{
 					"lsd": "None (Also used in GB)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "leader": true },
@@ -23371,6 +23463,21 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert/Alt",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Aria", "costume": true, "skill": 8 },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Mary" },
+					"last_update": "03 Oct 2021"
+				},
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "04 Oct 2020"
+				}
 			]
 		}
 	},

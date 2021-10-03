@@ -22589,7 +22589,7 @@
 				},
 				{
 					"label": "Normal(GB)",
-					"lsd": "Unknown delay",
+					"lsd": "Perfect while no x2 combo.",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher", "skill": 9 },
 					"slide": { "star": "Titana", "leader": true },

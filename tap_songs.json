@@ -10757,6 +10757,15 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Aresmus" },
 					"last_update": "11 Jul 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Horyeon", "costume": false, "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
 				}
 			],
 			"hard": [
@@ -10852,19 +10861,12 @@
 			"easy": [
 				{
 					"label": "Easy/Alt",
-					"lsd": "Adjust to meta delay.",
+					"lsd": "Adjust to meta delay (Paris 6 > Paris 8 > Bonie)",
 					"tap": { "star": "HT Jay" },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
 					"flick": { "star": "Rose" },
 					"last_update": "16 Aug 2020"
-				},
-				{
-					"lsd": "         ''",
-					"tap": { "star": "HT Jay" },
-					"long": { "star": "Django", "leader": true },
-					"slide": { "star": "Bonie" },
-					"flick": { "star": "Rose" }
 				},
 				{
 					"label": "Easy(GB)",
@@ -14717,6 +14719,15 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "09 May 2021"
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "Follow top meta delay",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [

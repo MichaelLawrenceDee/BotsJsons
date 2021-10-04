@@ -4687,6 +4687,16 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "21 Feb 2021"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "  ''",
+					"hrlabel": [],
+					"lsd": "None (Possible GB meta if Slasher is enhanced enough)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true }
 				}
 			],
 			"expert": [
@@ -18912,6 +18922,13 @@
 					"flick": { "star": "" }
 				},
 				{
+					"lsd": "(Above is also used in GB using Rose (L) if you have no Dominiciel)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				},
+				{
 					"hr": "1-2-1-X-X-3",
 					"hrlabel": [[6,1],[8,1]],
 					"tap": { "star": "Jessi", "costume": true },
@@ -24015,6 +24032,16 @@
 					"long": { "star": "" },
 					"slide": { "star": "" },
 					"flick": { "star": "" }
+				},
+				{
+					"hr": "  ''",
+					"hrlabel": [],
+					"lsd": "None (Used this if you have no Dominiciel)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [

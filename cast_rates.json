@@ -1,0 +1,94 @@
+[
+	{
+		"name": "Normal",
+		"emoji": "896734186738688010"
+		"rates": [ 0.7, 0.285, 0.015, 0, 0 ],
+		"10cast": true
+	},
+	{
+		"name": "Super",
+		"emoji": "896736573062803457"
+		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"10cast": true
+	},
+	{
+		"name": "Pick Up",
+		"command": "change_pickup"
+		"emoji": "694822148149084231"
+		"rates": [ 0, 0, 0.885, 0.1, 0.015 ],
+		"doublerates": [ 0, 0, 0.82, 0.15, 0.03 ],
+		"doublerates": [ "Patra", "Dominiciel", "Poet", "Genii" ],
+		"10cast": true
+	},
+	{
+		"name": "Vocal",
+		"emoji": "896765432457986068"
+		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"10cast": false
+		"button_style": "PRIMARY"
+		"att_limit": true
+	},
+	{
+		"name": "Dancer",
+		"emoji": "896765432680308776"
+		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"10cast": false
+		"button_style": "DANGER"
+		"att_limit": true
+	},
+	{
+		"name": "Session",
+		"emoji": "896765432533508146"
+		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"10cast": false
+		"button_style": "SUCCESS"
+		"att_limit": true
+	},
+	{
+		"name": "Tap",
+		"emoji": "896767508260986950"
+		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"10cast": false
+		"type_limit": true
+	},
+	{
+		"name": "Long",
+		"emoji": "896767508261003305"
+		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"10cast": false
+		"type_limit": true
+	},
+	{
+		"name": "Slide",
+		"emoji": "896767507946409995"
+		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"10cast": false
+		"type_limit": true
+	},
+	{
+		"name": "Flick",
+		"emoji": "896767508411998308"
+		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"10cast": false
+		"type_limit": true
+	},
+	{
+		"name": "Rare",
+		"emoji": "896766066787762257"
+		"rates": [ 0, 0, 0, 1, 0 ],
+		"10cast": false
+	},
+	{
+		"name": "Legend",
+		"emoji": "790692033789820969"
+		"rates": [ 0, 0, 0, 0.94, 0.06 ],
+		"10cast": false
+	},
+	{
+		"name": "Super Rare",
+		"command": "change_sr"
+		"emoji": "790692280537186346"
+		"rates": [ 0, 0, 0, 0, 1 ],
+		"10cast": false
+	}
+]

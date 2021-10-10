@@ -12,15 +12,6 @@
 		"10cast": true
 	},
 	{
-		"name": "Pick Up",
-		"command": "change_pickup",
-		"emoji": "694822148149084231",
-		"rates": [ 0, 0, 0.885, 0.1, 0.015 ],
-		"doublerates": [ 0, 0, 0.82, 0.15, 0.03 ],
-		"doublerates": [ "Patra", "Dominiciel", "Poet", "Genii" ],
-		"10cast": true
-	},
-	{
 		"name": "Vocal",
 		"emoji": "896765432457986068",
 		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
@@ -71,6 +62,15 @@
 		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
 		"10cast": false,
 		"type_limit": true
+	},
+	{
+		"name": "Pick Up",
+		"command": "change_pickup",
+		"emoji": "694822148149084231",
+		"rates": [ 0, 0, 0.885, 0.1, 0.015 ],
+		"doublerates": [ 0, 0, 0.82, 0.15, 0.03 ],
+		"doublerates": [ "Patra", "Dominiciel", "Poet", "Genii" ],
+		"10cast": true
 	},
 	{
 		"name": "Rare",

@@ -3914,6 +3914,24 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"hr": "3-X-13-1-2-1-13-31-13-31-1-2",
+					"hrlabel": [[2,1]],
+					"lsd": "None (Potential GB meta for Android)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"lsd": "(Same team as rank, potential GB meta for iOS)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
 			]
 		}
 	},
@@ -12438,6 +12456,13 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true }
 				}
 			]
 		}
@@ -23107,7 +23132,7 @@
 					"hrlabel": [[4,2]],
 					"lsd": "At start of 3-1 Lane, Perfect until LS activates (Also used in GB using Rose (L))",
 					"tap": { "star": "Carol", "costume": true },
-					"long": { "star": "Django", "skill": 9 },
+					"long": { "star": "Django" },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "???"

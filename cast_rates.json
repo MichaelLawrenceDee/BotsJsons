@@ -74,11 +74,11 @@
 	},
 	{
 		"name": "Pick Up",
-		"command": "change_pickup",
+		"command": "pickup",
 		"emoji": "694822148149084231",
 		"rates": [ 0, 0, 0.885, 0.1, 0.015 ],
 		"doublerates": [ 0, 0, 0.82, 0.15, 0.03 ],
-		"doublerates": [ "Patra", "Dominiciel", "Poet", "Genii" ],
+		"pickup": [ "Patra", "Dominiciel", "Poet", "Genii" ],
 		"color": "#0c9362",
 		"singlecost": 90,
 		"10cast": true
@@ -99,7 +99,7 @@
 	},
 	{
 		"name": "Super Rare",
-		"command": "change_sr",
+		"command": "sr",
 		"emoji": "790692280537186346",
 		"rates": [ 0, 0, 0, 0, 1 ],
 		"color": "#572c72",
@@ -108,7 +108,7 @@
 	{
 		"name": "Akashic Ball",
 		"label": "Akashic Ball Scout",
-		"command": "change_akashic",
+		"command": "akashic",
 		"emoji": "806053767648509962",
 		"color": "#9c6dec",
 		"scout": true,
@@ -117,7 +117,7 @@
 	{
 		"name": "Sonic Ball",
 		"label": "Sonic Ball Scout",
-		"command": "change_sonicball",
+		"command": "sonicball",
 		"emoji": "804984346842759180",
 		"color": "#969da2",
 		"scout": true,

@@ -90,5 +90,21 @@
 		"emoji": "790692280537186346",
 		"rates": [ 0, 0, 0, 0, 1 ],
 		"10cast": false
+	},
+	{
+		"name": "Akashic Ball",
+		"label": "Akashic Ball Scout",
+		"command": "change_akashic",
+		"emoji": "806053767648509962",
+		"scout": true,
+		"10cast": false
+	},
+	{
+		"name": "Sonic Ball",
+		"label": "Sonic Ball Scout",
+		"command": "change_sonicball",
+		"emoji": "804984346842759180",
+		"scout": true,
+		"10cast": false
 	}
 ]

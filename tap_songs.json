@@ -2536,6 +2536,15 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
+				}
 			],
 			"hard": [
 			],
@@ -2804,6 +2813,14 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -13258,6 +13275,14 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "22 Nov 2020"
+				},
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -20349,6 +20374,13 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			]
 		}
 	},

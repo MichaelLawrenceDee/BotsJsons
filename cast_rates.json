@@ -3,18 +3,21 @@
 		"name": "Normal",
 		"emoji": "896734186738688010",
 		"rates": [ 0.7, 0.285, 0.015, 0, 0 ],
+		"color": "#efefef",
 		"10cast": true
 	},
 	{
 		"name": "Super",
 		"emoji": "896736573062803457",
 		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"color": "#fcda52",
 		"10cast": true
 	},
 	{
 		"name": "Vocal",
 		"emoji": "896765432457986068",
 		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"color": "#4bb6ff",
 		"10cast": false,
 		"button_style": "PRIMARY",
 		"att_limit": true
@@ -23,6 +26,7 @@
 		"name": "Dancer",
 		"emoji": "896765432680308776",
 		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"color": "#fc7361",
 		"10cast": false,
 		"button_style": "DANGER",
 		"att_limit": true
@@ -31,6 +35,7 @@
 		"name": "Session",
 		"emoji": "896765432533508146",
 		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"color": "#88f57a",
 		"10cast": false,
 		"button_style": "SUCCESS",
 		"att_limit": true
@@ -39,6 +44,7 @@
 		"name": "Tap",
 		"emoji": "896767508260986950",
 		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"color": "#008afb",
 		"10cast": false,
 		"type_limit": true
 	},
@@ -46,6 +52,7 @@
 		"name": "Long",
 		"emoji": "896767508261003305",
 		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"color": "#fdc808",
 		"10cast": false,
 		"type_limit": true
 	},
@@ -53,6 +60,7 @@
 		"name": "Slide",
 		"emoji": "896767507946409995",
 		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"color": "#eb369d",
 		"10cast": false,
 		"type_limit": true
 	},
@@ -60,6 +68,7 @@
 		"name": "Flick",
 		"emoji": "896767508411998308",
 		"rates": [ 0, 0, 0.91, 0.085, 0.005 ],
+		"color": "#44ff60",
 		"10cast": false,
 		"type_limit": true
 	},
@@ -70,18 +79,22 @@
 		"rates": [ 0, 0, 0.885, 0.1, 0.015 ],
 		"doublerates": [ 0, 0, 0.82, 0.15, 0.03 ],
 		"doublerates": [ "Patra", "Dominiciel", "Poet", "Genii" ],
+		"color": "#0c9362",
+		"singlecost": 90,
 		"10cast": true
 	},
 	{
 		"name": "Rare",
 		"emoji": "896766066787762257",
 		"rates": [ 0, 0, 0, 1, 0 ],
+		"color": "#707570",
 		"10cast": false
 	},
 	{
 		"name": "Legend",
 		"emoji": "790692033789820969",
 		"rates": [ 0, 0, 0, 0.94, 0.06 ],
+		"color": "#373637",
 		"10cast": false
 	},
 	{
@@ -89,6 +102,7 @@
 		"command": "change_sr",
 		"emoji": "790692280537186346",
 		"rates": [ 0, 0, 0, 0, 1 ],
+		"color": "#572c72",
 		"10cast": false
 	},
 	{
@@ -96,6 +110,7 @@
 		"label": "Akashic Ball Scout",
 		"command": "change_akashic",
 		"emoji": "806053767648509962",
+		"color": "#9c6dec",
 		"scout": true,
 		"10cast": false
 	},
@@ -104,6 +119,7 @@
 		"label": "Sonic Ball Scout",
 		"command": "change_sonicball",
 		"emoji": "804984346842759180",
+		"color": "#969da2",
 		"scout": true,
 		"10cast": false
 	}

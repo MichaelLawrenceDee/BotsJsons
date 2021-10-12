@@ -8399,6 +8399,7 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
+					"lsd": "None (Also used in GB using Beatrice (L) if you have no Dominiciel)",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -11750,6 +11751,16 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"hr": "3-2-1-X-31-1-31-3",
+					"hrlabel": [[6,1],[11,1]],
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			]
 		}
 	},
@@ -13835,6 +13846,14 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 2 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
+					"label": "Easy(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
 					"last_update": "???"
 				}
 			],
@@ -22947,6 +22966,14 @@
 			"normal": [
 			],
 			"hard": [
+				{
+					"label": "Hard(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"expert": [
 				{
@@ -27332,8 +27359,26 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"lsd": "(Same team as rank | Potential GB meta)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
 			],
 			"hard": [
+				{
+					"label": "Hard(GB)",
+					"hr": "3-X-X",
+					"hrlabel": [[2,1],[4,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				}
 			],
 			"expert": [
 				{

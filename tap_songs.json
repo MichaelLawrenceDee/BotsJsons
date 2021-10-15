@@ -1884,7 +1884,7 @@
 			],
 			"expert": [
 				{
-					"tap": { "star": "Elly", "costume": true },
+					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
@@ -1931,6 +1931,13 @@
 					"long": { "star": "Aria", "costume": true, "skill": 8 },
 					"slide": { "star": "Dominiciel" },
 					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
 					"last_update": "???"
 				}
 			]
@@ -7748,6 +7755,13 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true }
 				}
 			]
 		}
@@ -8166,6 +8180,14 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Expert(GB)",
+					"lsd": "            ''",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true }
 				}
 			]
 		}
@@ -10503,7 +10525,7 @@
 			],
 			"expert": [
 				{
-					"lsd": "Perfect up to 30-40 combo",
+					"lsd": "Perfect up to 30-40 combo (Also used in GB using Rose (L))",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Sui" },
@@ -10517,9 +10539,8 @@
 			"normal": [
 				{
 					"label": "Normal(GB)",
-					"hr": "1-2-1-13",
-					"hrlabel": [[6,2]],
-					"lsd": "Perfect until 1st long",
+					"hr": "1-2-1-X-13",
+					"hrlabel": [[6,1]],
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -10825,6 +10846,13 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			]
 		}
 	},
@@ -16202,6 +16230,14 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			]
 		}
 	},
@@ -20784,6 +20820,7 @@
 					"last_update": "10 Oct 2021"
 				},
 				{
+					"lsd": "None (Also used in GB using Rose (L) if no Dominiciel)",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },

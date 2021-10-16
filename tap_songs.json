@@ -5380,6 +5380,7 @@
 					"flick": { "star": "Mary" }
 				},
 				{
+					"lsd": "None (Also used in GB using Rose (L) if no Dominiciel)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -5499,6 +5500,15 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Slasher", "costume": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Expert(GB)",
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true }
 				}
 			]
 		}
@@ -27408,8 +27418,9 @@
 			"hard": [
 				{
 					"label": "Hard(GB)",
-					"hr": "3-X-X",
-					"hrlabel": [[2,1],[4,1]],
+					"hr": "3-X-13-3",
+					"hrlabel": [[2,1]],
+					"lsd": "22 GOODs",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },

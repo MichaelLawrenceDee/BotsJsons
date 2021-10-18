@@ -3328,6 +3328,15 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"hr": "3-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			]
 		}
 	},
@@ -9973,6 +9982,16 @@
 					"slide": { "star": "Dominiciel" },
 					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
+				},
+				{
+					"hr": "        ''",
+					"hrlabel": [],
+					"lsd": "None (Use if no Dominiciel)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -11877,6 +11896,16 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"hr": "1-X",
+					"hrlabel": [[2,1]],
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true }
+				}
 			],
 			"hard": [
 				{
@@ -13467,6 +13496,8 @@
 			"hard": [
 				{
 					"label": "Hard/Alt",
+					"hr": "2-1-2-1-X",
+					"hrlabel": [[8,1]],
 					"lsd": "GOOD (+few Perfects) up to Beatrice, LS on tap after purple Lane Change note",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
@@ -13481,6 +13512,15 @@
 					"long": { "star": "" },
 					"slide": { "star": "" },
 					"flick": { "star": "" }
+				},
+				{
+					"hr": "2-1-2-1-X",
+					"hrlabel": [[8,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -15441,11 +15481,19 @@
 			"easy": [
 				{
 					"label": "Easy/Alt",
+					"lsd": "None (Potentially top meta if Trasher 9 has same enhance as",
 					"tap": { "star": "Arwen", "costume": true },
-					"long": { "star": "Dr. Trasher", "leader": true },
-					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"long": { "star": "Dr. Trasher", "leader": true, "skill": 9 },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 6 },
 					"flick": { "star": "Aresmus" },
 					"last_update": "17 Oct 2021"
+				},
+				{
+					"lsd": "Trasher 10 | Trasher 9 > Trasher 10 | Paris 6 > Paris 8)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				},
 				{
 					"tap": { "star": "Arwen", "costume": true, "leader": true },
@@ -21265,6 +21313,15 @@
 					"slide": { "star": "Ava", "leader": true },
 					"flick": { "star": "Mary" },
 					"last_update": "23 Feb 2020"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [

@@ -4833,6 +4833,7 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
+					"lsd": "None (Also used in GB using Beatrice (L) if no Dominiciel)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -6546,6 +6547,14 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"lsd": "As much GOODs and Perfects until x2 activates. LS trigger at about 220 combo",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice" },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			]
 		}
 	},
@@ -20330,6 +20339,15 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "11 Oct 2020"
+				},
+				{
+					"label": "Expert(GB)",
+					"lsd": "None (Used if no Dominiciel)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -22311,20 +22329,6 @@
 				}
 			],
 			"expert": [
-				{
-					"label": "Expert/Alt",
-					"tap": { "star": "Arwen", "costume": true },
-					"long": { "star": "Dr. Trasher" },
-					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
-					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "29 Aug 2021"
-				},
-				{
-					"tap": { "star": "Arwen", "costume": true },
-					"long": { "star": "Dr. Trasher" },
-					"slide": { "star": "Nicol" },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
-				}
 			]
 		}
 	},
@@ -23891,6 +23895,7 @@
 					"last_update": "03 Oct 2021"
 				},
 				{
+					"lsd": "None (Also used in GB using Rose (L) if no Dominiciel)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },

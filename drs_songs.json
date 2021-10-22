@@ -205,7 +205,23 @@
 			{ "name": "default", "url": "T4sMAz5A2k4" },
 			{ "name": "EXS", "url": "ocazE4GjsfU" }
 		],
-		"normalurl": "TCGoR79ZZ9w"
+		"normalurl": "TCGoR79ZZ9w",
+		"notes": [ "See also: BOOMBAYAH-Japanese version- ANOTHER EDITION" ],
+		"links": [ "BOOMBAYAH-Japanese version- ANOTHER EDITION" ]
+	},
+	{
+		"title": "BOOMBAYAH-Japanese version- ANOTHER EDITION",
+		"artist": "BLACKPINK",
+		"record": "Japan-only",
+		"folders": [ "POPS", "Songs with MV" ],
+		"thumbnail": "Boombayah.jpg",
+		"remyurl": "BOOMBAYAH-Japanese_version-",
+		"easy": 3,
+		"normal": 7,
+		"easyurl": "uwO2p5IUha4",
+		"normalurl": "zpIxNGz84a4",
+		"notes": [ "See also: BOOMBAYAH-Japanese version-" ],
+		"links": [ "BOOMBAYAH-Japanese version-" ]
 	},
 	{
 		"title": "HIP",
@@ -418,7 +434,25 @@
 		"normal":5,
 		"easyurl": "RD8PKCfwJNs",
 		"normalurl": "muU63c9AZTw",
-		"group": "lI-5u0x7Fxo"
+		"group": "lI-5u0x7Fxo",
+		"notes": [ "See also: 女々しくて ANOTHER EDITION" ],
+		"links": [ "女々しくて ANOTHER EDITION" ]
+	},
+	{
+		"title": "女々しくて ANOTHER EDITION",
+		"alias": [ "Memeshikute" ],
+		"artist": "ゴールデンボンバー",
+		"artistalias": [ "Golden Bomber" ],
+		"record": "Yes",
+		"folders": [ "POPS", "Songs with MV" ],
+		"thumbnail": "Memeshikute.png",
+		"remyurl": "Memeshikute",
+		"easy": 3,
+		"normal": 7,
+		"easyurl": "88oWB6nBY0M",
+		"normalurl": "RvuiWvVWm14",
+		"notes": [ "See also: 女々しくて" ],
+		"links": [ "女々しくて" ]
 	},
 	{
 		"title": "Let's Go",
@@ -526,6 +560,7 @@
 	},
 	{
 		"title": "U.S.A.",
+		"alias": [ "USA" ],
 		"artist": "DA PUMP",
 		"record": "Japan-only",
 		"folders": [ "POPS" ],
@@ -534,7 +569,24 @@
 		"easy":3,
 		"normal":7,
 		"easyurl": "akOhjql3fnA",
-		"normalurl": "HVdZkhJvbJY"
+		"normalurl": "HVdZkhJvbJY",
+		"notes": [ "See also: U.S.A. ANOTHER EDITION" ],
+		"links": [ "U.S.A. ANOTHER EDITION" ]
+	},
+	{
+		"title": "U.S.A. ANOTHER EDITION",
+		"alias": [ "USA" ],
+		"artist": "DA PUMP",
+		"record": "Japan-only",
+		"folders": [ "POPS" ],
+		"thumbnail": "USA.jpg",
+		"remyurl": "U.S.A.",
+		"easy": 3,
+		"normal": 7,
+		"easyurl": "Y0kcdSVEmgQ",
+		"normalurl": "7at0ibktyWM",
+		"notes": [ "See also: U.S.A." ],
+		"links": [ "U.S.A." ]
 	},
 	{
 		"title": "trigger",
@@ -4182,7 +4234,24 @@
 		"easy":2,
 		"normal":4,
 		"easyurl": "cu-nGYanJ7c",
-		"normalurl": "TNQGwjxjkYg"
+		"normalurl": "TNQGwjxjkYg",
+		"notes": [ "See also: 紅蓮華 ANOTHER EDITION" ],
+		"links": [ "紅蓮華 ANOTHER EDITION" ]
+	},
+	{
+		"title": "紅蓮華 ANOTHER EDITION",
+		"alias": [ "Gurenge", "Kimetsu no yaiba op", "鬼滅の刃 OP", "Demon Slayer OP", "Red lotus" ],
+		"artist": "(LiSA)",
+		"record": "No",
+		"folders": [ "POPS" ],
+		"thumbnail": "Gurenge.png",
+		"remyurl": "Gurenge",
+		"easy": 3,
+		"normal": 7,
+		"easyurl": "6rlLpX5R1oQ",
+		"normalurl": "h9ai8o2d-fw",
+		"notes": [ "See also: 紅蓮華" ],
+		"links": [ "紅蓮華" ]
 	},
 	{
 		"title": "Don't Rush but Dance Rush",

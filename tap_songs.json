@@ -7689,6 +7689,14 @@
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
 					"flick": { "star": "Rose" },
 					"last_update": "???"
+				},
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true, "skill": 9 },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -17562,7 +17570,7 @@
 					"lsd": "None (Lucifer > Arwen)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Franken" },
-					"slide": { "star": "Paris Upton", "leader": true, "skill": 9 },
+					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "01 Mar 2020"
 				}
@@ -24428,6 +24436,13 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			]
 		}
 	},
@@ -26782,6 +26797,14 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
 			]
 		}
 	},

@@ -5079,5 +5079,21 @@
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
 		"easyurl": "N6Q41nNdFQQ",
 		"normalurl": "7UQD0i9BwDI"
+	},
+	{
+		"title": "Spin & Slide",
+		"alias": [ "Spin and Slide" ],
+		"artist": "KAN TAKAHIKO",
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS, Otias ENT Produced",
+		"thumbnail": "spin_and_slide_jacket.png",
+		"remyurl": "Spin_%26_Slide",
+		"easy": 5,
+		"normal": 9,
+		"unlock": "Stamp<:stamp:575165683013386240> event.",
+		"easyurl": "c5r31JGuW4g",
+		"normalurl": "1eY-wwD3Jk8"
 	}
 ]

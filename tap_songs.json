@@ -14220,7 +14220,7 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
-					"lsd": "None (Jessi SU + Dominiciel > Elly + Dominiciel > Elly + Nicol 9",
+					"lsd": "None (Jessi SU + Dominiciel > Elly + Dominiciel > Elly + Nicol 9)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel" },
@@ -14228,10 +14228,26 @@
 					"last_update": "05 Sep 2021"
 				},
 				{
+					"lsd": "None (Potentially top meta if Nicol 1 has the same S-enhance as Dominiciel)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 1 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
 					"label": "Expert(GB)",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"lsd": "None (Use if no Dominiciel)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
 				}
@@ -25460,6 +25476,7 @@
 					"last_update": "15 Aug 2021"
 				},
 				{
+					"lsd": "None (Also used in GB using Rose (L) if no Dominiciel)",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },

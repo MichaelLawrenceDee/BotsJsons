@@ -11,12 +11,12 @@
 		"length": "1:31",
 		"easy":1,
 		"normal":6,
-		"easyurl": "K1MNSHAPP9U",
+		"easyurl": "901430246342017074/LADY_Easy_LEO.mp4",
 		"easyguide": [
-			{ "name": "default", "url": "X6SJb0ReJSE" },
-			{ "name": "LEO", "url": "K1MNSHAPP9U" }
+			{ "name": "default", "url": "901427453057179658/LADY_Easy.mp4" },
+			{ "name": "LEO", "url": "901430246342017074/LADY_Easy_LEO.mp4" }
 		],
-		"normalurl": "aL_giIl-C0M"
+		"normalurl": "901429273192185886/LADY_Normal.mp4"
 	},
 	{
 		"title": "MEGA SHAKE IT !",
@@ -28,8 +28,8 @@
 		"remyurl": "MEGA_SHAKE_IT_!",
 		"easy":4,
 		"normal":8,
-		"easyurl": "iwQKDUk6dfs",
-		"normalurl": "Em87x6Xvf4Q",
+		"easyurl": "901437241916813342/MEGA_SHAKE_IT__Easy.mp4",
+		"normalurl": "901438211996405810/MEGA_SHAKE_IT__Normal.mp4",
 		"notes": [ "Removed on March 16, 2021" ]
 	},
 	{
@@ -68,8 +68,8 @@
 		"remyurl": "SKY%27s_the_limit",
 		"easy":2,
 		"normal":4,
-		"easyurl": "nrDGXGE5sGE",
-		"normalurl": "UKZ05-4grPY",
+		"easyurl": "901475417062518884/SKYs_the_limit_Easy.mp4",
+		"normalurl": "901475499623198800/SKYs_the_limit_Normal.mp4",
 		"notes": [ "Removed on March 16, 2021" ]
 	},
 	{
@@ -81,8 +81,8 @@
 		"remyurl": "Summer_Venus",
 		"easy":3,
 		"normal":6,
-		"easyurl": "lKqjuTelsp4",
-		"normalurl": "jNUC2_gp2Xw",
+		"easyurl": "901488673143525386/Summer_Venus_Easy.mp4",
+		"normalurl": "901488775174193172/Summer_Venus_Normal.mp4",
 		"notes": [ "Removed on March 16, 2021" ]
 	},
 	{
@@ -95,8 +95,8 @@
 		"remyurl": "Without_You",
 		"easy":2,
 		"normal":5,
-		"easyurl": "Eikp6g8Iv3o",
-		"normalurl": "C-fwSkGXo2w",
+		"easyurl": "901496280541454356/Without_You_Easy.mp4",
+		"normalurl": "901496352322773092/Without_You_Normal.mp4",
 		"group": "Ot6IE8A1tSs",
 		"notes": [ "Previously Discovery Mission for Thank You Merry Christmas -DANCERUSH Mix-", "Removed on March 16, 2021" ],
 		"links": [ "Thank You Merry Christmas -DANCERUSH Mix-" ]
@@ -155,8 +155,8 @@
 		"remyurl": "Seifuku_no_mannequin",
 		"easy":2,
 		"normal":3,
-		"easyurl": "DocTQ3BUFKg",
-		"normalurl": "6Xrj36v7iq8",
+		"easyurl": "901411855111684096/Seifuku_No_Mannequin_Easy.mp4",
+		"normalurl": "901416054721499146/Seifuku_No_Mannequin_Normal.mp4",
 		"notes": [ "Removed on March 16, 2021" ]
 	},
 	{
@@ -170,8 +170,8 @@
 		"remyurl": "Silent_majority",
 		"easy":1,
 		"normal":4,
-		"easyurl": "VwLEJy4r4ys",
-		"normalurl": "InRoLvU3fec",
+		"easyurl": "901505284772610089/Silent_majority_Easy.mp4",
+		"normalurl": "901505392394272801/Silent_majority_Normal.mp4",
 		"notes": [ "Removed on March 16, 2021" ]
 	},
 	{
@@ -184,12 +184,12 @@
 		"remyurl": "Sugar_song_to_bitter_step",
 		"easy":3,
 		"normal":7,
-		"easyurl": "_-nV0SVbX9c",
+		"easyurl": "901513532309381120/Sugar_song_Easy_Viola.mp4",
 		"easyguide": [
-			{ "name": "default", "url": "9m9LrSht-MA" },
-			{ "name": "Viola", "url": "_-nV0SVbX9c" }
+			{ "name": "default", "url": "901513453854937148/Sugar_song_Easy.mp4" },
+			{ "name": "Viola", "url": "901513532309381120/Sugar_song_Easy_Viola.mp4" }
 		],
-		"normalurl": "n_I8NQDYEUk"
+		"normalurl": "901513583601520670/Sugar_song_Normal.mp4"
 	},
 	{
 		"title": "BOOMBAYAH-Japanese version-",
@@ -523,11 +523,11 @@
 		"remyurl": "POP_TEAM_EPIC",
 		"easy":4,
 		"normal":6,
-		"easyurl": "H32QdX0PWWE",
-		"normalurl": "HcvWfgeohUw",
+		"easyurl": "901460975230808114/POP_TEAM_EPIC_Easy.mp4",
+		"normalurl": "901464292447125544/POP_TEAM_EPIC_Normal_HBoy.mp4",
 		"normalguide": [
-			{ "name": "default", "url": "uT6a4YCYNi8" },
-			{ "name": "Hboy", "url": "HcvWfgeohUw" }
+			{ "name": "default", "url": "901461021582045234/POP_TEAM_EPIC_Normal.mp4" },
+			{ "name": "Hboy", "url": "901464292447125544/POP_TEAM_EPIC_Normal_HBoy.mp4" }
 		]
 	},
 	{

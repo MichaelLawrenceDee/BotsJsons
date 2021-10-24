@@ -2663,6 +2663,15 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"hr": "1-2-X-X",
+					"hrlabel": [[4,1],[6,1]],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			],
 			"hard": [
 				{
@@ -15232,12 +15241,11 @@
 		"teams": {
 			"easy": [
 				{
-					"lsd": "15-16 tap Perfects",
-					"tap": { "star": "Shirley" },
+					"tap": { "star": "Patra", "skill": 8 },
 					"long": { "star": "Django", "leader": true },
-					"slide": { "star": "Paris Upton", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Rose" },
-					"last_update": "13 Sep 2020"
+					"last_update": "24 Oct 2021"
 				}
 			],
 			"normal": [
@@ -15271,6 +15279,21 @@
 			"easy": [
 				{
 					"label": "Easy/Alt",
+					"lsd": "15-16 tap Perfects (Patra > Shirley)",
+					"tap": { "star": "Shirley" },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "24 Oct 2021"
+				},
+				{
+					"lsd": "None (Also used in GB using Rose (L))",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
 					"lsd": "Unknown delay",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
@@ -15282,6 +15305,14 @@
 			"normal": [
 			],
 			"hard": [
+				{
+					"label": "Hard/Alt",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "HT Senah" },
+					"last_update": "24 Oct 2021"
+				},
 				{
 					"label": "Hard(GB)",
 					"lsd": "None (Use only if Raphael is weak)",
@@ -16233,11 +16264,20 @@
 					"label": "Normal/Alt",
 					"hr": "2-X-1-X-2",
 					"hrlabel": [[2,1],[6,1]],
-					"lsd": "After 1st LS, GOOD all slides without x2 and Perfect all taps",
+					"lsd": "After 1st LS, GOOD all slides without x2 and Perfect all",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"hr": "   ''",
+					"hrlabel": [],
+					"lsd": "taps (Also used in GB using Rose (L) if no Dominiciel)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				},
 				{
 					"hr": "   ''",
@@ -16258,6 +16298,16 @@
 					"slide": { "star": "Bonie" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "17 Dec 2019"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "1-3-13-1-31-1-31-1-3-31",
+					"hrlabel": [[9,2],[14,2],[21,2]],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -26082,6 +26132,13 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			]
 		}
 	},

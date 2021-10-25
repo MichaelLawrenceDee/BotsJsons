@@ -5026,12 +5026,14 @@
 				{
 					"label": "Expert/Alt",
 					"tap": { "star": "Carol", "costume": true },
-					"long": { "star": "Django" },
+					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Suah" }
 				},
 				{
 					"label": "Expert(GB)",
+					"hr": "3-2-1-13-2-1-3-2-1-X-2",
+					"hrlabel": [[6,2],[19,1]],
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": false },
@@ -8226,6 +8228,22 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"lsd": "Follow top meta delay",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
+				},
+				{
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "Horyeon", "costume": false },
+					"flick": { "star": "" },
+					"last_update": "???"
+				}
 			],
 			"normal": [
 			],

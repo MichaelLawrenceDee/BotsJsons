@@ -233,7 +233,7 @@
 		"remyurl": "HIP",
 		"easy":3,
 		"normal":8,
-		"easyurl":false,
+		"easyurl": false,
 		"normalurl": "6KERfVRtHPQ",
 		"notes": [ "Available only in South Korea" ]
 	},
@@ -5096,5 +5096,19 @@
 		"unlock": "Stamp<:stamp:575165683013386240> event.",
 		"easyurl": "c5r31JGuW4g",
 		"normalurl": "1eY-wwD3Jk8"
+	},
+	{
+		"title": "Triple Cross",
+		"artist": "BEMANI Sound Team \"dj TAKA & DJ YOSHITAKA & SYUNN\"",
+		"artistalias": [ "BST dj TAKA" ],
+		"category": "midsummerbattle2021",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Triple_Cross.png",
+		"remyurl": "Triple_Cross",
+		"easy": 4,
+		"normal": 7,
+		"easyurl": "c8hIAAmCstw",
+		"normalurl": "lRSkOpRLYK4"
 	}
 ]

@@ -8266,7 +8266,6 @@
 			],
 			"expert": [
 				{
-					"lsd": "Perfect up to 90-100 combo",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel", "leader": true },

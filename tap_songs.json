@@ -1138,19 +1138,12 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
+					"lsd": "None (Also used in GB using Beatrice (L) if no Dominiciel)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "03 May 2020"
-				},
-				{
-					"label": "Expert(GB)",
-					"tap": { "star": "Elly" },
-					"long": { "star": "Beatrice", "leader": true },
-					"slide": { "star": "Nicol", "skill": 9 },
-					"flick": { "star": "Slasher", "costume": true },
-					"last_update": "???"
 				}
 			]
 		}
@@ -14348,6 +14341,15 @@
 					"slide": { "star": "Horyeon", "costume": false, "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "11 Oct 2020"
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "                         ''",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [

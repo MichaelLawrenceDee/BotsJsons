@@ -4650,7 +4650,7 @@
 		"easy":4,
 		"normal":8,
 		"notes": [ "Available only in South Korea" ],
-		"easyurl":false,
+		"easyurl": false,
 		"normalurl": "OgsArEkN0r4"
 	},
 	{
@@ -4665,7 +4665,7 @@
 		"easy":5,
 		"normal":8,
 		"notes": [ "Available only in South Korea" ],
-		"easyurl":false,
+		"easyurl": false,
 		"normalurl": "CORQbILsY0Y"
 	},
 	{
@@ -5110,5 +5110,22 @@
 		"normal": 7,
 		"easyurl": "c8hIAAmCstw",
 		"normalurl": "lRSkOpRLYK4"
+	},
+	{
+		"title": "Metric",
+		"artist": "Hommarju",
+		"category": "gym4",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Metric.png",
+		"remyurl": "Metric",
+		"easy": 5,
+		"normal": 8,
+		"stars": 30,
+		"unlock": "Finishing its clock in the DANCERUSH STARDOM GYM4 <:gym4:906148246659952670> event.",
+		"notes": [ "**DANCERUSH STARDOM GYM4**:\n**Metric** ⇒ ???" ],
+		"links": [ "Metric" ],
+		"easyurl": "AHlzK1t5Shk",
+		"normalurl": "1OXuFt2TcBI"
 	}
 ]

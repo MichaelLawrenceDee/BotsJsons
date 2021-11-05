@@ -3919,6 +3919,14 @@
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
 					"flick": { "star": "HT Senah", "leader": true },
 					"last_update": "10 Jan 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "(Same team as rank, potential GB meta)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"hard": [
@@ -12336,6 +12344,13 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "01 Nov 2020"
+				},
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
 				}
 			]
 		}

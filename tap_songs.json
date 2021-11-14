@@ -26695,7 +26695,7 @@
 					"hr": "1-X-2-1-2",
 					"hrlabel": [[2,1]],
 					"tap": { "star": "Chops" },
-					"long": { "star": "Franken", "skill": 9 },
+					"long": { "star": "Franken" },
 					"slide": { "star": "Partina", "leader": true },
 					"flick": { "star": "Amy" },
 					"last_update": "30 May 2021"
@@ -26857,14 +26857,6 @@
 				}
 			],
 			"expert": [
-				{
-					"label": "Expert/Alt",
-					"tap": { "star": "Arwen", "costume": true },
-					"long": { "star": "Jaguar", "costume": true },
-					"slide": { "star": "Paris Upton", "costume": true },
-					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "???"
-				}
 			]
 		}
 	},

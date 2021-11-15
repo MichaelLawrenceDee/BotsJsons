@@ -17995,7 +17995,7 @@
 				{
 					"tap": { "star": "HT Jay" },
 					"long": { "star": "Raphael" },
-					"slide": { "star": "Partina", "leader": false },
+					"slide": { "star": "Partina", "leader": true },
 					"flick": { "star": "Rose" },
 					"last_update": "17 Oct 2021"
 				}
@@ -25020,7 +25020,7 @@
 					"lsd": "None (Paris 4 > Horyeon 9 > Horyeon 8/Horyeon SU 4/5 > Paris 8)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
-					"slide": { "star": "Paris Upton", "costume": false, "skill": 4 },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 4 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "17 Oct 2021"
 				}

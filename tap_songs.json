@@ -23600,7 +23600,7 @@
 		"altteams": {
 			"easy": [
 				{
-					"label": "Easy/Alt",
+					"label": "Easy(GB)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },

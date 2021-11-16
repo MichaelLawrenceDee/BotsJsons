@@ -2627,7 +2627,7 @@
 				{
 					"hr": "1-3-X-X-X",
 					"hrlabel": [[4,1],[6,1],[8,1]],
-					"lsd": "4 Perfects",
+					"lsd": "42 Perfects (?)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
@@ -2702,6 +2702,7 @@
 					"label": "Hard/Alt",
 					"hr": "1-3-X-X-X",
 					"hrlabel": [[4,1],[6,1],[8,1]],
+					"lsd": "42 Perfects (?)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Poet" },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
@@ -12063,6 +12064,7 @@
 					"label": "Hard/Alt",
 					"hr": "2-X",
 					"hrlabel": [[2,1]],
+					"lsd": "None (Also used in GB using Beatrice (L))",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -12074,16 +12076,6 @@
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel", "leader": true },
-					"flick": { "star": "Slasher", "costume": true },
-					"last_update": "???"
-				},
-				{
-					"label": "Hard(GB)",
-					"hr": "2-X",
-					"hrlabel": [[2,1]],
-					"tap": { "star": "Elly" },
-					"long": { "star": "Beatrice", "leader": true },
-					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true },
 					"last_update": "???"
 				}
@@ -14705,10 +14697,18 @@
 			],
 			"hard": [
 				{
+					"lsd": "GOOD until x2 combo, Perfect some notes during x2. After x2 combo ends,",
 					"tap": { "star": "Patra", "skill": 8 },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" }
+				},
+				{
+					"lsd": "adjust with GOODs to trigger the 1st LS with the next x2 combo",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"expert": [
@@ -14959,7 +14959,7 @@
 			],
 			"hard": [
 				{
-					"lsd": "Perfect up to Django skill + 3 notes",
+					"lsd": "Perfect until the tap trill, and flicks afterwards (About 35 Perfects)",
 					"tap": { "star": "Patra", "skill": 5 },
 					"long": { "star": "Django" },
 					"slide": { "star": "Horyeon", "costume": true },
@@ -15027,7 +15027,7 @@
 			"hard": [
 				{
 					"label": "Hard/Alt",
-					"lsd": "Perfect up to Django skill + 3 notes (Patra 5 > Patra 8 > Carol)",
+					"lsd": "Perfect up to Django skill + 3 notes (Patra 5 > Patra 4 > Patra 8 > Carol)",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Django" },
 					"slide": { "star": "Horyeon", "costume": true },

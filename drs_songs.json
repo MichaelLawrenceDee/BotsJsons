@@ -5123,9 +5123,27 @@
 		"normal": 8,
 		"stars": 30,
 		"unlock": "Finishing its clock in the DANCERUSH STARDOM GYM4 <:gym4:906148246659952670> event.",
-		"notes": [ "**DANCERUSH STARDOM GYM4**:\n**Metric** ⇒ ???" ],
-		"links": [ "Metric" ],
+		"notes": [ "**DANCERUSH STARDOM GYM4**:\n**Metric** ⇒ Crystal Clear ⇒ ???" ],
+		"links": [ "Metric", "Crystal Clear" ],
 		"easyurl": "AHlzK1t5Shk",
 		"normalurl": "1OXuFt2TcBI"
+	},
+	{
+		"title": "Crystal Clear",
+		"artist": "Stessie",
+		"category": "gym4",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "TROP, Otias ENT Produced",
+		"thumbnail": "Crystal_Clear_Jacket.png",
+		"remyurl": "Crystal_Clear",
+		"easy": 5,
+		"normal": 8,
+		"stars": 30,
+		"unlock": "Finishing its clock in the DANCERUSH STARDOM GYM4 <:gym4:906148246659952670> event.",
+		"notes": [ "**DANCERUSH STARDOM GYM4**:\nMetric ⇒ **Crystal Clear** ⇒ ???" ],
+		"links": [ "Metric", "Crystal Clear" ],
+		"easyurl": "W7ls8-qWDZw",
+		"normalurl": "REIJZpUFKnc"
 	}
 ]

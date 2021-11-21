@@ -950,8 +950,15 @@
 			{ "name": "default", "url": "MwjTkPF4rgE" },
 			{ "name": "Hboy", "url": "YXofu4qdpWs" }
 		],
-		"notes": [ "Previously Discount Mission for Raveology", "Previously Discount Mission for Oppress", "Previously Discount Mission for Robot Loves Smoked-Salmon", "Previously Discount Mission for Where's The Party At", "Event Mission for Don't Stop!! RUNNING MAN EDITION" ],
-		"links": [ "Raveology", "Oppress", "Robot Loves Smoked-Salmon", "Where's The Party At", "Don't Stop!! RUNNING MAN EDITION" ]
+		"notes": [
+			"Previously Discount Mission for Raveology", 
+			"Previously Discount Mission for Oppress", 
+			"Previously Discount Mission for Robot Loves Smoked-Salmon", 
+			"Previously Discount Mission for Where's The Party At", 
+			"Event Mission for Don't Stop!! RUNNING MAN EDITION", 
+			"Discount Mission for Garuda (Hommarju Remix)"
+		],
+		"links": [ "Raveology", "Oppress", "Robot Loves Smoked-Salmon", "Where's The Party At", "Don't Stop!! RUNNING MAN EDITION", "Garuda (Hommarju Remix)" ]
 	},
 	{
 		"title": "50th Memorial Songs -Beginning Story-",
@@ -2120,7 +2127,8 @@
 		"stars":200,
 		"unlock": "Clearing the song in Extra Stage <:extrastage:575165685001355295>",
 		"discount": [ "Unlock ミッドナイト☆WAR", "Play EXTRA STAGE 5 times", "Score 1400 or more total score" ],
-		"links": [ "ミッドナイト☆WAR" ],
+		"notes": [ "Discount Mission for Forgetting Machine (RoughSketch Remix)" ],
+		"links": [ "ミッドナイト☆WAR", "Forgetting Machine (RoughSketch Remix)" ],
 		"easyurl": "zuAzd77_LSM",
 		"normalurl": "clvmBWmuSe8"
 	},
@@ -2596,8 +2604,12 @@
 		"normal":10,
 		"stars":200,
 		"discount": [ "Score 95.000 or higher on Butterfly", "Score 95.000 or higher on FLOWER (STARDOM Remix)", "Score 95.000 or higher on Gimme a Big Beat" ],
-		"notes": [ "Discount Mission for Bad Boy Birdwatch", "**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ **Garuda**" ],
-		"links": [ "Butterfly", "FLOWER (STARDOM Remix)", "Gimme a Big Beat", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda" ],
+		"notes": [
+			"Discount Mission for Bad Boy Birdwatch",
+			"Discount and Discovery Mission for Garuda (Hommarju Remix)",
+			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ **Garuda**"
+		],
+		"links": [ "Butterfly", "FLOWER (STARDOM Remix)", "Gimme a Big Beat", "Garuda (Hommarju Remix)", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda" ],
 		"easyurl": "bEPzBNHRJFk",
 		"normalurl": "HWgE9XWKxtg"
 	},
@@ -2647,12 +2659,18 @@
 		"label": "CLASS",
 		"thumbnail": "ForgettingMachine.jpg",
 		"remyurl": "Forgetting_Machine",
-		"easy":4,
-		"normal":7,
-		"stars":80,
+		"easy": 4,
+		"normal": 7,
+		"stars": 80,
 		"discount": [ "Unlock Second Heaven -Samba,Samba,SomeBody MIX-", "Clear Second Heaven -Samba,Samba,SomeBody MIX-", "Score 95.000 or higher on Second Heaven -Samba,Samba,SomeBody MIX-" ],
-		"notes": [ "Discount Mission for Hastur", "**DANCERUSH STARDOM GYM**:\nBad Riddim ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ **Forgetting Machine** ⇒ Hastur ⇒ Don't Be Afraid", "Event Mission for ★×10 on DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～'s T-step Training Camp Course", "See also: Forgetting Machine RUNNING MAN EDITION" ],
-		"links": [ "Bad Riddim", "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine", "Hastur", "Don't Be Afraid", "Forgetting Machine RUNNING MAN EDITION" ],
+		"notes": [
+			"Discount Mission for Hastur", 
+			"**DANCERUSH STARDOM GYM**:\nBad Riddim ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ **Forgetting Machine** ⇒ Hastur ⇒ Don't Be Afraid", 
+			"Event Mission for ★×10 on DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～'s T-step Training Camp Course", 
+			"See also: Forgetting Machine RUNNING MAN EDITION",
+			"Discount and Discovery Mission for Forgetting Machine (RoughSketch Remix)"
+		],
+		"links": [ "Bad Riddim", "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine", "Hastur", "Don't Be Afraid", "Forgetting Machine RUNNING MAN EDITION", "Forgetting Machine (RoughSketch Remix)" ],
 		"easyurl": "9i6jh39x3UY",
 		"normalurl": "O3GnjDL-7WE"
 	},
@@ -5123,8 +5141,8 @@
 		"normal": 8,
 		"stars": 30,
 		"unlock": "Finishing its clock in the DANCERUSH STARDOM GYM4 <:gym4:906148246659952670> event.",
-		"notes": [ "**DANCERUSH STARDOM GYM4**:\n**Metric** ⇒ Crystal Clear ⇒ ???" ],
-		"links": [ "Metric", "Crystal Clear" ],
+		"notes": [ "**DANCERUSH STARDOM GYM4**:\n**Metric** ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ ???" ],
+		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME" ],
 		"easyurl": "AHlzK1t5Shk",
 		"normalurl": "1OXuFt2TcBI"
 	},
@@ -5141,9 +5159,63 @@
 		"normal": 8,
 		"stars": 30,
 		"unlock": "Finishing its clock in the DANCERUSH STARDOM GYM4 <:gym4:906148246659952670> event.",
-		"notes": [ "**DANCERUSH STARDOM GYM4**:\nMetric ⇒ **Crystal Clear** ⇒ ???" ],
-		"links": [ "Metric", "Crystal Clear" ],
+		"notes": [ "**DANCERUSH STARDOM GYM4**:\nMetric ⇒ **Crystal Clear** ⇒ WELCOME TO MY GAME ⇒ ???" ],
+		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME" ],
 		"easyurl": "W7ls8-qWDZw",
 		"normalurl": "REIJZpUFKnc"
+	},
+	{
+		"title": "WELCOME TO MY GAME",
+		"artist": "GUCHON",
+		"category": "gym4",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST, Otias ENT Produced",
+		"thumbnail": "welcome_to_my_game_jacket.png",
+		"remyurl": "WELCOME_TO_MY_GAME",
+		"easy": 5,
+		"normal": 7,
+		"stars": 30,
+		"unlock": "Finishing its clock in the DANCERUSH STARDOM GYM4 <:gym4:906148246659952670> event.",
+		"notes": [ "**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ **WELCOME TO MY GAME** ⇒ ???" ],
+		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME" ],
+		"easyurl": "TbD24UIGvOI",
+		"normalurl": "AZyHA-IoQqk"
+	},
+	{
+		"title": "Garuda (Hommarju Remix)",
+		"artist": "Hommarju",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": "garuda_hommarju_remix_jacket.png",
+		"remyurl": "Garuda_(Hommarju_Remix)",
+		"easy": 5,
+		"normal": 9,
+		"stars": 40,
+		"discount": [ "Score 95.000 or higher on Garuda", "Score 95.000 or higher on Small Steps" ],
+		"discovery": [ "Clear Garuda", "Score 700 or more total points", "Clear 2 POPS songs" ],
+		"links": [ "Garuda", "Small Steps" ],
+		"easyurl": "b7xNPKBLJ-Q",
+		"normalurl": "Cx7lTcimDaw"
+	},
+	{
+		"title": "Forgetting Machine (RoughSketch Remix)",
+		"artist": "RoughSketch",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS",
+		"thumbnail": "forgetting_machine_remix_jacket.png",
+		"remyurl": "Forgetting_Machine_(RoughSketch_Remix)",
+		"easy": 5,
+		"normal": 9,
+		"stars": 40,
+		"discount": [ "Score 95.000 or higher on Forgetting Machine", "Score 95.000 or higher on MY NAME IS" ],
+		"discovery": [ "Clear Forgetting Machine", "Score 777 or more total points", "Clear 3 BEMANI songs" ],
+		"links": [ "Forgetting Machine", "MY NAME IS" ],
+		"easyurl": "yHlSbh3OqIk",
+		"normalurl": "T9exZCdsXEE"
 	}
 ]

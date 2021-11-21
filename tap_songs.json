@@ -20960,11 +20960,25 @@
 				{
 					"hr": "2-1-13-3-X",
 					"hrlabel": [[9,1]],
-					"lsd": "GOOD up to x2 combo. Adjust with GOODs/Perfects after x2 combo.",
+					"lsd": "GOOD up to x2 combo. Halfway through the x2 combo, start doing Perfects. After x2",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"lsd": "combo ends, adjust with GOODs/Perfects so that the LS triggers in the middle of",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				},
+				{
+					"lsd": "the double center longs, at the same time as the 2nd (right) long",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"expert": [

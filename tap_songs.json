@@ -322,6 +322,7 @@
 					"last_update": "???"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -1780,6 +1781,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -3804,12 +3806,14 @@
 					"last_update": "20 Jun 2021"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 8 },
 					"flick": { "star": "" }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": false },
@@ -4417,6 +4421,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -6456,6 +6461,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -6486,6 +6492,7 @@
 					"last_update": "???"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -7797,6 +7804,7 @@
 					"last_update": "???"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -8376,11 +8384,11 @@
 					"last_update": "???"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": false },
-					"flick": { "star": "" },
-					"last_update": "???"
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -8550,6 +8558,7 @@
 					"last_update": "21 Feb 2021"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -8890,6 +8899,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -8922,6 +8932,7 @@
 					"last_update": "28 Jun 2020"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -9119,6 +9130,7 @@
 					"flick": { "star": "Rose" }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "" },
 					"slide": { "star": "" },
@@ -9460,6 +9472,14 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Horyeon", "costume": false },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -10164,6 +10184,16 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "15 Nov 2020"
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": "     ''",
+					"hrlabel": [],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -10172,7 +10202,8 @@
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "15 Nov 2020"
 				},
 				{
 					"tap": { "star": "Jessi", "costume": false },
@@ -11576,6 +11607,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -11972,12 +12004,14 @@
 					"last_update": "24 Jan 2021"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 8 },
 					"flick": { "star": "" }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": false },
@@ -12494,6 +12528,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": false },
@@ -12519,6 +12554,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -12571,6 +12607,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -14094,12 +14131,14 @@
 					"last_update": "07 Nov 2021"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": false },
 					"flick": { "star": "" }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 8 },
@@ -14382,6 +14421,7 @@
 					"flick": { "star": "Suah", "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -14413,6 +14453,7 @@
 					"last_update": "15 Aug 2021"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -14628,6 +14669,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -14662,6 +14704,7 @@
 					"last_update": "23 May 2021"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -14682,6 +14725,7 @@
 					"last_update": "???"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -15199,6 +15243,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -15253,6 +15298,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": false },
@@ -15921,6 +15967,7 @@
 					"last_update": "???"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -15959,6 +16006,7 @@
 					"last_update": "???"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -16294,12 +16342,11 @@
 					"last_update": "???"
 				},
 				{
-					"lsd": "         ''",
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
-					"flick": { "star": "" },
-					"last_update": "???"
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -16964,6 +17011,7 @@
 					"flick": { "star": "Rose" }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -17043,6 +17091,7 @@
 					"last_update": "20 Dec 2020"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -17113,6 +17162,7 @@
 					"flick": { "star": "Suah" }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -19971,6 +20021,7 @@
 					"flick": { "star": "Suah" }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -19985,6 +20036,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -21013,13 +21065,11 @@
 					"last_update": "21 Nov 2021"
 				},
 				{
-					"hr": "  ''",
-					"hrlabel": [],
-					"lsd": "   ''",
-					"tap": { "star": "Jessi", "costume": true },
-					"long": { "star": "Beatrice", "costume": true },
+					"lsd": " ",
+					"tap": { "star": "" },
+					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -21078,9 +21128,7 @@
 					"last_update": "21 Jun 2020"
 				},
 				{
-					"hr": "  ''",
-					"hrlabel": [],
-					"lsd": "   ''",
+					"lsd": " ",
 					"tap": { "star": "", "costume": true },
 					"long": { "star": "", "costume": true },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -21102,8 +21150,8 @@
 				},
 				{
 					"label": "Hard(GB)",
-					"hr": "2-1-13-3-X",
-					"hrlabel": [[9,1]],
+					"hr": "    ''",
+					"hrlabel": [],
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
@@ -21159,6 +21207,7 @@
 					"last_update": "11 Jul 2021"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": false },
@@ -22804,6 +22853,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -22849,6 +22899,7 @@
 					"flick": { "star": "Aresmus", "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -23225,12 +23276,14 @@
 					"flick": { "star": "Aresmus" }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": false },
 					"flick": { "star": "" }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 8 },
@@ -23245,6 +23298,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -23266,6 +23320,7 @@
 			"normal": [
 				{
 					"label": "Normal/Alt",
+					"lsd": "None (Also used in GB using Rose (L))",
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Horyeon", "costume": true },
@@ -23285,16 +23340,16 @@
 					"label": "Hard(GB)",
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Dr. Trasher" },
-					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"slide": { "star": "Nicol" },
 					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
 				},
 				{
-					"tap": { "star": "Arwen", "costume": true },
-					"long": { "star": "Dr. Trasher" },
-					"slide": { "star": "Nicol" },
-					"flick": { "star": "Rose", "leader": true },
-					"last_update": "???"
+					"lsd": " ",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"flick": { "star": "" }
 				}
 			],
 			"expert": [
@@ -23446,6 +23501,9 @@
 			],
 			"normal": [
 				{
+					"hr": "1-2-1-X",
+					"hrlabel": [[6,1]],
+					"lsd": "GOOD up to x2 combo.",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher", "skill": 9 },
 					"slide": { "star": "Titana", "leader": true },
@@ -25595,6 +25653,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": false },
@@ -25917,6 +25976,7 @@
 					"last_update": "05 Sep 2021"
 				},
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
@@ -27129,6 +27189,8 @@
 			],
 			"normal": [
 				{
+					"hr": "1-X-X",
+					"hrlabel": [[2,1],[4,1]],
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Titana", "leader": true },

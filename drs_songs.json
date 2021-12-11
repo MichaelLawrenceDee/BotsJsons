@@ -5254,5 +5254,26 @@
 		"links": [ "Forgetting Machine", "MY NAME IS" ],
 		"easyurl": "yHlSbh3OqIk",
 		"normalurl": "T9exZCdsXEE"
+	},
+	{
+		"title": "ドーパミン (STARDOM Remix)",
+		"alias": [ "Dopamine" ],
+		"artist": "ARM (IOSYS)",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS, FIVE PIECE RECORDS",
+		"thumbnail": "dopamine_stardom_mix_jacket.png",
+		"remyurl": "Dopamine_(STARDOM_Remix)",
+		"easy": 7,
+		"normal": 10,
+		"stars": 160,
+		"unlock": "Clear ドーパミン (STARDOM Remix)",
+		"singlediscount": true,
+		"discount": [ "Clear ドーパミン (STARDOM Remix) 2 times", "Clear ドーパミン (STARDOM Remix) 2 times", "Clear ドーパミン (STARDOM Remix) 2 times" ],
+		"discovery": [ "Clear ドーパミン (STARDOM Remix) 2 times" ],
+		"notes": [ "This song can be played in RANDOM SELECT during the RANDOM CHALLENGE Event." ],
+		"easyurl": "GOYWZk1LAZQ",
+		"normalurl": "7kZE_ockeFw"
 	}
 ]

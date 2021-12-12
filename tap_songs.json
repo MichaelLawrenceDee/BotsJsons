@@ -19176,27 +19176,8 @@
 				}
 			],
 			"hard": [
-				{
-					"label": "Hard(GB)",
-					"hr": "3-X-X-X",
-					"hrlabel": [[2,1],[4,1],[6,1]],
-					"lsd": "GOOD up to x2. After x2 ends, Perfect until Leader Skill activates.",
-					"tap": { "star": "Arwen", "costume": true },
-					"long": { "star": "Beatrice", "leader": true },
-					"slide": { "star": "Paris Upton", "costume": true },
-					"flick": { "star": "Suah" },
-					"last_update": "???"
-				}
 			],
 			"expert": [
-				{
-					"label": "Expert(GB)",
-					"tap": { "star": "Arwen", "costume": true },
-					"long": { "star": "Jaguar", "costume": true },
-					"slide": { "star": "Paris Upton", "costume": true },
-					"flick": { "star": "Rose", "leader": true },
-					"last_update": "???"
-				}
 			]
 		}
 	},

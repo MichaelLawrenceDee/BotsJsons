@@ -740,6 +740,14 @@
 					"last_update": "12 Dec 2021"
 				},
 				{
+					"hr": "  ''",
+					"hrlabel": [],
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
 					"label": "Easy(GB)",
 					"hr": "  ''",
 					"hrlabel": [],
@@ -10857,6 +10865,14 @@
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -15689,7 +15705,6 @@
 			],
 			"hard": [
 				{
-					"lsd": "After 1st LS, 25 Perfects",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
@@ -16935,7 +16950,7 @@
 					"last_update": "???"
 				},
 				{
-					"label": "Normal/Alt",
+					"label": "Normal(GB)",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },

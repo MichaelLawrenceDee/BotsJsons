@@ -1809,7 +1809,7 @@
 					"hrlabel": [[2,1]],
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Dr. Trasher" },
-					"slide": { "star": "Nicol", "skill": 9 },
+					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
@@ -5345,6 +5345,24 @@
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "HT Czerny" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				},
+				{
+					"hr": "1-13-X-X-X",
+					"hrlabel": [[2,2],[5,1],[7,1],[9,1]],
+					"lsd": "Perfect until x2 combo",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Jaguar", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -22672,6 +22690,15 @@
 				}
 			],
 			"hard": [
+				{
+					"label": "Hard(GB)",
+					"hr": "2-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			],
 			"expert": [
 				{

@@ -167,6 +167,7 @@
 					"label": "Normal(GB)",
 					"hr": "3-2-X",
 					"hrlabel": [[4,1]],
+					"lsd": "Perfect (and GOOD slide) until x2 combo",
 					"tap": { "star": "Patra" },
 					"long": { "star": "Valentine", "costume": true },
 					"slide": { "star": "Horyeon", "costume": false, "skill": 8 },
@@ -7975,6 +7976,7 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
+					"lsd": "None (Also used in GB)",
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Dr. Trasher", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
@@ -20933,6 +20935,14 @@
 					"long": { "star": "" },
 					"slide": { "star": "" },
 					"flick": { "star": "" }
+				},
+				{
+					"lsd": "Perfect (GOOD taps) up to x2 combo.",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [

@@ -78,7 +78,7 @@
 		"emoji": "694822148149084231",
 		"rates": [ 0, 0, 0.885, 0.1, 0.015 ],
 		"doublerates": [ 0, 0, 0.82, 0.15, 0.03 ],
-		"pickup": [ "Elly", "Titana", "Rose", "Aria", "Joy" ],
+		"pickup": [ "Lucifer", "Beatrice", "Django", "Horyeon", "Paris Upton" ],
 		"color": "#0c9362",
 		"singlecost": 90,
 		"10cast": true

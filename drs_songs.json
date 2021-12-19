@@ -5275,5 +5275,17 @@
 		"notes": [ "This song can be played in RANDOM SELECT during the RANDOM CHALLENGE Event." ],
 		"easyurl": "GOYWZk1LAZQ",
 		"normalurl": "7kZE_ockeFw"
+	},
+	{
+		"title": "Aftermath",
+		"artist": "BEMANI Sound Team \"猫叉Master & あさき & Yvya\"",
+		"artistalias": [ "BST Nekosata Master", "Asaki" ],
+		"category": "midsummerbattle2021",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Aftermath.png",
+		"remyurl": "Aftermath",
+		"easy": 5,
+		"normal": 8
 	}
 ]

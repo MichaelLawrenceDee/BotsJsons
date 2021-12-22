@@ -9601,6 +9601,16 @@
 					"slide": { "star": "Horyeon", "costume": false },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "08 Sep 2019"
+				},
+				{
+					"label": "Easy/Alt",
+					"hr": "1-13-X",
+					"hrlabel": [[2,2],[5,1]],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -16117,6 +16127,17 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": "1-2-X",
+					"hrlabel": [[4,1]],
+					"lsd": "Follow top meta delay",
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -18749,6 +18770,14 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			]
 		}
 	},
@@ -26340,6 +26369,14 @@
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
 					"flick": { "star": "HT Senah", "leader": true }
+				},
+				{
+					"label": "Hard(GB)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 6 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -29176,7 +29213,7 @@
 			],
 			"expert": [
 				{
-					"hr": "3-1-X-13-X-X",
+					"hr": "3-1-X-31-X-X",
 					"hrlabel": [[4,1],[9,1],[11,1]],
 					"lsd": "GOOD, and a few Perfects up to Rose skill",
 					"tap": { "star": "Lucifer" },

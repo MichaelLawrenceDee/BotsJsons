@@ -1707,9 +1707,9 @@
 		"label": "TROP",
 		"thumbnail": "Be%20My%20Baby.jpg",
 		"remyurl": "Be_My_Baby",
-		"easy":4,
-		"normal":8,
-		"stars":100,
+		"easy": 4,
+		"normal": 8,
+		"stars": 100,
 		"unlock": "Unlocking Thank You Merry Christmas -DANCERUSH Mix- with <:star:575161446904758272> and clearing it.",
 		"discount": [ "Get a Full Combo<:fc:572813577237299231> on Special One", "Get a Full Combo<:fc:572813577237299231> on As I go" ],
 		"discovery": [ "Get 5 or less BADs each on any 10 songs (except EXTRA STAGE)", "Score 90.000 or higher on True Blue (STARDOM Remix)", "Score 90.000 or higher on Don't Stop!!" ],
@@ -2778,8 +2778,12 @@
 		"normal":8,
 		"stars":80,
 		"discount": [ "Clear Wowie Zowie!", "Unlock Wowie Zowie!" ],
-		"notes": [ "Discount Mission for Fire Spirit", "**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ **Night & Day** ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free" ],
-		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free" ],
+		"notes": [
+			"Discount Mission for Fire Spirit",
+			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ **Night & Day** ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free",
+			"Discovery Mission for DANCE ALL NIGHT"
+		],
+		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "DANCE ALL NIGHT" ],
 		"easyurl": "0eF-10_d8gc",
 		"normalurl": "KONxfiR-tHM"
 	},
@@ -3007,8 +3011,8 @@
 		"folders": [ "BEMANI" ],
 		"thumbnail": "Voltississimo.png",
 		"remyurl": "Voltississimo_(DANCERUSH_Style)",
-		"easy":4,
-		"normal":8,
+		"easy": 4,
+		"normal": 8,
 		"notes": [ "Discovery Mission for Polar Night" ],
 		"links": [ "Polar Night" ],
 		"easyurl": "MqU0OhR-f-U",
@@ -3378,7 +3382,9 @@
 		"normal": 8,
 		"stars": 80,
 		"easyurl": "N4CV3wfQ-mw",
-		"normalurl": "iXZf3NrV1YY"
+		"normalurl": "iXZf3NrV1YY",
+		"notes": [ "Discount Mission for Insomniac Nights" ],
+		"links": [ "Insomniac Nights" ]
 	},
 	{
 		"title": "Butterfly Twist",
@@ -3406,7 +3412,9 @@
 		"normal": 9,
 		"stars": 80,
 		"easyurl": "DCirpwYFcs8",
-		"normalurl": "HgTMpoHAXeY"
+		"normalurl": "HgTMpoHAXeY",
+		"notes": [ "Discount Mission for DANCE ALL NIGHT" ],
+		"links": [ "DANCE ALL NIGHT" ]
 	},
 	{
 		"title": "ラブキラ☆スプラッシュ",
@@ -5127,7 +5135,9 @@
 		"easy": 4,
 		"normal": 7,
 		"easyurl": "c8hIAAmCstw",
-		"normalurl": "lRSkOpRLYK4"
+		"normalurl": "lRSkOpRLYK4",
+		"notes": [ "Discovery Mission for Insomniac Nights" ],
+		"links": [ "Insomniac Nights" ]
 	},
 	{
 		"title": "Metric",
@@ -5233,7 +5243,8 @@
 		"stars": 40,
 		"discount": [ "Score 95.000 or higher on Garuda", "Score 95.000 or higher on Small Steps" ],
 		"discovery": [ "Clear Garuda", "Score 700 or more total points", "Clear 2 POPS songs" ],
-		"links": [ "Garuda", "Small Steps" ],
+		"notes": [ "Unlocks Forgetting Machine (RoughSketch Remix) when unlocked with <:star:575161446904758272> and played", "\n**Discovery Chain**:\n**Garuda (Hommarju Remix)** ⇒ Forgetting Machine (RoughSketch Remix)" ],
+		"links": [ "Garuda", "Small Steps", "Garuda (Hommarju Remix)", "Forgetting Machine (RoughSketch Remix)" ],
 		"easyurl": "b7xNPKBLJ-Q",
 		"normalurl": "Cx7lTcimDaw"
 	},
@@ -5249,9 +5260,11 @@
 		"easy": 5,
 		"normal": 9,
 		"stars": 40,
+		"unlock": "Unlocking Garuda (Hommarju Remix) with <:star:575161446904758272> and clearing it.",
 		"discount": [ "Score 95.000 or higher on Forgetting Machine", "Score 95.000 or higher on MY NAME IS" ],
 		"discovery": [ "Clear Forgetting Machine", "Score 777 or more total points", "Clear 3 BEMANI songs" ],
-		"links": [ "Forgetting Machine", "MY NAME IS" ],
+		"notes": [ "\n**Discovery Chain**:\nGaruda (Hommarju Remix) ⇒ **Forgetting Machine (RoughSketch Remix)**" ],
+		"links": [ "Garuda (Hommarju Remix)", "Forgetting Machine (RoughSketch Remix)", "Forgetting Machine", "MY NAME IS" ],
 		"easyurl": "yHlSbh3OqIk",
 		"normalurl": "T9exZCdsXEE"
 	},
@@ -5286,6 +5299,46 @@
 		"thumbnail": "Aftermath.png",
 		"remyurl": "Aftermath",
 		"easy": 5,
-		"normal": 8
+		"normal": 8,
+		"easyurl": "m6qA26Ae7-M",
+		"normalurl": "zhZBNopZEfg"
+	},
+	{
+		"title": "DANCE ALL NIGHT",
+		"artist": "Sota Fujimori",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "DANCE_ALL_NIGHT.png",
+		"remyurl": "DANCE_ALL_NIGHT",
+		"easy": 5,
+		"normal": 8,
+		"stars": 100,
+		"discount": [ "Clear 1 LESSON", "Score 90.000 or higher on Our Soul" ],
+		"discovery": [ "Score 450 or more total points", "Score 90.000 or higher on Night & Day", "Clear 3 EDM songs" ],
+		"notes": [ "Unlocks Insomniac Nights when unlocked with <:star:575161446904758272> and played", "\n**Discovery Chain**:\n**DANCE ALL NIGHT** ⇒ Insomniac Nights ⇒ ???" ],
+		"links": [ "Our Soul", "Night & Day", "DANCE ALL NIGHT", "Insomniac Nights" ],
+		"easyurl": "pJbMKsAgZGg",
+		"normalurl": "9VVj_olP6Io"
+	},
+	{
+		"title": "Insomniac Nights",
+		"artist": "Relect",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER, Otias ENT Produced",
+		"thumbnail": "insomniac_nights_jacket.png",
+		"remyurl": "Insomniac_Nights",
+		"easy": 5,
+		"normal": 9,
+		"stars": 100,
+		"unlock": "Unlocking DANCE ALL NIGHT with <:star:575161446904758272> and clearing it.",
+		"discount": [ "Clear 3 POPS songs", "Score 95.000 or higher on ATRAX" ],
+		"discovery": [ "Clear a song using a dance guide", "Obtain a total of 2022 or more PERFECTs", "Score 90.000 or higher on Triple Cross" ],
+		"notes": [ "\n**Discovery Chain**:\nDANCE ALL NIGHT ⇒ **Insomniac Nights** ⇒ ???" ],
+		"links": [ "DANCE ALL NIGHT", "Insomniac Nights", "ATRAX", "Triple Cross" ],
+		"easyurl": "9Kr4QYubYdM",
+		"normalurl": "8Nlasz4anQo"
 	}
 ]

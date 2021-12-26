@@ -10788,7 +10788,7 @@
 					"hrlabel": [[2,1]],
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
-					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"slide": { "star": "Horyeon", "costume": false },
 					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
 				}
@@ -24454,6 +24454,14 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Poet", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				}
 			],
 			"normal": [
 			],
@@ -28404,6 +28412,14 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank | Potential GB meta)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
 			],
 			"normal": [
 				{
@@ -28415,6 +28431,16 @@
 					"slide": { "star": "Ava", "leader": true },
 					"flick": { "star": "Rose" },
 					"last_update": "04 Apr 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": "    ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -28436,6 +28462,14 @@
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Titana", "leader": true },
 					"flick": { "star": "Rose" }
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"expert": [

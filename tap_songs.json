@@ -884,7 +884,7 @@
 					"label": "Normal(GB)",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "leader": true },
-					"slide": { "star": "Nicol", "skill": 9 },
+					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true },
 					"last_update": "???"
 				}
@@ -2010,6 +2010,7 @@
 					"last_update": "???"
 				},
 				{
+					"lsd": "None (Use if Jessi 9 is not enhanced)",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Aria", "costume": true, "skill": 8 },
 					"slide": { "star": "Dominiciel" },
@@ -4712,8 +4713,9 @@
 					"label": "Normal/Alt",
 					"hr": "1-3-2-1-13-1",
 					"hrlabel": [[8,2]],
-					"tap": { "star": "Jessi", "costume": false },
-					"long": { "star": "Beatrice", "costume": true },
+					"lsd": "None (CJessi 9/Beatrice > CJessi/Aria 8 > Jessi/Beatrice > Elly/Aria)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Aria", "costume": true, "skill": 8 },
 					"slide": { "star": "Dominiciel" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "11 Jul 2021"
@@ -4721,11 +4723,19 @@
 				{
 					"hr": "     ''",
 					"hrlabel": [],
-					"tap": { "star": "Jessi", "costume": true },
-					"long": { "star": "Aria", "costume": true, "skill": 8 },
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "11 Apr 2021"
+				},
+				{
+					"hr": "     ''",
+					"hrlabel": [],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Aria", "costume": true },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
 					"hr": "     ''",
@@ -4734,14 +4744,6 @@
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
-				},
-				{
-					"hr": "     ''",
-					"hrlabel": [],
-					"tap": { "star": "Elly" },
-					"long": { "star": "Aria", "costume": true },
-					"slide": { "star": "Dominiciel" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
@@ -9378,7 +9380,7 @@
 					"label": "Easy/Alt",
 					"hr": "1-X-13",
 					"hrlabel": [[2,1],[4,2]],
-					"lsd": "Perfect 1 Vibrato Long (Also used in GB using Rose (L) if no Dominiciel)",
+					"lsd": "Perfect 1 Vibrato Long (Possible GB meta using Rose (L))",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
@@ -9419,6 +9421,14 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": " ",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "Rose", "leader": true }
 				}
 			],
 			"expert": [
@@ -9623,7 +9633,7 @@
 					"last_update": "08 Sep 2019"
 				},
 				{
-					"label": "Easy/Alt",
+					"label": "Easy(GB)",
 					"hr": "1-13-X",
 					"hrlabel": [[2,2],[5,1]],
 					"tap": { "star": "Jessi", "costume": true },
@@ -9675,7 +9685,7 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
-					"lsd": "None (Also used in GB using Rose (L) if no Dominiciel)",
+					"lsd": "None (Also used in GB using Rose (L))",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -10499,6 +10509,15 @@
 			"easy": [
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"hr": "1-2-1-X",
+					"hrlabel": [[6,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			],
 			"hard": [
 				{
@@ -17552,12 +17571,11 @@
 					"last_update": "???"
 				},
 				{
-					"lsd": "                   ''",
-					"tap": { "star": "Carol", "costume": true },
-					"long": { "star": "Raphael" },
+					"lsd": " ",
+					"tap": { "star": "" },
+					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "leader": true },
-					"flick": { "star": "Suah" },
-					"last_update": "???"
+					"flick": { "star": "" }
 				}
 			],
 			"hard": [
@@ -18283,6 +18301,17 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"hr": "2-X",
+					"hrlabel": [[2,1]],
+					"lsd": "10 Perfects (?)",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"hard": [
 				{
@@ -19627,6 +19656,7 @@
 					"label": "Normal/Alt",
 					"hr": "1-X",
 					"hrlabel": [[2,1]],
+					"lsd": "None (Also used in GB using Rose (L))",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Titana" },
@@ -24924,6 +24954,14 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -26840,6 +26878,14 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "14 Feb 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Slasher", "costume": true }
 				}
 			],
 			"hard": [
@@ -26854,6 +26900,13 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true }
+				}
 			]
 		}
 	},

@@ -1,0 +1,749 @@
+[
+	{
+		"name": "commands",
+		"description": "List down all the commands of the bot",
+		"global": true,
+		"category": "Information",
+		"examples": [
+			"<>commands"
+		]
+	},
+	{
+		"name": "viewcountries",
+		"alias": ["countries"],
+		"description": "Get a list of countries in the server.",
+		"global": false,
+		"category": "Location",
+		"examples": [
+			"<>viewcountries"
+		]
+	},
+	{
+		"name": "viewregions",
+		"description": "Get a list of regions/states of a country in the server.",
+		"options": [
+			{
+				"name": "country",
+				"type": "STRING",
+				"description": "View country's regions/states",
+				"required": true
+			}
+		],
+		"global": false,
+		"category": "Location",
+		"alias": ["states", "regions", "viewStates"],
+		"examples": [
+			"<>viewRegions [country name/ country code]"
+		]
+	},
+	{
+		"name": "viewlocations",
+		"description": "Get a list of arcade location roles in the server.",
+		"options": [
+			{
+				"name": "location",
+				"type": "STRING",
+				"description": "Get a list of arcade locations from this region/state/country",
+				"required": true
+			},
+			{
+				"name": "country",
+				"type": "STRING",
+				"description": "The country the location is in, for easier filtering",
+				"required": false
+			}
+		],
+		"global": false,
+		"category": "Location",
+		"alias": ["locations", "locs"],
+		"examples": [
+			"<>viewlocations [state/region name/ state/region code], [country name/ country code]"
+		]
+	},
+	{
+		"name": "rank",
+		"description": "Add/remove a location role from yourself",
+		"options": [
+			{
+				"name": "location",
+				"type": "STRING",
+				"description": "Location role to add/remove",
+				"required": true
+			}
+		],
+		"global": false,
+		"category": "Location",
+		"alias": ["role"],
+		"examples": [
+			"<>rank [location name/ number selection] - Used after calling <>selectRegion or <>viewlocations to select a rank/role to add/remove from yourself. You can also select multiple roles separated with a comma (,).",
+			"<>rank [location name/ country code (if no regions/states)/ keyword search] - Used to search a role in the server. If only 1 result is found, the role will be added/removed from yourself. Otherwise, the search results will be displayed.",
+			"<>rank [location name/ country name/ country code/ number selection] - Used after calling <>rank that returns multiple results, you can only pick 1 result at a time."
+		]
+	},
+	{
+		"name": "video",
+		"description": "Search a song's chart from youtube. Usually from takepu dancerush/Eijiken channel.",
+		"options": [
+			{
+				"name": "title",
+				"type": "STRING",
+				"description": "Title of song to search",
+				"required": true
+			},
+			{
+				"name": "difficulty",
+				"type": "STRING",
+				"description": "Song difficulty",
+				"required": true,
+				"choices": [
+					{
+						"name": "Easy/かんたん",
+						"value": "easy"
+					},
+					{
+						"name": "Normal/ふつう",
+						"value": "normal"
+					}
+				]
+			},
+			{
+				"name": "guide",
+				"type": "STRING",
+				"description": "Dance guide for a song. Type \"default\" for no dance guide for a chart that uses one",
+				"required": false
+			}
+		],
+		"global": true,
+		"category": "Mottie",
+		"alias": ["chart", "viewchart", "vid", "takepu", "eijiken"],
+		"examples": [
+			"<>takepu [song name] - Get a song's charts, defaults to normal chart.",
+			"<>takepu [easy | normal | easyguide:name | normalguide:name] [song name] - Get a song's chart of selected difficulty. Use 'guide:name' to include a dance guide"
+		]
+	},
+	{
+		"name": "song",
+		"description": "Search a song's info, using its title or matching filters.",
+		"options": [
+			{
+				"name": "eng",
+				"type": "SUB_COMMAND",
+				"description": "Search a song's info, using its title or matching filters.",
+				"options": [
+					{
+						"name": "title",
+						"type": "STRING",
+						"description": "Title of song to search. Use \"*\" to use only filters.",
+						"required": true
+					},
+					{
+						"name": "artist",
+						"type": "STRING",
+						"description": "Song Artist",
+						"required": false
+					},
+					{
+						"name": "folders",
+						"type": "STRING",
+						"description": "Folder(s) or Song genre",
+						"required": false,
+						"choices": [
+							{
+								"name": "BEMANI",
+								"value": "bemani"
+							},
+							{
+								"name": "EDM",
+								"value": "edm"
+							},
+							{
+								"name": "POPS",
+								"value": "pops"
+							},
+							{
+								"name": "Songs with MV",
+								"value": "mv"
+							},
+							{
+								"name": "Spinnin'",
+								"value": "spin"
+							},
+							{
+								"name": "LESSON/レッスン",
+								"value": "lesson"
+							},
+							{
+								"name": "TUTORIAL/遊び方",
+								"value": "tutorial"
+							}
+						]
+					},
+					{
+						"name": "label",
+						"type": "STRING",
+						"description": "Custom BEMANI icons in the song's jackets",
+						"required": false,
+						"choices": [
+							{
+								"name": "CLASS",
+								"value": "class"
+							},
+							{
+								"name": "DIVING GHOST",
+								"value": "ghost"
+							},
+							{
+								"name": "FIVE PIECE RECORDS",
+								"value": "fivepiece"
+							},
+							{
+								"name": "SUPER THUNDER",
+								"value": "thunder"
+							},
+							{
+								"name": "TROP",
+								"value": "trop"
+							},
+							{
+								"name": "Otias ENT Produced",
+								"value": "otias"
+							},
+							{
+								"name": "(モッティー)",
+								"value": "mottie"
+							}
+						]
+					},
+					{
+						"name": "easy",
+						"type": "INTEGER",
+						"description": "Level of song on Easy/かんたん difficulty",
+						"required": false
+					},
+					{
+						"name": "normal",
+						"type": "INTEGER",
+						"description": "Level of song on Normal/ふつう difficulty",
+						"required": false
+					},
+					{
+						"name": "level",
+						"type": "INTEGER",
+						"description": "Level of song on any difficulty",
+						"required": false
+					},
+					{
+						"name": "random",
+						"type": "BOOLEAN",
+						"description": "Set to true to select a random song from the matching results (defaults to false)",
+						"required": false
+					}
+				]
+			},
+			{
+				"name": "中文",
+				"type": "SUB_COMMAND",
+				"description": "輸入一首歌曲的名稱（或簡稱、代名詞）來搜尋資料。",
+				"options": [
+					{
+						"name": "曲名",
+						"type": "STRING",
+						"description": "必填。輸入你想搜尋的歌名，如果不想指定歌名搜尋的話，請輸入「*」。",
+						"required": true
+					},
+					{
+						"name": "作曲者",
+						"type": "STRING",
+						"description": "作曲者",
+						"required": false
+					},
+					{
+						"name": "歌曲類型",
+						"type": "STRING",
+						"description": "歌曲資料夾或是歌曲類型。",
+						"required": false,
+						"choices": [
+							{
+								"name": "BEMANI",
+								"value": "bemani"
+							},
+							{
+								"name": "EDM",
+								"value": "edm"
+							},
+							{
+								"name": "POPS",
+								"value": "pops"
+							},
+							{
+								"name": "Music Video 收錄曲",
+								"value": "mv"
+							},
+							{
+								"name": "Spinnin'",
+								"value": "spin"
+							},
+							{
+								"name": "課程",
+								"value": "lesson"
+							},
+							{
+								"name": "遊戲方法",
+								"value": "tutorial"
+							}
+						]
+					},
+					{
+						"name": "label",
+						"type": "STRING",
+						"description": "歌曲所屬的虛擬廠牌。通常會標記在歌曲封面。",
+						"required": false,
+						"choices": [
+							{
+								"name": "CLASS",
+								"value": "class"
+							},
+							{
+								"name": "DIVING GHOST",
+								"value": "ghost"
+							},
+							{
+								"name": "FIVE PIECE RECORDS",
+								"value": "fivepiece"
+							},
+							{
+								"name": "SUPER THUNDER",
+								"value": "thunder"
+							},
+							{
+								"name": "TROP",
+								"value": "trop"
+							},
+							{
+								"name": "Otias ENT Produced",
+								"value": "otias"
+							},
+							{
+								"name": "(モッティー)",
+								"value": "mottie"
+							}
+						]
+					},
+					{
+						"name": "簡單",
+						"type": "INTEGER",
+						"description": "等級（簡單難度）",
+						"required": false
+					},
+					{
+						"name": "普通",
+						"type": "INTEGER",
+						"description": "等級（普通難度）",
+						"required": false
+					},
+					{
+						"name": "等級",
+						"type": "INTEGER",
+						"description": "等級（任何難度）",
+						"required": false
+					},
+					{
+						"name": "隨機",
+						"type": "BOOLEAN",
+						"description": "輸入「true」以開啟隨機選曲，會在符合搜尋條件的範圍內隨機選出一首歌。預設為「false（關閉）」。",
+						"required": false
+					}
+				]
+			}
+		],
+		"global": true,
+		"category": "Mottie",
+		"alias": ["songsearch"],
+		"examples": [
+			"<>song [song name]"
+		]
+	},
+	{
+		"name": "serverinvite",
+		"description": "Receive a DM for an invite for the DANCERUSH STARDOM server.",
+		"global": true,
+		"category": "Invite",
+		"examples": [
+			"<>serverinvite"
+		]
+	},
+	{
+		"name": "invite",
+		"description": "Receive a DM for the bot's invite for your server.",
+		"global": true,
+		"category": "Invite",
+		"alias": ["botinvite"],
+		"examples": [
+			"<>invite"
+		]
+	},
+	{
+		"name": "whitelist",
+		"description": "Limit a bot to specific channels. Leave id to clear whitelist.",
+		"options": [
+			{
+				"name": "ids",
+				"type": "STRING",
+				"description": "channel ID to limit bot in, separated by commas.",
+				"required": false
+			}
+		],
+		"global": true,
+		"category": "Information",
+		"examples": [
+			"<>whitelist - Clear whitelist",
+			"<>whitelist [channel IDs] - Limit bot to inputted channel IDs, separated by commas."
+		]
+	},
+	{
+		"name": "checklocation",
+		"description": "Check the list of all players in your area",
+		"options": [
+			{
+				"name": "location",
+				"type": "STRING",
+				"description": "Location to check",
+				"required": false
+			}
+		],
+		"global": false,
+		"category": "Location",
+		"alias": ["locationcheck", "loccheck", "checkloc", "meet"],
+		"examples": [
+			"<>checklocation"
+		]
+	},
+	{
+		"name": "announce",
+		"description": "Use Mottie to post in #announcements channel.",
+		"options": [
+			{
+				"name": "message",
+				"type": "STRING",
+				"description": "Use em<emoji_id/name_here> to insert animated emojis",
+				"required": true
+			}
+		],
+		"global": false,
+		"category": "mottie",
+		"defaultPermission": false,
+		"permissions": [
+			{
+				"id": "571920867752149002",
+				"type": "ROLE",
+				"permission": true
+			},
+			{
+				"id": "568621905632952331",
+				"type": "ROLE",
+				"permission": true
+			},
+			{
+				"id": "679245884457746433",
+				"type": "ROLE",
+				"permission": true
+			},
+			{
+				"id": "174032065371570176",
+				"type": "USER",
+				"permission": true
+			}
+		],
+		"examples": [
+			"<>announce Hello welcome!"
+		]
+	},
+	{
+		"name": "songs",
+		"description": "Search a list of songs of matching filters.",
+		"options": [
+			{
+				"name": "eng",
+				"type": "SUB_COMMAND",
+				"description": "Search a song's info, using its title or matching filters.",
+				"options": [
+					{
+						"name": "title",
+						"type": "STRING",
+						"description": "Title of song to search. Use \"*\" to use only filters.",
+						"required": true
+					},
+					{
+						"name": "artist",
+						"type": "STRING",
+						"description": "Song Artist",
+						"required": false
+					},
+					{
+						"name": "folders",
+						"type": "STRING",
+						"description": "Folder(s) or Song genre",
+						"required": false,
+						"choices": [
+							{
+								"name": "BEMANI",
+								"value": "bemani"
+							},
+							{
+								"name": "EDM",
+								"value": "edm"
+							},
+							{
+								"name": "POPS",
+								"value": "pops"
+							},
+							{
+								"name": "Songs with MV",
+								"value": "mv"
+							},
+							{
+								"name": "Spinnin'",
+								"value": "spin"
+							},
+							{
+								"name": "LESSON/レッスン",
+								"value": "lesson"
+							},
+							{
+								"name": "TUTORIAL/遊び方",
+								"value": "tutorial"
+							}
+						]
+					},
+					{
+						"name": "label",
+						"type": "STRING",
+						"description": "Custom BEMANI icons in the song's jackets",
+						"required": false,
+						"choices": [
+							{
+								"name": "CLASS",
+								"value": "class"
+							},
+							{
+								"name": "DIVING GHOST",
+								"value": "ghost"
+							},
+							{
+								"name": "FIVE PIECE RECORDS",
+								"value": "fivepiece"
+							},
+							{
+								"name": "SUPER THUNDER",
+								"value": "thunder"
+							},
+							{
+								"name": "TROP",
+								"value": "trop"
+							},
+							{
+								"name": "Otias ENT Produced",
+								"value": "otias"
+							},
+							{
+								"name": "(モッティー)",
+								"value": "mottie"
+							}
+						]
+					},
+					{
+						"name": "easy",
+						"type": "INTEGER",
+						"description": "Level of song on Easy/かんたん difficulty",
+						"required": false
+					},
+					{
+						"name": "normal",
+						"type": "INTEGER",
+						"description": "Level of song on Normal/ふつう difficulty",
+						"required": false
+					},
+					{
+						"name": "level",
+						"type": "INTEGER",
+						"description": "Level of song on any difficulty",
+						"required": false
+					}
+				]
+			},
+			{
+				"name": "中文",
+				"type": "SUB_COMMAND",
+				"description": "輸入一首歌曲的名稱（或簡稱、代名詞）來搜尋資料。",
+				"options": [
+					{
+						"name": "曲名",
+						"type": "STRING",
+						"description": "必填。輸入你想搜尋的歌名，如果不想指定歌名搜尋的話，請輸入「*」。",
+						"required": true
+					},
+					{
+						"name": "作曲者",
+						"type": "STRING",
+						"description": "作曲者",
+						"required": false
+					},
+					{
+						"name": "歌曲類型",
+						"type": "STRING",
+						"description": "歌曲資料夾或是歌曲類型。",
+						"required": false,
+						"choices": [
+							{
+								"name": "BEMANI",
+								"value": "bemani"
+							},
+							{
+								"name": "EDM",
+								"value": "edm"
+							},
+							{
+								"name": "POPS",
+								"value": "pops"
+							},
+							{
+								"name": "Music Video 收錄曲",
+								"value": "mv"
+							},
+							{
+								"name": "Spinnin'",
+								"value": "spin"
+							},
+							{
+								"name": "課程",
+								"value": "lesson"
+							},
+							{
+								"name": "遊戲方法",
+								"value": "tutorial"
+							}
+						]
+					},
+					{
+						"name": "label",
+						"type": "STRING",
+						"description": "歌曲所屬的虛擬廠牌。通常會標記在歌曲封面。",
+						"required": false,
+						"choices": [
+							{
+								"name": "CLASS",
+								"value": "class"
+							},
+							{
+								"name": "DIVING GHOST",
+								"value": "ghost"
+							},
+							{
+								"name": "FIVE PIECE RECORDS",
+								"value": "fivepiece"
+							},
+							{
+								"name": "SUPER THUNDER",
+								"value": "thunder"
+							},
+							{
+								"name": "TROP",
+								"value": "trop"
+							},
+							{
+								"name": "Otias ENT Produced",
+								"value": "otias"
+							},
+							{
+								"name": "(モッティー)",
+								"value": "mottie"
+							}
+						]
+					},
+					{
+						"name": "簡單",
+						"type": "INTEGER",
+						"description": "等級（簡單難度）",
+						"required": false
+					},
+					{
+						"name": "普通",
+						"type": "INTEGER",
+						"description": "等級（普通難度）",
+						"required": false
+					},
+					{
+						"name": "等級",
+						"type": "INTEGER",
+						"description": "等級（任何難度）",
+						"required": false
+					}
+				]
+			}
+		],
+		"global": true,
+		"category": "Mottie",
+		"alias": ["search", "match", "matches"],
+		"examples": [
+			"<>songs [song name]|artist/label/folders/easy/normal/level:value",
+			"<>songs | artist: TAKA | level: 5 - Get all songs that has \"TAKA\" in the artist name, and where the Easy/Normal difficulty is 5.",
+			"<>songs 50th Memorial | easy: 2 - Get all songs with \"50th\" or \"Memorial\" in its name and is Level 2 in Easy difficulty."
+		]
+	},
+	{
+		"name": "mottiesays",
+		"description": "Use Mottie to post in a channel of your choice.",
+		"options": [
+			{
+				"name": "message",
+				"type": "STRING",
+				"description": "Use :emoji_id/name_here: to insert animated/global emojis",
+				"required": true
+			},
+			{
+				"name": "channel",
+				"type": "CHANNEL",
+				"description": "Channel to announce in",
+				"required": true
+			}
+		],
+		"global": false,
+		"category": "mottie",
+		"defaultPermission": false,
+		"permissions": [
+			{
+				"id": "571920867752149002",
+				"type": "ROLE",
+				"permission": true
+			},
+			{
+				"id": "568621905632952331",
+				"type": "ROLE",
+				"permission": true
+			},
+			{
+				"id": "679245884457746433",
+				"type": "ROLE",
+				"permission": true
+			},
+			{
+				"id": "174032065371570176",
+				"type": "USER",
+				"permission": true
+			},
+			{
+				"id": "641704262262325259",
+				"type": "USER",
+				"permission": true
+			},
+			{
+				"id": "584416579626729472",
+				"type": "USER",
+				"permission": true
+			}
+		],
+		"examples": [
+			"<>mottiesays Hello welcome!"
+		]
+	}
+]

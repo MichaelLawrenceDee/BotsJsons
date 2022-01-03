@@ -3075,9 +3075,10 @@
 			{ "mission": "mission_Unlock", "s": [ "Jalebi" ] } 
 		],
 		"notes": [ 
-			"**SPARK FESTIVAL**: **SUNSET DAY**\n**DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)** ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda" 
+			"**SPARK FESTIVAL**: **SUNSET DAY**\n**DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)** ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda", 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Bloody Bounce" ] } 
 		],
-		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda" ],
+		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "Bloody Bounce" ],
 		"easyurl": "kjUvaYWNeTg",
 		"normalurl": "EWROUlbFC0Y"
 	},
@@ -4194,7 +4195,11 @@
 		"normal": 10,
 		"stars": 80,
 		"easyurl": "tAlDDkBTiME",
-		"normalurl": "Ailz4IXidYo"
+		"normalurl": "Ailz4IXidYo",
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Bloody Bounce" ] } 
+		],
+		"links": [ "Bloody Bounce" ]
 	},
 	{
 		"title": "Our Soul",
@@ -6578,10 +6583,11 @@
 			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] } 
 		],
 		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Bloody Bounce" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Insomniac Nights" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**DANCE ALL NIGHT** ⇒ Insomniac Nights ⇒ ???" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**DANCE ALL NIGHT** ⇒ Insomniac Nights ⇒ Bloody Bounce ⇒ ???" ] } 
 		],
-		"links": [ "Our Soul", "Night & Day", "DANCE ALL NIGHT", "Insomniac Nights" ],
+		"links": [ "Our Soul", "Night & Day", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce" ],
 		"easyurl": "pJbMKsAgZGg",
 		"normalurl": "9VVj_olP6Io"
 	},
@@ -6609,10 +6615,39 @@
 			{ "mission": "mission_ScoreSong", "s": [ 90, "Triple Cross" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ **Insomniac Nights** ⇒ ???" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ **Insomniac Nights** ⇒ Bloody Bounce ⇒ ???" ] } 
 		],
-		"links": [ "DANCE ALL NIGHT", "Insomniac Nights", "ATRAX", "Triple Cross" ],
+		"links": [ "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "ATRAX", "Triple Cross" ],
 		"easyurl": "9Kr4QYubYdM",
 		"normalurl": "8Nlasz4anQo"
+	},
+	{
+		"title": "Bloody Bounce",
+		"artist": "Alicemetix",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST, Otias ENT Produced",
+		"thumbnail": "Bloody_Bounce_Jacket.png",
+		"remyurl": "Bloody_Bounce",
+		"easy": 6,
+		"normal": 8,
+		"stars": 100,
+		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Insomniac Nights" ] },
+		"discount": [ 
+			{ "mission": "mission_GetNAnySongDiff", "diff": "Normal", "s": [ 10, "BAD", 3 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 96, "Butterfly Twist" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_GetNAnySong2", "s": [ 20, "BAD", 22, "GOOD", 10 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "DANCE ALL NIGHT" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ Insomniac Nights ⇒ **Bloody Bounce** ⇒ ???" ] } 
+		],
+		"links": [ "Butterfly Twist", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce" ],
+		"easyurl": "gfLBa65g33M",
+		"normalurl": "pxi7mzZOhsM"
 	}
 ]

@@ -142,7 +142,7 @@
 		"Mission": "任務",
 		"Next Page": "下一頁",
 		"Previous Page": "上一頁",
-		"Page": ["第", "頁"],
+		"Page": ["第", " 頁"],
 		"TooShort": "請輸入 2 個或更多字符。",
 		"SongNotFound": "找不到歌曲",
 		"SongNotFoundFilter": "沒有找到符合您條件的歌曲",

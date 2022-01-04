@@ -5697,7 +5697,7 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "Sakura Reflection (STARDOM Remix)", 2 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "prev": "Previously" }
+			{ "note": "note_Random", "prev": "Previously" }
 		],
 		"easyurl": "Q8pOzIpy-8o",
 		"normalurl": "r2Pi8GJkzSM"
@@ -5896,7 +5896,7 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "gigadelic (STARDOM Remix)", 2 ] }
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "prev": "Previously" }
+			{ "note": "note_Random", "prev": "Previously" }
 		],
 		"easyurl": "eyGdQkpMQ9c",
 		"normalurl": "-7hhiLLvqNI"
@@ -6543,7 +6543,7 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor" }
+			{ "note": "note_Random" }
 		],
 		"easyurl": "GOYWZk1LAZQ",
 		"normalurl": "7kZE_ockeFw"

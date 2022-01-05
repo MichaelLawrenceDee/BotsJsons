@@ -6477,9 +6477,9 @@
 				{
 					"label": "Normal(GB)",
 					"tap": { "star": "Patra", "skill": 9 },
-					"long": { "star": "Valentine", "leader": true },
+					"long": { "star": "Valentine", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true },
-					"flick": { "star": "Rose" },
+					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
 				}
 			],
@@ -16734,6 +16734,15 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "09 May 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "15 Perfects",
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -24712,12 +24721,20 @@
 			"normal": [
 				{
 					"label": "Normal/Alt",
-					"lsd": "Follow top meta delay, adjust to trigger LS at 305 combo.",
+					"lsd": "Follow top meta delay, adjust to trigger LS at 305 combo. (Use if Aria 8 not S-enhanced)",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel", "leader": true },
 					"flick": { "star": "Slasher", "costume": true },
 					"last_update": "18 Jul 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -24990,7 +25007,7 @@
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
-					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
 				}
 			],
@@ -27859,6 +27876,14 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"normal": [
 				{

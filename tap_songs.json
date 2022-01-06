@@ -2963,6 +2963,14 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
+				}
 			],
 			"hard": [
 				{
@@ -8798,7 +8806,7 @@
 					"label": "Easy/Alt",
 					"lsd": "None (Also used in GB)",
 					"tap": { "star": "Jessi", "costume": false },
-					"long": { "star": "Beatrice" },
+					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Partina", "leader": true },
 					"flick": { "star": "Charon" },
 					"last_update": "25 Jul 2021"
@@ -24103,6 +24111,8 @@
 					"last_update": "02 Feb 2020"
 				},
 				{
+					"hr": "1-2-1-X",
+					"hrlabel": [[6,1]],
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Titana", "leader": true },
@@ -24111,6 +24121,8 @@
 				},
 				{
 					"label": "Normal(GB)",
+					"hr": "  ''",
+					"hrlabel": [],
 					"lsd": "Perfect while no x2 combo.",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher", "skill": 9 },
@@ -24533,6 +24545,22 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Glory" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
 			],
 			"hard": [
 				{
@@ -28212,6 +28240,7 @@
 			"normal": [
 				{
 					"label": "Normal/Alt",
+					"lsd": "None (Use if Aria 8 is not S-enhanced)",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel", "leader": true },

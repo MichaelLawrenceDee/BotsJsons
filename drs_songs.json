@@ -4462,9 +4462,10 @@
 			{ "mission": "mission_ScoreSong", "s": [ 90, "Broadway Walk" ] } 
 		],
 		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Next Stage 2022" ] },
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nNocturnus ⇒ Broadway Walk ⇒ **Heat Up The Dancefloor**" ] } 
 		],
-		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "エコ爺" ],
+		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "エコ爺", "Next Stage 2022" ],
 		"easyurl": "JBPckMJj68Y",
 		"normalurl": "QRp5rH4rHTo"
 	},
@@ -6585,9 +6586,9 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Bloody Bounce" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Insomniac Nights" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**DANCE ALL NIGHT** ⇒ Insomniac Nights ⇒ Bloody Bounce ⇒ ???" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**DANCE ALL NIGHT** ⇒ Insomniac Nights ⇒ Bloody Bounce ⇒ Next Stage 2022" ] } 
 		],
-		"links": [ "Our Soul", "Night & Day", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce" ],
+		"links": [ "Our Soul", "Night & Day", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022" ],
 		"easyurl": "pJbMKsAgZGg",
 		"normalurl": "9VVj_olP6Io"
 	},
@@ -6615,9 +6616,11 @@
 			{ "mission": "mission_ScoreSong", "s": [ 90, "Triple Cross" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ **Insomniac Nights** ⇒ Bloody Bounce ⇒ ???" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Bloody Bounce" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Next Stage 2022" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ **Insomniac Nights** ⇒ Bloody Bounce ⇒ Next Stage 2022" ] } 
 		],
-		"links": [ "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "ATRAX", "Triple Cross" ],
+		"links": [ "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022", "ATRAX", "Triple Cross" ],
 		"easyurl": "9Kr4QYubYdM",
 		"normalurl": "8Nlasz4anQo"
 	},
@@ -6644,10 +6647,41 @@
 			{ "mission": "mission_ScoreSong", "s": [ 90, "DANCE ALL NIGHT" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ Insomniac Nights ⇒ **Bloody Bounce** ⇒ ???" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Next Stage 2022" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ Insomniac Nights ⇒ **Bloody Bounce** ⇒ Next Stage 2022" ] } 
 		],
-		"links": [ "Butterfly Twist", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce" ],
+		"links": [ "Butterfly Twist", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022" ],
 		"easyurl": "gfLBa65g33M",
 		"normalurl": "pxi7mzZOhsM"
+	},
+	{
+		"title": "Next Stage 2022",
+		"artist": "BEMANI Sound Team \"Sota F.\"",
+		"artistalias": [ "BST Sota Fujimori" ],
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS",
+		"thumbnail": "next_stage_2022_jacket.png",
+		"remyurl": "Next_Stage_2022",
+		"easy": 6,
+		"normal": 10,
+		"stars": 200,
+		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Bloody Bounce" ] },
+		"discount": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 5, "BAD", 5 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 97, "Heat Up The Dancefloor" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 2022 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 92, "Bloody Bounce" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 92, "Insomniac Nights" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ Insomniac Nights ⇒ Bloody Bounce ⇒ **Next Stage 2022**" ] } 
+		],
+		"links": [ "Heat Up The Dancefloor", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022" ],
+		"easyurl": "N51FtjQ6p0M",
+		"normalurl": "MsdP7RvA1cs"
 	}
 ]

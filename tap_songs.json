@@ -19277,6 +19277,17 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": " ''",
+					"hrlabel": [],
+					"lsd": "Perfect until x2 combo",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -19322,7 +19333,6 @@
 		"teams": {
 			"easy": [
 				{
-					"lsd": "6-8 Perfect taps",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
@@ -27749,6 +27759,14 @@
 				},
 				{
 					"lsd": "the 1st LS, GOOD the Vibrato Note and the tap after the Lane Change Note.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "" },

@@ -10100,6 +10100,17 @@
 					"long": { "star": "" },
 					"slide": { "star": "" },
 					"flick": { "star": "" }
+				},
+				{
+					"label": "Easy(GB)",
+					"hr": "1-2-1-3-31",
+					"hrlabel": [[8,2]],
+					"lsd": "None (Use if no Franken)",
+					"tap": { "star": "Arwen", "costume": true },
+					"long": { "star": "Dr. Trasher", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
 				}
 			],
 			"normal": [

@@ -1570,7 +1570,7 @@
 					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true },
-					"last_update": "20 Dec 2020"
+					"last_update": "???"
 				}
 			]
 		}
@@ -19344,6 +19344,7 @@
 				{
 					"hr": "2-1-31-2-1-13-3",
 					"hrlabel": [[4,2]],
+					"lsd": "After the 2nd LS, when it becomes 3-3, Perfect until x2 combo",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
@@ -28244,6 +28245,14 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
 					"last_update": "???"
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"expert": [

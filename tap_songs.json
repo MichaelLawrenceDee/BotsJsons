@@ -565,7 +565,7 @@
 					"label": "Easy/Alt",
 					"hr": "1-3-2-X-X",
 					"hrlabel": [[6,1],[8,1]],
-					"lsd": "None (Patra > Shirley | Paris 9 > Paris 8 > Paris 10)",
+					"lsd": "None (Patra > Shirley | Patra,Paris 9 > Patra 8,Paris 10 > Patra 10,Paris 8",
 					"tap": { "star": "Shirley" },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
@@ -573,21 +573,11 @@
 					"last_update": "17 Oct 2021"
 				},
 				{
-					"hr": "   ''",
-					"hrlabel": [],
-					"tap": { "star": "Patra", "skill": 8 },
-					"long": { "star": "Django", "leader": true },
-					"slide": { "star": "Paris Upton", "costume": true },
-					"flick": { "star": "Rose" },
-					"last_update": "31 Jan 2021"
-				},
-				{
-					"hr": "   ''",
-					"hrlabel": [],
-					"tap": { "star": "Patra", "skill": 8 },
-					"long": { "star": "Django", "leader": true },
-					"slide": { "star": "Horyeon", "costume": true },
-					"flick": { "star": "Rose" }
+					"lsd": "> Patra 10,CHoryeon 10 > Patra 10,Paris 10 > Patra 8,Paris 8)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				},
 				{
 					"label": "Easy(GB)",

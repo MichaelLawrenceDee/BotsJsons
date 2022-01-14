@@ -2410,7 +2410,8 @@
 			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Catch Our Fire! (STARDOM Remix)" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Catch Our Fire! (STARDOM Remix)" ] }, 
+			{ "note": "note_Removed", "MM": 1, "s": [ 7, 2022 ] }
 		],
 		"links": [ "Butterfly", "Catch Our Fire! (STARDOM Remix)" ],
 		"easyurl": "YdCxk7aVEUg",
@@ -4817,7 +4818,7 @@
 		"remyurl": "Bounce_To_This",
 		"easy": 6,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"stars": 150,
 		"easyurl": "TNWWI5xx87Y",
 		"normalurl": "apV5bce7RfA"
 	},
@@ -6544,7 +6545,7 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_Random" }
+			{ "note": "note_Random", "prev": "Previously" }
 		],
 		"easyurl": "GOYWZk1LAZQ",
 		"normalurl": "7kZE_ockeFw"

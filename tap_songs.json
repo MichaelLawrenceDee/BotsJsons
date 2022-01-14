@@ -365,6 +365,7 @@
 					"label": "Expert/Alt",
 					"hr": "3-X",
 					"hrlabel": [[2,1]],
+					"lsd": "None (Use if Paris 6 is not S-enhanced)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
@@ -9226,6 +9227,16 @@
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
 					"flick": { "star": "Rose" }
+				},
+				{
+					"label": "Easy(GB)",
+					"hr": "    ''",
+					"hrlabel": [],
+					"tap": { "star": "Patra", "leader": true },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -10416,6 +10427,17 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"hr": "1-13-X-3-2",
+					"hrlabel": [[2,2],[5,1]],
+					"lsd": "Follow top meta delay",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"normal": [
 				{
@@ -23068,12 +23090,12 @@
 		"altteams": {
 			"easy": [
 				{
-					"label": "Easy/Alt",
+					"label": "Easy(GB)",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
-					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "12 Jul 2020"
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -28130,7 +28152,6 @@
 					"label": "Expert/Alt",
 					"hr": "3-2-1-X-X-X",
 					"hrlabel": [[6,1],[8,1],[10,1]],
-					"lsd": "GOOD until Rose skill activates, Perfect until x2 combo.",
 					"tap": { "star": "Shirley", "skill": 8 },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Horyeon", "costume": true },

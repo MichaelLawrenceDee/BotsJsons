@@ -6298,6 +6298,14 @@
 					"long": { "star": "Raphael", "skill": 9 },
 					"slide": { "star": "Apollo", "leader": true },
 					"flick": { "star": "Suah" }
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank | Potential GB meta)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -9944,8 +9952,8 @@
 			],
 			"expert": [
 				{
-					"hr": "1-31-3-X-1-2",
-					"hrlabel": [[7,1]],
+					"hr": "1-31-3-2-1-31-1-2",
+					"hrlabel": [[11,2]],
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -9992,8 +10000,8 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
-					"hr": "1-31-3-X-1-2",
-					"hrlabel": [[7,1]],
+					"hr": "1-31-3-2-1-31-1-2",
+					"hrlabel": [[11,2]],
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
@@ -10002,7 +10010,7 @@
 				},
 				{
 					"label": "Expert(GB)",
-					"hr": "     ''",
+					"hr": "       ''",
 					"hrlabel": [],
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "leader": true },
@@ -11480,6 +11488,15 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Poet", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Aresmus" },
+					"last_update": "???"
+				}
 			],
 			"normal": [
 				{
@@ -17212,6 +17229,14 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
+				}
 			],
 			"normal": [
 				{
@@ -29036,6 +29061,15 @@
 					"slide": { "star": "Dominiciel", "leader": true },
 					"flick": { "star": "Aresmus" },
 					"last_update": "05 Dec 2021"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Aria", "costume": true, "skill": 8 },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [

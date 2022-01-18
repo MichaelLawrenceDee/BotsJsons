@@ -8478,6 +8478,7 @@
 					"label": "Expert/Alt",
 					"hr": "3-31-2-1-31",
 					"hrlabel": [[2,2],[9,2]],
+					"lsd": "None (Possible GB meta using Rose (L))",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": true },
@@ -15730,7 +15731,7 @@
 					"last_update": "09 May 2021"
 				},
 				{
-					"lsd": "Up to 4 Perfects",
+					"lsd": "Up to 4 Perfects (Possible GB meta)",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
@@ -18036,12 +18037,20 @@
 			"easy": [
 				{
 					"label": "Easy/Alt",
-					"lsd": "Late Perfect 746th combo for x2 combo.",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Horyeon", "costume": false, "skill": 8 },
 					"flick": { "star": "HT Senah", "leader": true },
 					"last_update": "25 Oct 2020"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "Late Perfect 746th combo for x2 combo (Possible GB meta)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Tanya", "costume": true },
+					"slide": { "star": "Horyeon", "costume": false, "skill": 9 },
+					"flick": { "star": "Aresmus", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -21494,6 +21503,16 @@
 					"long": { "star": "" },
 					"slide": { "star": "" },
 					"flick": { "star": "" }
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "2-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -28015,7 +28034,7 @@
 		"teams": {
 			"easy": [
 				{
-					"lsd": "Perfect some flicks (1-2 on Android), trigger LS at start of first right slide",
+					"lsd": "Perfect flicks (1-2 on Android, 7 on iOS), trigger LS at start of first right slide",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Titana", "leader": true },

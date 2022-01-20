@@ -4871,10 +4871,10 @@
 					"flick": { "star": "Suah" }
 				},
 				{
-					"tap": { "star": "Carol", "costume": true, "leader": true },
-					"long": { "star": "Raphael" },
+					"tap": { "star": "" },
+					"long": { "star": "" },
 					"slide": { "star": "Nicol" },
-					"flick": { "star": "Suah" }
+					"flick": { "star": "" }
 				}
 			]
 		},
@@ -17274,6 +17274,15 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "Follow top meta delay",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -24855,10 +24864,10 @@
 				},
 				{
 					"lsd": "Change Note and 2 slides, Perfect up to the flick.",
-					"tap": { "star": "Jessi", "costume": true },
-					"long": { "star": "Raphael" },
-					"slide": { "star": "Dominiciel", "leader": true },
-					"flick": { "star": "Mary" }
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"expert": [
@@ -27526,6 +27535,16 @@
 					"long": { "star": "" },
 					"slide": { "star": "" },
 					"flick": { "star": "" }
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Aria", "costume": true, "skill": 8 },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -27951,7 +27970,7 @@
 				{
 					"hr": "1-X-2-X",
 					"hrlabel": [[2,1],[6,1]],
-					"lsd": "Perfect until Raphael skill activates",
+					"lsd": "GOOD until x2 combo",
 					"tap": { "star": "Patra" },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },

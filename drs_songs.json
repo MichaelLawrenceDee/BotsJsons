@@ -685,7 +685,10 @@
 			{ "name": "RIRI-.", "url": "2XjhxArZ-F8" },
 			{ "name": "ADACHI", "url": "00vOVon4lrM" }
 		],
-		"normalurl": "IzWReULltrE"
+		"normalurl": "IzWReULltrE",
+		"notes": [
+			{ "note": "note_Removed", "MM": 1, "s": [ 18, 2022 ] }
+		]
 	},
 	{
 		"title": "The Light",
@@ -2462,9 +2465,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "JOK3R" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ **take me higher** ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ **take me higher** ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "N6Li2UnNTI0",
 		"normalurl": "XZxU4140Lvw"
 	},
@@ -2544,9 +2547,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Undercover" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ **JOK3R** ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ **JOK3R** ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "hJGo6GoxELM",
 		"normalurl": "ImDHiakAo9E"
 	},
@@ -2570,9 +2573,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Midland Mainline" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ **Undercover** ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic" ] }
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ **Undercover** ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg" ] }
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "Official Bootleg" ],
 		"easyurl": "ftCuRupsdy8",
 		"normalurl": "GZ8issBkEDY"
 	},
@@ -2629,7 +2632,7 @@
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Roughneck Disco" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ **Midland Mainline** ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "0GnLNwE5hhI",
 		"normalurl": "nRHrhVIr4Fo"
 	},
@@ -2654,9 +2657,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Villains" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ **Roughneck Disco** ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ **Roughneck Disco** ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "_YU9qJ9hNOQ",
 		"normalurl": "wuCEAUVoVQQ"
 	},
@@ -2752,9 +2755,9 @@
 		"stars": 150,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "take me higher" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Crazy Shuffle** ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic" ] }
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Crazy Shuffle** ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg" ] }
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "Qmzrim4vzjY",
 		"normalurl": "O8rZhq_G064",
 		"normalguide": [
@@ -4290,9 +4293,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "PRANK" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ **Villains** ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ **Villains** ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "wKCbqi2pXfA",
 		"normalurl": "Jv-gmC3jVxY"
 	},
@@ -4768,9 +4771,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Don't Rush but Dance Rush" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ **PRANK** ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ **PRANK** ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "fiRflaRHy64",
 		"normalurl": "mOerXhvEgmw"
 	},
@@ -5327,9 +5330,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "My Time" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ **Don't Rush but Dance Rush** ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ **Don't Rush but Dance Rush** ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "S3gtzpG0ZR0",
 		"normalurl": "Z66LmmVPdTk"
 	},
@@ -5504,9 +5507,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Ch4nge M4 Life" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ **My Time** ⇒ Ch4nge M4 Life ⇒ Synaptic" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ **My Time** ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "jEVBLrgaLLA",
 		"normalurl": "3QZOC-pMrIw"
 	},
@@ -5564,9 +5567,9 @@
 			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ **Ch4nge M4 Life** ⇒ Synaptic" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ **Ch4nge M4 Life** ⇒ Synaptic ⇒ Official Bootleg" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "KtVxXurNh0A",
 		"normalurl": "C5ydrMHfgsY"
 	},
@@ -6329,9 +6332,9 @@
 			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ **Synaptic** ⇒ Official Bootleg" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "N6Q41nNdFQQ",
 		"normalurl": "7UQD0i9BwDI"
 	},
@@ -6684,5 +6687,30 @@
 		"links": [ "Heat Up The Dancefloor", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022" ],
 		"easyurl": "N51FtjQ6p0M",
 		"normalurl": "MsdP7RvA1cs"
+	},
+	{
+		"title": "Official Bootleg",
+		"artist": "Blacklolita",
+		"category": "extra",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS, Otias ENT Produced",
+		"thumbnail": "official_bootleg_jacket.png",
+		"remyurl": "Official_Bootleg",
+		"easy": 6,
+		"normal": 9,
+		"stars": 200,
+		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Official Bootleg" ] },
+		"discount": [ 
+			{ "mission": "mission_Unlock", "s": [ "Synaptic" ] }, 
+			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ **Official Bootleg**" ] } 
+		],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
+		"easyurl": "o4YKvjP4tuM",
+		"normalurl": "ZGMQZYy_wJ8"
 	}
 ]

@@ -14283,6 +14283,14 @@
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Aresmus" },
 					"last_update": "28 Mar 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"hard": [
@@ -14299,6 +14307,15 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": false },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -14307,7 +14324,8 @@
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": true },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "31 Oct 2021"
 				}
 			]
 		}
@@ -19188,7 +19206,7 @@
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
-					"flick": { "star": "Slasher", "leader": true }
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				}
 			],
 			"hard": [
@@ -19253,6 +19271,14 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "12 Sep 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -20933,6 +20959,7 @@
 		"teams": {
 			"easy": [
 				{
+					"lsd": "4 Perfect taps while no skills activated",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -21862,6 +21889,7 @@
 					"label": "Hard(GB)",
 					"hr": "    ''",
 					"hrlabel": [],
+					"lsd": "Follow top team delay",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
@@ -24326,6 +24354,14 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
 					"last_update": "???"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -28349,6 +28385,7 @@
 		"teams": {
 			"easy": [
 				{
+					"lsd": "1 Perfect tap",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Aria", "costume": true },
 					"slide": { "star": "Dominiciel", "leader": true },

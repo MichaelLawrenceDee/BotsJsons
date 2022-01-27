@@ -12517,7 +12517,7 @@
 					"label": "Hard/Alt",
 					"hr": "2-X",
 					"hrlabel": [[2,1]],
-					"lsd": "None (Also used in GB using Beatrice (L))",
+					"lsd": "None (Possible GB meta using Beatrice (L) for Android)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -12531,6 +12531,14 @@
 					"slide": { "star": "Dominiciel", "leader": true },
 					"flick": { "star": "Slasher", "costume": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "(Same team as rank | GB meta for iOS)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"expert": [
@@ -29641,8 +29649,8 @@
 		"teams": {
 			"easy": [
 				{
-					"hr": "2-X",
-					"hrlabel": [[2,1]],
+					"hr": "1-2-X-x",
+					"hrlabel": [[4,1],[6,1]],
 					"lsd": "Trigger LS at the left long at about 239 combo. (Android) Perfect taps,",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },

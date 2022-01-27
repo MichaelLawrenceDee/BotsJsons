@@ -15152,6 +15152,7 @@
 			"hard": [
 				{
 					"label": "Hard/Alt",
+					"lsd": "None (Also used in GB using Rose (L))",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
@@ -28142,6 +28143,15 @@
 				}
 			],
 			"hard": [
+				{
+					"label": "Hard(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Aresmus", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"expert": [
 				{
@@ -28236,7 +28246,7 @@
 			"normal": [
 				{
 					"label": "Normal(GB)",
-					"lsd": "Possible GB meta",
+					"lsd": "None (Possible GB meta)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },

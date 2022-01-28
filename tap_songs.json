@@ -481,6 +481,16 @@
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Aresmus" }
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "          ''",
+					"hrlabel": [],
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -3772,6 +3782,15 @@
 				}
 			],
 			"hard": [
+				{
+					"label": "Hard(GB)",
+					"hr": "3-X",
+					"hrlabel": [[2,1]],
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true }
+				}
 			],
 			"expert": [
 				{
@@ -9562,7 +9581,6 @@
 				{
 					"hr": "3-X-X-X",
 					"hrlabel": [[2,1],[4,1],[6,1]],
-					"lsd": "GOOD up to x2. After x2 ends, Perfect until Leader Skill activates.",
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
@@ -9607,7 +9625,6 @@
 					"label": "Hard(GB)",
 					"hr": "3-X-X-X",
 					"hrlabel": [[2,1],[4,1],[6,1]],
-					"lsd": "GOOD up to x2. After x2 ends, Perfect until Leader Skill activates.",
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
@@ -17604,6 +17621,15 @@
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
 					"flick": { "star": "Aresmus" }
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "None (Rose +9 > Aresmus +9 > Rose +0)",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Django" },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Aresmus", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -29649,7 +29675,7 @@
 		"teams": {
 			"easy": [
 				{
-					"hr": "1-2-X-x",
+					"hr": "1-2-X-X",
 					"hrlabel": [[4,1],[6,1]],
 					"lsd": "Trigger LS at the left long at about 239 combo. (Android) Perfect taps,",
 					"tap": { "star": "Lucifer" },

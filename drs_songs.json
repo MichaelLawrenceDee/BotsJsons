@@ -6712,5 +6712,19 @@
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg" ],
 		"easyurl": "o4YKvjP4tuM",
 		"normalurl": "ZGMQZYy_wJ8"
+	},
+	{
+		"title": "[E]",
+		"artist": "dj MAX STEROID",
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "E.png",
+		"remyurl": "E",
+		"easy": 5,
+		"normal": 9,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "ibBMBW-BDmI&t=23s",
+		"normalurl": "My3v6l4Q5Vo&t=24s"
 	}
 ]

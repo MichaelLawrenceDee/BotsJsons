@@ -7017,11 +7017,22 @@
 				{
 					"hr": "   ''",
 					"hrlabel": [],
-					"lsd": "13 Perfects. After 1st LS, 1 GOOD Long and 1 Tap Perfect",
+					"lsd": "13 Perfects. After 1st LS, 1 GOOD long and 1 tap Perfect",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Valentine", "costume": true },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Easy(GB)",
+					"hr": "1-X-X",
+					"hrlabel": [[2,1],[4,1]],
+					"lsd": "                           ''",
+					"tap": { "star": "Patra", "skill": 9 },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Horyeon", "costume": false, "skill": 7 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -23788,6 +23799,7 @@
 		"teams": {
 			"easy": [
 				{
+					"lsd": "1 Perfect tap",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
@@ -26141,7 +26153,7 @@
 			"easy": [
 				{
 					"label": "Easy/Alt",
-					"lsd": "None (Paris 4 > Horyeon 9 > Horyeon 8/Horyeon SU 4/5 > Paris 8)",
+					"lsd": "None (Paris 4 > Paris 6 > Horyeon 9 > Horyeon 8/Horyeon SU 4/5 > Paris 8)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 4 },
@@ -27814,6 +27826,14 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "02 Jan 2022"
+				},
+				{
+					"label": "Hard(GB)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -28941,11 +28961,19 @@
 				{
 					"hr": "1-X",
 					"hrlabel": [[2,1]],
+					"lsd": "GOOD while no x2, and Perfect 3 longs. Adjust to trigger",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel", "leader": true },
 					"flick": { "star": "Mary" },
 					"last_update": "30 Jan 2022"
+				},
+				{
+					"lsd": "LS at the long note after missing the Lane Change Note",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [

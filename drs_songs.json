@@ -1837,12 +1837,11 @@
 		"remyurl": "Sunrise_(feat._LEO_%26_Viola)",
 		"easy": 5,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Tropical Love" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Tropical Love" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2020 <:sparkfes2020:896415543148552232>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Let Me See Your Dance" ] }, 
 			"**SPARK FESTIVAL 2020**: **AFTER PARTY**\n**Sunrise (feat. LEO & Viola)** ⇒ Tropical Love ⇒ CHAPTER II(Ready Go) ⇒ Comin’ Back ⇒ I Like To BOUNCE" ],
@@ -5584,12 +5583,11 @@
 		"remyurl": "Tropical_Love",
 		"easy": 4,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "CHAPTER II(Ready Go)" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "CHAPTER II(Ready Go)" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2020 <:sparkfes2020:896415543148552232>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Sunrise (feat. LEO & Viola)" ] }, 
 			"**SPARK FESTIVAL 2020**: **AFTER PARTY**\nSunrise (feat. LEO & Viola) ⇒ **Tropical Love** ⇒ CHAPTER II(Ready Go) ⇒ Comin’ Back ⇒ I Like To BOUNCE" 
@@ -5610,12 +5608,11 @@
 		"remyurl": "CHAPTER_II(Ready_Go)",
 		"easy": 5,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Comin’ Back" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Comin’ Back" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2020 <:sparkfes2020:896415543148552232>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Let Me See Your Dance" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Tropical Love" ] }, 
@@ -5637,12 +5634,11 @@
 		"remyurl": "Comin%27_Back",
 		"easy": 7,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "I Like To BOUNCE" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "I Like To BOUNCE" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2020 <:sparkfes2020:896415543148552232>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "CHAPTER II(Ready Go)" ] }, 
 			"**SPARK FESTIVAL 2020**: **AFTER PARTY**\nSunrise (feat. LEO & Viola) ⇒ Tropical Love ⇒ CHAPTER II(Ready Go) ⇒ **Comin’ Back** ⇒ I Like To BOUNCE" 
@@ -5665,7 +5661,7 @@
 		"normal": 10,
 		"easyurl": "WXPjfoSIUjY",
 		"normalurl": "xvcC0TvpifQ",
-		"stars": 160,
+		"stars": 200,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Jetcoaster Windy" ] }, 
 			{ "mission": "mission_Clear", "s": [ "about right" ] }, 

@@ -13315,9 +13315,9 @@
 				},
 				{
 					"label": "Easy(GB)",
-					"tap": { "star": "Carol", "costume": true },
+					"tap": { "star": "Patra" },
 					"long": { "star": "Django" },
-					"slide": { "star": "Horyeon", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose", "leader": true }
 				},
 				{
@@ -23626,6 +23626,14 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Arwen", "costume": true, "leader": true },
+					"long": { "star": "Franken" },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Suah" },
+					"last_update": "???"
+				}
 			],
 			"hard": [
 				{

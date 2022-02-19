@@ -2250,7 +2250,7 @@
 			{ "mission": "mission_Clear", "s": [ "Anxiety" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Anxiety" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ 16, 2021 ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ **Flow** ⇒ Anxiety ⇒ Let Me See Your Dance" ],
@@ -5946,7 +5946,7 @@
 			{ "mission": "mission_Clear", "s": [ "New Solution" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "New Solution" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ "**SPARK FESTIVAL 2021**:\n**7 to Smoke** ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" ],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "2867NtHA6II",
@@ -5968,7 +5968,7 @@
 			{ "mission": "mission_Clear", "s": [ "8347" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "8347" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "7 to Smoke" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ **New Solution** ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
@@ -5994,7 +5994,7 @@
 			{ "mission": "mission_Clear", "s": [ "Do It!" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Do It!" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "New Solution" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ **8347** ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
@@ -6019,7 +6019,7 @@
 			{ "mission": "mission_Clear", "s": [ "Orange Lullaby" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Orange Lullaby" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "8347" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ **Do It!** ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
@@ -6044,7 +6044,7 @@
 			{ "mission": "mission_Clear", "s": [ "Ideal Sunset" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Ideal Sunset" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Do It!" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ **Orange Lullaby** ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
@@ -6069,7 +6069,7 @@
 			{ "mission": "mission_Clear", "s": [ "Flow" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Flow" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Orange Lullaby" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ **Ideal Sunset** ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
@@ -6094,7 +6094,7 @@
 			{ "mission": "mission_Clear", "s": [ "Let Me See Your Dance" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Let Me See Your Dance" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Flow" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ **Anxiety** ⇒ Let Me See Your Dance" 
@@ -6121,7 +6121,7 @@
 			{ "mission": "mission_Clear", "s": [ "CHAPTER II(Ready Go)" ] }, 
 			{ "mission": "mission_Clear", "s": [ "I Like To BOUNCE" ] } 
 		],
-		"unlock": { "mission": "mission_OMES", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"unlock": { "mission": "mission_OMES", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Anxiety" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ **Let Me See Your Dance**" 
@@ -6457,8 +6457,11 @@
 		"normal": 9,
 		"stars": 30,
 		"unlock": { "mission": "mission_GymClock", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
-		"notes": [ "**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ **Brand New Step**" ],
-		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
+			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ **Brand New Step**" 
+		],
+		"links": [ "The GameHacker (Sampled Crazy Shuffle)", "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
 		"easyurl": "dt8wNEAiGhk",
 		"normalurl": "Q0usevgOVDQ"
 	},
@@ -6544,8 +6547,10 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] } 
 		],
 		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
 			{ "note": "note_Random", "prev": "Previously" }
 		],
+		"links": [ "The GameHacker (Sampled Crazy Shuffle)" ],
 		"easyurl": "GOYWZk1LAZQ",
 		"normalurl": "7kZE_ockeFw"
 	},
@@ -6678,9 +6683,10 @@
 			{ "mission": "mission_ScoreSong", "s": [ 92, "Insomniac Nights" ] } 
 		],
 		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ Insomniac Nights ⇒ Bloody Bounce ⇒ **Next Stage 2022**" ] } 
 		],
-		"links": [ "Heat Up The Dancefloor", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022" ],
+		"links": [ "Heat Up The Dancefloor", "The GameHacker (Sampled Crazy Shuffle)", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022" ],
 		"easyurl": "N51FtjQ6p0M",
 		"normalurl": "MsdP7RvA1cs"
 	},
@@ -6722,5 +6728,148 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "ibBMBW-BDmI&t=23s",
 		"normalurl": "My3v6l4Q5Vo&t=24s"
+	},
+	{
+		"title": "群青",
+		"alias": [ "Gunjou", "Ultramarine" ],
+		"artist": "(YOASOBI)",
+		"record": "No",
+		"folders": [ "POPS" ],
+		"thumbnail": "Gunjou.png",
+		"remyurl": "Gunjou",
+		"easy": 3,
+		"normal": 7
+	},
+	{
+		"title": "EZ DO DANCE",
+		"artist": "(TRF)",
+		"record": "No",
+		"folders": [ "POPS" ],
+		"thumbnail": "EZ_DO_DANCE.png",
+		"remyurl": "EZ_DO_DANCE",
+		"easy": 3,
+		"normal": 7
+	},
+	{
+		"title": "Trash",
+		"artist": "Candy House",
+		"category": "sparkfes2021",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Trash_(Candy_House).png",
+		"remyurl": "Trash_(Candy_House)",
+		"easy": 3,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "↑↑↓↓←→←→BA" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "↑↑↓↓←→←→BA" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\n**Trash** ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)" 
+		],
+		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
+		"easyurl": "5EHmF3RpNKE&t=22s",
+		"normalurl": "8npbmxxxQ3s&t=21s"
+	},
+	{
+		"title": "↑↑↓↓←→←→BA",
+		"alias": [ "Ue ue shita shita hidari migi hidari migi BA", "Up up down down left right left right BA", "Konami Code" ],
+		"artist": "meiyo",
+		"category": "sparkfes2021",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "upup_jacket.png",
+		"remyurl": "Ue_ue_shita_shita_hidari_migi_hidari_migi_BA",
+		"easy": 4,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ **↑↑↓↓←→←→BA** ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)" 
+		],
+		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
+		"easyurl": "jYXw5bjGtew&t=24s",
+		"normalurl": "TeX9-bgU7ZE&t=20s"
+	},
+	{
+		"title": "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)",
+		"alias": [ "Ue ue shita shita hidari migi hidari migi BA", "Up up down down left right left right BA", "Konami Code" ],
+		"artist": "meiyo",
+		"category": "sparkfes2021",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Gradius_Remix.png",
+		"remyurl": "GRADIUS_REMIX（UUDDLRLRBA_Ver.)",
+		"easy": 4,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "You Take My Soul" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "You Take My Soul" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ **GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)** ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)" 
+		],
+		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
+		"easyurl": "_fVrssTWM6o&t=22s",
+		"normalurl": "tHL7LCOANtM&t=22s"
+	},
+	{
+		"title": "You Take My Soul",
+		"artist": "BEMANI Sound Team \"SYUNN\"",
+		"artistalias": [ "BST SYUNN" ],
+		"category": "sparkfes2021",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "You_take_my_soul_Jacket.png",
+		"remyurl": "You_Take_My_Soul",
+		"easy": 5,
+		"normal": 9,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ **You Take My Soul** ⇒ The GameHacker (Sampled Crazy Shuffle)" 
+		],
+		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
+		"easyurl": "MJ72ohFQMh0&t=22s",
+		"normalurl": "CQ93v_r8tp8&t=22s"
+	},
+	{
+		"title": "The GameHacker (Sampled Crazy Shuffle)",
+		"artist": "BEMANI Sound Team \"HuΣeR\"",
+		"artistalias": [ "BST Humer" ],
+		"category": "sparkfes2021",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS",
+		"thumbnail": "The_GameHacker_jacket.png",
+		"remyurl": "The_GameHacker_(Sampled_Crazy_Shuffle)",
+		"easy": 5,
+		"normal": 10,
+		"stars": 160,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Next Stage 2022" ] }, 
+			{ "mission": "mission_Clear", "s": [ "ドーパミン (STARDOM Remix)" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Brand New Step" ] } 
+		],
+		"unlock": { "mission": "mission_OMES", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ **The GameHacker (Sampled Crazy Shuffle)**" 
+		],
+		"links": [ "Next Stage 2022", "ドーパミン (STARDOM Remix)", "Brand New Step", "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
+		"easyurl": "J7XysS29oEc&t=23s",
+		"normalurl": "shgSg-NcP-E&t=23s"
 	}
 ]

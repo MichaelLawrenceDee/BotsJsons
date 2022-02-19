@@ -7031,6 +7031,16 @@
 			"normal": [
 			],
 			"hard": [
+				{
+					"label": "Hard(GB)",
+					"hr": "3-X-2-1-31",
+					"hrlabel": [[2,1],[8,2]],
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Aresmus", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"expert": [
 				{
@@ -7397,6 +7407,17 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "21 Mar 2021"
+				},
+				{
+					"label": "Easy(GB)",
+					"hr": "  ''",
+					"hrlabel": [],
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -7763,6 +7784,16 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"hr": "1-13-X",
+					"hrlabel": [[2,2],[5,1]],
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"hard": [
 				{
@@ -11008,11 +11039,18 @@
 				{
 					"hr": "1-2-1-3-X",
 					"hrlabel": [[8,1]],
-					"lsd": "GOOD while no x2, and GOOD all flicks. After 1st LS, flick all GOODs w/o Rose skill",
+					"lsd": "GOOD while no x2, and GOOD all flicks. After the 1st LS, flick",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Titana", "leader": true },
 					"flick": { "star": "Rose" }
+				},
+				{
+					"lsd": "all GOODs without Rose skill and Perfect 1 Vibrato long.",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"hard": [
@@ -21116,7 +21154,7 @@
 				{
 					"hr": " ''",
 					"hrlabel": [],
-					"lsd": "Perfect the 1st 2 longs + about 25 Perfects",
+					"lsd": "Perfect the 1st 2 longs + about 25 Perfects (Possible GB meta using Rose (L))",
 					"tap": { "star": "Shirley" },
 					"long": { "star": "Valentine", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true },
@@ -23845,6 +23883,14 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"hard": [
 				{
@@ -25380,7 +25426,7 @@
 				{
 					"hr": "1-2-X",
 					"hrlabel": [[4,1]],
-					"lsd": "17 Perfect taps (Use HR if you have a stronger long than slide)",
+					"lsd": "(Use HR if you have a stronger long than slide)",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "" },
@@ -25443,6 +25489,25 @@
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Aresmus" },
 					"last_update": "12 Sep 2021"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "Unknown delay",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": false, "skill": 7 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"hr": "1-2-X",
+					"hrlabel": [[4,1]],
+					"lsd": "(Use HR if either Horyeon 7/Rose are weak)",
+					"tap": { "star": "" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "" },
+					"flick": { "star": "" },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -27654,6 +27719,14 @@
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "HT Senah" },
 					"last_update": "27 Dec 2020"
+				},
+				{
+					"label": "Easy(GB)",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -28141,6 +28214,9 @@
 			],
 			"normal": [
 				{
+					"hr": "1-X-X-2-1-X",
+					"hrlabel": [[2,1],[4,1],[10,1]],
+					"lsd": "After the 1st LS, Perfect about 3 flicks.",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Titana", "leader": true },

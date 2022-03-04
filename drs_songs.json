@@ -3981,7 +3981,10 @@
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
 			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
 		],
-		"links": [ "Catch Our Fire! (STARDOM Remix)" ],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "世界の果てに約束の凱歌を (STARDOM Remix)" ] }
+		],
+		"links": [ "Catch Our Fire! (STARDOM Remix)", "世界の果てに約束の凱歌を (STARDOM Remix)" ],
 		"easyurl": "lgp3bMzcts0",
 		"normalurl": "eF5BQ-M7sX0"
 	},
@@ -4004,7 +4007,10 @@
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
 			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
 		],
-		"links": [ "Love 2 Shuffle" ],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Vamos A Bailar" ] }
+		],
+		"links": [ "Love 2 Shuffle", "Vamos A Bailar" ],
 		"easyurl": "HtK7JhWKNNY",
 		"normalurl": "apU2yZJI4c8"
 	},
@@ -5361,7 +5367,14 @@
 		"remyurl": "Sekai_no_hate_ni_yakusoku_no_gaika_wo_(STARDOM_Remix)",
 		"easy": 7,
 		"normal": 10,
-		"unlock": { "mission": "mission_KAC", "unavailable": "eventEnd", "s": [ "10th", "https://p.eagate.573.jp/game/kac/kac10th/entry/index.html" ] },
+		"stars": 200,
+		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "世界の果てに約束の凱歌を (STARDOM Remix)" ] },
+		"discount": [ 
+			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "ランカーキラーガール (STARDOM Remix)" ] }, 
+			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
+		],
+		"links": [ "ランカーキラーガール (STARDOM Remix)" ],
 		"easyurl": "3ROkFjj4uAI",
 		"normalurl": "WLnDacIke6g"
 	},
@@ -5376,7 +5389,14 @@
 		"remyurl": "Vamos_A_Bailar",
 		"easy": 5,
 		"normal": 10,
-		"unlock": { "mission": "mission_KAC", "unavailable": "eventEnd", "s": [ "10th", "https://p.eagate.573.jp/game/kac/kac10th/entry/index.html" ] },
+		"stars": 200,
+		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Vamos A Bailar" ] },
+		"discount": [ 
+			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "new heaven" ] }, 
+			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
+		],
+		"links": [ "new heaven" ],
 		"easyurl": "nTPctnBjuHg",
 		"normalurl": "CxggygSk_oA"
 	},
@@ -6871,5 +6891,20 @@
 		"links": [ "Next Stage 2022", "ドーパミン (STARDOM Remix)", "Brand New Step", "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
 		"easyurl": "J7XysS29oEc&t=23s",
 		"normalurl": "shgSg-NcP-E&t=23s"
+	},
+	{
+		"title": "1-2-3 Jump!",
+		"artist": "まろん (IOSYS) ft. Renko",
+		"artistalias": [ "Maron" ],
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "1-2-3_Jump.png",
+		"remyurl": "1-2-3_Jump!",
+		"bpm": 110,
+		"length": "1:56",
+		"easy": 4,
+		"normal": 8,
+		"easyurl": "uoHwhw45jDI&t=22s",
+		"normalurl": "vyZFiuApLTU&t=22s"
 	}
 ]

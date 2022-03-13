@@ -700,7 +700,10 @@
 		"easy": 2,
 		"normal": 6,
 		"easyurl": "H3KsJPmumSs",
-		"normalurl": "obg9XHVS5t4"
+		"normalurl": "obg9XHVS5t4",
+		"notes": [
+			{ "note": "note_Removed", "MM": 3, "s": [ 7, 2022 ] }
+		]
 	},
 	{
 		"title": "Carnival",

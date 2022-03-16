@@ -5168,6 +5168,14 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -5298,6 +5306,7 @@
 				{
 					"hr": "   ''",
 					"hrlabel": [],
+					"lsd": "None (Possible GB meta)",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Partina", "leader": true },
@@ -11107,6 +11116,14 @@
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "HT Senah" }
+				},
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Patra", "skill": 9 },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -15812,6 +15829,15 @@
 					"long": { "star": "Tanya", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
 					"flick": { "star": "Rose" },
+					"last_update": "???"
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Poet" },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
+					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
 				}
 			],
@@ -21498,6 +21524,14 @@
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Rose" },
 					"last_update": "20 Jun 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": false, "skill": 8 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -29655,6 +29689,14 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
 			],
 			"hard": [
 				{

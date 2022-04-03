@@ -1239,7 +1239,7 @@
 		"easy": 3,
 		"normal": 7,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "GHOST KINGDOM" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "GHOST KINGDOM" ] } 
 		],
 		"links": [ "GHOST KINGDOM" ],
 		"easyurl": "a3969oXtKtI",
@@ -1885,19 +1885,17 @@
 			{ "mission": "mission_Unlock", "s": [ "NewAige" ] }, 
 			{ "mission": "mission_GetNSongs", "s": [ 5, "BAD", 3, "BEMANI" ] }
 		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2000 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "最小三倍完全数 (DANCERUSH Style)" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "凛として咲く花の如く" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Shuffle cats" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Shuffle cats" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**GHOST KINGDOM** ⇒ Shuffle cats ⇒ S7AGE" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "GHOST KINGDOM CHARLESTON EDITION" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 10, 2021, 90, "Graveyard" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 5, "origlength": 3, "s": [ "C", 5, 2021, 90, "Sweets (Soda Pop)" ] }  
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 5, "origlength": 3, "s": [ "C", 5, 2021, 90, "Sweets (Soda Pop)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 2, "noextra": "noExtra", "origlength": 3, "s": [ "A", 23, 2022, 2000 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 90, "最小三倍完全数 (DANCERUSH Style)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 90, "凛として咲く花の如く" ] } 
 		],
-		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "NewAige", "最小三倍完全数 (DANCERUSH Style)", "凛として咲く花の如く", "GHOST KINGDOM CHARLESTON EDITION", "Graveyard", "Sweets (Soda Pop)" ],
+		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "NewAige", "GHOST KINGDOM CHARLESTON EDITION", "Graveyard", "Sweets (Soda Pop)", "最小三倍完全数 (DANCERUSH Style)", "凛として咲く花の如く" ],
 		"easyurl": "qvWtZXZsBAA",
 		"normalurl": "R43ga5mtl60"
 	},
@@ -1914,22 +1912,19 @@
 		"easy": 4,
 		"normal": 7,
 		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "GHOST KINGDOM" ] },
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Robot Loves Smoked-Salmon" ] }, 
 			{ "mission": "mission_GetNSongs", "s": [ 5, "BAD", 3, "EDM" ] }
 		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2000 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "GHOST KINGDOM" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Afterimage d'automne" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "S7AGE" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "S7AGE" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nGHOST KINGDOM ⇒ **Shuffle cats** ⇒ S7AGE" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 10, 2021, 90, "Spacecats" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 10, 2021, 90, "Spacecats" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 2, "noextra": "noExtra", "origlength": 3, "s": [ "A", 23, 2022, 2000 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 90, "GHOST KINGDOM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 90, "Afterimage d'automne" ] } 
 		],
-		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "Robot Loves Smoked-Salmon", "Afterimage d'automne", "Spacecats" ],
+		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "Robot Loves Smoked-Salmon", "Spacecats", "Afterimage d'automne" ],
 		"easyurl": "S8hJAbEgG08",
 		"normalurl": "ihP6bkr6hro"
 	},
@@ -1945,18 +1940,15 @@
 		"easy": 4,
 		"normal": 8,
 		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Shuffle cats" ] },
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Don't Stop!!" ] }, 
 			{ "mission": "mission_GetNSongs", "s": [ 5, "GOOD", 3, "POPS" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
-			{ "mission": "mission_ClearLesson", "s": [ 7 ] }, 
-			{ "mission": "mission_NoteTotal", "s": [ 777, "PERFECT" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nGHOST KINGDOM ⇒ Shuffle cats ⇒ **S7AGE**" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nGHOST KINGDOM ⇒ Shuffle cats ⇒ **S7AGE**" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 2, "noextra": "noExtra", "origlength": 3, "s": [ "B", 23, 2022, 2500 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearLesson", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 7 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 777, "PERFECT" ] } 
 		],
 		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "Don't Stop!!" ],
 		"easyurl": "WOTcVxU0pHc",
@@ -3661,7 +3653,7 @@
 		"normal": 8,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "HoneyComb" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Shuffle cats" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Shuffle cats" ] } 
 		],
 		"links": [ "HoneyComb", "Shuffle cats" ],
 		"easyurl": "VJZy-3Jescs",
@@ -3756,7 +3748,7 @@
 		"easy": 3,
 		"normal": 7,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "GHOST KINGDOM" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "GHOST KINGDOM" ] } 
 		],
 		"links": [ "GHOST KINGDOM" ],
 		"easyurl": "CzOU4EZuEAY",
@@ -5710,7 +5702,6 @@
 		"easy": 6,
 		"normal": 9,
 		"stars": 160,
-		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "Sakura Reflection (STARDOM Remix)" ] },
 		"singlediscount": true,
 		"discount": [ 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "Sakura Reflection (STARDOM Remix)", 2 ] }, 
@@ -5737,7 +5728,7 @@
 		"remyurl": "Sleepwell",
 		"easy": 4,
 		"normal": 7,
-		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "3QH5Xxc_tts",
 		"normalurl": "T3nRkdI3Gqo"
 	},
@@ -6909,5 +6900,30 @@
 		"normal": 8,
 		"easyurl": "uoHwhw45jDI&t=22s",
 		"normalurl": "vyZFiuApLTU&t=22s"
+	},
+	{
+		"title": "Pretender",
+		"artist": "(Official髭男dism)",
+		"artistalias": [ "Official Hige Dandism", "Ofisharu higeo dism" ],
+		"record": "Yes",
+		"folders": [ "POPS" ],
+		"thumbnail": "blank.png",
+		"remyurl": "?",
+		"easy": 2,
+		"normal": 6
+	},
+	{
+		"title": "野球の遊び方　そしてその歴史　～決定版～",
+		"alias": [ "Yakyuu no asobikata soshite sono rekishi ~ketteiban~", "I've seen that in baseball", "How to play baseball and its history-the definitive edition-" ],
+		"artist": "あさき大監督",
+		"artistalias": [ "Director Asaki", "Asaki dai kantoku" ],
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Yakyuu_no_asobikata_soshite_sono_rekishi__ketteiban_.png",
+		"remyurl": "Yakyuu_no_asobikata_soshite_sono_rekishi_~ketteiban~",
+		"easy": 4,
+		"normal": 8,
+		"easyurl": "xoCaAOEibAU&t=22s",
+		"normalurl": "W4UGrm5UtEo&t=22s"
 	}
 ]

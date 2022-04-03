@@ -40,7 +40,7 @@
 			"South Korea": "South Korea",
 			"Japan": "Japan"
 		},
-		"mission_Unlock": "Unlock<ing> <s>1<withstars><andplay>",
+		"mission_Unlock": "Unlock<ing> <s>1<withstars><andplay>.",
 		"mission_Play": "Play<ing> <s>1<extra>",
 		"mission_Clear": "Clear<ing> <s>1<extra><times>",
 		"mission_ClearNSongs": "Clear <s>1 <s>2 songs",
@@ -56,7 +56,7 @@
 			"ing": "ing",
 			"any": "any ",
 			"withStars": " with <:star:575161446904758272>",
-			"andPlay": " and play<ing> it.",
+			"andPlay": " and play<ing> it",
 			"eventEnd": ", currently not unlockable",
 			"1st": "1st",
 			"2nd": "2nd"

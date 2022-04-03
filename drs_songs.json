@@ -1946,9 +1946,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nGHOST KINGDOM ⇒ Shuffle cats ⇒ **S7AGE**" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 2, "noextra": "noExtra", "origlength": 3, "s": [ "B", 23, 2022, 2500 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 2, "noextra": "noExtra", "origlength": 3, "s": [ "A", 23, 2022, 2500 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ClearLesson", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 7 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 777, "PERFECT" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 777, "PERFECT" ] } 
 		],
 		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "Don't Stop!!" ],
 		"easyurl": "WOTcVxU0pHc",

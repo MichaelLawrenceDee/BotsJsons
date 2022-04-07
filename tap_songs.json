@@ -5706,6 +5706,7 @@
 			],
 			"expert": [
 				{
+					"label": "Expert/Alt",
 					"lsd": "30 Perfects (Patra > Shirley > Carol)",
 					"tap": { "star": "Shirley" },
 					"long": { "star": "Raphael" },
@@ -5718,6 +5719,14 @@
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Rose" }
+				},
+				{
+					"label": "Expert(GB)",
+					"lsd": "(Same team as rank | Potential GB meta)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			]
 		}
@@ -6342,6 +6351,16 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"hr": "1-3-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1]],
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"hard": [
 				{
@@ -16520,7 +16539,7 @@
 					"label": "Hard/Alt",
 					"lsd": "Perfect until Carol skill activates",
 					"tap": { "star": "Carol", "costume": true },
-					"long": { "star": "Raphael", "skill": 9 },
+					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "19 Dec 2021"
@@ -21030,6 +21049,16 @@
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
 					"last_update": "07 Nov 2021"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "2-1-3-2-1-31-X",
+					"hrlabel": [[13,1]],
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -22188,6 +22217,16 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"hr": "2-1-X",
+					"hrlabel": [[4,1]],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
+				}
 			],
 			"hard": [
 				{
@@ -31353,6 +31392,16 @@
 			"easy": [
 			],
 			"normal": [
+				{
+					"label": "Normal/Alt",
+					"hr": "1-X-X",
+					"hrlabel": [[2,1],[4,1]],
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"hard": [
 				{

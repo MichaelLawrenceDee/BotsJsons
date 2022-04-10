@@ -2011,6 +2011,8 @@
 			"hard": [
 				{
 					"label": "Hard/Alt",
+					"hr": "1-13-X-X-X",
+					"hrlabel": [[2,2],[5,1],[7,1],[9,1]],
 					"lsd": "None (Potentially top meta)",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Raphael" },
@@ -2019,8 +2021,8 @@
 					"last_update": "10 Apr 2022"
 				},
 				{
-					"hr": "1-13-X-X-X",
-					"hrlabel": [[2,2],[5,1],[7,1],[9,1]],
+					"hr": "    ''",
+					"hrlabel": [],
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Nicol", "skill": 9 },

@@ -851,9 +851,10 @@
 		"easy": 5,
 		"easyurl": "mLSHR7HegP4",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "BREDLI RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Forgetting Machine RUNNING MAN EDITION" ]
+		"links": [ "Forgetting Machine RUNNING MAN EDITION", "BREDLI RUNNING MAN EDITION" ]
 	},
 	{
 		"title": "Tステップレッスン応用編",
@@ -866,9 +867,10 @@
 		"easy": 5,
 		"easyurl": "liuE8ANMGPw",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Bad Riddim T STEP EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Bad Riddim T STEP EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "HighBALL T STEP EDITION" ] } 
 		],
-		"links": [ "Bad Riddim T STEP EDITION" ]
+		"links": [ "Bad Riddim T STEP EDITION", "HighBALL T STEP EDITION" ]
 	},
 	{
 		"title": "ランニングマン＆Tステップレッスン複合編",
@@ -917,7 +919,8 @@
 		"easy": 8,
 		"easyurl": "N6flkf2cAXI",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×5 DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } 
 		]
 	},
 	{
@@ -931,7 +934,8 @@
 		"easy": 8,
 		"easyurl": "kSWPanaFGi0",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×5 DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] } 
 		]
 	},
 	{
@@ -960,7 +964,8 @@
 		"easy": 4,
 		"easyurl": "oiQv-WMFop0",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Wicked SPONGEBOB EDITION" ] } 
 		],
 		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ]
 	},
@@ -1016,7 +1021,7 @@
 		"easy": 5,
 		"easyurl": "YtJAH9V-YDQ",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×5 DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] } 
 		]
 	},
 	{
@@ -1139,7 +1144,7 @@
 		"normalurl": "10zRsC7M8JQ",
 		"group": "fSwZ4o73b0g",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×10 DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }  
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }  
 		]
 	},
 	{
@@ -1204,7 +1209,8 @@
 			{ "name": "EXS", "url": "F6fTM0TeBsQ" }
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Be My Baby" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Be My Baby" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] } 
 		],
 		"links": [ "Be My Baby" ],
 		"easyurl": "SpqohWViOo8",
@@ -1221,7 +1227,7 @@
 		"normal": 7,
 		"notes": [
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Nightlife" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×5 DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }
 		],
 		"links": [ "Nightlife" ],
 		"easyurl": "35eIuvp7pis",
@@ -1572,7 +1578,8 @@
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Small Steps" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Don't Stop!!" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Impress" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Impress" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } 
 		],
 		"links": [ "Small Steps", "Don't Stop!!", "Impress" ],
 		"easyurl": "76xo14Tdo5o",
@@ -1594,9 +1601,10 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "DOWNER & UPPER" ] },
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "NewAige" ] },
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×5 DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "Wicked SPONGEBOB EDITION" ] } 
 		],
-		"links": [ "DOWNER & UPPER", "NewAige" ],
+		"links": [ "DOWNER & UPPER", "NewAige", "Wicked SPONGEBOB EDITION" ],
 		"easyurl": "nGJYsxFW4zA",
 		"normalurl": "yNML_YEIH1U"
 	},
@@ -1635,7 +1643,7 @@
 		"normal": 7,
 		"notes": [ 
 			{ "note": "note_SeeAlso", "s": [ "NewAige CHARLESTON EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×10 DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
 		],
 		"links": [ "NewAige CHARLESTON EDITION" ],
 		"easyurl": "JO0rkha_Qh4",
@@ -1693,7 +1701,7 @@
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Nightlife" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Be My Baby" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×5 DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] } 
 		],
 		"links": [ "Nightlife", "Be My Baby" ],
 		"easyurl": "E3uAFD59uq0",
@@ -1711,7 +1719,7 @@
 		"normal": 8,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Nocturnus" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×5 DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
 		],
 		"links": [ "Nocturnus" ],
 		"easyurl": "OA4nIYEr0RA",
@@ -1823,7 +1831,7 @@
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Saturday Night Love -Phunk Disco Mix-" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Get On The Floor" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Garuda" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×5 DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } 
 		],
 		"links": [ "Butterfly", "Sakura Sunrise", "DAWN OF FALCON", "Saturday Night Love -Phunk Disco Mix-", "Get On The Floor", "Garuda" ],
 		"easyurl": "uuxDC0DlZH4",
@@ -2999,9 +3007,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Deep Vibes" ] }, 
-			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ Deep Vibes ⇒ **HighBALL** ⇒ Majestic ⇒ Dual Bladez" 
+			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ Deep Vibes ⇒ **HighBALL** ⇒ Majestic ⇒ Dual Bladez", 
+			{ "note": "note_SeeAlso", "s": [ "HighBALL T STEP EDITION" ] } 
 		],
-		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez" ],
+		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez", "HighBALL T STEP EDITION" ],
 		"easyurl": "1eaHZay26xo",
 		"normalurl": "hrvBfN4pWFo"
 	},
@@ -3025,7 +3034,7 @@
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "HighBALL" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Broadway Walk" ] }, 
 			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ Deep Vibes ⇒ HighBALL ⇒ **Majestic** ⇒ Dual Bladez", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×10 DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } , 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } , 
 			{ "note": "note_SeeAlso", "s": [ "Majestic CRAB STEP EDITION" ] }
 		],
 		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez", "Broadway Walk", "Majestic CRAB STEP EDITION" ],
@@ -3125,7 +3134,7 @@
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Jalebi" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "SHINOBI" ] }, 
 			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ **Mandrake** ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×10 DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] } 
 		],
 		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "SHINOBI" ],
 		"easyurl": "ujF7nq8Kk7s",
@@ -3221,7 +3230,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX-" ] }, 
 			"**DANCERUSH STARDOM GYM**:\n**Bad Riddim** ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ Forgetting Machine ⇒ Hastur ⇒ Don't Be Afraid", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×10 DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } , 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } , 
 			{ "note": "note_SeeAlso", "s": [ "Bad Riddim T STEP EDITION" ] }
 		],
 		"links": [ "Bad Riddim", "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine", "Hastur", "Don't Be Afraid", "Bad Riddim T STEP EDITION" ],
@@ -3277,7 +3286,7 @@
 		"notes": [
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Hastur" ] }, 
 			"**DANCERUSH STARDOM GYM**:\nBad Riddim ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ **Forgetting Machine** ⇒ Hastur ⇒ Don't Be Afraid", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×10 DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] },
 			{ "note": "note_MissionFor", "mis": "DiscountDiscovery", "s": [ "Forgetting Machine (RoughSketch Remix)" ] } 
 		],
@@ -3354,7 +3363,7 @@
 		],
 		"notes": [ 
 			"**SPARK FESTIVAL 2019**: \n**Memories** ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×5 DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free" ],
 		"easyurl": "BbiAFZv_9Pk",
@@ -3527,9 +3536,11 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "RAVELINE ATTACK" ] }, 
-			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ **Switch** ⇒ Set Me Free" 
+			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ **Switch** ⇒ Set Me Free", 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "Switch SPONGEBOB EDITION" ] } 
 		],
-		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free" ],
+		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Switch SPONGEBOB EDITION" ],
 		"easyurl": "fLDYuMWvayw",
 		"normalurl": "gwBNCmZJfpg"
 	},
@@ -3637,7 +3648,10 @@
 		"easy": 5,
 		"normal": 9,
 		"easyurl": "dHELzLTwt3k",
-		"normalurl": "-IT13EU8lgc"
+		"normalurl": "-IT13EU8lgc",
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] } 
+		]
 	},
 	{
 		"title": "Afterimage d'automne",
@@ -3772,7 +3786,7 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "MY NAME IS" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "★×5 DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
 		],
 		"links": [ "MY NAME IS" ],
 		"easyurl": "dtWSb-Pusgg",
@@ -3811,7 +3825,9 @@
 		"normal": 9,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "SHINOBI" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Be My Baby" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Be My Baby" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "True Blue (STARDOM Remix) T STEP EDITION" ] } 
 		],
 		"links": [ "SHINOBI", "Be My Baby" ],
 		"easyurl": "hnD336dxuYk",
@@ -3896,9 +3912,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "BENJAMIN" ] }, 
-			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ **BREDLI** ⇒ BENJAMIN ⇒ Awakening" 
+			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ **BREDLI** ⇒ BENJAMIN ⇒ Awakening", 
+			{ "note": "note_SeeAlso", "s": [ "BREDLI RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening" ],
+		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "BREDLI RUNNING MAN EDITION" ],
 		"easyurl": "v-QdKImB89A",
 		"normalurl": "UcaXZLeI9sM"
 	},
@@ -3922,9 +3939,11 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Awakening" ] }, 
-			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ BREDLI ⇒ **BENJAMIN** ⇒ Awakening" 
+			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ BREDLI ⇒ **BENJAMIN** ⇒ Awakening", 
+			{ "note": "note_SeeAlso", "s": [ "BENJAMIN RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } 
 		],
-		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening" ],
+		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "BENJAMIN RUNNING MAN EDITION" ],
 		"easyurl": "PgBo94ucPlQ",
 		"normalurl": "cSXAGe6O_C8"
 	},
@@ -4024,7 +4043,7 @@
 		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "ランニングマンレッスン応用編", "SigSig" ] }, 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\n**Forgetting Machine RUNNING MAN EDITION** ⇒ ★×5 ⇒ ★×10 ⇒ Midnight Amaretto RUNNING MAN EDITION", 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\n**Forgetting Machine RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Midnight Amaretto RUNNING MAN EDITION", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Midnight Amaretto RUNNING MAN EDITION" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Event", "MM": 6, "origlength": 3, "s": [ "B", 9, 2021, "What Do You Mean?" ] },
 			{ "note": "note_SeeAlso", "s": [ "Forgetting Machine" ] }
@@ -4049,10 +4068,11 @@
 		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 15, "BAD", "Second Heaven -Samba,Samba,SomeBody MIX-", 85, "Forgetting Machine RUNNING MAN EDITION" ] }, 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\nForgetting Machine RUNNING MAN EDITION ⇒ ★×5 ⇒ ★×10 ⇒ **Midnight Amaretto RUNNING MAN EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "Midnight Amaretto" ] }
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\nForgetting Machine RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Midnight Amaretto RUNNING MAN EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "Midnight Amaretto" ] },
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "BENJAMIN RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine RUNNING MAN EDITION", "Midnight Amaretto RUNNING MAN EDITION", "Midnight Amaretto" ],
+		"links": [ "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine RUNNING MAN EDITION", "Midnight Amaretto RUNNING MAN EDITION", "Midnight Amaretto", "BENJAMIN RUNNING MAN EDITION" ],
 		"easyurl": "I-2zJKhXKVw",
 		"normalurl": "lQmEBBXNHpE"
 	},
@@ -4071,7 +4091,7 @@
 		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "Tステップレッスン応用編", "Saturday Night Love -Phunk Disco Mix-" ] }, 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\n**Bad Riddim T STEP EDITION** ⇒ ★×5 ⇒ ★×10 ⇒ DOWNER & UPPER T STEP EDITION", 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\n**Bad Riddim T STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ DOWNER & UPPER T STEP EDITION", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "DOWNER & UPPER T STEP EDITION" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Bad Riddim" ] }
 		],
@@ -4094,10 +4114,11 @@
 		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 20, "GOOD", "Hastur", 85, "Bad Riddim T STEP EDITION" ] }, 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\nBad Riddim T STEP EDITION ⇒ ★×5 ⇒ ★×10 ⇒ **DOWNER & UPPER T STEP EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "DOWNER & UPPER" ] }
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\nBad Riddim T STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **DOWNER & UPPER T STEP EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "DOWNER & UPPER" ] },
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "True Blue (STARDOM Remix) T STEP EDITION" ] } 
 		],
-		"links": [ "Hastur", "Bad Riddim T STEP EDITION", "DOWNER & UPPER T STEP EDITION", "DOWNER & UPPER" ],
+		"links": [ "Hastur", "Bad Riddim T STEP EDITION", "DOWNER & UPPER T STEP EDITION", "DOWNER & UPPER", "True Blue (STARDOM Remix) T STEP EDITION" ],
 		"easyurl": "7Hi4OK_dh-w",
 		"normalurl": "MPzCJPRufRM"
 	},
@@ -4116,7 +4137,7 @@
 		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "スポンジボブレッスン", "Robot Loves Smoked-Salmon" ] }, 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\n**†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION** ⇒ ★×5 ⇒ ★×10 ⇒ Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION", 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\n**†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)" ] }
 		],
@@ -4139,10 +4160,11 @@
 		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "GREAT", "Kill The Beat", 85, "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ] }, 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION ⇒ ★×5 ⇒ ★×10 ⇒ **Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX-" ] }
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX-" ] },
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Switch SPONGEBOB EDITION" ] } 
 		],
-		"links": [ "Kill The Beat", "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION", "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION", "Second Heaven -Samba,Samba,SomeBody MIX-" ],
+		"links": [ "Kill The Beat", "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION", "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION", "Second Heaven -Samba,Samba,SomeBody MIX-", "Switch SPONGEBOB EDITION" ],
 		"easyurl": "h3y9PnO0UNk",
 		"normalurl": "RuVnX9Yi8s0"
 	},
@@ -4161,8 +4183,10 @@
 		"stars": 100,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNAnySong2,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ 20, "GOOD", 30, "GREAT", 3, 2000 ] }, 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses" 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "A Vague Idea" ] } 
 		],
+		"links": [ "A Vague Idea" ],
 		"easyurl": "sGAdlpaCJOY",
 		"normalurl": "o7jTBQOE0bo"
 	},
@@ -4864,7 +4888,7 @@
 		],
 		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "NewAige CHARLESTON EDITION" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\n**NewAige CHARLESTON EDITION** ⇒ ★×5 ⇒ ★×10 ⇒ GHOST KINGDOM CHARLESTON EDITION", 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\n**NewAige CHARLESTON EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ GHOST KINGDOM CHARLESTON EDITION", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "GHOST KINGDOM CHARLESTON EDITION" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "NewAige" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Event", "MM": 6, "origlength": 3, "s": [ "B", 9, 2021, "Break Free ft.Zedd" ] } 
@@ -4892,7 +4916,7 @@
 		],
 		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "GHOST KINGDOM CHARLESTON EDITION" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\nNewAige CHARLESTON EDITION ⇒ ★×5 ⇒ ★×10 ⇒ **GHOST KINGDOM CHARLESTON EDITION**", 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\nNewAige CHARLESTON EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **GHOST KINGDOM CHARLESTON EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "GHOST KINGDOM" ] }
 		],
 		"links": [ "Starlight Kiss", "NewAige CHARLESTON EDITION", "GHOST KINGDOM CHARLESTON EDITION", "GHOST KINGDOM" ],
@@ -4917,7 +4941,7 @@
 		],
 		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "Majestic CRAB STEP EDITION" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\n**Majestic CRAB STEP EDITION** ⇒ ★×5 ⇒ ★×10 ⇒ Robot Loves Smoked-Salmon CRAB STEP EDITION", 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\n**Majestic CRAB STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Robot Loves Smoked-Salmon CRAB STEP EDITION", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Majestic" ] }
 		],
@@ -4944,7 +4968,7 @@
 		],
 		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\nMajestic CRAB STEP EDITION ⇒ ★×5 ⇒ ★×10 ⇒ **Robot Loves Smoked-Salmon CRAB STEP EDITION**", 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\nMajestic CRAB STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Robot Loves Smoked-Salmon CRAB STEP EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "Robot Loves Smoked-Salmon" ] }
 		],
 		"links": [ "RAVELINE ATTACK", "Majestic CRAB STEP EDITION", "Robot Loves Smoked-Salmon CRAB STEP EDITION", "Robot Loves Smoked-Salmon" ],
@@ -4969,7 +4993,7 @@
 		],
 		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "Don't Stop!! RUNNING MAN EDITION" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\n**Don't Stop!! RUNNING MAN EDITION** ⇒ ★×5 ⇒ ★×10 ⇒ Party Jumpin' RUNNING MAN EDITION", 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\n**Don't Stop!! RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Party Jumpin' RUNNING MAN EDITION", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Don't Stop!!" ] }
 		],
@@ -4995,7 +5019,7 @@
 		],
 		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "Party Jumpin' RUNNING MAN EDITION" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\nDon't Stop!! RUNNING MAN EDITION ⇒ ★×5 ⇒ ★×10 ⇒ **Party Jumpin' RUNNING MAN EDITION**", 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\nDon't Stop!! RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Party Jumpin' RUNNING MAN EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "Party Jumpin'" ] }
 		],
 		"links": [ "Fire Spirit", "Don't Stop!! RUNNING MAN EDITION", "Party Jumpin' RUNNING MAN EDITION", "Party Jumpin'" ],
@@ -6925,5 +6949,180 @@
 		"normal": 8,
 		"easyurl": "xoCaAOEibAU&t=22s",
 		"normalurl": "W4UGrm5UtEo&t=22s"
+	},
+	{
+		"title": "BREDLI RUNNING MAN EDITION",
+		"alias": [ "BREDLI RUNNINGMAN EDITION", "BREDLI RM EDITION", "BREDLI RUNNING MAN version", "BREDLI RUNNINGMAN version", "BREDLI RM version" ],
+		"artist": "BEMANI Sound Team \"SYUNN\"",
+		"artistalias": [ "BST SYUNN" ],
+		"category": "spring2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": "BREDLI_RUNNING_MAN.png",
+		"remyurl": "BREDLI",
+		"easy": 4,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "ランニングマンレッスン応用編" ] }, 
+			{ "mission": "mission_ClearNSongs", "s": [ 1, "BEMANI" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "BREDLI RUNNING MAN EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\n**BREDLI RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ BENJAMIN RUNNING MAN EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "BREDLI" ] }
+		],
+		"links": [ "ランニングマンレッスン応用編", "BREDLI RUNNING MAN EDITION", "BENJAMIN RUNNING MAN EDITION", "BREDLI" ],
+		"easyurl": "5Z9BkazEizA&t=22s",
+		"normalurl": "4Rc58O7HTJk&t=22s"
+	},
+	{
+		"title": "BENJAMIN RUNNING MAN EDITION",
+		"alias": [ "Unga Bunga", "班傑明", "BENJAMIN RUNNINGMAN EDITION", "BENJAMIN RM EDITION", "BENJAMIN RUNNING MAN version", "BENJAMIN RUNNINGMAN version", "BENJAMIN RM version" ],
+		"artist": "MARON (IOSYS)",
+		"category": "spring2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "BENJAMIN_RUNNING_MAN.png",
+		"remyurl": "BENJAMIN",
+		"easy": 6,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "BREDLI RUNNING MAN EDITION" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "Midnight Amaretto RUNNING MAN EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "BENJAMIN RUNNING MAN EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\nBREDLI RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **BENJAMIN RUNNING MAN EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "BENJAMIN" ] }
+		],
+		"links": [ "Midnight Amaretto RUNNING MAN EDITION", "BREDLI RUNNING MAN EDITION", "BENJAMIN RUNNING MAN EDITION", "BENJAMIN" ],
+		"easyurl": "--OL0Yk5yhQ&t=22s",
+		"normalurl": "ZJif-Ula9sc&t=22s"
+	},
+	{
+		"title": "HighBALL T STEP EDITION",
+		"alias": [ "HighBALL T-step EDITION", "HighBALL T STEP version", "HighBALL T-step version" ],
+		"artist": "MK",
+		"category": "spring2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS",
+		"thumbnail": "HighBALL_T_STEP.png",
+		"remyurl": "HighBALL",
+		"easy": 6,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "Tステップレッスン応用編" ] }, 
+			{ "mission": "mission_ClearNSongs", "s": [ 1, "EDM" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "HighBALL T STEP EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\n**HighBALL T STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ True Blue (STARDOM Remix) T STEP EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "HighBALL" ] }
+		],
+		"links": [ "Tステップレッスン応用編", "HighBALL T STEP EDITION", "True Blue (STARDOM Remix) T STEP EDITION", "HighBALL" ],
+		"easyurl": "0JeX57HcHds&t=22s",
+		"normalurl": "9yrcMO_6Vbg&t=22s"
+	},
+	{
+		"title": "True Blue (STARDOM Remix) T STEP EDITION",
+		"alias": [ "真藍", "True Blue T-step EDITION", "True Blue T STEP version", "True Blue T-step version" ],
+		"artist": "かめりあ",
+		"artistalias": [ "Camellia" ],
+		"category": "spring2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS",
+		"thumbnail": "True_Blue_T_STEP.png",
+		"remyurl": "True_Blue_(STARDOM_Remix)",
+		"easy": 6,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "DOWNER & UPPER T STEP EDITION" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "HighBALL T STEP EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "True Blue (STARDOM Remix) T STEP EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\nHighBALL T STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **True Blue (STARDOM Remix) T STEP EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "True Blue (STARDOM Remix)" ] }
+		],
+		"links": [ "DOWNER & UPPER T STEP EDITION", "HighBALL T STEP EDITION", "True Blue (STARDOM Remix) T STEP EDITION", "True Blue (STARDOM Remix)" ],
+		"easyurl": "a2zLsX-aTZc&t=22s",
+		"normalurl": "9U8wq3-l4-g&t=22s"
+	},
+	{
+		"title": "Wicked SPONGEBOB EDITION",
+		"alias": [ "Wicked SPONGEBOB version" ],
+		"artist": "Hommarju",
+		"category": "spring2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"thumbnail": "Wicked_SPONGEBOB.png",
+		"remyurl": "Wicked",
+		"easy": 5,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "スポンジボブレッスン" ] }, 
+			{ "mission": "mission_ClearNSongs", "s": [ 1, "POPS" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "Wicked SPONGEBOB EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\n**Wicked SPONGEBOB EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Switch SPONGEBOB EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "Wicked" ] }
+		],
+		"links": [ "スポンジボブレッスン", "Wicked SPONGEBOB EDITION", "Switch SPONGEBOB EDITION", "Wicked" ],
+		"easyurl": "xhpyFrlDVPE&t=22s",
+		"normalurl": "w8-rzMSCELo&t=22s"
+	},
+	{
+		"title": "Switch SPONGEBOB EDITION",
+		"alias": [ "Switch SPONGEBOB version" ],
+		"artist": "Dubscribe",
+		"category": "spring2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": "Switch_SPONGEBOB.png",
+		"remyurl": "Switch_(Dubscribe)",
+		"easy": 5,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "Wicked SPONGEBOB EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "Switch SPONGEBOB EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\nWicked SPONGEBOB EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Switch SPONGEBOB EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "Switch" ] } 
+		],
+		"links": [ "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION", "Wicked SPONGEBOB EDITION", "Switch SPONGEBOB EDITION", "Switch" ],
+		"easyurl": "rsQBL9U6Trs&t=22s",
+		"normalurl": "VWOjfsgA2ew&t=22s"
+	},
+	{
+		"title": "A Vague Idea",
+		"artist": "BEMANI Sound Team \"PHQUASE\"",
+		"artistalias": [ "BST PHQUASE" ],
+		"category": "spring2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS",
+		"thumbnail": "blank.png",
+		"remyurl": "A_Vague_Idea",
+		"easy": 6,
+		"normal": 9,
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "A Vague Idea" ] },
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 15, "BAD", 15 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Red Hot Chili Samba!" ] } 
+		],
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses" 
+		],
+		"links": [ "Red Hot Chili Samba!" ],
+		"easyurl": "G_nuPn0NFNQ&t=22s",
+		"normalurl": "iPD94DYo-bw&t=22s"
 	}
 ]

@@ -1291,7 +1291,7 @@
 		"normal": 7,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Broadway Walk" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] } 
 		],
 		"links": [ "Broadway Walk", "Thank You Merry Christmas -DANCERUSH Mix-" ],
 		"easyurl": "C4fwcxZ-YBE",
@@ -1538,7 +1538,7 @@
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Saturday Night Love -Phunk Disco Mix-" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Love 2 Shuffle" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "S7AGE" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Be My Baby" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Be My Baby" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Don't Stop!! RUNNING MAN EDITION" ] }
 		],
 		"links": [ "Butterfly", "DOWNER & UPPER", "Oppress", "Saturday Night Love -Phunk Disco Mix-", "Love 2 Shuffle", "S7AGE", "Be My Baby", "Don't Stop!! RUNNING MAN EDITION" ],
@@ -1682,7 +1682,7 @@
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Gymnopedie-kors k mix-" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "As I go" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Nighthiker" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] } 
 		],
 		"links": [ "Gymnopedie-kors k mix-", "As I go", "Nighthiker", "Thank You Merry Christmas -DANCERUSH Mix-" ],
 		"easyurl": "9RwzJNt2wAg",
@@ -1888,7 +1888,7 @@
 		"remyurl": "GHOST_KINGDOM",
 		"easy": 4,
 		"normal": 8,
-		"stars": 100,
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "NewAige" ] }, 
 			{ "mission": "mission_GetNSongs", "s": [ 5, "BAD", 3, "BEMANI" ] }
@@ -1919,7 +1919,7 @@
 		"remyurl": "Shuffle_cats",
 		"easy": 4,
 		"normal": 7,
-		"stars": 100,
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Robot Loves Smoked-Salmon" ] }, 
 			{ "mission": "mission_GetNSongs", "s": [ 5, "BAD", 3, "EDM" ] }
@@ -1947,7 +1947,7 @@
 		"remyurl": "S7AGE",
 		"easy": 4,
 		"normal": 8,
-		"stars": 100,
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Don't Stop!!" ] }, 
 			{ "mission": "mission_GetNSongs", "s": [ 5, "GOOD", 3, "POPS" ] } 
@@ -1973,21 +1973,19 @@
 		"remyurl": "Thank_You_Merry_Christmas_-DANCERUSH_Mix-",
 		"easy": 4,
 		"normal": 6,
-		"stars": 100,
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Saturday Night Love" ] }, 
 			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Saturday Night Love -Phunk Disco Mix-" ] }  
 		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "アルストロメリア (walk with you remix)" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Nightlife" ] }, 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 1225 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Be My Baby" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Crystarium" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Be My Baby" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Crystarium" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\n**Thank You Merry Christmas -DANCERUSH Mix-** ⇒ Be My Baby ⇒ Crystarium" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 10, 2021, 90, "Without You" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 10, 2021, 90, "Without You" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 20, 2022, 90, "アルストロメリア (walk with you remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 20, 2022, 90, "Nightlife" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 3, "noextra": "noExtra", "origlength": 3, "s": [ "C", 20, 2022, 1225 ] } 
 		],
 		"links": [ "Thank You Merry Christmas -DANCERUSH Mix-", "Be My Baby", "Crystarium", "Saturday Night Love", "Saturday Night Love -Phunk Disco Mix-", "アルストロメリア (walk with you remix)", "Nightlife", "Without You" ],
 		"easyurl": "Ty8FJ5L1xPE",
@@ -2004,21 +2002,18 @@
 		"remyurl": "Be_My_Baby",
 		"easy": 4,
 		"normal": 8,
-		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] },
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_FCSong", "s": [ "Special One" ] }, 
 			{ "mission": "mission_FCSong", "s": [ "As I go" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_GetNAnySong", "noextra": "noExtra", "s": [ 5, "BAD", 10 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "True Blue (STARDOM Remix)" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Don't Stop!!" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Crystarium" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Crystarium" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nThank You Merry Christmas -DANCERUSH Mix- ⇒ **Be My Baby** ⇒ Crystarium" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 5, "origlength": 3, "s": [ "B", 5, 2021, 90, "Let's Go" ] }  
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 5, "origlength": 3, "s": [ "B", 5, 2021, 90, "Let's Go" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "mis": "Discovery", "MM": 3, "noextra": "noExtra", "origlength": 3, "s": [ "A", 20, 2022, 5, "BAD", 10 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 20, 2022, 90, "True Blue (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 20, 2022, 90, "Don't Stop!!" ] } 
 		],
 		"links": [ "Thank You Merry Christmas -DANCERUSH Mix-", "Be My Baby", "Crystarium", "Special One", "As I go", "True Blue (STARDOM Remix)", "Don't Stop!!", "Let's Go" ],
 		"easyurl": "kBlHzCfHX7g",
@@ -2036,19 +2031,16 @@
 		"remyurl": "Crystarium",
 		"easy": 5,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Be My Baby" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_FCAnySongs", "diff": "Normal", "s": [ 3 ] }, 
 			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "Midnight Amaretto" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_FCNSongs", "noextra": "noExtra", "s": [ 15, "EDM" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Thank You Merry Christmas -DANCERUSH Mix-" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Be My Baby" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nThank You Merry Christmas -DANCERUSH Mix- ⇒ Be My Baby ⇒ **Crystarium**" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nThank You Merry Christmas -DANCERUSH Mix- ⇒ Be My Baby ⇒ **Crystarium**" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_FCNSongs", "mis": "Discovery", "MM": 3, "noextra": "noExtra", "origlength": 3, "s": [ "A", 20, 2022, 15, "EDM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 20, 2022, 90, "Thank You Merry Christmas -DANCERUSH Mix-" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 20, 2022, 90, "Be My Baby" ] } 
 		],
 		"links": [ "Thank You Merry Christmas -DANCERUSH Mix-", "Be My Baby", "Crystarium", "Midnight Amaretto" ],
 		"easyurl": "-ECX8mGq9LU",
@@ -3825,7 +3817,7 @@
 		"normal": 9,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "SHINOBI" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Be My Baby" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Be My Baby" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "True Blue (STARDOM Remix) T STEP EDITION" ] } 
 		],

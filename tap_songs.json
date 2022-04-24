@@ -29473,7 +29473,7 @@
 					"label": "Easy/Alt",
 					"hr": "1-X-2-X",
 					"hrlabel": [[2,1],[6,1]],
-					"lsd": "Perfect until Raphael skill activates",
+					"lsd": "GOOD until x2 combo (Possible GB meta)",
 					"tap": { "star": "HT Jay" },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },

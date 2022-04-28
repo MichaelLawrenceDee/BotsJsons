@@ -202,6 +202,7 @@
 				{"location":"Southtowne", "roleId": "823415668871135253"}
 			]},
 			{"region": "Virginia", "code": "VA", "locations": [
+				{"location":"The Cave Fairfax", "roleId": "969032178681917521"},
 				{"location":"Woodbridge", "roleId": "849459700919697439"}
 			]},
 			{"region": "Washington", "code": "WA", "locations": [

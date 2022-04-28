@@ -431,29 +431,6 @@
 		],
 		"global": false,
 		"category": "mottie",
-		"defaultPermission": false,
-		"permissions": [
-			{
-				"id": "571920867752149002",
-				"type": "ROLE",
-				"permission": true
-			},
-			{
-				"id": "568621905632952331",
-				"type": "ROLE",
-				"permission": true
-			},
-			{
-				"id": "679245884457746433",
-				"type": "ROLE",
-				"permission": true
-			},
-			{
-				"id": "174032065371570176",
-				"type": "USER",
-				"permission": true
-			}
-		],
 		"examples": [
 			"<>announce Hello welcome!"
 		]
@@ -465,7 +442,7 @@
 			{
 				"name": "eng",
 				"type": "SUB_COMMAND",
-				"description": "Search a song's info, using its title or matching filters.",
+				"description": "Search multiple song/s info, using its title or matching filters.",
 				"options": [
 					{
 						"name": "title",
@@ -574,7 +551,7 @@
 			{
 				"name": "中文",
 				"type": "SUB_COMMAND",
-				"description": "輸入一首歌曲的名稱（或簡稱、代名詞）來搜尋資料。",
+				"description": "輸入歌曲的名稱（或簡稱、代名詞）來搜尋資料。",
 				"options": [
 					{
 						"name": "曲名",
@@ -709,39 +686,6 @@
 		],
 		"global": false,
 		"category": "mottie",
-		"defaultPermission": false,
-		"permissions": [
-			{
-				"id": "571920867752149002",
-				"type": "ROLE",
-				"permission": true
-			},
-			{
-				"id": "568621905632952331",
-				"type": "ROLE",
-				"permission": true
-			},
-			{
-				"id": "679245884457746433",
-				"type": "ROLE",
-				"permission": true
-			},
-			{
-				"id": "174032065371570176",
-				"type": "USER",
-				"permission": true
-			},
-			{
-				"id": "641704262262325259",
-				"type": "USER",
-				"permission": true
-			},
-			{
-				"id": "584416579626729472",
-				"type": "USER",
-				"permission": true
-			}
-		],
 		"examples": [
 			"<>mottiesays Hello welcome!"
 		]

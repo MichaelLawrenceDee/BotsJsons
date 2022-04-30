@@ -96,6 +96,34 @@
 		]
 	},
 	{
+		"title": "You You You",
+		"artist": "D.Watt ft. 紡音れい",
+		"artistalias": [ "Daisuke Watanabe feat Rei Tsumugine" ],
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "You_You_You.png",
+		"remyurl": "You_You_You",
+		"easy": 3,
+		"normal": 7,
+		"stars": 100,
+		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Midnight Starlight" ] },
+		"discount": [ 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "RAVELINE ATTACK" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 500 ] }, 
+			{ "mission": "mission_ClearAnySong", "diff": "Easy", "s": [ 3 ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] }, 
+			{ "mission": "mission_ClearNSongs", "s": [ 6, "BEMANI" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Hello World" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ **You You You** ⇒ Hello World ⇒ Starlight Parade ⇒ Prettiful!" ] } 
+		],
+		"links": [ "RAVELINE ATTACK", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ]
+	},
+	{
 		"title": "Without You",
 		"artist": "夜の本気ダンス",
 		"artistalias": [ "Serious dance at night", "Serious dance at night" ],
@@ -1191,9 +1219,10 @@
 		"easyurl": "Y4rnWleyZLk",
 		"normalurl": "pCrp47_o724",
 		"notes": [ 
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Midnight Starlight" ] } 
 		],
-		"links": [ "Forgetting Machine RUNNING MAN EDITION" ]
+		"links": [ "Forgetting Machine RUNNING MAN EDITION", "Midnight Starlight" ]
 	},
 	{
 		"title": "Special One",
@@ -2040,9 +2069,10 @@
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nThank You Merry Christmas -DANCERUSH Mix- ⇒ Be My Baby ⇒ **Crystarium**" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_FCNSongs", "mis": "Discovery", "MM": 3, "noextra": "noExtra", "origlength": 3, "s": [ "A", 20, 2022, 15, "EDM" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 20, 2022, 90, "Thank You Merry Christmas -DANCERUSH Mix-" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 20, 2022, 90, "Be My Baby" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 20, 2022, 90, "Be My Baby" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Prettiful!" ] } 
 		],
-		"links": [ "Thank You Merry Christmas -DANCERUSH Mix-", "Be My Baby", "Crystarium", "Midnight Amaretto" ],
+		"links": [ "Thank You Merry Christmas -DANCERUSH Mix-", "Be My Baby", "Crystarium", "Midnight Amaretto", "Prettiful!" ],
 		"easyurl": "-ECX8mGq9LU",
 		"normalurl": "w501it1P9WY"
 	},
@@ -3504,9 +3534,10 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Twinkle" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ **RAVELINE ATTACK** ⇒ Switch ⇒ Set Me Free", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "You You You" ] } 
 		],
-		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Robot Loves Smoked-Salmon CRAB STEP EDITION" ],
+		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Robot Loves Smoked-Salmon CRAB STEP EDITION", "You You You" ],
 		"easyurl": "24utWCaCMbE",
 		"normalurl": "0TkbKO53F9g"
 	},
@@ -3797,9 +3828,10 @@
 		"normal": 8,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "朧" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "GHOST KINGDOM CHARLESTON EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "GHOST KINGDOM CHARLESTON EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Starlight Parade" ] } 
 		],
-		"links": [ "朧", "GHOST KINGDOM CHARLESTON EDITION" ],
+		"links": [ "朧", "GHOST KINGDOM CHARLESTON EDITION", "Starlight Parade" ],
 		"easyurl": "yjVZR73lbc4",
 		"normalurl": "xj6pGoIDVHg"
 	},
@@ -4176,9 +4208,10 @@
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNAnySong2,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ 20, "GOOD", 30, "GREAT", 3, 2000 ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "A Vague Idea" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "A Vague Idea" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Starlight Parade" ] } 
 		],
-		"links": [ "A Vague Idea" ],
+		"links": [ "A Vague Idea", "Starlight Parade" ],
 		"easyurl": "sGAdlpaCJOY",
 		"normalurl": "o7jTBQOE0bo"
 	},
@@ -4269,7 +4302,11 @@
 		"normal": 8,
 		"stars": 150,
 		"easyurl": "2uj0RuaUF-M",
-		"normalurl": "U-kBA4-MoM0"
+		"normalurl": "U-kBA4-MoM0",
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Hello World" ] } 
+		],
+		"links": [ "Hello World" ]
 	},
 	{
 		"title": "さよならトリップ",
@@ -4572,8 +4609,11 @@
 			{ "mission": "mission_Clear", "s": [ "Shamshir" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Shamshir" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2020**:\nLike This ⇒ **Dive in Blue** ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You" ],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You" ],
+		"notes": [ 
+			"**SPARK FESTIVAL 2020**:\nLike This ⇒ **Dive in Blue** ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Prettiful!" ] } 
+		],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You", "Prettiful!" ],
 		"easyurl": "co7qWvsEaQ8",
 		"normalurl": "Qf5nEXW7CWU"
 	},
@@ -4616,8 +4656,11 @@
 			{ "mission": "mission_Clear", "s": [ "Don't Speak" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Don't Speak" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ **Act Now!** ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You" ],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You" ],
+		"notes": [ 
+			"**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ **Act Now!** ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You", 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Hello World" ] } 
+		],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You", "Hello World" ],
 		"easyurl": "pbbeBkT37Gs",
 		"normalurl": "HCSspKa03vU"
 	},
@@ -6915,7 +6958,11 @@
 		"easy": 4,
 		"normal": 8,
 		"easyurl": "uoHwhw45jDI&t=22s",
-		"normalurl": "vyZFiuApLTU&t=22s"
+		"normalurl": "vyZFiuApLTU&t=22s",
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Midnight Starlight" ] } 
+		],
+		"links": [ "Midnight Starlight" ]
 	},
 	{
 		"title": "Pretender",
@@ -7116,5 +7163,111 @@
 		"links": [ "Red Hot Chili Samba!" ],
 		"easyurl": "G_nuPn0NFNQ&t=22s",
 		"normalurl": "iPD94DYo-bw&t=22s"
+	},
+	{
+		"title": "Midnight Starlight",
+		"artist": "kors k feat.Such",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Midnight_Starlight.png",
+		"remyurl": "Midnight_Starlight",
+		"easy": 4,
+		"normal": 7,
+		"stars": 60,
+		"discount": [ 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "SigSig" ] }, 
+			{ "mission": "mission_ClearAnySong", "extra": "inExtra", "s": [ 1 ] }, 
+			{ "mission": "mission_ClearLesson", "s": [ 1 ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_Clear", "s": [ "1-2-3 Jump!" ] }, 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "You You You" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Midnight Starlight** ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ Prettiful!" ] } 
+		],
+		"links": [ "SigSig", "1-2-3 Jump!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ]
+	},
+	{
+		"title": "Hello World",
+		"artist": "MK",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Hello_World.png",
+		"remyurl": "Hello_World",
+		"easy": 5,
+		"normal": 8,
+		"stars": 160,
+		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "You You You" ] },
+		"discount": [ 
+			{ "mission": "mission_GetNSongs", "s": [ 20, "GOOD", 5, "EDM" ] }, 
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 60, 3 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Pandora's Box" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 15, "BAD", 10 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Act Now!" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Starlight Parade" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ **Hello World** ⇒ Starlight Parade ⇒ Prettiful!" ] } 
+		],
+		"links": [ "Pandora's Box", "Act Now!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ]
+	},
+	{
+		"title": "Starlight Parade",
+		"artist": "ARM (IOSYS) ft. Renko",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Starlight_Parade_DaR.png",
+		"remyurl": "Starlight_Parade_(ARM_(IOSYS)_ft._Renko)",
+		"easy": 5,
+		"normal": 9,
+		"stars": 200,
+		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Hello World" ] },
+		"discount": [ 
+			{ "mission": "mission_NoteTotal", "s": [ 2000, "PERFECT" ] }, 
+			{ "mission": "mission_GetNOnSong2", "s": [ 10, "BAD", 10, "GOOD", "Starlight Kiss" ] }, 
+			{ "mission": "mission_FCAnySongs", "s": [ 1 ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 15 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Red Hot Chili Samba!" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Prettiful!" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ **Starlight Parade** ⇒ Prettiful!" ] } 
+		],
+		"links": [ "Starlight Kiss", "Red Hot Chili Samba!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ]
+	},
+	{
+		"title": "Prettiful!",
+		"artist": "BlackY",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Prettiful!.png",
+		"remyurl": "Prettiful!",
+		"easy": 5,
+		"normal": 9,
+		"stars": 300,
+		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Starlight Parade" ] },
+		"discount": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 3000 ] }, 
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 200, 5 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 93, "Dive in Blue" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_Unlock", "s": [ "Crystarium" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Crystarium" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ **Prettiful!**" ] } 
+		],
+		"links": [ "Dive in Blue", "Crystarium", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ]
 	}
 ]

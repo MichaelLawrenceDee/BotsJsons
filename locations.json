@@ -87,7 +87,24 @@
 		"code": "PH",
 		"flag": "🇵🇭",
 		"roleId": "626251895257825290",
-		"regions": []
+		"regionname": "province",
+		"regions": [
+			{"region": "Benguet", "code": "CAR", "alias": "Cordillera", "locations": [
+				{"location":"Quantum SM Baguio", "roleId": "970914721584775228"}
+			]},
+			{"region": "Laguna", "code": "Region IV-A", "locations": [
+				{"location":"Quantum SM Calamba", "roleId": "970914772973391892"}
+			]},
+			{"region": "Metro Manila", "code": "NCR", "locations": [
+				{"location":"Quantum SM North EDSA", "roleId": "970914763406188634"},
+				{"location":"QPS Mall of Asia", "alias": "MOA", "roleId": "970914776731496468"},
+				{"location":"QPS Power Plant Mall", "alias": "Rockwell", "roleId": "970914780565102642"},
+				{"location":"QPS Shangri-La Mall", "alias": "Shangrila", "roleId": "970914784025382982"}
+			]},
+			{"region": "Pampanga", "code": "Region III", "locations": [
+				{"location":"Quantum SM Clark", "roleId": "970914768594567229"}
+			]}
+		]
 	},
 	{
 		"country": "Singapore",

@@ -121,7 +121,9 @@
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Hello World" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ **You You You** ⇒ Hello World ⇒ Starlight Parade ⇒ Prettiful!" ] } 
 		],
-		"links": [ "RAVELINE ATTACK", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ]
+		"links": [ "RAVELINE ATTACK", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
+		"easyurl": "pF3G-4aq3as&t=22s",
+		"normalurl": "zMx-NqB81GA&t=22s"
 	},
 	{
 		"title": "Without You",
@@ -1488,7 +1490,10 @@
 		"easy": 2,
 		"normal": 6,
 		"easyurl": "GDL3EumIp8U",
-		"normalurl": "FTw8syqn7Fc"
+		"normalurl": "FTw8syqn7Fc",
+		"notes": [
+			{ "note": "note_Removed", "MM": 4, "s": [ 3, 2022 ] }
+		]
 	},
 	{
 		"title": "Missing You",
@@ -1501,7 +1506,10 @@
 		"easy": 4,
 		"normal": 7,
 		"easyurl": "kQtWO5E1SL0",
-		"normalurl": "24AEax1RT6w"
+		"normalurl": "24AEax1RT6w",
+		"notes": [
+			{ "note": "note_Removed", "MM": 4, "s": [ 3, 2022 ] }
+		]
 	},
 	{
 		"title": "Higher",
@@ -7188,7 +7196,9 @@
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "You You You" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Midnight Starlight** ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ Prettiful!" ] } 
 		],
-		"links": [ "SigSig", "1-2-3 Jump!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ]
+		"links": [ "SigSig", "1-2-3 Jump!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
+		"easyurl": "Y3MpDfGk-xQ&t=22s",
+		"normalurl": "F0RQ3PrgRrI&t=22s"
 	},
 	{
 		"title": "Hello World",
@@ -7215,7 +7225,9 @@
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Starlight Parade" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ **Hello World** ⇒ Starlight Parade ⇒ Prettiful!" ] } 
 		],
-		"links": [ "Pandora's Box", "Act Now!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ]
+		"links": [ "Pandora's Box", "Act Now!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
+		"easyurl": "1h0oVdcth0A&t=22s",
+		"normalurl": "HhykoLU_0e8&t=22s"
 	},
 	{
 		"title": "Starlight Parade",
@@ -7242,7 +7254,9 @@
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Prettiful!" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ **Starlight Parade** ⇒ Prettiful!" ] } 
 		],
-		"links": [ "Starlight Kiss", "Red Hot Chili Samba!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ]
+		"links": [ "Starlight Kiss", "Red Hot Chili Samba!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
+		"easyurl": "JSOQ5ts0I54&t=22s",
+		"normalurl": "P1CIvB1QTOM&t=22s"
 	},
 	{
 		"title": "Prettiful!",
@@ -7268,6 +7282,8 @@
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ **Prettiful!**" ] } 
 		],
-		"links": [ "Dive in Blue", "Crystarium", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ]
+		"links": [ "Dive in Blue", "Crystarium", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
+		"easyurl": "H6biv3FmQpE&t=22s",
+		"normalurl": "iZNzUQQ-zKU&t=22s"
 	}
 ]

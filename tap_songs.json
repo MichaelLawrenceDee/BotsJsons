@@ -11760,11 +11760,13 @@
 					"last_update": "26 Dec 2021"
 				},
 				{
-					"tap": { "star": "Shirley", "leader": true },
-					"long": { "star": "Kraken" },
+					"label": "Normal(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true },
-					"flick": { "star": "Aresmus" },
-					"last_update": "13 May 2020"
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [

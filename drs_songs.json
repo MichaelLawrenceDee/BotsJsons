@@ -7291,5 +7291,33 @@
 		"links": [ "Dive in Blue", "Crystarium", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
 		"easyurl": "H6biv3FmQpE&t=22s",
 		"normalurl": "iZNzUQQ-zKU&t=22s"
+	},
+	{
+		"title": "DEADLOCK (STARDOM Remix)",
+		"artist": "RoughSketch",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "Deadlock_jacket.png",
+		"remyurl": "DEADLOCK_(STARDOM_Remix)",
+		"easy": 5,
+		"normal": 9,
+		"stars": 160,
+		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "DEADLOCK (STARDOM Remix)" ] },
+		"singlediscount": true,
+		"discount": [ 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }
+		],
+		"notes": [ 
+			{ "note": "note_Random" }
+		],
+		"easyurl": "02t1FhP4tXE&t=22s",
+		"normalurl": "Bta0AKZVW8w&t=22s"
 	}
 ]

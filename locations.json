@@ -159,6 +159,7 @@
 				{"location":"Littleton", "roleId": "584741233977458710"}
 			]},
 			{"region": "Florida", "code": "FL", "locations": [
+				{"location":"Melbourne Arcade Monsters", "roleId": "975640379858767903"},
 				{"location":"Miami Arcade Odyssey", "roleId": "934004516456648745"},
 				{"location":"Oviedo Arcade Monsters", "roleId": "714361088199884801"}
 			]},

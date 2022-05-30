@@ -41,6 +41,13 @@
 		"regions": []
 	},
 	{
+		"country": "Hong Kong",
+		"code": "HK",
+		"flag": "🇭🇰",
+		"roleId": "980850135615537172",
+		"regions": []
+	},
+	{
 		"country": "Indonesia",
 		"code": "ID",
 		"flag": "🇮🇩",

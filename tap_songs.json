@@ -9558,7 +9558,7 @@
 					"label": "Hard/Alt",
 					"hr": "2-X",
 					"hrlabel": [[2,1]],
-					"lsd": "20 Perfects",
+					"lsd": "20 Perfects (Jaguar 9 +0, Paris 8 S7 ~ Jaguar 10 S5, Paris 10 S7)",
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Jaguar", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true },

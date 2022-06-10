@@ -1522,7 +1522,10 @@
 		"easy": 2,
 		"normal": 7,
 		"easyurl": "e60dUvNxDiE",
-		"normalurl": "VYJvW1jbgeU"
+		"normalurl": "VYJvW1jbgeU",
+		"notes": [
+			{ "note": "note_Removed", "MM": 5, "s": [ 7, 2022 ] }
+		]
 	},
 	{
 		"title": "Drop It",

@@ -6463,7 +6463,7 @@
 		"easy": 5,
 		"normal": 8,
 		"stars": 30,
-		"unlock": { "mission": "mission_GymClock", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
 		"notes": [ "**DANCERUSH STARDOM GYM4**:\n**Metric** ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ Brand New Step" ],
 		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
 		"easyurl": "AHlzK1t5Shk",
@@ -6481,7 +6481,7 @@
 		"easy": 5,
 		"normal": 8,
 		"stars": 30,
-		"unlock": { "mission": "mission_GymClock", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ **Crystal Clear** ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ Brand New Step" 
 		],
@@ -6501,7 +6501,7 @@
 		"easy": 5,
 		"normal": 7,
 		"stars": 30,
-		"unlock": { "mission": "mission_GymClock", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
 		"notes": [ "**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ **WELCOME TO MY GAME** ⇒ melody H4CKER ⇒ Brand New Step" ],
 		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
 		"easyurl": "TbD24UIGvOI",
@@ -6520,7 +6520,7 @@
 		"easy": 5,
 		"normal": 9,
 		"stars": 30,
-		"unlock": { "mission": "mission_GymClock", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ **melody H4CKER** ⇒ Brand New Step" 
 		],
@@ -6540,7 +6540,7 @@
 		"easy": 6,
 		"normal": 9,
 		"stars": 30,
-		"unlock": { "mission": "mission_GymClock", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ **Brand New Step**" 

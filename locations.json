@@ -167,7 +167,8 @@
 			{"region": "Florida", "code": "FL", "locations": [
 				{"location":"Melbourne Arcade Monsters", "roleId": "975640379858767903"},
 				{"location":"Miami Arcade Odyssey", "roleId": "934004516456648745"},
-				{"location":"Oviedo Arcade Monsters", "roleId": "714361088199884801"}
+				{"location":"Oviedo Arcade Monsters", "roleId": "714361088199884801"},
+				{"location":"Pembroke Lakes Mall", "roleId": "984609622935613462"}
 			]},
 			{"region": "Georgia", "code": "GA", "locations": [
 				{"location":"Stonecrest", "roleId": "607481501495328809"}

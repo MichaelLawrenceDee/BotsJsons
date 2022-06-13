@@ -6321,7 +6321,9 @@
 		"normal": 8,
 		"notes": [ 
 			{ "note": "note_Regional", "loc": "South Korea" }
-		]
+		],
+		"easyurl": false,
+		"normalurl": "985793437469126697/Bboom_Normal.mp4"
 	},
 	{
 		"title": "The Stealer",

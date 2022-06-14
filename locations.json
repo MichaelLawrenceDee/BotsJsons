@@ -173,6 +173,9 @@
 			{"region": "Georgia", "code": "GA", "locations": [
 				{"location":"Stonecrest", "roleId": "607481501495328809"}
 			]},
+			{"region": "Idaho", "code": "ID", "locations": [
+				{"location":"Nampa Jeremy's Downtown Arcade", "roleId": "986282598953267270"}
+			]},
 			{"region": "Illinois", "code": "IL", "locations": [
 				{"location":"Aurora", "roleId": "607481217587216384"},
 				{"location":"North Riverside", "roleId": "620103460775264266"},

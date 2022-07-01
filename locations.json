@@ -196,6 +196,9 @@
 			{"region": "Michigan", "code": "MI", "locations": [
 				{"location":"Auburn Hills", "roleId": "569737743408562191"}
 			]},
+			{"region": "Nebraska", "code": "NE", "locations": [
+				{"location":"Gateway Mall", "alias": "Lincoln", "roleId": "992275126387216515"}
+			]},
 			{"region": "North Carolina", "code": "NC", "locations": [
 				{"location":"Four Seasons", "roleId": "571962133785477140"}
 			]},

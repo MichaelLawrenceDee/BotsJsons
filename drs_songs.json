@@ -634,6 +634,9 @@
 		"normalguide": [
 			{ "name": "default", "url": "901461021582045234/POP_TEAM_EPIC_Normal.mp4" },
 			{ "name": "Hboy", "url": "901464292447125544/POP_TEAM_EPIC_Normal_HBoy.mp4" }
+		],
+		"notes": [
+			{ "note": "note_Removed", "MM": 7, "s": [ 29, 2021 ] }
 		]
 	},
 	{
@@ -649,7 +652,10 @@
 		"easyguide": [
 			{ "name": "Hboy", "url": "TRTuXD4cT0k" }
 		],
-		"normalurl": "9aDweIdvF_c"
+		"normalurl": "9aDweIdvF_c",
+		"notes": [
+			{ "note": "note_Removed", "MM": 7, "s": [ 29, 2021 ] }
+		]
 	},
 	{
 		"title": "Fly Away",
@@ -798,7 +804,7 @@
 		"easyurl": "S_91nIjpcec",
 		"normalurl": "FQ3GfzXx7cw",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Majestic CRAB STEP EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Majestic CRAB STEP EDITION" ] } 
 		],
 		"links": [ "Majestic CRAB STEP EDITION" ]
 	},
@@ -979,7 +985,7 @@
 		"easy": 4,
 		"easyurl": "C_GfOf-yc0w",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "NewAige CHARLESTON EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "NewAige CHARLESTON EDITION" ] } 
 		],
 		"links": [ "NewAige CHARLESTON EDITION" ]
 	},
@@ -1021,7 +1027,7 @@
 		"easy": 6,
 		"easyurl": "oEHyiSN-sOs",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Don't Stop!! RUNNING MAN EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Don't Stop!! RUNNING MAN EDITION" ] } 
 		],
 		"links": [ "Don't Stop!! RUNNING MAN EDITION" ]
 	},
@@ -1036,7 +1042,7 @@
 		"easy": 4,
 		"easyurl": "txRkhQWYyqw",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Majestic CRAB STEP EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Majestic CRAB STEP EDITION" ] } 
 		],
 		"links": [ "Majestic CRAB STEP EDITION" ]
 	},
@@ -1098,7 +1104,7 @@
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Oppress" ] },
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Robot Loves Smoked-Salmon" ] },
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Where's The Party At" ] },
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Don't Stop!! RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Don't Stop!! RUNNING MAN EDITION" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Garuda (Hommarju Remix)" ] }
 		],
 		"links": [ "Raveology", "Oppress", "Robot Loves Smoked-Salmon", "Where's The Party At", "Don't Stop!! RUNNING MAN EDITION", "Garuda (Hommarju Remix)" ]
@@ -1116,7 +1122,7 @@
 		"easyurl": "Lm-sVE9nZeU",
 		"normalurl": "RFah29JLfLs",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "NewAige CHARLESTON EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "NewAige CHARLESTON EDITION" ] } 
 		],
 		"links": [ "NewAige CHARLESTON EDITION" ]
 	},
@@ -1174,7 +1180,7 @@
 		"normalurl": "10zRsC7M8JQ",
 		"group": "fSwZ4o73b0g",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }  
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }  
 		]
 	},
 	{
@@ -1474,7 +1480,8 @@
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Where's The Party At" ] }, 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Field of Dreams" ] }, 
-			{ "note": "note_OldMission", "mission": "mission_Unlock", "mis": "Discount", "origlength": 0, "s": [ "Handz Up" ] }  
+			{ "note": "note_OldMission", "mission": "mission_Unlock", "mis": "Discount", "origlength": 0, "s": [ "Handz Up" ] }, 
+			{ "note": "note_Removed", "MM": 7, "s": [ 29, 2021 ] } 
 		],
 		"links": [ "Where's The Party At", "Field of Dreams", "Handz Up" ],
 		"easyurl": "eJIojuUDCJI",
@@ -1538,7 +1545,10 @@
 		"easy": 3,
 		"normal": 7,
 		"easyurl": "HZkB9llVgu0",
-		"normalurl": "nxasxguFWBY"
+		"normalurl": "nxasxguFWBY",
+		"notes": [
+			{ "note": "note_Removed", "MM": 6, "s": [ 28, 2022 ] }
+		]
 	},
 	{
 		"title": "Butterfly",
@@ -1641,7 +1651,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "DOWNER & UPPER" ] },
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "NewAige" ] },
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Wicked SPONGEBOB EDITION" ] } 
 		],
 		"links": [ "DOWNER & UPPER", "NewAige", "Wicked SPONGEBOB EDITION" ],
@@ -1759,7 +1769,7 @@
 		"normal": 8,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Nocturnus" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
 		],
 		"links": [ "Nocturnus" ],
 		"easyurl": "OA4nIYEr0RA",
@@ -3067,7 +3077,7 @@
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "HighBALL" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Broadway Walk" ] }, 
 			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ Deep Vibes ⇒ HighBALL ⇒ **Majestic** ⇒ Dual Bladez", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } , 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } , 
 			{ "note": "note_SeeAlso", "s": [ "Majestic CRAB STEP EDITION" ] }
 		],
 		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez", "Broadway Walk", "Majestic CRAB STEP EDITION" ],
@@ -3396,7 +3406,7 @@
 		],
 		"notes": [ 
 			"**SPARK FESTIVAL 2019**: \n**Memories** ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free" ],
 		"easyurl": "BbiAFZv_9Pk",
@@ -3446,7 +3456,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Flying soda" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ **Fire Spirit** ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Party Jumpin' RUNNING MAN EDITION" ],
 		"easyurl": "4xf9B5MgkNI",
@@ -3545,7 +3555,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Twinkle" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ **RAVELINE ATTACK** ⇒ Switch ⇒ Set Me Free", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "You You You" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Robot Loves Smoked-Salmon CRAB STEP EDITION", "You You You" ],
@@ -3820,7 +3830,7 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "MY NAME IS" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
 		],
 		"links": [ "MY NAME IS" ],
 		"easyurl": "dtWSb-Pusgg",
@@ -3839,7 +3849,7 @@
 		"normal": 8,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "朧" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "GHOST KINGDOM CHARLESTON EDITION" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "GHOST KINGDOM CHARLESTON EDITION" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Starlight Parade" ] } 
 		],
 		"links": [ "朧", "GHOST KINGDOM CHARLESTON EDITION", "Starlight Parade" ],
@@ -4928,14 +4938,11 @@
 		"remyurl": "NewAige",
 		"easy": 5,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "チャールストンレッスン" ] }, 
-			{ "mission": "mission_Clear", "s": [ "50th Memorial Songs -Beginning Story-" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "NewAige CHARLESTON EDITION" ] },
+		"stars": 40,
 		"notes": [ 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "チャールストンレッスン", "50th Memorial Songs -Beginning Story-" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\n**NewAige CHARLESTON EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ GHOST KINGDOM CHARLESTON EDITION", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "GHOST KINGDOM CHARLESTON EDITION" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "GHOST KINGDOM CHARLESTON EDITION" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "NewAige" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Event", "MM": 6, "origlength": 3, "s": [ "B", 9, 2021, "Break Free ft.Zedd" ] } 
 		],
@@ -4956,12 +4963,9 @@
 		"remyurl": "GHOST_KINGDOM",
 		"easy": 5,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "Starlight Kiss" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "NewAige CHARLESTON EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "GHOST KINGDOM CHARLESTON EDITION" ] },
+		"stars": 40,
 		"notes": [ 
+			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 15, "BAD", "Starlight Kiss", 85, "NewAige CHARLESTON EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\nNewAige CHARLESTON EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **GHOST KINGDOM CHARLESTON EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "GHOST KINGDOM" ] }
 		],
@@ -4981,14 +4985,11 @@
 		"remyurl": "Majestic",
 		"easy": 5,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "クラブステップレッスン" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Rip It Off (Now) Rip It Off" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "Majestic CRAB STEP EDITION" ] },
+		"stars": 40,
 		"notes": [ 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "クラブステップレッスン", "Rip It Off (Now) Rip It Off" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\n**Majestic CRAB STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Robot Loves Smoked-Salmon CRAB STEP EDITION", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Majestic" ] }
 		],
 		"links": [ "クラブステップレッスン", "Rip It Off (Now) Rip It Off", "Majestic CRAB STEP EDITION", "Robot Loves Smoked-Salmon CRAB STEP EDITION", "Majestic" ],
@@ -5008,12 +5009,9 @@
 		"remyurl": "Robot_Loves_Smoked-Salmon",
 		"easy": 4,
 		"normal": 7,
-		"mission": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 20, "GOOD", "RAVELINE ATTACK" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Majestic CRAB STEP EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] },
+		"stars": 40,
 		"notes": [ 
+			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 20, "GOOD", "RAVELINE ATTACK", 85, "Majestic CRAB STEP EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\nMajestic CRAB STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Robot Loves Smoked-Salmon CRAB STEP EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "Robot Loves Smoked-Salmon" ] }
 		],
@@ -5033,14 +5031,11 @@
 		"remyurl": "Don%27t_Stop!!",
 		"easy": 6,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "ステップバリエーション2" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Small Steps" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "Don't Stop!! RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "ステップバリエーション2", "Small Steps" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\n**Don't Stop!! RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Party Jumpin' RUNNING MAN EDITION", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Don't Stop!!" ] }
 		],
 		"links": [ "ステップバリエーション2", "Small Steps", "Don't Stop!! RUNNING MAN EDITION", "Party Jumpin' RUNNING MAN EDITION", "Don't Stop!!" ],
@@ -5059,12 +5054,9 @@
 		"remyurl": "Party_Jumpin%27",
 		"easy": 6,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 30, "GREAT", "Fire Spirit" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Don't Stop!! RUNNING MAN EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "Party Jumpin' RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
+			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "GREAT", "Fire Spirit", 85, "Don't Stop!! RUNNING MAN EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\nDon't Stop!! RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Party Jumpin' RUNNING MAN EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "Party Jumpin'" ] }
 		],
@@ -5084,12 +5076,9 @@
 		"remyurl": "About_right",
 		"easy": 6,
 		"normal": 8,
-		"unlock": { "mission": "mission_TrainingCamp", "unavailable": "eventEnd", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ <:2020autumn:896415540913008781>", "about right" ] },
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong2", "s": [ 10, "BAD", 20, "GOOD", 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
-		],
+		"stars": 100,
 		"notes": [ 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong2,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ 10, "BAD", 20, "GOOD", 5, 2000 ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "I Like to BOUNCE" ] } 
 		],
@@ -6450,9 +6439,10 @@
 		"easyurl": "c8hIAAmCstw",
 		"normalurl": "lRSkOpRLYK4",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Insomniac Nights" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Insomniac Nights" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "MOVE! (We Keep It Movin')" ] } 
 		],
-		"links": [ "Insomniac Nights" ]
+		"links": [ "Insomniac Nights", "MOVE! (We Keep It Movin')" ]
 	},
 	{
 		"title": "Metric",
@@ -6652,7 +6642,11 @@
 		"easy": 5,
 		"normal": 8,
 		"easyurl": "m6qA26Ae7-M",
-		"normalurl": "zhZBNopZEfg"
+		"normalurl": "zhZBNopZEfg",
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DUAL STRIKER" ] } 
+		],
+		"links": [ "DUAL STRIKER" ]
 	},
 	{
 		"title": "DANCE ALL NIGHT",
@@ -7376,5 +7370,42 @@
 		"normal": 7,
 		"easyurl": "6wjzrWC19xA&t=22s",
 		"normalurl": "gg72ald_yY8&t=22s"
+	},
+	{
+		"title": "MOVE! (We Keep It Movin')",
+		"alias": [ "Moving" ],
+		"artist": "Jonny Dynamite!,Lisa - paint with stars -,Rio Hiiragi by BEMANI Sound Team \"U1-ASAMi\"",
+		"artistalias": [ "浅見祐一", "柊木りお", "ヒイラギリオ", "Jonathan Medley", "BST Yuichi Asami" ],
+		"category": "midsummerbattle2021",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "MOVE!_(We_Keep_It_Movin').png",
+		"remyurl": "MOVE!_(We_Keep_It_Movin%27)",
+		"easy": 4,
+		"normal": 7,
+		"stars": 80,
+		"discount": [ 
+			{ "mission": "mission_ClearAnySong", "s": [ 10 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "Triple Cross" ] } 
+		],
+		"links": [ "Triple Cross" ]
+	},
+	{
+		"title": "DUAL STRIKER",
+		"artist": "Mayumi Morinaga,Fernweh by BEMANI Sound Team \"L.E.D. & HuΣeR\"",
+		"artistalias": [ "Prim", "Kuroa*", "Toshiyuki Kakuta", "角田利之", "LED", "Aritomo Hamada", "濵田有共", "BST Humer" ],
+		"category": "midsummerbattle2021",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "DUAL_STRIKER.png",
+		"remyurl": "DUAL_STRIKER",
+		"easy": 5,
+		"normal": 8,
+		"stars": 80,
+		"discount": [ 
+			{ "mission": "mission_ClearAnySong", "s": [ 10 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "Aftermath" ] } 
+		],
+		"links": [ "Aftermath" ]
 	}
 ]

@@ -1712,9 +1712,10 @@
 			{ "note": "note_OldMission", "mission": "mission_Unlock", "mis": "Discount", "origlength": 0, "s": [ "Don't Stop!!" ] }, 
 			{ "note": "note_OldMission", "mission": "mission_Unlock", "mis": "Discount", "origlength": 0, "s": [ "Gimme a Big Beat" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Sunshine let me find a way" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Bad Riddim T STEP EDITION" ] } 
 		],
-		"links": [ "Don't Stop!!", "Gimme a Big Beat", "Thank You Merry Christmas -DANCERUSH Mix-", "Bad Riddim T STEP EDITION" ],
+		"links": [ "Don't Stop!!", "Gimme a Big Beat", "Thank You Merry Christmas -DANCERUSH Mix-", "Sunshine let me find a way", "Bad Riddim T STEP EDITION" ],
 		"easyurl": "F7rnPd8vO8Y",
 		"normalurl": "2xJ4ViAbHUM"
 	},
@@ -1786,9 +1787,10 @@
 		"easy": 5,
 		"normal": 8,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Cyber Devotion" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Cyber Devotion" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] } 
 		],
-		"links": [ "Cyber Devotion" ],
+		"links": [ "Cyber Devotion", "Go Down" ],
 		"easyurl": "nFNBxLftEhw",
 		"normalurl": "Qj0ncjwxFUw"
 	},
@@ -2352,9 +2354,10 @@
 			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "prev": "Previously", "cond": "unlock", "withstars": "withStars", "ing": "ing","s": [ "FLOWER (STARDOM Remix)" ] } 
+			{ "note": "note_UnlockFor", "prev": "Previously", "cond": "unlock", "withstars": "withStars", "ing": "ing","s": [ "FLOWER (STARDOM Remix)" ] },
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Easy Peasy" ] } 
 		],
-		"links": [ "Oppress", "FLOWER (STARDOM Remix)" ],
+		"links": [ "Oppress", "FLOWER (STARDOM Remix)", "Easy Peasy" ],
 		"easyurl": "Yai88RPVBFw",
 		"normalurl": "GDm1hZWintE"
 	},
@@ -2878,9 +2881,10 @@
 		"stars": 150,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "MUTSUKI" ] }, 
-			{ "note": "note_SeeAlso", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] }
+			{ "note": "note_SeeAlso", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] } 
 		],
-		"links": [ "MUTSUKI", "Party Jumpin' RUNNING MAN EDITION" ],
+		"links": [ "MUTSUKI", "Party Jumpin' RUNNING MAN EDITION", "Go Down" ],
 		"easyurl": "NUE2XI82vXc",
 		"normalurl": "EoagbyCtSic"
 	},
@@ -3003,8 +3007,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)" ] }, 
-			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ **Summery** ⇒ Deep Vibes ⇒ HighBALL ⇒ Majestic ⇒ Dual Bladez" ],
-		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez" ],
+			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ **Summery** ⇒ Deep Vibes ⇒ HighBALL ⇒ Majestic ⇒ Dual Bladez",
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] } 
+		],
+		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez", "Go Down" ],
 		"easyurl": "yN110Kar7KU",
 		"normalurl": "cnFqocWQ8mk"
 	},
@@ -7000,7 +7006,11 @@
 		"easy": 4,
 		"normal": 8,
 		"easyurl": "xoCaAOEibAU&t=22s",
-		"normalurl": "W4UGrm5UtEo&t=22s"
+		"normalurl": "W4UGrm5UtEo&t=22s",
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Sunshine let me find a way" ] } 
+		],
+		"links": [ "Sunshine let me find a way" ]
 	},
 	{
 		"title": "BREDLI RUNNING MAN EDITION",
@@ -7388,7 +7398,9 @@
 			{ "mission": "mission_ClearAnySong", "s": [ 10 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 95, "Triple Cross" ] } 
 		],
-		"links": [ "Triple Cross" ]
+		"links": [ "Triple Cross" ],
+		"easyurl": "RXQOIVy-txw&t=22s",
+		"normalurl": "915TzxeXpuM&t=22s"
 	},
 	{
 		"title": "DUAL STRIKER",
@@ -7406,6 +7418,98 @@
 			{ "mission": "mission_ClearAnySong", "s": [ 10 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 95, "Aftermath" ] } 
 		],
-		"links": [ "Aftermath" ]
+		"links": [ "Aftermath" ],
+		"easyurl": "cDAyM0yepZc&t=22s",
+		"normalurl": "rOT2MvHZd4U&t=22s"
+	},
+	{
+		"title": "Sunshine let me find a way",
+		"artist": "コバヤシユウヤ (IOSYS) ft. You-Re:",
+		"artistalias": [ "Kobayashiyuuya", "Yuya Kobayashi", "void" ],
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "sunshine_let_me_find_a_way_jacket.png",
+		"remyurl": "Sunshine_let_me_find_a_way",
+		"easy": 4,
+		"normal": 7,
+		"stars": 80,
+		"discount": [ 
+			{ "mission": "mission_GetNSongs", "s": [ 15, "BAD", 5, "EDM" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "Saturday Night Love -Phunk Disco Mix-" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_NoteTotal", "s": [ 1000, "PERFECT" ] }, 
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 50, 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "野球の遊び方　そしてその歴史　～決定版～" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Easy Peasy" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Go Down" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Sunshine let me find a way** ⇒ Easy Peasy ⇒ Go Down" ] } 
+		],
+		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Saturday Night Love -Phunk Disco Mix-", "野球の遊び方　そしてその歴史　～決定版～" ],
+		"easyurl": false,
+		"normalurl": "ehzrqJgwmp0&t=22s"
+	},
+	{
+		"title": "Easy Peasy",
+		"artist": "BEMANI Sound Team \"SYUNN\"",
+		"artistalias": [ "BST Syunn" ],
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Easy_Peasy_Jacket.png",
+		"remyurl": "Easy_Peasy",
+		"easy": 4,
+		"normal": 8,
+		"stars": 160,
+		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Sunshine let me find a way" ] },
+		"discount": [ 
+			{ "mission": "mission_NoteTotal", "s": [ 1700, "PERFECT" ] }, 
+			{ "mission": "mission_ScoreAny", "s": [ 10, 90 ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ClearAnySong", "diff": "Easy", "s": [ 5 ] }, 
+			{ "mission": "mission_GetNSongs", "s": [ 20, "GOOD", 3, "POPS" ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 10, "BAD", "Impress" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Go Down" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Go Down" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nSunshine let me find a way ⇒ **Easy Peasy** ⇒ Go Down" ] } 
+		],
+		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Impress" ],
+		"easyurl": false,
+		"normalurl": "OoaUJ4bTirQ&t=22s"
+	},
+	{
+		"title": "Go Down",
+		"artist": "KO3",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "go_down_jacket.png",
+		"remyurl": "Go_Down",
+		"easy": 5,
+		"normal": 10,
+		"stars": 300,
+		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Easy Peasy" ] },
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Summery" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Party Jumpin'" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Chaos of Drum" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 2100 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 92, "Sunshine let me find a way" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 92, "Easy Peasy" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nSunshine let me find a way ⇒ Easy Peasy ⇒ **Go Down**" ] } 
+		],
+		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Summery", "Party Jumpin'", "Chaos of Drum" ],
+		"easyurl": "9E6WPvc2Bxw&t=22s",
+		"normalurl": "LY2IAziThoE&t=22s"
 	}
 ]

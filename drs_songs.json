@@ -6221,7 +6221,7 @@
 		"remyurl": "MA-TSU-RI",
 		"easy": 5,
 		"normal": 7,
-		"unlock": { "mission": "mission_IchikaRush", "unavailable": "eventEnd", "s": [ "https://p.eagate.573.jp/game/bemani/bsb2021/yell/yell.html?team_id=A&round_id=1st", "7200 Yell" ] },
+		"stars": 80,
 		"easyurl": "4_5DKf8sLCg",
 		"normalurl": "ZT0RPJ7LEqI"
 	},
@@ -6238,7 +6238,7 @@
 		"remyurl": "Chuchu_Machu_Picchu",
 		"easy": 3,
 		"normal": 7,
-		"unlock": { "mission": "mission_IchikaRush", "unavailable": "eventEnd", "s": [ "https://p.eagate.573.jp/game/bemani/bsb2021/yell/yell.html?team_id=A&round_id=2nd", "7200 Yell" ] },
+		"stars": 80,
 		"easyurl": "T-9NFnDLYNg",
 		"normalurl": "l40B9m9rFxg"
 	},
@@ -6253,7 +6253,7 @@
 		"remyurl": "LIKE_A_VAMPIRE",
 		"easy": 4,
 		"normal": 7,
-		"unlock": { "mission": "mission_IchikaRush", "unavailable": "eventEnd", "s": [ "https://p.eagate.573.jp/game/bemani/bsb2021/yell/yell.html?team_id=A&round_id=special_1", "3200 Yell" ] },
+		"stars": 80,
 		"easyurl": "PlLT1Xm-mVk",
 		"normalurl": "oe91CDRT5c0"
 	},
@@ -6269,7 +6269,7 @@
 		"remyurl": "Super_sentou_Babanburn",
 		"easy": 5,
 		"normal": 7,
-		"unlock": { "mission": "mission_IchikaRush", "unavailable": "eventEnd", "s": [ "https://p.eagate.573.jp/game/bemani/bsb2021/yell/yell.html?team_id=B&round_id=special_1", "3200 Yell" ] },
+		"stars": 80,
 		"easyurl": "qul8PWNBmnY",
 		"normalurl": "yvMXBQpf7zQ"
 	},
@@ -6284,7 +6284,7 @@
 		"remyurl": "Globe_Glitter",
 		"easy": 4,
 		"normal": 7,
-		"unlock": { "mission": "mission_IchikaRush", "unavailable": "eventEnd", "s": [ "https://p.eagate.573.jp/game/bemani/bsb2021/yell/yell.html?team_id=A&round_id=3rd", "7200 Yell" ] },
+		"stars": 80,
 		"easyurl": "xm1pYe5RYHo",
 		"normalurl": "mxho91B8WI8"
 	},
@@ -6300,7 +6300,7 @@
 		"remyurl": "Yumebuki",
 		"easy": 5,
 		"normal": 8,
-		"unlock": { "mission": "mission_IchikaRush", "unavailable": "eventEnd", "s": [ "https://p.eagate.573.jp/game/bemani/bsb2021/yell/yell.html?team_id=A&round_id=4th", "7200 Yell" ] },
+		"stars": 80,
 		"easyurl": "gglvfNYXzXY",
 		"normalurl": "E2jQUxb9Qk4"
 	},
@@ -7511,5 +7511,49 @@
 		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Summery", "Party Jumpin'", "Chaos of Drum" ],
 		"easyurl": "9E6WPvc2Bxw&t=22s",
 		"normalurl": "LY2IAziThoE&t=22s"
+	},
+	{
+		"title": "Golden Palms",
+		"artist": "Dirty Androids",
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "golden_palms_jacket.png",
+		"remyurl": "Golden_Palms",
+		"easy": 5,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Let's Party!!" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Let's Party!!" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
+		"notes": [ "**SPARK FESTIVAL 2022**:\n**Golden Palms** ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Ride ⇒ Catastrophic Dance ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!" ],
+		"easyurl": "nk8IG-Sc_Fs&t=55s",
+		"normalurl": "ba_4rSQhJus&t=55s"
+	},
+	{
+		"title": "Let's Party!!",
+		"alias": [ "Lets Party" ],
+		"artist": "Relect",
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "TROP, Otias ENT Produced",
+		"thumbnail": "Lets_Party_Jacket.png",
+		"remyurl": "Let%27s_Party!!",
+		"easy": 4,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Ignited Night" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Ignited Night" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
+		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ **Let's Party!!** ⇒ Ignited Night ⇒ Neon Ride ⇒ Catastrophic Dance ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!" ],
+		"easyurl": "Z37zi5E-Rrk&t=55s",
+		"normalurl": "20TkgijpJTo&t=55s"
 	}
 ]

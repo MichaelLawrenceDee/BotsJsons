@@ -7528,8 +7528,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Let's Party!!" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
-		"notes": [ "**SPARK FESTIVAL 2022**:\n**Golden Palms** ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Ride ⇒ Catastrophic Dance ⇒ ???" ],
-		"links": [ "Golden Palms", "Let's Party!!" ],
+		"notes": [ "**SPARK FESTIVAL 2022**:\n**Golden Palms** ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider" ],
 		"easyurl": "nk8IG-Sc_Fs&t=55s",
 		"normalurl": "ba_4rSQhJus&t=55s"
 	},
@@ -7551,9 +7551,52 @@
 			{ "mission": "mission_Unlock", "s": [ "Ignited Night" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ **Let's Party!!** ⇒ Ignited Night ⇒ Neon Ride ⇒ Catastrophic Dance ⇒ ???" ],
-		"links": [ "Golden Palms", "Let's Party!!" ],
+		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ **Let's Party!!** ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider" ],
 		"easyurl": "Z37zi5E-Rrk&t=55s",
 		"normalurl": "20TkgijpJTo&t=55s"
+	},
+	{
+		"title": "Ignited Night",
+		"artist": "HHH",
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Ignited_Night.png",
+		"remyurl": "Ignited_Night",
+		"easy": 6,
+		"normal": 9,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Neon Rider" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Neon Rider" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
+		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ **Ignited Night** ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider" ],
+		"easyurl": "wfaLo0cuBdg&t=55s",
+		"normalurl": "6I1LdSREPeE&t=55s"
+	},
+	{
+		"title": "Neon Rider",
+		"artist": "RoughSketch",
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": "Neon_Rider_Jacket.png",
+		"remyurl": "Neon_Rider",
+		"easy": 5,
+		"normal": 10,
+		"stars": 100,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Catastrophic Dance" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Catastrophic Dance" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
+		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ **Neon Rider** ⇒ Catastrophic Dance ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider" ],
+		"easyurl": "pK68CjFEYOk&t=55s",
+		"normalurl": "ljia3BEXJvk&t=55s"
 	}
 ]

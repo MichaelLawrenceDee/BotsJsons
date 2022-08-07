@@ -9133,11 +9133,20 @@
 				},
 				{
 					"label": "Expert(GB)",
-					"lsd": "            ''     (Use if no Dominiciel(?))",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"label": "Expert(GB)",
+					"lsd": "Perfect up to 90-100 combo (Use if no Dominiciel(?))",
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
-					"flick": { "star": "Rose", "leader": true }
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			]
 		}

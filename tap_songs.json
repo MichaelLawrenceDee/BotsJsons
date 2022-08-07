@@ -10348,7 +10348,7 @@
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Aresmus" },
-					"last_update": "31 Oct 2021"
+					"last_update": "07 Aug 2022"
 				}
 			],
 			"normal": [
@@ -10419,29 +10419,30 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "leader": true },
 					"flick": { "star": "Aresmus" },
-					"last_update": "31 Oct 2021"
+					"last_update": "07 Aug 2022"
 				}
 			],
 			"hard": [
 				{
 					"label": "Hard/Alt",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
 					"lsd": "Perfect until Carol skill activates",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Horyeon", "costume": true },
-					"flick": { "star": "Rose" }
+					"flick": { "star": "Rose" },
+					"last_update": "31 Oct 2021"
 				},
 				{
 					"tap": { "star": "Patra", "skill": 8 },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Aresmus" }
-				},
-				{
-					"tap": { "star": "Carol", "costume": true },
-					"long": { "star": "Raphael" },
-					"slide": { "star": "Horyeon", "costume": true },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
 					"lsd": "15 Perfects. After 2nd LS, GOOD on longs and flicks,",
@@ -10483,7 +10484,7 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "18 Apr 2021"
+					"last_update": "07 Aug 2022"
 				}
 			]
 		}
@@ -10802,7 +10803,7 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
-					"last_update": "06 Feb 2022"
+					"last_update": "08 Aug 2022"
 				}
 			],
 			"normal": [
@@ -10843,7 +10844,7 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
-					"last_update": "06 Feb 2022"
+					"last_update": "07 Aug 2022"
 				},
 				{
 					"label": "Easy(GB)",
@@ -10863,7 +10864,7 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
-					"last_update": "06 Feb 2022"
+					"last_update": "07 Aug 2022"
 				},
 				{
 					"label": "Normal(GB)",
@@ -10882,7 +10883,7 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
-					"last_update": "06 Feb 2022"
+					"last_update": "07 Aug 2022"
 				},
 				{
 					"label": "Hard(GB)",
@@ -10901,13 +10902,14 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
-					"last_update": "06 Feb 2022"
+					"last_update": "07 Aug 2022"
 				},
 				{
 					"tap": { "star": "Patra", "skill": 8 },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Horyeon", "costume": true },
-					"flick": { "star": "Rose" }
+					"flick": { "star": "Rose" },
+					"last_update": "06 Feb 2022"
 				}
 			]
 		}
@@ -12949,7 +12951,7 @@
 					"long": { "star": "Tanya", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "06 Feb 2022"
+					"last_update": "07 Aug 2022"
 				}
 			],
 			"normal": [
@@ -16031,8 +16033,7 @@
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel" },
-					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "31 Jul 2022"
+					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
 					"lsd": "None (Potentially top meta if Nicol 1 has the same S-enhance as Dominiciel)",
@@ -23502,7 +23503,7 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "21 Nov 2021"
+					"last_update": "07 Aug 2022"
 				},
 				{
 					"lsd": " ",
@@ -23593,7 +23594,7 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "21 Nov 2021"
+					"last_update": "07 Aug 2022"
 				},
 				{
 					"label": "Hard(GB)",
@@ -25948,7 +25949,7 @@
 					"long": { "star": "Franken" },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "26 Dec 2021"
+					"last_update": "07 Aug 2022"
 				},
 				{
 					"lsd": "and Perfect 2 longs without x2 combo. Adjust to trigger LS at 424 combo.",
@@ -30758,7 +30759,7 @@
 					"long": { "star": "Aria", "costume": true },
 					"slide": { "star": "Dominiciel", "leader": true },
 					"flick": { "star": "Slasher", "costume": true },
-					"last_update": "23 Jan 2022"
+					"last_update": "07 Aug 2022"
 				}
 			],
 			"normal": [

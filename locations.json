@@ -120,6 +120,13 @@
 		"regions": []
 	},
 	{
+		"country": "Spain",
+		"code": "ES",
+		"flag": "🇪🇸",
+		"roleId": "1006858129117556796",
+		"regions": []
+	},
+	{
 		"country": "Taiwan",
 		"code": "TW",
 		"flag": "🇹🇼",

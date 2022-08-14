@@ -7528,8 +7528,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Let's Party!!" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
-		"notes": [ "**SPARK FESTIVAL 2022**:\n**Golden Palms** ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ ???" ],
-		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider" ],
+		"notes": [ "**SPARK FESTIVAL 2022**:\n**Golden Palms** ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words" ],
 		"easyurl": "nk8IG-Sc_Fs&t=55s",
 		"normalurl": "ba_4rSQhJus&t=55s"
 	},
@@ -7551,8 +7551,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Ignited Night" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ **Let's Party!!** ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ ???" ],
-		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider" ],
+		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ **Let's Party!!** ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words" ],
 		"easyurl": "Z37zi5E-Rrk&t=55s",
 		"normalurl": "20TkgijpJTo&t=55s"
 	},
@@ -7572,8 +7572,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Neon Rider" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ **Ignited Night** ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ ???" ],
-		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider" ],
+		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ **Ignited Night** ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words" ],
 		"easyurl": "wfaLo0cuBdg&t=55s",
 		"normalurl": "6I1LdSREPeE&t=55s"
 	},
@@ -7594,9 +7594,53 @@
 			{ "mission": "mission_Unlock", "s": [ "Catastrophic Dance" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ **Neon Rider** ⇒ Catastrophic Dance ⇒ ???" ],
-		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider" ],
+		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ **Neon Rider** ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words" ],
 		"easyurl": "pK68CjFEYOk&t=55s",
 		"normalurl": "ljia3BEXJvk&t=55s"
+	},
+	{
+		"title": "Catastrophic Dance",
+		"artist": "the wandering bard feat. 志方あきこ",
+		"artistalias": [ "Akiko Shikata" ],
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Catastrophic_dance_Jacket.png",
+		"remyurl": "Catastrophic_Dance",
+		"easy": 5,
+		"normal": 9,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Without Words" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Without Words" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
+		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ **Catastrophic Dance** ⇒ Without Words ⇒ Oboro Cybernetics ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words" ],
+		"easyurl": "Kqcw3VY1Ves&t=55s",
+		"normalurl": "Nh3bkvZjzZU&t=55s"
+	},
+	{
+		"title": "Without Words",
+		"artist": "Dominant Space",
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS, Otias ENT Produced",
+		"thumbnail": "without_words_jacket.png",
+		"remyurl": "Without_Words",
+		"easy": 5,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Oboro Cybernetics" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Oboro Cybernetics" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
+		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ **Without Words** ⇒ Oboro Cybernetics ⇒ ???" ],
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words" ],
+		"easyurl": "yIGYhYSAiqA&t=55s",
+		"normalurl": "wLYzc16mU4A&t=55s"
 	}
 ]

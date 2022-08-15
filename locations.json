@@ -251,6 +251,7 @@
 				{"location":"Woodbridge", "roleId": "849459700919697439"}
 			]},
 			{"region": "Washington", "code": "WA", "locations": [
+				{"location":"South Hill Mall", "roleId": "1008293366766768148"},
 				{"location":"Southcenter Mall", "roleId": "569701202330124289"},
 				{"location":"Spokane Chaos Arcade", "roleId": "940189300862107649"},
 				{"location":"Vancouver", "roleId": "844760953055870976"}

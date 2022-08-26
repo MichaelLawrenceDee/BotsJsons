@@ -7181,9 +7181,10 @@
 			{ "mission": "mission_ScoreSong", "s": [ 90, "Red Hot Chili Samba!" ] } 
 		],
 		"notes": [ 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses" 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] } 
 		],
-		"links": [ "Red Hot Chili Samba!" ],
+		"links": [ "Red Hot Chili Samba!", "Make That Body" ],
 		"easyurl": "G_nuPn0NFNQ&t=22s",
 		"normalurl": "iPD94DYo-bw&t=22s"
 	},
@@ -7295,9 +7296,10 @@
 			{ "mission": "mission_Clear", "s": [ "Crystarium" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ **Prettiful!**" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ **Prettiful!**" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] } 			
 		],
-		"links": [ "Dive in Blue", "Crystarium", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
+		"links": [ "Dive in Blue", "Crystarium", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!", "Make That Body" ],
 		"easyurl": "H6biv3FmQpE&t=22s",
 		"normalurl": "iZNzUQQ-zKU&t=22s"
 	},
@@ -7324,8 +7326,10 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }
 		],
 		"notes": [ 
-			{ "note": "note_Random" }
+			{ "note": "note_Random", "prev": "Previously" }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] } 
 		],
+		"links": [ "Make That Body" ],
 		"easyurl": "02t1FhP4tXE&t=22s",
 		"normalurl": "Bta0AKZVW8w&t=22s"
 	},

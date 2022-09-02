@@ -1712,7 +1712,7 @@
 			{ "note": "note_OldMission", "mission": "mission_Unlock", "mis": "Discount", "origlength": 0, "s": [ "Don't Stop!!" ] }, 
 			{ "note": "note_OldMission", "mission": "mission_Unlock", "mis": "Discount", "origlength": 0, "s": [ "Gimme a Big Beat" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Sunshine let me find a way" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Sunshine let me find a way" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Bad Riddim T STEP EDITION" ] } 
 		],
 		"links": [ "Don't Stop!!", "Gimme a Big Beat", "Thank You Merry Christmas -DANCERUSH Mix-", "Sunshine let me find a way", "Bad Riddim T STEP EDITION" ],
@@ -1788,7 +1788,7 @@
 		"normal": 8,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Cyber Devotion" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Go Down" ] } 
 		],
 		"links": [ "Cyber Devotion", "Go Down" ],
 		"easyurl": "nFNBxLftEhw",
@@ -2354,7 +2354,7 @@
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "prev": "Previously", "cond": "unlock", "withstars": "withStars", "ing": "ing","s": [ "FLOWER (STARDOM Remix)" ] },
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Easy Peasy" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Easy Peasy" ] } 
 		],
 		"links": [ "Oppress", "FLOWER (STARDOM Remix)", "Easy Peasy" ],
 		"easyurl": "Yai88RPVBFw",
@@ -2881,7 +2881,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "MUTSUKI" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Go Down" ] } 
 		],
 		"links": [ "MUTSUKI", "Party Jumpin' RUNNING MAN EDITION", "Go Down" ],
 		"easyurl": "NUE2XI82vXc",
@@ -3007,7 +3007,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)" ] }, 
 			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ **Summery** ⇒ Deep Vibes ⇒ HighBALL ⇒ Majestic ⇒ Dual Bladez",
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Go Down" ] } 
 		],
 		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez", "Go Down" ],
 		"easyurl": "yN110Kar7KU",
@@ -6998,7 +6998,7 @@
 		"easyurl": "xoCaAOEibAU&t=22s",
 		"normalurl": "W4UGrm5UtEo&t=22s",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Sunshine let me find a way" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Sunshine let me find a way" ] } 
 		],
 		"links": [ "Sunshine let me find a way" ]
 	},
@@ -7429,17 +7429,17 @@
 		"normal": 7,
 		"stars": 80,
 		"discount": [ 
-			{ "mission": "mission_GetNSongs", "s": [ 15, "BAD", 5, "EDM" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Saturday Night Love -Phunk Disco Mix-" ] } 
-		],
-		"discovery": [ 
 			{ "mission": "mission_NoteTotal", "s": [ 1000, "PERFECT" ] }, 
 			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 50, 1 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 90, "野球の遊び方　そしてその歴史　～決定版～" ] } 
 		],
+		"discovery": [ 
+			{ "mission": "mission_GetNSongs", "s": [ 15, "BAD", 5, "EDM" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "Saturday Night Love -Phunk Disco Mix-" ] } 
+		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Easy Peasy" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Go Down" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Sunshine let me find a way** ⇒ Easy Peasy ⇒ Go Down" ] } 
 		],
 		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Saturday Night Love -Phunk Disco Mix-", "野球の遊び方　そしてその歴史　～決定版～" ],
@@ -7460,17 +7460,17 @@
 		"stars": 160,
 		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Sunshine let me find a way" ] },
 		"discount": [ 
-			{ "mission": "mission_NoteTotal", "s": [ 1700, "PERFECT" ] }, 
-			{ "mission": "mission_ScoreAny", "s": [ 10, 90 ] } 
-		],
-		"discovery": [ 
 			{ "mission": "mission_ClearAnySong", "diff": "Easy", "s": [ 5 ] }, 
 			{ "mission": "mission_GetNSongs", "s": [ 20, "GOOD", 3, "POPS" ] }, 
 			{ "mission": "mission_GetNOnSong", "s": [ 10, "BAD", "Impress" ] } 
 		],
+		"discovery": [ 
+			{ "mission": "mission_NoteTotal", "s": [ 1700, "PERFECT" ] }, 
+			{ "mission": "mission_ScoreAny", "s": [ 10, 90 ] } 
+		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Go Down" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Go Down" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscount": "anddiscount", "ing": "ing", "s": [ "Go Down" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nSunshine let me find a way ⇒ **Easy Peasy** ⇒ Go Down" ] } 
 		],
 		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Impress" ],
@@ -7490,14 +7490,14 @@
 		"stars": 300,
 		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Easy Peasy" ] },
 		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Summery" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Party Jumpin'" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Chaos of Drum" ] } 
-		],
-		"discovery": [ 
 			{ "mission": "mission_ScoreTotal", "s": [ 2100 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 92, "Sunshine let me find a way" ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 92, "Easy Peasy" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_Clear", "s": [ "Summery" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Party Jumpin'" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Chaos of Drum" ] } 
 		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nSunshine let me find a way ⇒ Easy Peasy ⇒ **Go Down**" ] } 
@@ -7654,7 +7654,9 @@
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ **Oboro Cybernetics** ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
-		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ]
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
+		"easyurl": false,
+		"normalurl": "9LFYE0rJYus&t=55s"
 	},
 	{
 		"title": "Sweet Bordeaux Nightmare",
@@ -7675,7 +7677,9 @@
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ **Sweet Bordeaux Nightmare** ⇒ Make That Body" ],
-		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ]
+		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
+		"easyurl": false,
+		"normalurl": "wgWCrY-0P2o&t=55s"
 	},
 	{
 		"title": "Make That Body",

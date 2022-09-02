@@ -94,7 +94,7 @@
 		"note_Removed": "Removed on <MM> <s>1, <s>2",
 		"note_Regional": "Available only in <loc>",
 		"note_MissionFor": "<prev><mis> Mission for <s>1",
-		"note_UnlockFor": "<prev>Unlocks <s>1 by <cond><ing> this song<withstars><andplay><anddiscover>",
+		"note_UnlockFor": "<prev>Unlocks <s>1 by <cond><ing> this song<withstars><andplay><anddiscover><anddiscount>",
 		"note_PrevUnlockBy": "Previously Unlockable by: <mission>",
 		"note_Keys": {
 			"Previously": "Previously ",
@@ -106,7 +106,8 @@
 			"unlock": "unlock",
 			"discount_chain": "Unlock Discount Chain",
 			"discovery_chain": "Discovery Chain",
-			"anddiscover": ", and is also one of its discovery missions"
+			"anddiscover": ", and is also one of its discovery missions",
+			"anddiscount": ", and is also one of its discount missions"
 		},
 		"note_SeeAlso": "See also: <s>1",
 		"note_OldMission": "Previous <mis> Mission: <mission>",
@@ -208,7 +209,7 @@
 		"note_Removed": "於 <s>2年<MM><s>1日移除",
 		"note_Regional": "僅在<loc>可用",
 		"note_MissionFor": "<prev><s>1 的<mis>任務",
-		"note_UnlockFor": "<prev><withstars>解鎖 <s>1 之前<cond>這歌曲<andplay><anddiscover>",
+		"note_UnlockFor": "<prev><withstars>解鎖 <s>1 之前<cond>這歌曲<andplay><anddiscover><anddiscount>",
 		"note_PrevUnlockBy": "過去為透過<mission>解鎖",
 		"note_Keys": {
 			"Previously": "過去為 ",
@@ -220,7 +221,8 @@
 			"unlock": "解鎖",
 			"discount_chain": "特價任務解鎖順序",
 			"discovery_chain": "發現任務解鎖順序",
-			"anddiscover": "，也是它的發現任務之一"
+			"anddiscover": "，也是它的發現任務之一",
+			"anddiscount": "，也是它的特價任務之一"
 		},
 		"note_SeeAlso": "可參考資訊：<s>1",
 		"note_OldMission": "過去曾經是<mis>任務： <mission>",

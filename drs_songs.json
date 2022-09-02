@@ -2293,12 +2293,11 @@
 		"remyurl": "Flow_(NUU$HI)",
 		"easy": 7,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Anxiety" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Anxiety" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ 16, 2021 ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ **Flow** ⇒ Anxiety ⇒ Let Me See Your Dance" ],
@@ -4678,7 +4677,7 @@
 		"remyurl": "Act_Now!",
 		"easy": 5,
 		"normal": 10,
-		"stars": 140,
+		"stars": 160,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Don't Speak" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Don't Speak" ] } 
@@ -4792,7 +4791,7 @@
 		"remyurl": "Crazy_For_You",
 		"easy": 6,
 		"normal": 10,
-		"stars": 200,
+		"stars": 180,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "This Beat Is....." ] }, 
 			{ "mission": "mission_Clear", "s": [ "ALGORITHM" ] }, 
@@ -6020,12 +6019,11 @@
 		"remyurl": "7_to_Smoke",
 		"easy": 6,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "New Solution" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "New Solution" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ "**SPARK FESTIVAL 2021**:\n**7 to Smoke** ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" ],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "2867NtHA6II",
@@ -6042,12 +6040,11 @@
 		"remyurl": "New_Solution",
 		"easy": 5,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "8347" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "8347" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "7 to Smoke" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ **New Solution** ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
@@ -6060,7 +6057,6 @@
 		"title": "8347",
 		"alias": [ "BEAT" ],
 		"artist": "Zekk",
-		"category": "sparkfes2021",
 		"record": "Yes",
 		"folders": [ "EDM", "BEMANI" ],
 		"label": "DIVING GHOST, Otias ENT Produced",
@@ -6068,12 +6064,11 @@
 		"remyurl": "8347",
 		"easy": 6,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Do It!" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Do It!" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "New Solution" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ **8347** ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
@@ -6093,12 +6088,11 @@
 		"remyurl": "Do_It!",
 		"easy": 7,
 		"normal": 10,
-		"stars": 100,
+		"stars": 160,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Orange Lullaby" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Orange Lullaby" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "8347" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ **Do It!** ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
@@ -6118,12 +6112,11 @@
 		"remyurl": "Orange_Lullaby",
 		"easy": 5,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Ideal Sunset" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Ideal Sunset" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Do It!" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ **Orange Lullaby** ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
@@ -6143,12 +6136,11 @@
 		"remyurl": "Ideal_Sunset",
 		"easy": 4,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Flow" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Flow" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Orange Lullaby" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ **Ideal Sunset** ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
@@ -6168,12 +6160,11 @@
 		"remyurl": "Anxiety",
 		"easy": 7,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Let Me See Your Dance" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Let Me See Your Dance" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Flow" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ **Anxiety** ⇒ Let Me See Your Dance" 
@@ -6194,13 +6185,12 @@
 		"remyurl": "Let_Me_See_Your_Dance",
 		"easy": 7,
 		"normal": 10,
-		"stars": 160,
+		"stars": 180,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Sunrise (feat. LEO & Viola)" ] }, 
 			{ "mission": "mission_Clear", "s": [ "CHAPTER II(Ready Go)" ] }, 
 			{ "mission": "mission_Clear", "s": [ "I Like To BOUNCE" ] } 
 		],
-		"unlock": { "mission": "mission_OMES", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Anxiety" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ **Let Me See Your Dance**" 
@@ -6427,7 +6417,7 @@
 		"remyurl": "Spin_%26_Slide",
 		"easy": 5,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "c5r31JGuW4g",
 		"normalurl": "1eY-wwD3Jk8"
 	},

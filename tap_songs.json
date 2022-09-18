@@ -549,7 +549,7 @@
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
 					"flick": { "star": "Rose" },
-					"last_update": "17 Oct 2021"
+					"last_update": "18 Sep 2022"
 				}
 			],
 			"normal": [
@@ -628,7 +628,8 @@
 					"tap": { "star": "Patra", "skill": 8 },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Horyeon", "costume": true },
-					"flick": { "star": "Rose" }
+					"flick": { "star": "Rose" },
+					"last_update": "18 Sep 2022"
 				},
 				{
 					"lsd": "GOOD the first 2 slides, Perfect until Shirley skill activates",
@@ -637,8 +638,7 @@
 					"tap": { "star": "Shirley" },
 					"long": { "star": "Django", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
-					"flick": { "star": "Rose" },
-					"last_update": "03 May 2020"
+					"flick": { "star": "Rose" }
 				},
 				{
 					"label": "Normal(GB)",
@@ -13391,7 +13391,7 @@
 					"long": { "star": "Valentine", "costume": true },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "01 Aug 2021"
+					"last_update": "18 Sep 2022"
 				}
 			],
 			"normal": [
@@ -13518,18 +13518,18 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "18 Sep 2022"
+				},
+				{
 					"tap": { "star": "Patra" },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "13 Dec 2020"
-				},
-				{
-					"tap": { "star": "Carol", "costume": true },
-					"long": { "star": "Raphael" },
-					"slide": { "star": "Horyeon", "costume": true },
-					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "01 Aug 2021"
 				}
 			]
 		}
@@ -15065,7 +15065,7 @@
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Charon", "leader": true },
-					"last_update": "13 Feb 2022"
+					"last_update": "18 Sep 2022"
 				}
 			],
 			"normal": [
@@ -18037,7 +18037,7 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "07 Nov 2021"
+					"last_update": "18 Sep 2022"
 				},
 				{
 					"lsd": "and Perfects to trigger 2nd LS at about 570 combo.",
@@ -23419,6 +23419,13 @@
 				},
 				{
 					"label": "Expert(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
+				},
+				{
 					"lsd": "None (Used if no Dominiciel)",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "leader": true },
@@ -25254,7 +25261,7 @@
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Amy" },
-					"last_update": "27 Mar 2022"
+					"last_update": "18 Sep 2022"
 				}
 			],
 			"normal": [
@@ -28690,7 +28697,7 @@
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
-					"last_update": "20 Mar 2022"
+					"last_update": "18 Sep 2022"
 				}
 			],
 			"normal": [
@@ -28780,13 +28787,14 @@
 					"long": { "star": "Dr. Trasher", "skill": 9 },
 					"slide": { "star": "HT Czerny" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "20 Mar 2022"
+					"last_update": "18 Sep 2022"
 				},
 				{
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Titana" },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "20 Mar 2022"
 				}
 			]
 		}

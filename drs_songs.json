@@ -751,7 +751,10 @@
 		"easy": 3,
 		"normal": 8,
 		"easyurl": "xlTP-cf3fdw",
-		"normalurl": "j2kDV_BMssw"
+		"normalurl": "j2kDV_BMssw",
+		"notes": [
+			{ "note": "note_Removed", "MM": 9, "s": [ 27, 2022 ] }
+		]
 	},
 	{
 		"title": "Crank It Up",
@@ -763,7 +766,10 @@
 		"easy": 3,
 		"normal": 7,
 		"easyurl": "LjAMMETA5Z8",
-		"normalurl": "gLT8xH7F76o"
+		"normalurl": "gLT8xH7F76o",
+		"notes": [
+			{ "note": "note_Removed", "MM": 9, "s": [ 27, 2022 ] }
+		]
 	},
 	{
 		"title": "41 Days",
@@ -2503,8 +2509,7 @@
 		"remyurl": "Take_me_higher",
 		"easy": 6,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "take me higher" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Crazy Shuffle" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -2531,8 +2536,7 @@
 		"remyurl": "BEYOND_THE_EARTH_(STARDOM_Remix)",
 		"easy": 7,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "BEYOND THE EARTH (STARDOM Remix)" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "THE SAFARI (STARDOM Remix)" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -2559,8 +2563,7 @@
 		"remyurl": "Shakunetsu_Beach_Side_Bunny_(STARDOM_Remix)",
 		"easy": 7,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "灼熱Beach Side Bunny (STARDOM Remix)" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "BEYOND THE EARTH (STARDOM Remix)" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -2585,8 +2588,7 @@
 		"remyurl": "JOK3R",
 		"easy": 4,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "JOK3R" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "take me higher" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -2611,8 +2613,7 @@
 		"remyurl": "Undercover",
 		"easy": 4,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Undercover" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "JOK3R" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 

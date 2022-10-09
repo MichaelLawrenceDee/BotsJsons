@@ -1929,6 +1929,14 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Charon", "leader": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -1946,11 +1954,11 @@
 					"label": "Normal(GB)",
 					"hr": "    ''",
 					"hrlabel": [],
-					"lsd": "Follow top meta delay (Possible GB meta)",
+					"lsd": "GOOD on the first 2 sets of notes without x2 combo",
 					"tap": { "star": "Lucifer" },
-					"long": { "star": "Poet", "leader": true },
+					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
-					"flick": { "star": "Rose" }
+					"flick": { "star": "Rose", "leader": true }
 				}
 			],
 			"hard": [
@@ -4176,7 +4184,7 @@
 					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Rose" },
-					"last_update": "20 Feb 2022"
+					"last_update": "09 Oct 2022"
 				},
 				{
 					"lsd": " ",
@@ -8007,6 +8015,7 @@
 					"label": "Easy/Alt",
 					"hr": "1-2-1-3-31",
 					"hrlabel": [[8,2]],
+					"lsd": "None (Potential GB meta for Android)",
 					"tap": { "star": "Hephatos", "leader": true },
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true },
@@ -8467,6 +8476,14 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
 					"last_update": "21 Sep 2020"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -17694,10 +17711,12 @@
 					"flick": { "star": "" }
 				},
 				{
+					"label": "Easy(GB)",
 					"tap": { "star": "Arwen", "costume": true, "leader": true },
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true },
-					"flick": { "star": "Rose" }
+					"flick": { "star": "Rose" },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -21984,6 +22003,16 @@
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "HT Senah", "leader": true },
 					"last_update": "15 Nov 2020"
+				},
+				{
+					"label": "Expert(GB)",
+					"hr": "   ''",
+					"hrlabel": [],
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -26846,7 +26875,7 @@
 					"long": { "star": "Tanya", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
-					"last_update": "10 Apr 2022"
+					"last_update": "09 Oct 2022"
 				}
 			],
 			"normal": [
@@ -26918,7 +26947,7 @@
 					"long": { "star": "Dr. Trasher", "skill": 9 },
 					"slide": { "star": "Titana", "leader": true },
 					"flick": { "star": "Rose" },
-					"last_update": "10 Apr 2022"
+					"last_update": "09 Oct 2022"
 				},
 				{
 					"hr": "2-1-3-X",
@@ -27926,7 +27955,7 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "19 Sep 2021"
+					"last_update": "09 Oct 2022"
 				}
 			],
 			"normal": [
@@ -27980,7 +28009,7 @@
 					"long": { "star": "Raphael", "skill": 9 },
 					"slide": { "star": "Dominiciel", "leader": true },
 					"flick": { "star": "Mary" },
-					"last_update": "19 Sep 2021"
+					"last_update": "09 Oct 2022"
 				},
 				{
 					"hr": "  ''",
@@ -31703,7 +31732,7 @@
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Titana", "leader": true },
 					"flick": { "star": "Rose" },
-					"last_update": "10 Apr 2022"
+					"last_update": "09 Oct 2022"
 				},
 				{
 					"lsd": "combo (About 3 Perfect longs, and adjust with GOOD flicks)",
@@ -32514,7 +32543,7 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
-					"last_update": "26 Sep 2021"
+					"last_update": "09 Oct 2022"
 				}
 			],
 			"normal": [
@@ -32581,13 +32610,14 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": false, "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "26 Sep 2021"
+					"last_update": "09 Oct 2022"
 				},
 				{
 					"tap": { "star": "Patra", "skill": 8 },
 					"long": { "star": "Django" },
 					"slide": { "star": "Horyeon", "costume": true },
-					"flick": { "star": "Slasher", "costume": true, "leader": true }
+					"flick": { "star": "Slasher", "costume": true, "leader": true },
+					"last_update": "26 Sep 2021"
 				}
 			]
 		}
@@ -32618,7 +32648,7 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
-					"last_update": "21 Nov 2021"
+					"last_update": "09 Oct 2022"
 				}
 			],
 			"normal": [
@@ -32658,7 +32688,7 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
-					"last_update": "21 Nov 2021"
+					"last_update": "09 Oct 2022"
 				}
 			],
 			"normal": [
@@ -32671,7 +32701,7 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "21 Nov 2021"
+					"last_update": "09 Oct 2022"
 				},
 				{
 					"lsd": "                                 ''",

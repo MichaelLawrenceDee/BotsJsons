@@ -991,7 +991,8 @@
 		"easy": 4,
 		"easyurl": "C_GfOf-yc0w",
 		"notes": [ 
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "NewAige CHARLESTON EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "NewAige CHARLESTON EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } 
 		],
 		"links": [ "NewAige CHARLESTON EDITION" ]
 	},
@@ -1033,9 +1034,10 @@
 		"easy": 6,
 		"easyurl": "oEHyiSN-sOs",
 		"notes": [ 
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Don't Stop!! RUNNING MAN EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Don't Stop!! RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Shuffle the Cards RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Don't Stop!! RUNNING MAN EDITION" ]
+		"links": [ "Don't Stop!! RUNNING MAN EDITION", "Shuffle the Cards RUNNING MAN EDITION" ]
 	},
 	{
 		"title": "クラブステップレッスン",
@@ -1048,9 +1050,10 @@
 		"easy": 4,
 		"easyurl": "txRkhQWYyqw",
 		"notes": [ 
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Majestic CRAB STEP EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Majestic CRAB STEP EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Honey Bounce CRAB STEP EDITION" ] } 
 		],
-		"links": [ "Majestic CRAB STEP EDITION" ]
+		"links": [ "Majestic CRAB STEP EDITION", "Honey Bounce CRAB STEP EDITION" ]
 	},
 	{
 		"title": "リバースランニングマンレッスン",
@@ -1063,7 +1066,8 @@
 		"easy": 5,
 		"easyurl": "YtJAH9V-YDQ",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] } 
 		]
 	},
 	{
@@ -1635,9 +1639,10 @@
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Small Steps" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Don't Stop!!" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Impress" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "Oppress CHARLESTON EDITION" ] }
 		],
-		"links": [ "Small Steps", "Don't Stop!!", "Impress" ],
+		"links": [ "Small Steps", "Don't Stop!!", "Impress", "Oppress CHARLESTON EDITION" ],
 		"easyurl": "76xo14Tdo5o",
 		"normalurl": "0vDUD-kg3TU"
 	},
@@ -2596,9 +2601,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Undercover" ] }, 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ **JOK3R** ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] } 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ **JOK3R** ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "JOK3R RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep", "JOK3R RUNNING MAN EDITION" ],
 		"easyurl": "hJGo6GoxELM",
 		"normalurl": "ImDHiakAo9E"
 	},
@@ -2961,6 +2967,10 @@
 		"easy": 6,
 		"normal": 8,
 		"stars": 150,
+		"notes": [ 
+			{ "note": "note_SeeAlso", "s": [ "December In Strasbourg CRAB STEP EDITION" ] }
+		],
+		"links": [ "December In Strasbourg CRAB STEP EDITION" ],
 		"easyurl": "Zq1WLxqXslc",
 		"normalurl": "masqY9WcHsc"
 	},
@@ -4516,9 +4526,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Heat Up The Dancefloor" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nNocturnus ⇒ **Broadway Walk** ⇒ Heat Up The Dancefloor" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nNocturnus ⇒ **Broadway Walk** ⇒ Heat Up The Dancefloor" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "Broadway Walk CHARLESTON EDITION" ] } 
 		],
-		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "アルストロメリア (walk with you remix)", "C'mon baby", "Majestic" ],
+		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "アルストロメリア (walk with you remix)", "C'mon baby", "Majestic", "Broadway Walk CHARLESTON EDITION" ],
 		"easyurl": "5kwB3WW9YRY",
 		"normalurl": "FuVFeoyw66A"
 	},
@@ -5252,9 +5263,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Penguin Morning" ] }, 
-			"**DANCERUSH STARDOM GYM3**:\nDEVILFISHMANのテーマ ⇒ Synth Presets & Sample Loops ⇒ **Shuffle The Cards** ⇒ Penguin Morning ⇒ neu (STARDOM Remix)" 
+			"**DANCERUSH STARDOM GYM3**:\nDEVILFISHMANのテーマ ⇒ Synth Presets & Sample Loops ⇒ **Shuffle The Cards** ⇒ Penguin Morning ⇒ neu (STARDOM Remix)", 
+			{ "note": "note_SeeAlso", "s": [ "Shuffle the Cards RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)" ],
+		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)", "Shuffle the Cards RUNNING MAN EDITION" ],
 		"easyurl": "_IyeETXKpD4",
 		"normalurl": "_F4hW0ROfMU"
 	},
@@ -5471,7 +5483,7 @@
 		"remyurl": "Too_Late_Snow",
 		"easy": 4,
 		"normal": 6,
-		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"stars": 150,
 		"easyurl": "MYQO5cgpk3I",
 		"normalurl": "OOKW1LYMe-g"
 	},
@@ -5793,7 +5805,7 @@
 		"remyurl": "Sleepwell",
 		"easy": 4,
 		"normal": 7,
-		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"stars": 150,
 		"easyurl": "3QH5Xxc_tts",
 		"normalurl": "T3nRkdI3Gqo"
 	},
@@ -6816,6 +6828,9 @@
 		"remyurl": "Gunjou",
 		"easy": 3,
 		"normal": 7,
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } 
+		],
 		"easyurl": "oybq2lhxY5I&t=11s",
 		"normalurl": "SQWkF7fGcDQ&t=15s"
 	},
@@ -6829,7 +6844,10 @@
 		"easy": 3,
 		"normal": 7,
 		"easyurl": "uTrS9JQpqpU&t=10s",
-		"normalurl": "0LMKaqVwqVo&t=13s"
+		"normalurl": "0LMKaqVwqVo&t=13s",
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] } 
+		]
 	},
 	{
 		"title": "Trash",
@@ -6999,7 +7017,8 @@
 		"easyurl": "xoCaAOEibAU&t=22s",
 		"normalurl": "W4UGrm5UtEo&t=22s",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Sunshine let me find a way" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Sunshine let me find a way" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
 		],
 		"links": [ "Sunshine let me find a way" ]
 	},
@@ -7742,8 +7761,184 @@
 		"remyurl": "Touch_My_Body",
 		"easy": 5,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp" },
+		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
 		"easyurl": "MahTO3S5Efw&t=23s",
 		"normalurl": "6-YrSeVKTo4&t=23s"
+	},
+	{
+		"title": "Broadway Walk CHARLESTON EDITION",
+		"alias": [ "百老匯", "Broadway Walk CHARLESTON version" ],
+		"artist": "Dirty Androids",
+		"category": "autumn2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "broadway_walk_C_version_jacket.png",
+		"remyurl": "Broadway_Walk",
+		"easy": 5,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_ClearAnySong", "s": [ 1 ] }, 
+			{ "mission": "mission_NoteTotal", "s": [ 200, "PERFECT" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "Broadway Walk CHARLESTON EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Oppress CHARLESTON EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\n**Broadway Walk CHARLESTON EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Oppress CHARLESTON EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "Broadway Walk" ] } 
+		],
+		"links": [ "Broadway Walk CHARLESTON EDITION", "Oppress CHARLESTON EDITION", "Broadway Walk" ],
+		"easyurl": false,
+		"normalurl": "y51fVuFfgbU&t=23s"
+	},
+	{
+		"title": "Oppress CHARLESTON EDITION",
+		"alias": [ "Oppress CHARLESTON version" ],
+		"artist": "BEMANI Sound Team \"SYUNN\"",
+		"artistalias": [ "BST SYUNN" ],
+		"category": "autumn2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"thumbnail": "oppress_charleston_jacket.png",
+		"remyurl": "Oppress",
+		"easy": 4,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 20, "BAD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "Broadway Walk CHARLESTON EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "Oppress CHARLESTON EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\nBroadway Walk CHARLESTON EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Oppress CHARLESTON EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "Oppress" ] } 
+		],
+		"links": [ "Broadway Walk CHARLESTON EDITION", "Oppress CHARLESTON EDITION", "Oppress" ],
+		"easyurl": false,
+		"normalurl": "psjCitMsLCY&t=23s"
+	},
+	{
+		"title": "Honey Bounce CRAB STEP EDITION",
+		"alias": [ "Honey Bounce CRAB STEP version" ],
+		"artist": "nora2r",
+		"category": "autumn2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "Honey_Bounce_Crab_Jacket.png",
+		"remyurl": "Honey_Bounce",
+		"easy": 3,
+		"normal": 7,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "クラブステップレッスン" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 100 ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "Honey Bounce CRAB STEP EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "December In Strasbourg CRAB STEP EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\n**Honey Bounce CRAB STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ December In Strasbourg CRAB STEP EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "Honey Bounce" ] }
+		],
+		"links": [ "クラブステップレッスン", "Honey Bounce CRAB STEP EDITION", "December In Strasbourg CRAB STEP EDITION", "Honey Bounce" ],
+		"easyurl": false,
+		"normalurl": "BFgTO9yOjoM&t=23s"
+	},
+	{
+		"title": "December In Strasbourg CRAB STEP EDITION",
+		"alias": [ "聖誕老人", "December In Strasbourg CRAB STEP version" ],
+		"artist": "nana(Sevencolors) feat. mana",
+		"category": "autumn2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS",
+		"thumbnail": "December_in_Strasboirg_Crab_Ver_JaCKET.png",
+		"remyurl": "December_in_Strasbourg",
+		"easy": 5,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "GOOD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "Honey Bounce CRAB STEP EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "December In Strasbourg CRAB STEP EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\nHoney Bounce CRAB STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **December In Strasbourg CRAB STEP EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "December In Strasbourg" ] }
+		],
+		"links": [ "Honey Bounce CRAB STEP EDITION", "December In Strasbourg CRAB STEP EDITION", "December In Strasbourg" ],
+		"easyurl": false,
+		"normalurl": "hF7qtw-bUio&t=23s"
+	},
+	{
+		"title": "Shuffle the Cards RUNNING MAN EDITION",
+		"alias": [ "洗牌", "Shuffle the Cards RUNNINGMAN EDITION", "Shuffle the Cards RM EDITION", "Shuffle the Cards RUNNING MAN version", "Shuffle the Cards RUNNINGMAN version", "Shuffle the Cards RM version" ],
+		"artist": "uno(IOSYS TRAX)",
+		"artistalias": [ "RoughSketch" ],
+		"category": "autumn2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS",
+		"thumbnail": "shuffle_the_cards_RM_Ver_Jacket.png",
+		"remyurl": "Shuffle_The_Cards",
+		"easy": 5,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "ステップバリエーション2" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 100 ] }  
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "Shuffle the Cards RUNNING MAN EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "JOK3R RUNNING MAN EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\n**Shuffle the Cards RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ JOK3R RUNNING MAN EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "Shuffle the Cards" ] }
+		],
+		"links": [ "ステップバリエーション2", "Shuffle the Cards RUNNING MAN EDITION", "JOK3R RUNNING MAN EDITION", "Shuffle the Cards" ],
+		"easyurl": false,
+		"normalurl": "ar3RUJP9tT4&t=23s"
+	},
+	{
+		"title": "JOK3R RUNNING MAN EDITION",
+		"alias": [ "JOKER", "JOK3R RUNNINGMAN EDITION", "JOK3R RM EDITION", "JOK3R RUNNING MAN version", "JOK3R RUNNINGMAN version", "JOK3R RM version" ],
+		"artist": "Yuta Imai",
+		"category": "autumn2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": "jok3r_RM_ver_jacket.png",
+		"remyurl": "JOK3R",
+		"easy": 6,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 40, "GREAT", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "Shuffle the Cards RUNNING MAN EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "JOK3R RUNNING MAN EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\nShuffle the Cards RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **JOK3R RUNNING MAN EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "JOK3R" ] }
+		],
+		"links": [ "Shuffle the Cards RUNNING MAN EDITION", "JOK3R RUNNING MAN EDITION", "JOK3R" ],
+		"easyurl": false,
+		"normalurl": "MaYKbIomCMY&t=23s"
+	},
+	{
+		"title": "So What",
+		"artist": "PRIDASK",
+		"category": "autumn2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER, Otias ENT Produced",
+		"thumbnail": "so_what_jacket.png",
+		"remyurl": "So_What_(PRIDASK)",
+		"easy": 6,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 15, "BAD", 5 ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "So What" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses"
+		],
+		"easyurl": false,
+		"normalurl": "CHyiS81jyCg&t=23s"
 	}
 ]

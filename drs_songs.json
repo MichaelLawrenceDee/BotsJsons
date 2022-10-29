@@ -7940,5 +7940,18 @@
 		],
 		"easyurl": false,
 		"normalurl": "CHyiS81jyCg&t=23s"
+	},
+	{
+		"title": "Awakening Wings",
+		"artist": "伊達朱里紗",
+		"artistalias": [ "Arisa Date", "Yida zhu lisha", "Ida Julisa" ],
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Awakening_Wings.png",
+		"remyurl": "Awakening_Wings",
+		"easy": 3,
+		"normal": 7,
+		"easyurl": "7TL2zbNfh7A&t=23s",
+		"normalurl": "fuFdoqnTOvY&t=23s"
 	}
 ]

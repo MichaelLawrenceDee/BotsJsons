@@ -209,9 +209,9 @@
 		"mission_KAC": [ "在 <s>1 KAC 期間，於[活動網頁](<s>2 '條目放在')報名參加", "，你的帳號必須登錄於日本地區才能參加<unavailable>." ],
 		"mission_BPL": [ "於「BPL応援 楽曲解禁スタンプラリー」活動中，進入[活動網頁](<s>1 '收集郵票')的<orderct>頁，觀看所有影片並收集印章", "（即使不把影片看完，也可以拿到印章）<unavailable>." ],
 		"mission_IchikaRush": [ "在 BEMANI 2021真夏の歌合戦5番勝負<:midsummerbattle2021:896414503468683354> 活動期間使進入[活動網頁](<s>1 '解鎖')用<s>2解鎖這首歌來", "<unavailable>." ],
-		"mission_IchikaMixUpBlue": [ "在 いちかのごちゃまぜMix UP！<:ichikamixup:1040795291349176481> 活動期間，於「おすそわけ楽曲」分類中，透過集滿 <s>1 的藍色進度條並按下おすそわけ按鈕後解鎖。 [活動網頁](https://p.eagate.573.jp/game/bemani/gmz2022/status/index.html '解鎖')", "<unavailable>." ]
-		"mission_IchikaMixUpPink": [ "在 いちかのごちゃまぜMix UP！<:ichikamixup:1040795291349176481> 活動期間，於「Mix楽曲」分類中，透過集滿 <s>1 的粉紅色進度條並按下アンロック按鈕後解鎖。 [活動網頁](https://p.eagate.573.jp/game/bemani/gmz2022/status/index.html '解鎖')", "<unavailable>." ]
-		"mission_IchikaMixUpPurple": [ "在 いちかのごちゃまぜMix UP！<:ichikamixup:1040795291349176481> 活動期間，於「？？？」分類中，透過集滿所有的紫色進度條並按下 <s>1 的アンロック按鈕後解鎖。紫色進度條只會在藍色與粉紅色進度條全部集滿後出現。 [活動網頁](https://p.eagate.573.jp/game/bemani/gmz2022/status/index.html '解鎖')", "<unavailable>." ]
+		"mission_IchikaMixUpBlue": [ "在 いちかのごちゃまぜMix UP！<:ichikamixup:1040795291349176481> 活動期間，於「おすそわけ楽曲」分類中，透過集滿 <s>1 的藍色進度條並按下おすそわけ按鈕後解鎖。 [活動網頁](https://p.eagate.573.jp/game/bemani/gmz2022/status/index.html '解鎖')", "<unavailable>." ],
+		"mission_IchikaMixUpPink": [ "在 いちかのごちゃまぜMix UP！<:ichikamixup:1040795291349176481> 活動期間，於「Mix楽曲」分類中，透過集滿 <s>1 的粉紅色進度條並按下アンロック按鈕後解鎖。 [活動網頁](https://p.eagate.573.jp/game/bemani/gmz2022/status/index.html '解鎖')", "<unavailable>." ],
+		"mission_IchikaMixUpPurple": [ "在 いちかのごちゃまぜMix UP！<:ichikamixup:1040795291349176481> 活動期間，於「？？？」分類中，透過集滿所有的紫色進度條並按下 <s>1 的アンロック按鈕後解鎖。紫色進度條只會在藍色與粉紅色進度條全部集滿後出現。 [活動網頁](https://p.eagate.573.jp/game/bemani/gmz2022/status/index.html '解鎖')", "<unavailable>." ],
 		"note_Removed": "於 <s>2年<MM><s>1日移除",
 		"note_Regional": "僅在<loc>可用",
 		"note_MissionFor": "<prev><s>1 的<mis>任務",

@@ -685,7 +685,8 @@
 		"easyurl": "akOhjql3fnA",
 		"normalurl": "HVdZkhJvbJY",
 		"notes": [ 
-			{ "note": "note_SeeAlso", "s": [ "U.S.A. ANOTHER EDITION" ] }
+			{ "note": "note_SeeAlso", "s": [ "U.S.A. ANOTHER EDITION" ] }, 
+			{ "note": "note_Removed", "MM": 11, "s": [ 15, 2022 ] } 
 		],
 		"links": [ "U.S.A. ANOTHER EDITION" ]
 	},
@@ -702,7 +703,8 @@
 		"easyurl": "901843387777421322/USA_ANOTHER_Easy.mp4",
 		"normalurl": "901843527556796436/USA_ANOTHER_Normal.mp4",
 		"notes": [ 
-			{ "note": "note_SeeAlso", "s": [ "U.S.A." ] }
+			{ "note": "note_SeeAlso", "s": [ "U.S.A." ] }, 
+			{ "note": "note_Removed", "MM": 11, "s": [ 15, 2022 ] } 
 		],
 		"links": [ "U.S.A." ]
 	},

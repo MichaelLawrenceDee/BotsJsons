@@ -6465,9 +6465,11 @@
 		"remyurl": "Metric",
 		"easy": 5,
 		"normal": 8,
-		"stars": 30,
-		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
-		"notes": [ "**DANCERUSH STARDOM GYM4**:\n**Metric** ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ Brand New Step" ],
+		"stars": 40,
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crystal Clear" ] }, 
+			"**DANCERUSH STARDOM GYM4**:\n**Metric** ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ Brand New Step" 
+		],
 		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
 		"easyurl": "AHlzK1t5Shk",
 		"normalurl": "1OXuFt2TcBI"
@@ -6483,9 +6485,14 @@
 		"remyurl": "Crystal_Clear",
 		"easy": 5,
 		"normal": 8,
-		"stars": 30,
-		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
+		"stars": 80,
+		"discount": [ 
+			{ "mission": "mission_Unlock", "s": [ "Metric" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Metric" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "Metric" ] } 
+		],
 		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "WELCOME TO MY GAME" ] }, 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ **Crystal Clear** ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ Brand New Step" 
 		],
 		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
@@ -6503,9 +6510,16 @@
 		"remyurl": "WELCOME_TO_MY_GAME",
 		"easy": 5,
 		"normal": 7,
-		"stars": 30,
-		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
-		"notes": [ "**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ **WELCOME TO MY GAME** ⇒ melody H4CKER ⇒ Brand New Step" ],
+		"stars": 80,
+		"discount": [ 
+			{ "mission": "mission_Unlock", "s": [ "Crystal Clear" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Crystal Clear" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "Crystal Clear" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "melody H4CKER" ] }, 
+			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ **WELCOME TO MY GAME** ⇒ melody H4CKER ⇒ Brand New Step" 
+		],
 		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
 		"easyurl": "TbD24UIGvOI",
 		"normalurl": "AZyHA-IoQqk"
@@ -6522,9 +6536,14 @@
 		"remyurl": "Melody_H4CKER",
 		"easy": 5,
 		"normal": 9,
-		"stars": 30,
-		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
+		"stars": 80,
+		"discount": [ 
+			{ "mission": "mission_Unlock", "s": [ "WELCOME TO MY GAME" ] }, 
+			{ "mission": "mission_Clear", "s": [ "WELCOME TO MY GAME" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "WELCOME TO MY GAME" ] } 
+		],
 		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Brand New Step" ] }, 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ **melody H4CKER** ⇒ Brand New Step" 
 		],
 		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
@@ -6544,6 +6563,11 @@
 		"normal": 9,
 		"stars": 30,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
+		"discount": [ 
+			{ "mission": "mission_Unlock", "s": [ "melody H4CKER" ] }, 
+			{ "mission": "mission_Clear", "s": [ "melody H4CKER" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "melody H4CKER" ] } 
+		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ **Brand New Step**" 
@@ -8030,6 +8054,46 @@
 		"normal": 10,
 		"unlock": { "mission": "mission_IchikaMixUpPurple", "s": [ "DRS" ] },
 		"easyurl": false,
-		"normalurl": false
+		"normalurl": "ZTEOezGx19k&t=23s"
+	},
+	{
+		"title": "GHOST MODE",
+		"artist": "lapix",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "Ghost_Mode_Jacket.png",
+		"remyurl": "GHOST_MODE",
+		"easy": 5,
+		"normal": 8,
+		"stars": 240,
+		"singlediscount": true,
+		"discount": [ 
+			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
+			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
+			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] } 
+		],
+		"easyurl": false,
+		"normalurl": "JLvVL20nrIs&t=23s"
+	},
+	{
+		"title": "Set Me Free (Hommarju Remix)",
+		"artist": "Hommarju",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "Set_me_free_hommarju_jacket.png",
+		"remyurl": "Set_Me_Free_(Hommarju_Remix)",
+		"easy": 6,
+		"normal": 10,
+		"stars": 240,
+		"singlediscount": true,
+		"discount": [ 
+			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
+			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
+			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] } 
+		],
+		"easyurl": false,
+		"normalurl": "m_Kemj1shuU&t=23s"
 	}
 ]

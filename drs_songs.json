@@ -3627,9 +3627,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Switch" ] }, 
-			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ **Set Me Free**" 
+			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ **Set Me Free**", 
+			{ "note": "note_SeeAlso", "s": [ "Set Me Free (Hommarju Remix)" ] } 
 		],
-		"links": [ "Electric Dance System Music", "Drop The Bounce", "Astrogazer", "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free" ],
+		"links": [ "Electric Dance System Music", "Drop The Bounce", "Astrogazer", "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Set Me Free (Hommarju Remix)" ],
 		"easyurl": "BzW7jkOVZ10",
 		"normalurl": "2si9nqTNLJE"
 	},
@@ -8078,6 +8079,7 @@
 	},
 	{
 		"title": "Set Me Free (Hommarju Remix)",
+		"alias": [ "SMF" ],
 		"artist": "Hommarju",
 		"record": "Yes",
 		"folders": [ "EDM", "BEMANI" ],
@@ -8093,6 +8095,10 @@
 			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
 			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] } 
 		],
+		"notes": [ 
+			{ "note": "note_SeeAlso", "s": [ "Set Me Free" ] } 
+		],
+		"links": [ "Set Me Free" ],
 		"easyurl": false,
 		"normalurl": "m_Kemj1shuU&t=23s"
 	}

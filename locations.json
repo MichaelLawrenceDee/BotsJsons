@@ -17,6 +17,9 @@
 				{"location":"Garden City", "roleId": "683629978784497664"},
 				{"location":"Surfers Paradise", "roleId": "683630033645862984"}
 			]},
+			{"region": "South Australia", "code": "SA", "locations": [
+				{"location":"Norwood", "roleId": "1046078006696869888"}
+			]},
 			{"region": "Victoria", "code": "VIC", "locations": [
 				{"location":"Highpoint", "roleId": "683630120518680592"},
 				{"location":"Crown", "roleId": "683630083847749674"}

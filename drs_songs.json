@@ -6562,8 +6562,7 @@
 		"remyurl": "Brand_New_Step",
 		"easy": 6,
 		"normal": 9,
-		"stars": 30,
-		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM4 <:gym4:906148246659952670>" ] },
+		"stars": 80,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "melody H4CKER" ] }, 
 			{ "mission": "mission_Clear", "s": [ "melody H4CKER" ] }, 
@@ -8101,5 +8100,43 @@
 		"links": [ "Set Me Free" ],
 		"easyurl": false,
 		"normalurl": "m_Kemj1shuU&t=23s"
+	},
+	{
+		"title": "HANDS UP IN THE AIR",
+		"artist": "U1",
+		"category": "gym5",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "HANDS_UP_IN_THE_AIR.png",
+		"remyurl": "HANDS_UP_IN_THE_AIR",
+		"easy": 5,
+		"normal": 8,
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM5 <:gym5:1048441110156021790>" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM GYM5**:\n**HANDS UP IN THE AIR** ⇒ Tropical White ⇒ ???" 
+		],
+		"links": [ "HANDS UP IN THE AIR", "Tropical White" ],
+		"easyurl": "N9U4DbGI5oo&t=40s",
+		"normalurl": "gLS2MIjTqcQ&t=40s"
+	},
+	{
+		"title": "Tropical White",
+		"artist": "星宮とと+TEMPLIME",
+		"artistalias": [ "HOSHIMIYA TOTO" ],
+		"category": "gym5",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "TROP, Otias ENT Produced",
+		"thumbnail": "tropical_white_jacket.png",
+		"remyurl": "Tropical_White",
+		"easy": 4,
+		"normal": 8,
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM5 <:gym5:1048441110156021790>" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ **Tropical White** ⇒ ???" 
+		],
+		"links": [ "HANDS UP IN THE AIR", "Tropical White" ],
+		"easyurl": "RArOJVVk1gk&t=40s",
+		"normalurl": "kUyayR08L7g&t=40s"
 	}
 ]

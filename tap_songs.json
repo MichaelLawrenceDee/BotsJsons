@@ -11186,9 +11186,9 @@
 					"hr": "3-2-1-13-3-31-1-31",
 					"hrlabel": [[16,2]],
 					"tap": { "star": "Jessi", "costume": true },
-					"long": { "star": "Beatrice", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
 					"slide": { "star": "Dominiciel" },
-					"flick": { "star": "Rose", "leader": true },
+					"flick": { "star": "Slasher", "costume": true },
 					"last_update": "???"
 				},
 				{
@@ -27494,6 +27494,8 @@
 			],
 			"expert": [
 				{
+					"hr": "3-1-X-X",
+					"hrlabel": [[4,1],[6,1]],
 					"tap": { "star": "Jessi", "costume": true, "skill": 9 },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Dominiciel", "leader": true },
@@ -27560,6 +27562,8 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
+					"hr": "3-1-X-X",
+					"hrlabel": [[4,1],[6,1]],
 					"tap": { "star": "Jessi", "costume": false },
 					"long": { "star": "Aria", "costume": true },
 					"slide": { "star": "Dominiciel", "leader": true },
@@ -27574,6 +27578,8 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"hr": "3-1-X-X",
+					"hrlabel": [[4,1],[6,1]],
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Aria", "costume": true, "skill": 8 },
 					"slide": { "star": "Dominiciel", "leader": true },
@@ -28640,6 +28646,14 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "23 May 2021"
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"hard": [
@@ -29079,6 +29093,16 @@
 				}
 			],
 			"expert": [
+				{
+					"label": "Expert(GB)",
+					"hr": "3-1-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1]],
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			]
 		}
 	},
@@ -32087,6 +32111,14 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" }
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -32100,6 +32132,15 @@
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
 					"last_update": "02 Oct 2022"
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [

@@ -288,7 +288,7 @@
 		"remyurl": "HIP",
 		"easy": 3,
 		"normal": 8,
-		"easyurl": false,
+		"easyurl": "DO1lSthh2Dk&t=10s",
 		"normalurl": "6KERfVRtHPQ",
 		"notes": [ 
 			{ "note": "note_Regional", "loc": "South Korea" }
@@ -5918,7 +5918,7 @@
 		"notes": [ 
 			{ "note": "note_Regional", "loc": "South Korea" }
 		],
-		"easyurl": false,
+		"easyurl": "WX5o0vdXOwY&t=7s",
 		"normalurl": "OgsArEkN0r4"
 	},
 	{
@@ -5935,7 +5935,7 @@
 		"notes": [ 
 			{ "note": "note_Regional", "loc": "South Korea" }
 		],
-		"easyurl": false,
+		"easyurl": "MytJmRliAoU&t=10s",
 		"normalurl": "CORQbILsY0Y"
 	},
 	{
@@ -6323,7 +6323,7 @@
 		"notes": [ 
 			{ "note": "note_Regional", "loc": "South Korea" }
 		],
-		"easyurl": false,
+		"easyurl": "nBa2h35Uyhk&t=10s",
 		"normalurl": "985803761077354536/Bboom_Normal.mp4"
 	},
 	{
@@ -6336,6 +6336,8 @@
 		"remyurl": "The_Stealer",
 		"easy": 4,
 		"normal": 7,
+		"easyurl": "khTYx7gCKXw&t=9s",
+		"normalurl": "4P5sCmTxfTs&t=9s",
 		"notes": [ 
 			{ "note": "note_Regional", "loc": "South Korea" }
 		]
@@ -6351,6 +6353,8 @@
 		"remyurl": "Twilight_(ONEUS)",
 		"easy": 4,
 		"normal": 7,
+		"easyurl": "3Yfa0ngY9oU&t=9s",
+		"normalurl": "02BJ48D4-F0&t=9s",
 		"notes": [ 
 			{ "note": "note_Regional", "loc": "South Korea" }
 		]
@@ -8113,9 +8117,9 @@
 		"normal": 8,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM5 <:gym5:1048441110156021790>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM5**:\n**HANDS UP IN THE AIR** ⇒ Tropical White ⇒ ???" 
+			"**DANCERUSH STARDOM GYM5**:\n**HANDS UP IN THE AIR** ⇒ Tropical White ⇒ Rock The Club ⇒ Jumbo Drill ⇒ 音楽 (STARDOM Remix)" 
 		],
-		"links": [ "HANDS UP IN THE AIR", "Tropical White" ],
+		"links": [ "HANDS UP IN THE AIR", "Tropical White", "Rock The Club", "Jumbo Drill", "音楽 (STARDOM Remix)" ],
 		"easyurl": "N9U4DbGI5oo&t=40s",
 		"normalurl": "gLS2MIjTqcQ&t=40s"
 	},
@@ -8133,10 +8137,68 @@
 		"normal": 8,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM5 <:gym5:1048441110156021790>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ **Tropical White** ⇒ ???" 
+			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ **Tropical White** ⇒ Rock The Club ⇒ Jumbo Drill ⇒ 音楽 (STARDOM Remix)" 
 		],
-		"links": [ "HANDS UP IN THE AIR", "Tropical White" ],
+		"links": [ "HANDS UP IN THE AIR", "Tropical White", "Rock The Club", "Jumbo Drill", "音楽 (STARDOM Remix)" ],
 		"easyurl": "RArOJVVk1gk&t=40s",
 		"normalurl": "kUyayR08L7g&t=40s"
+	},
+	{
+		"title": "Rock The Club",
+		"artist": "Expander",
+		"category": "gym5",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Rock_The_Club.png",
+		"remyurl": "Rock_The_Club",
+		"easy": 6,
+		"normal": 9,
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM5 <:gym5:1048441110156021790>" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ Tropical White ⇒ **Rock The Club** ⇒ Jumbo Drill ⇒ 音楽 (STARDOM Remix)" 
+		],
+		"links": [ "HANDS UP IN THE AIR", "Tropical White", "Rock The Club", "Jumbo Drill", "音楽 (STARDOM Remix)" ],
+		"easyurl": "ME07Mt5yUYw&t=40s",
+		"normalurl": "GYGuGuiwhto&t=40s"
+	},
+	{
+		"title": "Jumbo Drill",
+		"artist": "Nizikawa",
+		"category": "gym5",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS, Otias ENT Produced",
+		"thumbnail": "Jumbo_Drill_Jacket.png",
+		"remyurl": "Jumbo_Drill",
+		"easy": 7,
+		"normal": 9,
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM5 <:gym5:1048441110156021790>" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ Tropical White ⇒ Rock The Club ⇒ **Jumbo Drill** ⇒ 音楽 (STARDOM Remix)" 
+		],
+		"links": [ "HANDS UP IN THE AIR", "Tropical White", "Rock The Club", "Jumbo Drill", "音楽 (STARDOM Remix)" ],
+		"easyurl": "PRIvmmjNixg&t=40s",
+		"normalurl": "J_E-CaBtH2Y&t=40s"
+	},
+	{
+		"title": "音楽 (STARDOM Remix)",
+		"alias": [ "Ongaku" ],
+		"artist": "cosMo＠暴走P",
+		"artistalias": [ "Bousou" ],
+		"category": "gym5",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "Ongaku_Jacket.png",
+		"remyurl": "Ongaku_(STARDOM_Remix)",
+		"easy": 6,
+		"normal": 10,
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM5 <:gym5:1048441110156021790>" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ Tropical White ⇒ Rock The Club ⇒ Jumbo Drill ⇒ **音楽 (STARDOM Remix)**" 
+		],
+		"links": [ "HANDS UP IN THE AIR", "Tropical White", "Rock The Club", "Jumbo Drill", "音楽 (STARDOM Remix)" ],
+		"easyurl": "-qPwq4-G2Hs&t=40s",
+		"normalurl": "JDi8gGBSUt4&t=40s"
 	}
 ]

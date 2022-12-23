@@ -784,7 +784,10 @@
 		"easy": 5,
 		"normal": 8,
 		"easyurl": "IiNa9LujdJU",
-		"normalurl": "tDHBBfcceMQ"
+		"normalurl": "tDHBBfcceMQ",
+		"notes": [
+			{ "note": "note_Removed", "MM": 11, "s": [ 26, 2022 ] }
+		]
 	},
 	{
 		"title": "One Word",
@@ -797,7 +800,10 @@
 		"easy": 2,
 		"normal": 7,
 		"easyurl": "9M8BcGwbviE",
-		"normalurl": "JSE42lDRVrE"
+		"normalurl": "JSE42lDRVrE",
+		"notes": [
+			{ "note": "note_Removed", "MM": 11, "s": [ 26, 2022 ] }
+		]
 	},
 	{
 		"title": "Rip It Off (Now) Rip It Off",

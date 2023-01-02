@@ -7161,21 +7161,12 @@
 					"label": "Normal/Alt",
 					"hr": "2-1-X-X-2",
 					"hrlabel": [[4,1],[6,1]],
+					"lsd": "None (Also used in GB using Rose (L))",
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "HT Senah", "leader": true },
 					"last_update": "12 Jun 2022"
-				},
-				{
-					"label": "Normal(GB)",
-					"hr": "   ''",
-					"hrlabel": [],
-					"tap": { "star": "Arwen", "costume": true },
-					"long": { "star": "Dr. Trasher" },
-					"slide": { "star": "Nicol" },
-					"flick": { "star": "Rose", "leader": true },
-					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -7294,9 +7285,9 @@
 				{
 					"label": "Normal(GB)",
 					"tap": { "star": "Jessi", "costume": true },
-					"long": { "star": "Beatrice" },
+					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
-					"flick": { "star": "Aresmus", "leader": true },
+					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
 				}
 			],

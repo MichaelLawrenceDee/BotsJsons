@@ -8206,5 +8206,34 @@
 		"links": [ "HANDS UP IN THE AIR", "Tropical White", "Rock The Club", "Jumbo Drill", "音楽 (STARDOM Remix)" ],
 		"easyurl": "-qPwq4-G2Hs&t=40s",
 		"normalurl": "JDi8gGBSUt4&t=40s"
+	},
+	{
+		"title": "黒髪乱れし修羅となりて (STARDOM Remix)",
+		"alias": [ "Kurokami midareshi shura to narite", "Black Hair Disturbed Shura Become" ],
+		"artist": "Endorfin.",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS",
+		"thumbnail": "Kurokami_jacket.png",
+		"remyurl": "Kurokami_midareshi_shura_to_narite_(STARDOM_Remix)",
+		"easy": 5,
+		"normal": 9,
+		"stars": 160,
+		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)" ] },
+		"singlediscount": true,
+		"discount": [ 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }
+		],
+		"notes": [ 
+			{ "note": "note_Random" }
+		],
+		"easyurl": "Si76d_Ag63c&t=23s",
+		"normalurl": "qyp3ffjfvVc&t=23s"
 	}
 ]

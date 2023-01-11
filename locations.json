@@ -11,6 +11,7 @@
 			{"region": "New South Wales", "code": "NSW", "alias": "Sydney", "locations": [
 				{"location":"Central Park", "roleId": "683629745300439066"},
 				{"location":"Haymarket", "roleId": "683629802690838538"},
+				{"location":"Hurstville", "roleId": "1060591882238955550"},
 				{"location":"Macquarie Park", "roleId": "683629865957589005"}
 			]},
 			{"region": "Queensland", "code": "QLD", "locations": [

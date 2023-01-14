@@ -177,10 +177,13 @@
 				{"location":"Littleton", "roleId": "584741233977458710"}
 			]},
 			{"region": "Florida", "code": "FL", "locations": [
+				{"location":"Jacksonville Leaderboard", "roleId": "1063864478980112435"},
+				{"location":"Lake Mary Arcade Monsters", "roleId": "1063864496919150712"},
 				{"location":"Melbourne Arcade Monsters", "roleId": "975640379858767903"},
 				{"location":"Miami Arcade Odyssey", "roleId": "934004516456648745"},
 				{"location":"Oviedo Arcade Monsters", "roleId": "714361088199884801"},
-				{"location":"Pembroke Lakes Mall", "roleId": "984609622935613462"}
+				{"location":"Pembroke Lakes Mall", "roleId": "984609622935613462"},
+				{"location":"Sarasota Arcade Monsters", "roleId": "1063864503344836688"}
 			]},
 			{"region": "Georgia", "code": "GA", "locations": [
 				{"location":"CUMberland Mall", "roleId": "607481501495328809"}

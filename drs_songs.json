@@ -1720,6 +1720,7 @@
 	},
 	{
 		"title": "Saturday Night Love -Phunk Disco Mix-",
+		"alias": [ "Remix" ],
 		"artist": "Sota Fujimori",
 		"record": "Yes",
 		"folders": [ "BEMANI" ],
@@ -6657,7 +6658,6 @@
 		"easy": 7,
 		"normal": 10,
 		"stars": 160,
-		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "ドーパミン (STARDOM Remix)" ] },
 		"singlediscount": true,
 		"discount": [ 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] }, 

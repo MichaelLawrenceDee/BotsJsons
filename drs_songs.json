@@ -5795,9 +5795,6 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "Sakura Reflection (STARDOM Remix)", 2 ] }, 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "Sakura Reflection (STARDOM Remix)", 2 ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "Sakura Reflection (STARDOM Remix)", 2 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_Random", "prev": "Previously" }
 		],
@@ -5987,14 +5984,10 @@
 		"easy": 6,
 		"normal": 10,
 		"stars": 160,
-		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "gigadelic (STARDOM Remix)" ] },
 		"singlediscount": true,
 		"discount": [ 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "gigadelic (STARDOM Remix)", 2 ] }, 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "gigadelic (STARDOM Remix)", 2 ] }, 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "gigadelic (STARDOM Remix)", 2 ] }
-		],
-		"discovery": [ 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "gigadelic (STARDOM Remix)", 2 ] }
 		],
 		"notes": [ 
@@ -6662,9 +6655,6 @@
 		"discount": [ 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] }, 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] }, 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] } 
-		],
-		"discovery": [ 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] } 
 		],
 		"notes": [ 

@@ -3908,18 +3908,35 @@
 					"flick": { "star": "Suah" }
 				},
 				{
-					"lsd": "None (Also used in GB using Beatrice (L))",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
+					"lsd": "None (Also used in GB using Rose (L) if no Suah)",
 					"tap": { "star": "Kermilla" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "HT Senah", "leader": true },
 					"last_update": "27 Dec 2020"
+				},
+				{
+					"label": "Expert(GB)",
+					"lsd": "None (Potential GB meta for Android)",
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Suah" },
+					"last_update": "???"
+				},
+				{
+					"lsd": "None (Potential GB meta for iOS)",
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -13246,6 +13263,15 @@
 					"slide": { "star": "Glory" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "26 Jun 2022"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Dyna" },
+					"slide": { "star": "Partina", "leader": true },
+					"flick": { "star": "Charon" },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -15844,7 +15870,7 @@
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
 				},
 				{
-					"lsd": "(Also used in GB using Rose (L) if no Dominiciel)",
+					"lsd": "(Also used in GB using Rose (L))",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "" },
@@ -25581,6 +25607,14 @@
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "HT Senah" },
 					"last_update": "28 Aug 2022"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -25603,6 +25637,16 @@
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Rose" },
 					"last_update": "27 Feb 2022"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "  ''",
+					"hrlabel": [],
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": false },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -28850,7 +28894,7 @@
 				{
 					"hr": "   ''",
 					"hrlabel": [],
-					"lsd": "None (Also used in GB using Rose (L) | Nicol 10 > Nicol 9)",
+					"lsd": "None (Also used in GB using Beatrice (L) if no Dominiciel | Nicol 10 > Nicol 9)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },

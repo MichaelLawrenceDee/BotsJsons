@@ -6006,7 +6006,6 @@
 		"remyurl": "Izayoi_setsuna",
 		"easy": 4,
 		"normal": 7,
-		"unlock": { "mission": "mission_BPL", "unavailable": "eventEnd", "orderct": "1st", "s": [ "https://p.eagate.573.jp/game/bpl/bpl2021/special/stamp/stamp.html" ] },
 		"easyurl": "aUmPilmTTc8",
 		"normalurl": "q0rr3ppg3k8"
 	},
@@ -6019,7 +6018,6 @@
 		"remyurl": "FUTURE_is_Dead",
 		"easy": 5,
 		"normal": 8,
-		"unlock": { "mission": "mission_BPL", "unavailable": "eventEnd", "orderct": "2nd", "s": [ "https://p.eagate.573.jp/game/bpl/bpl2021/special/stamp/stamp.html" ] },
 		"easyurl": "cqZdPmONJHA",
 		"normalurl": "w5fUnrAAYrU"
 	},

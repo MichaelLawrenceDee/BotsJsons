@@ -6435,7 +6435,7 @@
 		"remyurl": "Spin_%26_Slide",
 		"easy": 5,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp" },
+		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
 		"easyurl": "c5r31JGuW4g",
 		"normalurl": "1eY-wwD3Jk8"
 	},
@@ -6838,7 +6838,7 @@
 		"remyurl": "E",
 		"easy": 5,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp" },
+		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
 		"easyurl": "ibBMBW-BDmI&t=23s",
 		"normalurl": "My3v6l4Q5Vo&t=24s"
 	},
@@ -8223,5 +8223,19 @@
 		],
 		"easyurl": "Si76d_Ag63c&t=23s",
 		"normalurl": "qyp3ffjfvVc&t=23s"
+	},
+	{
+		"title": "Virus Funk",
+		"artist": "Nhato",
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Virus_Funk.png",
+		"remyurl": "Virus_Funk",
+		"easy": 6,
+		"normal": 8,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "pjwf3dQTRE4&t=23s",
+		"normalurl": "paJPzrQ_dMg&t=23s"
 	}
 ]

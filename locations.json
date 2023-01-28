@@ -208,6 +208,9 @@
 			{"region": "Maryland", "code": "MD", "locations": [
 				{"location":"Towson", "roleId": "569683240688943127"}
 			]},
+			{"region": "Maine", "code": "ME", "locations": [
+				{"location":"Maine Mall", "roleId": "1068893468543418389"}
+			]},
 			{"region": "Michigan", "code": "MI", "locations": [
 				{"location":"Auburn Hills", "roleId": "569737743408562191"}
 			]},

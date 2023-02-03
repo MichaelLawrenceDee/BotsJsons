@@ -3655,7 +3655,7 @@
 		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Set Me Free" ] }, 
-			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Drop The Bounce" ] }
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Drop The Bounce" ] }, 
 			"\n**SUMMER DANCE CAMP**:\n**Electric Dance System Music** ⇒ Drop The Bounce ⇒ Astrogazer" 
 		],
 		"links": [ "Set Me Free", "Electric Dance System Music", "Drop The Bounce", "Astrogazer" ],

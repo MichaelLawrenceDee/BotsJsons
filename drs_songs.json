@@ -3652,10 +3652,10 @@
 		"remyurl": "Electric_Dance_System_Music",
 		"easy": 4,
 		"normal": 8,
-		"stars": 100,
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Set Me Free" ] }, 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "ing": "ing", "s": [ "Drop The Bounce" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Drop The Bounce" ] }
 			"\n**SUMMER DANCE CAMP**:\n**Electric Dance System Music** ⇒ Drop The Bounce ⇒ Astrogazer" 
 		],
 		"links": [ "Set Me Free", "Electric Dance System Music", "Drop The Bounce", "Astrogazer" ],
@@ -3673,11 +3673,10 @@
 		"remyurl": "Drop_The_Bounce",
 		"easy": 6,
 		"normal": 9,
-		"stars": 150,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "ing": "ing", "s": [ "Electric Dance System Music" ] },
+		"stars": 60,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Set Me Free" ] }, 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "ing": "ing", "s": [ "Astrogazer" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Astrogazer" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Polar Night" ] }, 
 			"\n**SUMMER DANCE CAMP**:\nElectric Dance System Music ⇒ **Drop The Bounce** ⇒ Astrogazer" 
 		],
@@ -3695,8 +3694,7 @@
 		"remyurl": "Astrogazer",
 		"easy": 5,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "ing": "ing", "s": [ "Drop The Bounce" ] },
+		"stars": 100,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Set Me Free" ] }, 
 			"\n**SUMMER DANCE CAMP**:\nElectric Dance System Music ⇒ Drop The Bounce ⇒ **Astrogazer**" 
@@ -4410,10 +4408,10 @@
 		"remyurl": "This_Beat_Is.....",
 		"easy": 5,
 		"normal": 8,
-		"stars": 100,
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crazy For You" ] }, 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "ing": "ing", "s": [ "ALGORITHM" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "ALGORITHM" ] }, 
 			"\n**SUMMER DANCE CAMP 2020**:\n**This Beat Is.....** ⇒ ALGORITHM ⇒ EGOISM 110" 
 		],
 		"links": [ "Crazy For You", "This Beat Is.....", "ALGORITHM", "EGOISM 110" ],
@@ -4431,11 +4429,10 @@
 		"remyurl": "ALGORITHM",
 		"easy": 5,
 		"normal": 9,
-		"stars": 150,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "ing": "ing", "s": [ "This Beat Is....." ] },
+		"stars": 60,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crazy For You" ] }, 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "ing": "ing", "s": [ "EGOISM 110" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "EGOISM 110" ] }, 
 			"\n**SUMMER DANCE CAMP 2020**:\nThis Beat Is..... ⇒ **ALGORITHM** ⇒ EGOISM 110" 
 		],
 		"links": [ "Crazy For You", "This Beat Is.....", "ALGORITHM", "EGOISM 110" ],
@@ -4454,8 +4451,7 @@
 		"remyurl": "EGOISM_110",
 		"easy": 7,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "ing": "ing", "s": [ "ALGORITHM" ] },
+		"stars": 100,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crazy For You" ] }, 
 			"\n**SUMMER DANCE CAMP 2020**:\nThis Beat Is..... ⇒ ALGORITHM ⇒ **EGOISM 110**" 

@@ -6879,12 +6879,11 @@
 		"remyurl": "Trash_(Candy_House)",
 		"easy": 3,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "↑↑↓↓←→←→BA" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "↑↑↓↓←→←→BA" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\n**Trash** ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)" 
 		],
@@ -6903,12 +6902,11 @@
 		"remyurl": "Ue_ue_shita_shita_hidari_migi_hidari_migi_BA",
 		"easy": 4,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ **↑↑↓↓←→←→BA** ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)" 
 		],
@@ -6927,12 +6925,11 @@
 		"remyurl": "GRADIUS_REMIX（UUDDLRLRBA_Ver.)",
 		"easy": 4,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "You Take My Soul" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "You Take My Soul" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ **GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)** ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)" 
 		],
@@ -6952,12 +6949,11 @@
 		"remyurl": "You_Take_My_Soul",
 		"easy": 5,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "unavailable": "eventEnd", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ **You Take My Soul** ⇒ The GameHacker (Sampled Crazy Shuffle)" 
 		],
@@ -6977,13 +6973,12 @@
 		"remyurl": "The_GameHacker_(Sampled_Crazy_Shuffle)",
 		"easy": 5,
 		"normal": 10,
-		"stars": 160,
+		"stars": 200,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Next Stage 2022" ] }, 
 			{ "mission": "mission_Clear", "s": [ "ドーパミン (STARDOM Remix)" ] }, 
 			{ "mission": "mission_Clear", "s": [ "Brand New Step" ] } 
 		],
-		"unlock": { "mission": "mission_OMES", "s": [ "SPARK FESTIVAL 2021 <:sparkfes2021:896414501736423435>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ **The GameHacker (Sampled Crazy Shuffle)**" 
 		],

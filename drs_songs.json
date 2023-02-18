@@ -8228,5 +8228,49 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "pjwf3dQTRE4&t=23s",
 		"normalurl": "paJPzrQ_dMg&t=23s"
+	},
+	{
+		"title": "Draw the Savage",
+		"artist": "Ryunosuke Kudo",
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Draw_the_Savage.png",
+		"remyurl": "Draw_the_Savage",
+		"easy": 6,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Linkage" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Linkage" ] } 
+		],
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**: **AFTER PARTY**\n**Draw the Savage** ⇒ Linkage ⇒ Come aROUND ⇒ ???" 
+		],
+		"links": [ "Draw the Savage", "Linkage" ],
+		"easyurl": "CyMimrX2ISg&t=23s",
+		"normalurl": "zFaFCZKDbXY&t=23s"
+	},
+	{
+		"title": "Linkage",
+		"artist": "DJ WILDPARTY feat. yosumi",
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"thumbnail": "Linkage_Jacket.png",
+		"remyurl": "Linkage",
+		"easy": 6,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Come aROUND" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Come aROUND" ] } 
+		],
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**: **AFTER PARTY**\nDraw the Savage ⇒ **Linkage** ⇒ Come aROUND ⇒ ???" 
+		],
+		"links": [ "Draw the Savage", "Linkage" ],
+		"easyurl": "izdTGU7ONHg&t=23s",
+		"normalurl": "Zf3Fg6KEOrc&t=23s"
 	}
 ]

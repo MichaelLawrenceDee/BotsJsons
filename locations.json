@@ -162,6 +162,7 @@
 			]},
 			{"region": "California", "code": "CA", "locations": [
 				{"location":"Burbank", "roleId": "662885758696161311"},
+				{"location":"Folsom", "roleId": "1076378591216013423"},
 				{"location":"Hayward", "roleId": "625568317305782272"},
 				{"location":"Moreno Valley", "roleId": "571900957844176907"},
 				{"location":"Puente Hills", "roleId": "569683341394182164"},

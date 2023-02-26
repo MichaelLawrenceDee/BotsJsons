@@ -1774,6 +1774,7 @@
 					"label": "Normal/Alt",
 					"hr": "1-13-X-3-2-1-31-3",
 					"hrlabel": [[2,2],[5,1]],
+					"lsd": "None (Potential GB meta using Rose (L) for Android)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
@@ -1790,7 +1791,7 @@
 				},
 				{
 					"label": "Normal(GB)",
-					"lsd": "(Same team as rank)",
+					"lsd": "(Same team as rank, potential GB meta for iOS)",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "" },
@@ -8545,7 +8546,7 @@
 					"last_update": "04 Apr 2021"
 				},
 				{
-					"lsd": "40 Perfects while no x2",
+					"lsd": "None (Used in GB if not confident in top meta delay)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
@@ -18085,7 +18086,7 @@
 			"normal": [
 				{
 					"label": "Normal/Alt",
-					"lsd": "Follow top meta delay (better team for Android)",
+					"lsd": "Follow top meta delay",
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Horyeon", "costume": true },
@@ -24827,6 +24828,7 @@
 			"normal": [
 				{
 					"label": "Normal/Alt",
+					"lsd": "None (Possible GB meta using Aresmus (L))",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Django" },
 					"slide": { "star": "Horyeon", "costume": true },
@@ -25894,6 +25896,15 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "13 Jun 2021"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "1 Perfect tap",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Valentine", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -26010,13 +26021,20 @@
 				}
 			],
 			"normal": [
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"hard": [
 				{
 					"label": "Hard/Alt",
 					"hr": "3-X",
 					"hrlabel": [[2,1]],
-					"lsd": "None (Also used in GB using Rose (L))",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
@@ -26030,6 +26048,16 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": " ''",
+					"hrlabel": [],
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -26394,6 +26422,14 @@
 					"slide": { "star": "Partina", "leader": true },
 					"flick": { "star": "Amy" },
 					"last_update": "20 Dec 2020"
+				},
+				{
+					"label": "Easy(GB)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Glory" },
+					"flick": { "star": "Slasher", "costume": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -26909,6 +26945,14 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"tap": { "star": "HT Jay" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
 			],
 			"normal": [
 				{
@@ -27054,6 +27098,13 @@
 				{
 					"label": "Easy(GB)",
 					"tap": { "star": "Lucifer" },
+					"long": { "star": "Franken" },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"tap": { "star": "Lucifer" },
 					"long": { "star": "Poet", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
@@ -27063,7 +27114,6 @@
 			"normal": [
 				{
 					"label": "Normal(GB)",
-					"lsd": "None (Possible GB meta)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Glory" },
@@ -31779,6 +31829,14 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
 			],
 			"normal": [
 				{

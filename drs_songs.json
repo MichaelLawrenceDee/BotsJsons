@@ -832,7 +832,10 @@
 		"easy": 3,
 		"normal": 6,
 		"easyurl": "40DbByarZkQ",
-		"normalurl": "d0Sn7y9z4t4"
+		"normalurl": "d0Sn7y9z4t4",
+		"notes": [
+			{ "note": "note_Removed", "MM": 3, "s": [ 6, 2023 ] }
+		]
 	},
 	{
 		"title": "HIT IT!",
@@ -844,7 +847,10 @@
 		"easy": 4,
 		"normal": 7,
 		"easyurl": "kjAvCQtGG-E",
-		"normalurl": "mbWpXLEpv18"
+		"normalurl": "mbWpXLEpv18",
+		"notes": [
+			{ "note": "note_Removed", "MM": 3, "s": [ 6, 2023 ] }
+		]
 	},
 	{
 		"title": "DANCE RUSH 遊び方 1",
@@ -6431,7 +6437,7 @@
 		"remyurl": "Spin_%26_Slide",
 		"easy": 5,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"stars": 150,
 		"easyurl": "c5r31JGuW4g",
 		"normalurl": "1eY-wwD3Jk8"
 	},
@@ -7951,8 +7957,10 @@
 		],
 		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "So What" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses"
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] } 
 		],
+		"links": [ "Lose Control" ],
 		"easyurl": false,
 		"normalurl": "CHyiS81jyCg&t=23s"
 	},
@@ -8180,9 +8188,10 @@
 		"normal": 10,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM5 <:gym5:1048441110156021790>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ Tropical White ⇒ Rock The Club ⇒ Jumbo Drill ⇒ **音楽 (STARDOM Remix)**" 
+			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ Tropical White ⇒ Rock The Club ⇒ Jumbo Drill ⇒ **音楽 (STARDOM Remix)**", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] } 
 		],
-		"links": [ "HANDS UP IN THE AIR", "Tropical White", "Rock The Club", "Jumbo Drill", "音楽 (STARDOM Remix)" ],
+		"links": [ "HANDS UP IN THE AIR", "Tropical White", "Rock The Club", "Jumbo Drill", "音楽 (STARDOM Remix)", "Lose Control" ],
 		"easyurl": "-qPwq4-G2Hs&t=40s",
 		"normalurl": "JDi8gGBSUt4&t=40s"
 	},
@@ -8210,8 +8219,10 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }
 		],
 		"notes": [ 
-			{ "note": "note_Random" }
+			{ "note": "note_Random" }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] } 
 		],
+		"links": [ "Lose Control" ],
 		"easyurl": "Si76d_Ag63c&t=23s",
 		"normalurl": "qyp3ffjfvVc&t=23s"
 	},
@@ -8245,9 +8256,9 @@
 			{ "mission": "mission_Unlock", "s": [ "Linkage" ] } 
 		],
 		"notes": [ 
-			"**SPARK FESTIVAL 2022**: **AFTER PARTY**\n**Draw the Savage** ⇒ Linkage ⇒ Come aROUND ⇒ ???" 
+			"**SPARK FESTIVAL 2022**: **AFTER PARTY**\n**Draw the Savage** ⇒ Linkage ⇒ Come aROUND ⇒ Tropical Juice ⇒ Lose Control" 
 		],
-		"links": [ "Draw the Savage", "Linkage" ],
+		"links": [ "Draw the Savage", "Linkage", "Come aROUND", "Tropical Juice", "Lose Control" ],
 		"easyurl": "CyMimrX2ISg&t=23s",
 		"normalurl": "zFaFCZKDbXY&t=23s"
 	},
@@ -8257,6 +8268,7 @@
 		"category": "sparkfes2022",
 		"record": "Yes",
 		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS",
 		"thumbnail": "Linkage_Jacket.png",
 		"remyurl": "Linkage",
 		"easy": 6,
@@ -8267,10 +8279,80 @@
 			{ "mission": "mission_Unlock", "s": [ "Come aROUND" ] } 
 		],
 		"notes": [ 
-			"**SPARK FESTIVAL 2022**: **AFTER PARTY**\nDraw the Savage ⇒ **Linkage** ⇒ Come aROUND ⇒ ???" 
+			"**SPARK FESTIVAL 2022**: **AFTER PARTY**\nDraw the Savage ⇒ **Linkage** ⇒ Come aROUND ⇒ Tropical Juice ⇒ Lose Control" 
 		],
-		"links": [ "Draw the Savage", "Linkage" ],
+		"links": [ "Draw the Savage", "Linkage", "Come aROUND", "Tropical Juice", "Lose Control" ],
 		"easyurl": "izdTGU7ONHg&t=23s",
 		"normalurl": "Zf3Fg6KEOrc&t=23s"
+	},
+	{
+		"title": "Come aROUND",
+		"artist": "nora2r meets TRIΔNGLE",
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Come_around_jacket.png",
+		"remyurl": "Come_aROUND",
+		"easy": 5,
+		"normal": 9,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Tropical Juice" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Tropical Juice" ] } 
+		],
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**: **AFTER PARTY**\nDraw the Savage ⇒ Linkage ⇒ **Come aROUND** ⇒ Tropical Juice ⇒ Lose Control" 
+		],
+		"links": [ "Draw the Savage", "Linkage", "Come aROUND", "Tropical Juice", "Lose Control" ],
+		"easyurl": "3_gnpfdJSns&t=23s",
+		"normalurl": "Dc7dmUBcS5o&t=23s"
+	},
+	{
+		"title": "Tropical Juice",
+		"artist": "NATSUMI",
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "TROP",
+		"thumbnail": "tropical_juice_jacket.png",
+		"remyurl": "Tropical_Juice",
+		"easy": 5,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Lose Control" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Lose Control" ] } 
+		],
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**: **AFTER PARTY**\nDraw the Savage ⇒ Linkage ⇒ Come aROUND ⇒ **Tropical Juice** ⇒ Lose Control" 
+		],
+		"links": [ "Draw the Savage", "Linkage", "Come aROUND", "Tropical Juice", "Lose Control" ],
+		"easyurl": "WNBswLHb5Qo&t=23s",
+		"normalurl": "scOdAkf9k5M&t=23s"
+	},
+	{
+		"title": "Lose Control",
+		"artist": "Hommarju",
+		"category": "sparkfes2022",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS",
+		"thumbnail": "Lose_Control_jacket.png",
+		"remyurl": "Lose_Control",
+		"easy": 8,
+		"normal": 10,
+		"stars": 160,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "So What" ] }, 
+			{ "mission": "mission_Clear", "s": [ "音楽 (STARDOM Remix)" ] }, 
+			{ "mission": "mission_Clear", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)" ] } 
+		],
+		"unlock": { "mission": "mission_OMES", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117> AFTER PARTY" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**: **AFTER PARTY**\nDraw the Savage ⇒ Linkage ⇒ Come aROUND ⇒ Tropical Juice ⇒ **Lose Control**" 
+		],
+		"links": [ "So What", "音楽 (STARDOM Remix)", "黒髪乱れし修羅となりて (STARDOM Remix)", "Draw the Savage", "Linkage", "Come aROUND", "Tropical Juice", "Lose Control" ],
+		"easyurl": "9nGKyfkKN5E&t=23s",
+		"normalurl": "ylj4-FYthj8&t=23s"
 	}
 ]

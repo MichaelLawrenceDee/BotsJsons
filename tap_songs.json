@@ -29829,6 +29829,7 @@
 			],
 			"normal": [
 				{
+					"lsd": "GOOD until x2 combo",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Dominiciel", "leader": true },

@@ -252,8 +252,9 @@
 				{"location":"Philadelphia", "roleId": "857307910748110849"}
 			]},
 			{"region": "Texas", "code": "TX", "locations": [
+				{"location":"Arlington", "roleId": "572437181864476703"},
 				{"location":"Grapevine", "roleId": "569682829324058656"},
-				{"location":"Arlington", "roleId": "572437181864476703"}
+				{"location":"San Antonio", "roleId": "1082700225887617054"}
 			]},
 			{"region": "Utah", "code": "UT", "locations": [
 				{"location":"Southtowne", "roleId": "823415668871135253"}

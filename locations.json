@@ -145,6 +145,13 @@
 		"regions": []
 	},
 	{
+		"country": "United Arab Emirates",
+		"code": "UAE",
+		"flag": "🇦🇪",
+		"roleId": "1085222437664338020",
+		"regions": []
+	},
+	{
 		"country": "United Kingdom",
 		"code": "UK",
 		"flag": "🇬🇧",

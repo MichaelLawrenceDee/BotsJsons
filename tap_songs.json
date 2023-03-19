@@ -25220,7 +25220,7 @@
 					"label": "Normal/Alt",
 					"lsd": "None (Jessi SU + Nicol 2 > Jessi + Nicol 9)",
 					"tap": { "star": "Jessi", "costume": true },
-					"long": { "star": "Beatrice" },
+					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 2 },
 					"flick": { "star": "HT Senah", "leader": true },
 					"last_update": "03 Jul 2022"
@@ -25238,6 +25238,13 @@
 					"slide": { "star": "Nicol", "skill": 1 },
 					"flick": { "star": "HT Senah", "leader": true },
 					"last_update": "07 Feb 2020"
+				},
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Elly" },
+					"long": { "star": "Beatrice", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose" }
 				}
 			],
 			"hard": [

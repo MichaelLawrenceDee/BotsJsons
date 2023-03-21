@@ -134,38 +134,8 @@
 		"country": "Taiwan",
 		"code": "TW",
 		"flag": "🇹🇼",
-		"regionname": "city",
-		"regions": [
-			{"region": "台北 (Taipei)", "code": "TPE", "locations": [
-				{"location":"湯姆熊金萬年店 (Tom's World Jinwannian)", "roleId": "1087755148455063614"},
-				{"location":"武昌遊戲玩家 (Eslite HYPER GAMER)", "roleId": "1087756384612917339"},
-				{"location":"地下街鯊魚夾 (City Mall Y-area Shark Claw)", "roleId": "1087756597360603307"}
-			]},
-			{"region": "新北 (New Taipei)", "code": "NWT", "locations": [
-				{"location":"湯姆熊淡水店 (Tom's World Tamsui)", "roleId": "1087756775413006357"},
-				{"location":"板橋無限遊戲中心 (INF GAME Center)", "roleId": "1087756820937986199"},
-				{"location":"新莊老虎歡樂世界 (J-MART Tiger's World)", "roleId": "1087756823802683493"}
-			]},
-			{"region": "桃園 (Taoyuan)", "code": "TAO", "locations": [
-				{"location":"樂吉獅歡樂世界 (Lovejis Lion)", "roleId": "1087756825367158824"}
-			]},
-			{"region": "新竹 (Hsinchu)", "code": "HSZ", "locations": [
-				{"location":"湯姆熊中興店 (Tom's World Jhongsing)", "roleId": "1087756828399644822"}
-			]},
-			{"region": "台中 (Taichung)", "code": "TXG", "locations": [
-				{"location":"湯姆熊大里店 (Tom's World Dali)", "roleId": "1087756830777819167"},
-				{"location":"湯姆熊中友店 (Tom's World Chungyo)", "roleId": "1087756832631689286"},
-				{"location":"新藝城廟東店 (Sin Yi City Miaodong)", "roleId": "1087756834359758988"},
-				{"location":"新藝城三民店 (Sin Yi City Sanmin)", "roleId": "1087756836456910850"}
-			]},
-			{"region": "台南 (Tainan)", "code": "TNN", "locations": [
-				{"location":"湯姆熊真光店 (Tom's World Zhenguang)", "roleId": "1087756838881198243"},
-				{"location":"湯姆熊Focus店 (Tom's World Focus)", "roleId": "1087756840831561839"}
-			]},
-			{"region": "高雄 (Kaohsiung)", "code": "KHH", "locations": [
-				{"location":"湯姆熊六合店 (Tom's World Liuhe)", "roleId": "1087756843620769844"}
-			]}
-		]
+		"roleId": "678721629567713309",
+		"regions": []
 	},
 	{
 		"country": "Thailand",

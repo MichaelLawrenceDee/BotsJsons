@@ -2136,20 +2136,18 @@
 		"remyurl": "Nighthiker",
 		"easy": 4,
 		"normal": 7,
-		"stars": 100,
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Nightlife" ] }, 
 			{ "mission": "mission_ScoreNSongs", "s": [ 80, 3, "EDM" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 1000 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "NewAige" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Disco Nights" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Get On The Floor" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Luminous Pajama" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Nighthiker** ⇒ Get On The Floor ⇒ Luminous Pajama" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Get On The Floor" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "prev": "Previously", "s": [ "Luminous Pajama" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Nighthiker** ⇒ Get On The Floor ⇒ Luminous Pajama" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 9, "noextra": "noExtra", "origlength": 3, "s": [ "A", 19, 2022, 1000 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 19, 2022, 80, "NewAige" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 19, 2022, 80, "Disco Nights" ] } 
 		],
 		"links": [ "Nighthiker", "Get On The Floor", "Luminous Pajama", "Nightlife", "NewAige", "Disco Nights" ],
 		"easyurl": "xA7pE11vYB8",
@@ -2167,21 +2165,18 @@
 		"remyurl": "Get_On_The_Floor",
 		"easy": 4,
 		"normal": 8,
-		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Nighthiker" ] },
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Dual Bladez" ] }, 
 			{ "mission": "mission_ScoreNSongs", "s": [ 85, 3, "BEMANI" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_GetNAnySong", "noextra": "noExtra", "s": [ 10, "BAD", 10 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "DAWN OF FALCON" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Gimme a Big Beat" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Luminous Pajama" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Luminous Pajama" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nNighthiker ⇒ **Get On The Floor** ⇒ Luminous Pajama" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "A Legend Is Born" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "A Legend Is Born" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "mis": "Discovery", "MM": 9, "noextra": "noExtra", "origlength": 3, "s": [ "A", 19, 2022, 10, "BAD", 10 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 19, 2022, 85, "DAWN OF FALCON" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 19, 2022, 85, "Gimme a Big Beat" ] } 
 		],
 		"links": [ "Nighthiker", "Get On The Floor", "Luminous Pajama", "Dual Bladez", "DAWN OF FALCON", "Gimme a Big Beat", "A Legend Is Born" ],
 		"easyurl": "nI8OpC4fNgY",
@@ -2200,19 +2195,16 @@
 		"remyurl": "Luminous_Pajama",
 		"easy": 6,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Get On The Floor" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "DOWNER & UPPER" ] }, 
 			{ "mission": "mission_ScoreAny", "s": [ 3, 90 ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_NoteTotal", "s": [ 2400, "PERFECT" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Nighthiker" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Get On The Floor" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nNighthiker ⇒ Get On The Floor ⇒ **Luminous Pajama**" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nNighthiker ⇒ Get On The Floor ⇒ **Luminous Pajama**" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "A", 19, 2022, 2400, "PERFECT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 19, 2022, 90, "Nighthiker" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 19, 2022, 90, "Get On The Floor" ] } 
 		],
 		"links": [ "Nighthiker", "Get On The Floor", "Luminous Pajama", "DOWNER & UPPER" ],
 		"easyurl": "p1QDxu-SgU4",
@@ -2229,20 +2221,18 @@
 		"remyurl": "Oboro",
 		"easy": 5,
 		"normal": 7,
-		"stars": 100,
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Starlight Kiss" ] }, 
 			{ "mission": "mission_ComboNSongs", "genre": "genre", "s": [ 60, 3, "BEMANI " ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_GetNAnySong2", "s": [ 20, "BAD", 20, "GOOD", 5 ] }, 
-			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Din Don Dan" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "SHINOBI" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "MUTSUKI" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**朧** ⇒ SHINOBI ⇒ MUTSUKI" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "SHINOBI" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "prev": "Previously", "s": [ "MUTSUKI" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**朧** ⇒ SHINOBI ⇒ MUTSUKI" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong2", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "A", 29, 2023, 20, "BAD", 20, "GOOD", 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearDanceGuide", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 29, 2023, 1 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 80, "Din Don Dan" ] } 
 		],
 		"links": [ "朧", "SHINOBI", "MUTSUKI", "Starlight Kiss", "Din Don Dan" ],
 		"easyurl": "2Y8uizAjQf4",
@@ -2259,20 +2249,17 @@
 		"remyurl": "SHINOBI",
 		"easy": 7,
 		"normal": 9,
-		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "朧" ] },
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 5, "GOOD", "True Blue (STARDOM Remix)" ] }, 
 			{ "mission": "mission_ComboNSongs", "genre": "genre", "s": [ 100, 3, "EDM " ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_NoteTotal", "s": [ 2020, "PERFECT" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Bad Boy Birdwatch" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Mandrake" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "MUTSUKI" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n朧 ⇒ **SHINOBI** ⇒ MUTSUKI" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "MUTSUKI" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n朧 ⇒ **SHINOBI** ⇒ MUTSUKI" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "A", 29, 2023, 2020, "PERFECT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 29, 2023, 85, "Bad Boy Birdwatch" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 85, "Mandrake" ] } 
 		],
 		"links": [ "朧", "SHINOBI", "MUTSUKI", "True Blue (STARDOM Remix)", "Bad Boy Birdwatch", "Mandrake" ],
 		"easyurl": "ywXuz2JuCp4",
@@ -2289,19 +2276,16 @@
 		"remyurl": "MUTSUKI_(KO3)",
 		"easy": 6,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "SHINOBI" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "Party Jumpin'" ] }, 
 			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 140, 3 ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreTotal", "s": [ 2020 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "朧" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "SHINOBI" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\n朧 ⇒ SHINOBI ⇒ **MUTSUKI**" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\n朧 ⇒ SHINOBI ⇒ **MUTSUKI**" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "A", 29, 2023, 2020 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 29, 2023, 90, "朧" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 90, "SHINOBI" ] } 
 		],
 		"links": [ "朧", "SHINOBI", "MUTSUKI", "Party Jumpin'" ],
 		"easyurl": "XiZkYyHnWb4",
@@ -2664,8 +2648,7 @@
 			{ "name": "default", "url": "dg3CvO_cppc" },
 			{ "name": "いちか/Ichika", "url": "clvmBWmuSe8" }
 		],
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "MY NAME IS" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "ミッドナイト☆WAR" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -2690,8 +2673,7 @@
 		"remyurl": "Midland_Mainline",
 		"easy": 7,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Midland Mainline" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Undercover" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -2717,8 +2699,7 @@
 		"remyurl": "Roughneck_Disco",
 		"easy": 7,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Roughneck Disco" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Midland Mainline" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -3962,9 +3943,10 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "BREDLI" ] }, 
 			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ **Honey Bounce** ⇒ BREDLI ⇒ BENJAMIN ⇒ Awakening", 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "HoneyComb" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "HoneyComb" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] } 
 		],
-		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "HoneyComb" ],
+		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "HoneyComb", "Funky Street" ],
 		"easyurl": "OveyIUsa_qI",
 		"normalurl": "kmSZMQAJ1aE"
 	},
@@ -4063,8 +4045,7 @@
 			{ "name": "default", "url": "Wy968Z6UXow" },
 			{ "name": "いちか/Ichika", "url": "lgp3bMzcts0" }
 		],
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "ランカーキラーガール (STARDOM Remix)" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Catch Our Fire! (STARDOM Remix)" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -4089,8 +4070,7 @@
 		"remyurl": "New_heaven",
 		"easy": 7,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "new heaven" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Love 2 Shuffle" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -4418,9 +4398,10 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crazy For You" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "ALGORITHM" ] }, 
-			"\n**SUMMER DANCE CAMP 2020**:\n**This Beat Is.....** ⇒ ALGORITHM ⇒ EGOISM 110" 
+			"\n**SUMMER DANCE CAMP 2020**:\n**This Beat Is.....** ⇒ ALGORITHM ⇒ EGOISM 110", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "FIRE VOLCANO" ] } 
 		],
-		"links": [ "Crazy For You", "This Beat Is.....", "ALGORITHM", "EGOISM 110" ],
+		"links": [ "Crazy For You", "This Beat Is.....", "ALGORITHM", "EGOISM 110", "FIRE VOLCANO" ],
 		"easyurl": "chGMqROUkDA",
 		"normalurl": "hAQdmtdC7PI"
 	},
@@ -5221,9 +5202,10 @@
 		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Synth Presets & Sample Loops" ] }, 
-			"**DANCERUSH STARDOM GYM3**:\n**DEVILFISHMANのテーマ** ⇒ Synth Presets & Sample Loops ⇒ Shuffle The Cards ⇒ Penguin Morning ⇒ neu (STARDOM Remix)" 
+			"**DANCERUSH STARDOM GYM3**:\n**DEVILFISHMANのテーマ** ⇒ Synth Presets & Sample Loops ⇒ Shuffle The Cards ⇒ Penguin Morning ⇒ neu (STARDOM Remix)", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] } 
 		],
-		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)" ],
+		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)", "Funky Street" ],
 		"easyurl": "IAw91LM0QcU",
 		"normalurl": "N79auwfidO4"
 	},
@@ -6191,6 +6173,7 @@
 	},
 	{
 		"title": "Let Me See Your Dance",
+		"alias": [ "LMSYD" ],
 		"artist": "kors k vs BEMANI Sound Team \"SYUNN\"",
 		"artistalias": [ "BST SYUNN" ],
 		"category": "sparkfes2021",
@@ -7481,9 +7464,10 @@
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Easy Peasy" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Sunshine let me find a way** ⇒ Easy Peasy ⇒ Go Down" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Sunshine let me find a way** ⇒ Easy Peasy ⇒ Go Down" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] } 
 		],
-		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Saturday Night Love -Phunk Disco Mix-", "野球の遊び方　そしてその歴史　～決定版～" ],
+		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Saturday Night Love -Phunk Disco Mix-", "野球の遊び方　そしてその歴史　～決定版～", "Funky Street" ],
 		"easyurl": false,
 		"normalurl": "ehzrqJgwmp0&t=22s"
 	},
@@ -7512,9 +7496,10 @@
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscount": "anddiscount", "ing": "ing", "s": [ "Go Down" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nSunshine let me find a way ⇒ **Easy Peasy** ⇒ Go Down" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nSunshine let me find a way ⇒ **Easy Peasy** ⇒ Go Down" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "FIRE VOLCANO" ] } 
 		],
-		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Impress" ],
+		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Impress", "FIRE VOLCANO" ],
 		"easyurl": false,
 		"normalurl": "OoaUJ4bTirQ&t=22s"
 	},
@@ -7541,9 +7526,10 @@
 			{ "mission": "mission_Clear", "s": [ "Chaos of Drum" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nSunshine let me find a way ⇒ Easy Peasy ⇒ **Go Down**" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nSunshine let me find a way ⇒ Easy Peasy ⇒ **Go Down**" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "FIRE VOLCANO" ] } 
 		],
-		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Summery", "Party Jumpin'", "Chaos of Drum" ],
+		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Summery", "Party Jumpin'", "Chaos of Drum", "FIRE VOLCANO" ],
 		"easyurl": "9E6WPvc2Bxw&t=22s",
 		"normalurl": "LY2IAziThoE&t=22s"
 	},
@@ -8354,5 +8340,105 @@
 		"links": [ "So What", "音楽 (STARDOM Remix)", "黒髪乱れし修羅となりて (STARDOM Remix)", "Draw the Savage", "Linkage", "Come aROUND", "Tropical Juice", "Lose Control" ],
 		"easyurl": "9nGKyfkKN5E&t=23s",
 		"normalurl": "ylj4-FYthj8&t=23s"
+	},
+	{
+		"title": "SOUVENIR",
+		"artist": "(BUMP OF CHICKEN)",
+		"record": "Yes",
+		"folders": [ "POPS" ],
+		"thumbnail": ".jpg",
+		"remyurl": "SOUVENIR",
+		"easy": 2,
+		"normal": 7,
+		"easyurl": false,
+		"normalurl": "EvnRidUxXCs"
+	},
+	{
+		"title": "Funky Street",
+		"artist": "BEMANI Sound Team \"Sota F.\"",
+		"artistalias": [ "BST Sota Fujimori" ],
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": ".png",
+		"remyurl": "Funky_Street",
+		"easy": 7,
+		"normal": 9,
+		"stars": 80,
+		"discount": [ 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Honey Bounce" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Penguin Morning" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Sunshine let me find a way" ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_ClearAnySong", "noextra": "noExtra", "s": [ 6 ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "FIRE VOLCANO" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Funky Street** ⇒ FIRE VOLCANO ⇒ Acid,Tribal & Dance" ] }  
+		],
+		"links": [ "Honey Bounce", "Penguin Morning", "Sunshine let me find a way", "Funky Street", "FIRE VOLCANO", "Acid,Tribal & Dance" ]
+	},
+	{
+		"title": "FIRE VOLCANO",
+		"artist": "SOUND HOLIC feat. Nana Takahashi",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": ".png",
+		"remyurl": "FIRE_VOLCANO",
+		"easy": 6,
+		"normal": 9,
+		"stars": 160,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Funky Street" ] },
+		"discount": [ 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "ALGORITHM" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Easy Peasy" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Go Down" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ClearAnySong", "noextra": "noExtra", "s": [ 10 ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Acid,Tribal & Dance" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nFunky Street ⇒ **FIRE VOLCANO** ⇒ Acid,Tribal & Dance" ] } 
+		],
+		"links": [ "ALGORITHM", "Easy Peasy", "Go Down", "Funky Street", "FIRE VOLCANO", "Acid,Tribal & Dance" ]
+	},
+	{
+		"title": "Acid,Tribal & Dance",
+		"artist": "Relect",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Acid%2CTribal%20%26%20Dance-jacket.png",
+		"remyurl": "Acid,Tribal_%26_Dance",
+		"easy": 7,
+		"normal": 9,
+		"stars": 300,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "FIRE VOLCANO" ] },
+		"singlediscount": true,
+		"discount": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 2400 ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 2400 ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 2400 ] }
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nFunky Street ⇒ FIRE VOLCANO ⇒ **Acid,Tribal & Dance**" ] } 
+		],
+		"links": [ "Funky Street", "FIRE VOLCANO", "Acid,Tribal & Dance" ],
+		"easyurl": false,
+		"normalurl": "vkL1I3PYX7I"
+	},
+	{
+		"title": "O JIYA",
+		"artist": "ASMAT & emi",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "O_JIYA.png",
+		"remyurl": "O_JIYA",
+		"easy": 5,
+		"normal": 8
 	}
 ]

@@ -8372,7 +8372,7 @@
 			{ "mission": "mission_ScoreSong", "s": [ 90, "Sunshine let me find a way" ] }
 		],
 		"discovery": [ 
-			{ "mission": "mission_ClearAnySong", "noextra": "noExtra", "s": [ 6 ] } 
+			{ "mission": "mission_ClearAnySong", "ing": "s", "noextra": "noExtra", "s": [ 6 ] } 
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "FIRE VOLCANO" ] }, 
@@ -8400,7 +8400,7 @@
 			{ "mission": "mission_ScoreSong", "s": [ 90, "Go Down" ] } 
 		],
 		"discovery": [ 
-			{ "mission": "mission_ClearAnySong", "noextra": "noExtra", "s": [ 10 ] } 
+			{ "mission": "mission_ClearAnySong", "ing": "s", "noextra": "noExtra", "s": [ 10 ] } 
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Acid,Tribal & Dance" ] }, 

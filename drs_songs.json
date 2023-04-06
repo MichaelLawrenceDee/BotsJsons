@@ -8350,8 +8350,8 @@
 		"remyurl": "SOUVENIR",
 		"easy": 2,
 		"normal": 7,
-		"easyurl": false,
-		"normalurl": "EvnRidUxXCs"
+		"easyurl": "ylYjmIvg_Bs&t=23s",
+		"normalurl": "0hwmDpsfBro&t=23s"
 	},
 	{
 		"title": "Funky Street",
@@ -8378,7 +8378,9 @@
 			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "FIRE VOLCANO" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Funky Street** ⇒ FIRE VOLCANO ⇒ Acid,Tribal & Dance" ] }  
 		],
-		"links": [ "Honey Bounce", "Penguin Morning", "Sunshine let me find a way", "Funky Street", "FIRE VOLCANO", "Acid,Tribal & Dance" ]
+		"links": [ "Honey Bounce", "Penguin Morning", "Sunshine let me find a way", "Funky Street", "FIRE VOLCANO", "Acid,Tribal & Dance" ],
+		"easyurl": "Vm2AT_ZvdUc&t=23s",
+		"normalurl": "wNXH-Xl6VtU&t=23s"
 	},
 	{
 		"title": "FIRE VOLCANO",
@@ -8404,7 +8406,9 @@
 			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Acid,Tribal & Dance" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nFunky Street ⇒ **FIRE VOLCANO** ⇒ Acid,Tribal & Dance" ] } 
 		],
-		"links": [ "ALGORITHM", "Easy Peasy", "Go Down", "Funky Street", "FIRE VOLCANO", "Acid,Tribal & Dance" ]
+		"links": [ "ALGORITHM", "Easy Peasy", "Go Down", "Funky Street", "FIRE VOLCANO", "Acid,Tribal & Dance" ],
+		"easyurl": "kBzTJTl0uB4&t=23s",
+		"normalurl": "eeGlfZmHGLM&t=23s"
 	},
 	{
 		"title": "Acid,Tribal & Dance",
@@ -8428,8 +8432,8 @@
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nFunky Street ⇒ FIRE VOLCANO ⇒ **Acid,Tribal & Dance**" ] } 
 		],
 		"links": [ "Funky Street", "FIRE VOLCANO", "Acid,Tribal & Dance" ],
-		"easyurl": false,
-		"normalurl": "vkL1I3PYX7I"
+		"easyurl": "H9MRDcpH6p4&t=23s",
+		"normalurl": "KwbG7Y1td40&t=23s"
 	},
 	{
 		"title": "O JIYA",
@@ -8439,6 +8443,8 @@
 		"thumbnail": "O_JIYA.png",
 		"remyurl": "O_JIYA",
 		"easy": 5,
-		"normal": 8
+		"normal": 8,
+		"easyurl": "mhC6XgMED1k&t=23s",
+		"normalurl": "fcyhNb7v82U&t=23s"
 	}
 ]

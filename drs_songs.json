@@ -7468,7 +7468,7 @@
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] } 
 		],
 		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Saturday Night Love -Phunk Disco Mix-", "野球の遊び方　そしてその歴史　～決定版～", "Funky Street" ],
-		"easyurl": false,
+		"easyurl": "KqCtZUF3s8o",
 		"normalurl": "ehzrqJgwmp0&t=22s"
 	},
 	{
@@ -7500,7 +7500,7 @@
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "FIRE VOLCANO" ] } 
 		],
 		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Impress", "FIRE VOLCANO" ],
-		"easyurl": false,
+		"easyurl": "99I4-eyN5BY",
 		"normalurl": "OoaUJ4bTirQ&t=22s"
 	},
 	{
@@ -7947,7 +7947,7 @@
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] } 
 		],
 		"links": [ "Lose Control" ],
-		"easyurl": false,
+		"easyurl": "FE9aUwM709U",
 		"normalurl": "CHyiS81jyCg&t=23s"
 	},
 	{
@@ -7975,7 +7975,7 @@
 		"easy": 6,
 		"normal": 8,
 		"unlock": { "mission": "mission_IchikaMixUpBlue", "s": [ "DDR" ] },
-		"easyurl": false,
+		"easyurl": "71chhkJ3WF8",
 		"normalurl": "drVfsA_KCT8&t=23s"
 	},
 	{
@@ -8006,7 +8006,7 @@
 		"easy": 4,
 		"normal": 8,
 		"unlock": { "mission": "mission_IchikaMixUpPink", "s": [ "DRS×DDR" ] },
-		"easyurl": false,
+		"easyurl": "0zAaVMmjrm8",
 		"normalurl": "gmxnz6TYo00&t=23s"
 	},
 	{
@@ -8036,7 +8036,7 @@
 		"easy": 7,
 		"normal": 10,
 		"unlock": { "mission": "mission_IchikaMixUpPurple", "s": [ "DRS" ] },
-		"easyurl": false,
+		"easyurl": "JGy-GNaLY2c",
 		"normalurl": "ZTEOezGx19k&t=23s"
 	},
 	{
@@ -8081,7 +8081,7 @@
 			{ "note": "note_SeeAlso", "s": [ "Set Me Free" ] } 
 		],
 		"links": [ "Set Me Free" ],
-		"easyurl": false,
+		"easyurl": "ew2o9U9y4lo",
 		"normalurl": "m_Kemj1shuU&t=23s"
 	},
 	{

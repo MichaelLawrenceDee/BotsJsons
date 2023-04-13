@@ -7795,7 +7795,7 @@
 			{ "note": "note_SeeAlso", "s": [ "Broadway Walk" ] } 
 		],
 		"links": [ "Broadway Walk CHARLESTON EDITION", "Oppress CHARLESTON EDITION", "Broadway Walk" ],
-		"easyurl": false,
+		"easyurl": "UhQcdDvscF4",
 		"normalurl": "y51fVuFfgbU&t=23s"
 	},
 	{
@@ -7820,7 +7820,7 @@
 			{ "note": "note_SeeAlso", "s": [ "Oppress" ] } 
 		],
 		"links": [ "Broadway Walk CHARLESTON EDITION", "Oppress CHARLESTON EDITION", "Oppress" ],
-		"easyurl": false,
+		"easyurl": "0gw7NXdZ7hg",
 		"normalurl": "psjCitMsLCY&t=23s"
 	},
 	{
@@ -7846,7 +7846,7 @@
 			{ "note": "note_SeeAlso", "s": [ "Honey Bounce" ] }
 		],
 		"links": [ "クラブステップレッスン", "Honey Bounce CRAB STEP EDITION", "December In Strasbourg CRAB STEP EDITION", "Honey Bounce" ],
-		"easyurl": false,
+		"easyurl": "TbFhJJ6Ltx0",
 		"normalurl": "BFgTO9yOjoM&t=23s"
 	},
 	{
@@ -7871,7 +7871,7 @@
 			{ "note": "note_SeeAlso", "s": [ "December In Strasbourg" ] }
 		],
 		"links": [ "Honey Bounce CRAB STEP EDITION", "December In Strasbourg CRAB STEP EDITION", "December In Strasbourg" ],
-		"easyurl": false,
+		"easyurl": "pjLqEcD-Wp4",
 		"normalurl": "hF7qtw-bUio&t=23s"
 	},
 	{
@@ -7898,7 +7898,7 @@
 			{ "note": "note_SeeAlso", "s": [ "Shuffle the Cards" ] }
 		],
 		"links": [ "ステップバリエーション2", "Shuffle the Cards RUNNING MAN EDITION", "JOK3R RUNNING MAN EDITION", "Shuffle the Cards" ],
-		"easyurl": false,
+		"easyurl": "luAmhK-TpPI",
 		"normalurl": "ar3RUJP9tT4&t=23s"
 	},
 	{
@@ -7923,7 +7923,7 @@
 			{ "note": "note_SeeAlso", "s": [ "JOK3R" ] }
 		],
 		"links": [ "Shuffle the Cards RUNNING MAN EDITION", "JOK3R RUNNING MAN EDITION", "JOK3R" ],
-		"easyurl": false,
+		"easyurl": "7Ccj87ahN0s",
 		"normalurl": "MaYKbIomCMY&t=23s"
 	},
 	{
@@ -7990,7 +7990,7 @@
 		"easy": 6,
 		"normal": 9,
 		"unlock": { "mission": "mission_IchikaMixUpBlue", "s": [ "jubeat" ] },
-		"easyurl": false,
+		"easyurl": "p0YtsPvx5P0",
 		"normalurl": "perixISl_qk&t=23s"
 	},
 	{
@@ -8011,6 +8011,7 @@
 	},
 	{
 		"title": "Dance With The Dead",
+		"alias": [ "Love 2 Shuffle × Necroxis Girl", "L2S x Necroxis Girl" ],
 		"artist": "BEMANI Sound Team \"SYUNN\"",
 		"artistalias": [ "BST SYUNN", "Shunsuke Sato" ],
 		"category": "ichikamixup",
@@ -8021,7 +8022,7 @@
 		"easy": 3,
 		"normal": 7,
 		"unlock": { "mission": "mission_IchikaMixUpPink", "s": [ "jubeat×DRS" ] },
-		"easyurl": false,
+		"easyurl": "BTG0cNf0lPQ",
 		"normalurl": "5YUBlmKD2Pk&t=23s"
 	},
 	{
@@ -8056,7 +8057,7 @@
 			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
 			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] } 
 		],
-		"easyurl": false,
+		"easyurl": "knLGvQQ95ho",
 		"normalurl": "JLvVL20nrIs&t=23s"
 	},
 	{

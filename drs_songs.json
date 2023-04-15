@@ -8447,5 +8447,21 @@
 		"normal": 8,
 		"easyurl": "mhC6XgMED1k&t=23s",
 		"normalurl": "fcyhNb7v82U&t=23s"
+	},
+	{
+		"title": "Love You",
+		"artist": "BEMANI Sound Team \"KE!JU\"",
+		"artistalias": [ "BST KEIJU" ],
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": "Love_You_Jacket.png",
+		"remyurl": "Love_You_(BEMANI_Sound_Team_\"KE!JU\")",
+		"easy": 4,
+		"normal": 8,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "nDSCtBH9rwo&t=23s",
+		"normalurl": "c4RkuQcy4e8&t=23s"
 	}
 ]

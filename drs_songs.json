@@ -1588,7 +1588,7 @@
 			{ "note": "note_PrevUnlockBy", "mission": "mission_Clear", "origlength": 0, "ing": "ing", "s": [ "Don't Stop!!" ] }, 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Gimme a Big Beat" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DUB I DUB" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Garuda" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Garuda" ] } 
 		],
 		"links": [ "Don't Stop!!", "Gimme a Big Beat", "DUB I DUB", "Garuda" ],
 		"easyurl": "_Wibt185l9s",
@@ -1885,7 +1885,7 @@
 		"normal": 9,
 		"notes": [
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Gimme a Big Beat" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "RISING FIRE HAWK" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "RISING FIRE HAWK" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Get On The Floor" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\n**DAWN OF FALCON** ⇒ RISING FIRE HAWK ⇒ Midnight Amaretto" ] } 
 		],
@@ -1908,7 +1908,7 @@
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "DAWN OF FALCON" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Saturday Night Love -Phunk Disco Mix-" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Get On The Floor" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Garuda" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Garuda" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } 
 		],
 		"links": [ "Butterfly", "Sakura Sunrise", "DAWN OF FALCON", "Saturday Night Love -Phunk Disco Mix-", "Get On The Floor", "Garuda" ],
@@ -2309,7 +2309,7 @@
 			{ "mission": "mission_Unlock", "s": [ "Anxiety" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ 16, 2021 ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Ideal Sunset" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ **Flow** ⇒ Anxiety ⇒ Let Me See Your Dance" ],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "_Z-Qg9xHOxY",
@@ -2328,19 +2328,13 @@
 		"remyurl": "FLOWER_(STARDOM_Remix)",
 		"easy": 9,
 		"normal": 10,
-		"stars": 100,
-		"singlediscount": true,
-		"discount": [ 
-			{ "mission": "mission_Clear", "extra": "inExtra", "s": [ "FLOWER (STARDOM Remix)" ] }, 
-			{ "mission": "mission_Clear", "extra": "inExtra", "s": [ "FLOWER (STARDOM Remix)" ] }, 
-			{ "mission": "mission_Clear", "extra": "inExtra", "s": [ "FLOWER (STARDOM Remix)" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_PrevUnlockBy", "mission": "mission_Unlock", "origlength": 0, "withstars": "withStars", "ing": "ing", "s": [ "Impress" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "THE SAFARI (STARDOM Remix)" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Shiva" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Garuda" ] }, 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\n**FLOWER (STARDOM Remix)** ⇒ THE SAFARI (STARDOM Remix) ⇒ BEYOND THE EARTH (STARDOM Remix) ⇒ 灼熱Beach Side Bunny (STARDOM Remix)" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Garuda" ] }, 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\n**FLOWER (STARDOM Remix)** ⇒ THE SAFARI (STARDOM Remix) ⇒ BEYOND THE EARTH (STARDOM Remix) ⇒ 灼熱Beach Side Bunny (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "extra": "inExtra", "MM": 3, "origlength": 3, "s": [ "A,B,C", 19, 2023, "FLOWER (STARDOM Remix)" ] } 
 		],
 		"links": [ "Impress", "FLOWER (STARDOM Remix)", "THE SAFARI (STARDOM Remix)", "BEYOND THE EARTH (STARDOM Remix)", "灼熱Beach Side Bunny (STARDOM Remix)", "Shiva", "Garuda" ],
 		"easyurl": "_8FTc67JsAo",
@@ -2356,17 +2350,14 @@
 		"remyurl": "Impress",
 		"easy": 7,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Oppress" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "prev": "Previously", "cond": "unlock", "withstars": "withStars", "ing": "ing","s": [ "FLOWER (STARDOM Remix)" ] },
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Easy Peasy" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Easy Peasy" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Oppress" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 19, 2023, 1400 ] } 
 		],
-		"links": [ "Oppress", "FLOWER (STARDOM Remix)", "Easy Peasy" ],
+		"links": [ "FLOWER (STARDOM Remix)", "Easy Peasy", "Oppress" ],
 		"easyurl": "Yai88RPVBFw",
 		"normalurl": "GDm1hZWintE"
 	},
@@ -2381,15 +2372,12 @@
 		"remyurl": "RISING_FIRE_HAWK",
 		"easy": 5,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "DAWN OF FALCON" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Midnight Amaretto" ] }, 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nDAWN OF FALCON ⇒ **RISING FIRE HAWK** ⇒ Midnight Amaretto" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Midnight Amaretto" ] }, 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nDAWN OF FALCON ⇒ **RISING FIRE HAWK** ⇒ Midnight Amaretto" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "DAWN OF FALCON" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 19, 2023, 1400 ] } 
 		],
 		"links": [ "DAWN OF FALCON", "RISING FIRE HAWK", "Midnight Amaretto" ],
 		"easyurl": "QjbWUQZS69E",
@@ -2408,16 +2396,13 @@
 		"remyurl": "Midnight_Amaretto",
 		"easy": 7,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "RISING FIRE HAWK" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crystarium" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nDAWN OF FALCON ⇒ RISING FIRE HAWK ⇒ **Midnight Amaretto**" ] }, 
-			{ "note": "note_SeeAlso", "s": [ "Midnight Amaretto RUNNING MAN EDITION" ] }
+			{ "note": "note_SeeAlso", "s": [ "Midnight Amaretto RUNNING MAN EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "RISING FIRE HAWK" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 19, 2023, 1400 ] } 
 		],
 		"links": [ "DAWN OF FALCON", "RISING FIRE HAWK", "Midnight Amaretto", "Crystarium", "Midnight Amaretto RUNNING MAN EDITION" ],
 		"easyurl": "UPm57f3jHe8",
@@ -2802,7 +2787,6 @@
 		"remyurl": "Crazy_Shuffle",
 		"easy": 5,
 		"normal": 9,
-		"stars": 150,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "take me higher" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\n**Crazy Shuffle** ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }
@@ -2828,7 +2812,6 @@
 		"remyurl": "Kill_The_Beat",
 		"easy": 6,
 		"normal": 8,
-		"stars": 150,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION" ] } 
 		],
@@ -2846,7 +2829,6 @@
 		"remyurl": "Bass_2_bass",
 		"easy": 3,
 		"normal": 8,
-		"stars": 150,
 		"easyurl": "ZQFBLvD68Ig",
 		"normalurl": "0dOc0U__WLo"
 	},
@@ -2982,13 +2964,11 @@
 		"remyurl": "Nagisa_no_koakuma_lovely~radio_(STARDOM_Remix)",
 		"easy": 4,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Summery" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Summery" ] } 
-		],
-		"notes": [ "**SPARK FESTIVAL**: **RISING DAY**\n**†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)** ⇒ Summery ⇒ Deep Vibes ⇒ HighBALL ⇒ Majestic ⇒ Dual Bladez", 
-			{ "note": "note_SeeAlso", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ] } 
+		"notes": [ 
+			"**SPARK FESTIVAL**: **RISING DAY**\n**†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)** ⇒ Summery ⇒ Deep Vibes ⇒ HighBALL ⇒ Majestic ⇒ Dual Bladez", 
+			{ "note": "note_SeeAlso", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Summery" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Summery" ] } 
 		],
 		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez", "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ],
 		"easyurl": "vYCmji-1u_M",
@@ -3006,15 +2986,12 @@
 		"remyurl": "Summery",
 		"easy": 3,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Deep Vibes" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Deep Vibes" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)" ] }, 
 			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ **Summery** ⇒ Deep Vibes ⇒ HighBALL ⇒ Majestic ⇒ Dual Bladez",
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Go Down" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Go Down" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Deep Vibes" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Deep Vibes" ] } 
 		],
 		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez", "Go Down" ],
 		"easyurl": "yN110Kar7KU",
@@ -3031,14 +3008,11 @@
 		"remyurl": "Deep_Vibes",
 		"easy": 3,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "HighBALL" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "HighBALL" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Summery" ] }, 
-			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ **Deep Vibes** ⇒ HighBALL ⇒ Majestic ⇒ Dual Bladez" 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Summery" ] }, 
+			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ **Deep Vibes** ⇒ HighBALL ⇒ Majestic ⇒ Dual Bladez", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "HighBALL" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "HighBALL" ] } 
 		],
 		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez" ],
 		"easyurl": "__t_pJcKDVE",
@@ -3055,15 +3029,12 @@
 		"remyurl": "HighBALL",
 		"easy": 4,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Majestic" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Majestic" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Deep Vibes" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Deep Vibes" ] }, 
 			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ Deep Vibes ⇒ **HighBALL** ⇒ Majestic ⇒ Dual Bladez", 
-			{ "note": "note_SeeAlso", "s": [ "HighBALL T STEP EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "HighBALL T STEP EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Majestic" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Majestic" ] } 
 		],
 		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez", "HighBALL T STEP EDITION" ],
 		"easyurl": "1eaHZay26xo",
@@ -3080,17 +3051,14 @@
 		"remyurl": "Majestic",
 		"easy": 4,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Dual Bladez" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Dual Bladez" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "HighBALL" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "HighBALL" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Broadway Walk" ] }, 
 			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ Deep Vibes ⇒ HighBALL ⇒ **Majestic** ⇒ Dual Bladez", 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } , 
-			{ "note": "note_SeeAlso", "s": [ "Majestic CRAB STEP EDITION" ] }
+			{ "note": "note_SeeAlso", "s": [ "Majestic CRAB STEP EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Dual Bladez" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Dual Bladez" ] } 
 		],
 		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez", "Broadway Walk", "Majestic CRAB STEP EDITION" ],
 		"easyurl": "rKop9GdMTXE",
@@ -3109,9 +3077,8 @@
 		"remyurl": "Dual_Bladez",
 		"easy": 5,
 		"normal": 9,
-		"stars": 60,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Majestic" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Majestic" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Get On The Floor" ] }, 
 			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ Deep Vibes ⇒ HighBALL ⇒ Majestic ⇒ **Dual Bladez**", 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "HARD MODE" ] } 
@@ -3131,14 +3098,11 @@
 		"remyurl": "DO_YOU_WANNA_PARTY!!(DJ_KEN-BOW_MIX)",
 		"easy": 5,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Jalebi" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Jalebi" ] } 
-		],
 		"notes": [ 
 			"**SPARK FESTIVAL**: **SUNSET DAY**\n**DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)** ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda", 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Bloody Bounce" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Bloody Bounce" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Jalebi" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Jalebi" ] } 
 		],
 		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "Bloody Bounce" ],
 		"easyurl": "kjUvaYWNeTg",
@@ -3155,15 +3119,12 @@
 		"remyurl": "Jalebi",
 		"easy": 5,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Mandrake" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Mandrake" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Nocturnus" ] }, 
-			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ **Jalebi** ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda" 
+			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ **Jalebi** ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Mandrake" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Mandrake" ] } 
 		],
 		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "Nocturnus" ],
 		"easyurl": "ZGNDuOjxrjs",
@@ -3180,16 +3141,13 @@
 		"remyurl": "Mandrake",
 		"easy": 4,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Raw Crawler" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Raw Crawler" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Jalebi" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Jalebi" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "SHINOBI" ] }, 
 			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ **Mandrake** ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Raw Crawler" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Raw Crawler" ] } 
 		],
 		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "SHINOBI" ],
 		"easyurl": "ujF7nq8Kk7s",
@@ -3206,14 +3164,11 @@
 		"remyurl": "Raw_Crawler",
 		"easy": 4,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Bad Boy Birdwatch" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Bad Boy Birdwatch" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Mandrake" ] }, 
-			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ Mandrake ⇒ **Raw Crawler** ⇒ Bad Boy Birdwatch ⇒ Garuda" 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Mandrake" ] }, 
+			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ Mandrake ⇒ **Raw Crawler** ⇒ Bad Boy Birdwatch ⇒ Garuda", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Bad Boy Birdwatch" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Bad Boy Birdwatch" ] } 
 		],
 		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda" ],
 		"easyurl": "DjYvJ56dlbQ",
@@ -3230,15 +3185,12 @@
 		"remyurl": "Bad_Boy_Birdwatch",
 		"easy": 5,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Garuda" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Garuda" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Raw Crawler" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Raw Crawler" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "SHINOBI" ] }, 
-			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ **Bad Boy Birdwatch** ⇒ Garuda" 
+			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ **Bad Boy Birdwatch** ⇒ Garuda", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Garuda" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Garuda" ] } 
 		],
 		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "SHINOBI" ],
 		"easyurl": "rUWvOZto_gU",
@@ -3255,18 +3207,15 @@
 		"remyurl": "Garuda",
 		"easy": 9,
 		"normal": 10,
-		"stars": 200,
-		"discount": [ 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Butterfly" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "FLOWER (STARDOM Remix)" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Gimme a Big Beat" ] } 
-		],
 		"notes": [
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Bad Boy Birdwatch" ] },
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Bad Boy Birdwatch" ] },
 			"Discount and Discovery Mission for Garuda (Hommarju Remix)",
-			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ **Garuda**"
+			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ **Garuda**", 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, 95, "Butterfly" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, 95, "FLOWER (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 19, 2023, 95, "Gimme a Big Beat" ] } 
 		],
-		"links": [ "Butterfly", "FLOWER (STARDOM Remix)", "Gimme a Big Beat", "Garuda (Hommarju Remix)", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda" ],
+		"links": [ "Garuda (Hommarju Remix)", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "Butterfly", "FLOWER (STARDOM Remix)", "Gimme a Big Beat" ],
 		"easyurl": "bEPzBNHRJFk",
 		"normalurl": "HWgE9XWKxtg"
 	},

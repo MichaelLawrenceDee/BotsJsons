@@ -25958,6 +25958,15 @@
 					"slide": { "star": "Horyeon", "costume": false },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "24 Jul 2022"
+				},
+				{
+					"label": "Expert(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -29793,6 +29802,15 @@
 					"long": { "star": "Django" },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Expert(GB)",
+					"lsd": "None (Possible GB meta)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -30130,8 +30148,8 @@
 			],
 			"expert": [
 				{
-					"hr": "3-1-X-X-X-X-13",
-					"hrlabel": [[4,1],[6,1],[8,1],[10,1],[12,2]],
+					"hr": "3-1-X-X-X-X-X",
+					"hrlabel": [[4,1],[6,1],[8,1],[10,1],[12,1]],
 					"tap": { "star": "Patra" },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true },
@@ -30190,6 +30208,14 @@
 				},
 				{
 					"lsd": "Lucifer/Dr. Trasher, use Rose otherwise)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				},
+				{
+					"label": "Hard(GB)",
+					"lsd": "(Same team as rank, potential GB meta)",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "" },
@@ -31970,6 +31996,17 @@
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
 					"last_update": "12 Jun 2022"
+				},
+				{
+					"label": "Easy(GB)",
+					"hr": " ''",
+					"hrlabel": [],
+					"lsd": "Perfect until x2 combo (Possible GB meta)",
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [

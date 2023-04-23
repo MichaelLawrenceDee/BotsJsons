@@ -263,6 +263,18 @@
 						"required": false
 					},
 					{
+						"name": "bpm",
+						"type": "INTEGER",
+						"description": "BPM of a song is more than or equal to, or equal to if bpm_max is not provided",
+						"required": false
+					},
+					{
+						"name": "bpm_max",
+						"type": "INTEGER",
+						"description": "BPM of a song is less than or equal to, or same as bpm if not provided",
+						"required": false
+					},
+					{
 						"name": "random",
 						"type": "BOOLEAN",
 						"description": "Set to true to select a random song from the matching results (defaults to false)",
@@ -405,6 +417,18 @@
 						"description": "Level of song is <= on any difficulty or same as level if not provided",
 						"min_value": 1,
 						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "bpm",
+						"type": "INTEGER",
+						"description": "BPM of a song is more than or equal to, or equal to if bpm_max is not provided",
+						"required": false
+					},
+					{
+						"name": "bpm_max",
+						"type": "INTEGER",
+						"description": "BPM of a song is less than or equal to, or same as bpm if not provided",
 						"required": false
 					},
 					{
@@ -635,6 +659,18 @@
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
+					},
+					{
+						"name": "bpm",
+						"type": "INTEGER",
+						"description": "BPM of a song is more than or equal to, or equal to if bpm_max is not provided",
+						"required": false
+					},
+					{
+						"name": "bpm_max",
+						"type": "INTEGER",
+						"description": "BPM of a song is less than or equal to, or same as bpm if not provided",
+						"required": false
 					}
 				]
 			},
@@ -773,6 +809,18 @@
 						"description": "Level of song is <= on any difficulty or same as level if not provided",
 						"min_value": 1,
 						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "bpm",
+						"type": "INTEGER",
+						"description": "BPM of a song is more than or equal to, or equal to if bpm_max is not provided",
+						"required": false
+					},
+					{
+						"name": "bpm_max",
+						"type": "INTEGER",
+						"description": "BPM of a song is less than or equal to, or same as bpm if not provided",
 						"required": false
 					}
 				]

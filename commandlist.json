@@ -217,19 +217,49 @@
 					{
 						"name": "easy",
 						"type": "INTEGER",
-						"description": "Level of song on Easy/かんたん difficulty",
+						"description": "Level of song is >= on Easy/かんたん difficulty or equal to if easy_max is not provided",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "easy_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on Easy/かんたん difficulty or same as easy if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					},
 					{
 						"name": "normal",
 						"type": "INTEGER",
-						"description": "Level of song on Normal/ふつう difficulty",
+						"description": "Level of song is >= on Normal/ふつう difficulty or equal to if normal_max is not provided",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "normal_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on Normal/ふつう difficulty or same as normal if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					},
 					{
 						"name": "level",
 						"type": "INTEGER",
-						"description": "Level of song on any difficulty",
+						"description": "Level of song is >= on any difficulty or equal to if level_max is not provided",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "level_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on any difficulty or same as level if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					},
 					{
@@ -333,18 +363,48 @@
 						"name": "簡單",
 						"type": "INTEGER",
 						"description": "等級（簡單難度）",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "easy_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on Easy/かんたん difficulty or same as easy if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					},
 					{
 						"name": "普通",
 						"type": "INTEGER",
 						"description": "等級（普通難度）",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "normal_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on Normal/ふつう difficulty or same as normal if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					},
 					{
 						"name": "等級",
 						"type": "INTEGER",
 						"description": "等級（任何難度）",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "level_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on any difficulty or same as level if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					},
 					{
@@ -531,19 +591,49 @@
 					{
 						"name": "easy",
 						"type": "INTEGER",
-						"description": "Level of song on Easy/かんたん difficulty",
+						"description": "Level of song is >= on Easy/かんたん difficulty or equal to if easy_max is not provided",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "easy_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on Easy/かんたん difficulty or same as easy if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					},
 					{
 						"name": "normal",
 						"type": "INTEGER",
-						"description": "Level of song on Normal/ふつう difficulty",
+						"description": "Level of song is >= on Normal/ふつう difficulty or equal to if normal_max is not provided",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "normal_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on Normal/ふつう difficulty or same as normal if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					},
 					{
 						"name": "level",
 						"type": "INTEGER",
-						"description": "Level of song on any difficulty",
+						"description": "Level of song is >= on any difficulty or equal to if level_max is not provided",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "level_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on any difficulty or same as level if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					}
 				]
@@ -641,18 +731,48 @@
 						"name": "簡單",
 						"type": "INTEGER",
 						"description": "等級（簡單難度）",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "easy_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on Easy/かんたん difficulty or same as easy if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					},
 					{
 						"name": "普通",
 						"type": "INTEGER",
 						"description": "等級（普通難度）",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "normal_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on Normal/ふつう difficulty or same as normal if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					},
 					{
 						"name": "等級",
 						"type": "INTEGER",
 						"description": "等級（任何難度）",
+						"min_value": 1,
+						"max_value": 10,
+						"required": false
+					},
+					{
+						"name": "level_max",
+						"type": "INTEGER",
+						"description": "Level of song is <= on any difficulty or same as level if not provided",
+						"min_value": 1,
+						"max_value": 10,
 						"required": false
 					}
 				]

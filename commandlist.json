@@ -372,49 +372,49 @@
 						]
 					},
 					{
-						"name": "等級（簡單）",
+						"name": "等級_簡單",
 						"type": "INTEGER",
-						"description": "簡單難度的等級。如果有設定「等級上限（簡單）」，則此選項視為等級下限。",
+						"description": "簡單難度的等級。如果有設定「等級上限_簡單」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級上限（簡單）",
+						"name": "等級上限_簡單",
 						"type": "INTEGER",
-						"description": "簡單難度的等級上限。如果沒有設定，則視為與「等級（簡單）」的數值相同。",
+						"description": "簡單難度的等級上限。如果沒有設定，則視為與「等級_簡單」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級（普通）",
+						"name": "等級_普通",
 						"type": "INTEGER",
-						"description": "普通難度的等級。如果有設定「等級上限（普通）」，則此選項視為等級下限。",
+						"description": "普通難度的等級。如果有設定「等級上限_普通」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級上限（普通）",
+						"name": "等級上限_普通",
 						"type": "INTEGER",
-						"description": "普通難度的等級上限。如果沒有設定，則視為與「等級（普通）」的數值相同。",
+						"description": "普通難度的等級上限。如果沒有設定，則視為與「等級_普通」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級（任何）",
+						"name": "等級_任何",
 						"type": "INTEGER",
-						"description": "任何難度的等級。如果有設定「等級上限（任何）」，則此選項視為等級下限。",
+						"description": "任何難度的等級。如果有設定「等級上限_任何」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級上限（任何）",
+						"name": "等級上限_任何",
 						"type": "INTEGER",
-						"description": "任何難度的等級上限。如果沒有設定，則視為與「等級（任何）」的數值相同。",
+						"description": "任何難度的等級上限。如果沒有設定，則視為與「等級_任何」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
@@ -764,49 +764,49 @@
 						]
 					},
 					{
-						"name": "等級（簡單）",
+						"name": "等級_簡單",
 						"type": "INTEGER",
-						"description": "簡單難度的等級。如果有設定「等級上限（簡單）」，則此選項視為等級下限。",
+						"description": "簡單難度的等級。如果有設定「等級上限_簡單」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級上限（簡單）",
+						"name": "等級上限_簡單",
 						"type": "INTEGER",
-						"description": "簡單難度的等級上限。如果沒有設定，則視為與「等級（簡單）」的數值相同。",
+						"description": "簡單難度的等級上限。如果沒有設定，則視為與「等級_簡單」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級（普通）",
+						"name": "等級_普通",
 						"type": "INTEGER",
-						"description": "普通難度的等級。如果有設定「等級上限（普通）」，則此選項視為等級下限。",
+						"description": "普通難度的等級。如果有設定「等級上限_普通」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級上限（普通）",
+						"name": "等級上限_普通",
 						"type": "INTEGER",
-						"description": "普通難度的等級上限。如果沒有設定，則視為與「等級（普通）」的數值相同。",
+						"description": "普通難度的等級上限。如果沒有設定，則視為與「等級_普通」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級（任何）",
+						"name": "等級_任何",
 						"type": "INTEGER",
-						"description": "任何難度的等級。如果有設定「等級上限（任何）」，則此選項視為等級下限。",
+						"description": "任何難度的等級。如果有設定「等級上限_任何」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級上限（任何）",
+						"name": "等級上限_任何",
 						"type": "INTEGER",
-						"description": "任何難度的等級上限。如果沒有設定，則視為與「等級（任何）」的數值相同。",
+						"description": "任何難度的等級上限。如果沒有設定，則視為與「等級_任何」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false

@@ -372,49 +372,49 @@
 						]
 					},
 					{
-						"name": "簡單",
+						"name": "等級（簡單）",
 						"type": "INTEGER",
-						"description": "等級（簡單難度）",
+						"description": "簡單難度的等級。如果有設定「等級上限（簡單）」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "easy_max",
+						"name": "等級上限（簡單）",
 						"type": "INTEGER",
-						"description": "Level of song is <= on Easy/かんたん difficulty or same as easy if not provided",
+						"description": "簡單難度的等級上限。如果沒有設定，則視為與「等級（簡單）」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "普通",
+						"name": "等級（普通）",
 						"type": "INTEGER",
-						"description": "等級（普通難度）",
+						"description": "普通難度的等級。如果有設定「等級上限（普通）」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "normal_max",
+						"name": "等級上限（普通）",
 						"type": "INTEGER",
-						"description": "Level of song is <= on Normal/ふつう difficulty or same as normal if not provided",
+						"description": "普通難度的等級上限。如果沒有設定，則視為與「等級（普通）」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級",
+						"name": "等級（任何）",
 						"type": "INTEGER",
-						"description": "等級（任何難度）",
+						"description": "任何難度的等級。如果有設定「等級上限（任何）」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "level_max",
+						"name": "等級上限（任何）",
 						"type": "INTEGER",
-						"description": "Level of song is <= on any difficulty or same as level if not provided",
+						"description": "任何難度的等級上限。如果沒有設定，則視為與「等級（任何）」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
@@ -422,13 +422,13 @@
 					{
 						"name": "bpm",
 						"type": "INTEGER",
-						"description": "BPM of a song is more than or equal to, or equal to if bpm_max is not provided",
+						"description": "BPM的等級。如果有設定「bpm上限」，則此選項視為等級下限。",
 						"required": false
 					},
 					{
-						"name": "bpm_max",
+						"name": "bpm上限",
 						"type": "INTEGER",
-						"description": "BPM of a song is less than or equal to, or same as bpm if not provided",
+						"description": "BPM的等級上限。如果沒有設定，則視為與「bpm」的數值相同。",
 						"required": false
 					},
 					{
@@ -764,49 +764,49 @@
 						]
 					},
 					{
-						"name": "簡單",
+						"name": "等級（簡單）",
 						"type": "INTEGER",
-						"description": "等級（簡單難度）",
+						"description": "簡單難度的等級。如果有設定「等級上限（簡單）」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "easy_max",
+						"name": "等級上限（簡單）",
 						"type": "INTEGER",
-						"description": "Level of song is <= on Easy/かんたん difficulty or same as easy if not provided",
+						"description": "簡單難度的等級上限。如果沒有設定，則視為與「等級（簡單）」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "普通",
+						"name": "等級（普通）",
 						"type": "INTEGER",
-						"description": "等級（普通難度）",
+						"description": "普通難度的等級。如果有設定「等級上限（普通）」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "normal_max",
+						"name": "等級上限（普通）",
 						"type": "INTEGER",
-						"description": "Level of song is <= on Normal/ふつう difficulty or same as normal if not provided",
+						"description": "普通難度的等級上限。如果沒有設定，則視為與「等級（普通）」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "等級",
+						"name": "等級（任何）",
 						"type": "INTEGER",
-						"description": "等級（任何難度）",
+						"description": "任何難度的等級。如果有設定「等級上限（任何）」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
 					},
 					{
-						"name": "level_max",
+						"name": "等級上限（任何）",
 						"type": "INTEGER",
-						"description": "Level of song is <= on any difficulty or same as level if not provided",
+						"description": "任何難度的等級上限。如果沒有設定，則視為與「等級（任何）」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
 						"required": false
@@ -814,13 +814,13 @@
 					{
 						"name": "bpm",
 						"type": "INTEGER",
-						"description": "BPM of a song is more than or equal to, or equal to if bpm_max is not provided",
+						"description": "BPM的等級。如果有設定「bpm上限」，則此選項視為等級下限。",
 						"required": false
 					},
 					{
-						"name": "bpm_max",
+						"name": "bpm上限",
 						"type": "INTEGER",
-						"description": "BPM of a song is less than or equal to, or same as bpm if not provided",
+						"description": "BPM的等級上限。如果沒有設定，則視為與「bpm」的數值相同。",
 						"required": false
 					}
 				]

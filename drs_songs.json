@@ -6714,9 +6714,8 @@
 		"bpm": 123,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
+		"stars": 60,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crystal Clear" ] }, 
 			"**DANCERUSH STARDOM GYM4**:\n**Metric** ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ Brand New Step" 
 		],
 		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
@@ -6735,14 +6734,8 @@
 		"bpm": 124,
 		"easy": 5,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Metric" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Metric" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Metric" ] } 
-		],
+		"stars": 60,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "WELCOME TO MY GAME" ] }, 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ **Crystal Clear** ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ Brand New Step" 
 		],
 		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
@@ -6761,14 +6754,8 @@
 		"bpm": 120,
 		"easy": 5,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Crystal Clear" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Crystal Clear" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Crystal Clear" ] } 
-		],
+		"stars": 60,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "melody H4CKER" ] }, 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ **WELCOME TO MY GAME** ⇒ melody H4CKER ⇒ Brand New Step" 
 		],
 		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
@@ -6788,14 +6775,8 @@
 		"bpm": 155,
 		"easy": 5,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "WELCOME TO MY GAME" ] }, 
-			{ "mission": "mission_Clear", "s": [ "WELCOME TO MY GAME" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "WELCOME TO MY GAME" ] } 
-		],
+		"stars": 60,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Brand New Step" ] }, 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ **melody H4CKER** ⇒ Brand New Step" 
 		],
 		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
@@ -6814,12 +6795,7 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "melody H4CKER" ] }, 
-			{ "mission": "mission_Clear", "s": [ "melody H4CKER" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "melody H4CKER" ] } 
-		],
+		"stars": 60,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ **Brand New Step**" 

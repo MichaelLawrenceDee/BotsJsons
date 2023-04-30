@@ -267,6 +267,7 @@
 			]},
 			{"region": "Nevada", "code": "NV", "locations": [
 				{"location":"Las Vegas", "roleId": "640230674355191845"},
+				{"location":"Red Note Las Vegas", "roleId": "1102261071072460820"},
 				{"location":"Reno", "roleId": "682057274356793344"}
 			]},
 			{"region": "New York", "code": "NY", "locations": [

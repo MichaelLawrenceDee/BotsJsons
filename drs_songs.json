@@ -8802,7 +8802,7 @@
 		"normal": 8,
 		"stars": 40,
 		"discount": [ 
-			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] }
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] },
 			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 90, "Prettiful!" ] }
 		],
@@ -8831,7 +8831,7 @@
 		"stars": 80,
 		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Anthurium" ] },
 		"discount": [ 
-			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] }
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] },
 			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 1 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 90, "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] }
 		],
@@ -8862,7 +8862,7 @@
 		"stars": 100,
 		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "PARTY ALL NIGHT(DJ KEN-BOW MIX)" ] },
 		"discount": [ 
-			{ "mission": "mission_ClearNSongs", "s": [ 3, "BEMANI" ] }
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "BEMANI" ] },
 			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 100, 1 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 90, "Warpstep" ] }
 		],

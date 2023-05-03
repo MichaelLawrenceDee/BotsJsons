@@ -2320,7 +2320,7 @@
 		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "DOWNER & UPPER" ] }, 
-			{ "mission": "mission_ScoreAny", "s": [ 3, 90 ] } 
+			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 3, 90 ] } 
 		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nNighthiker ⇒ Get On The Floor ⇒ **Luminous Pajama**" ] }, 
@@ -2347,7 +2347,7 @@
 		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Starlight Kiss" ] }, 
-			{ "mission": "mission_ComboNSongs", "genre": "genre", "s": [ 60, 3, "BEMANI " ] } 
+			{ "mission": "mission_ComboNSongs", "ing": "s", "genre": "genre", "s": [ 60, 3, "BEMANI " ] } 
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "SHINOBI" ] }, 
@@ -2376,7 +2376,7 @@
 		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 5, "GOOD", "True Blue (STARDOM Remix)" ] }, 
-			{ "mission": "mission_ComboNSongs", "genre": "genre", "s": [ 100, 3, "EDM " ] } 
+			{ "mission": "mission_ComboNSongs", "ing": "s", "genre": "genre", "s": [ 100, 3, "EDM " ] } 
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "MUTSUKI" ] }, 
@@ -2404,7 +2404,7 @@
 		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "Party Jumpin'" ] }, 
-			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 140, 3 ] } 
+			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 140, 3 ] } 
 		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\n朧 ⇒ SHINOBI ⇒ **MUTSUKI**" ] }, 
@@ -3263,9 +3263,10 @@
 			"**SPARK FESTIVAL**: **SUNSET DAY**\n**DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)** ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda", 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Bloody Bounce" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Jalebi" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Jalebi" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Jalebi" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "PARTY ALL NIGHT(DJ KEN-BOW MIX)" ] } 
 		],
-		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "Bloody Bounce" ],
+		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "Bloody Bounce", "PARTY ALL NIGHT(DJ KEN-BOW MIX)" ],
 		"easyurl": "kjUvaYWNeTg",
 		"normalurl": "EWROUlbFC0Y"
 	},
@@ -5779,7 +5780,7 @@
 			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "Flying Soda" ] } 
 		],
 		"discovery": [ 
-			{ "mission": "mission_ScoreAny", "noextra": "noExtra", "s": [ 10, 90 ] }, 
+			{ "mission": "mission_ScoreAny", "ing": "s", "noextra": "noExtra", "s": [ 10, 90 ] }, 
 			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "Polar Night" ] }, 
 			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "HoneyComb" ] } 
 		],
@@ -6174,7 +6175,7 @@
 		"stars": 200,
 		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "オネガイ・ディスコ・ミュージック" ] },
 		"discount": [ 
-			{ "mission": "mission_ScoreAny", "s": [ 5, 98 ] }, 
+			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 5, 98 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 97, "Dual Bladez" ] } 
 		],
 		"discovery": [ 
@@ -7512,7 +7513,7 @@
 		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "You You You" ] },
 		"discount": [ 
 			{ "mission": "mission_GetNSongs", "s": [ 20, "GOOD", 5, "EDM" ] }, 
-			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 60, 3 ] }, 
+			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 60, 3 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 90, "Pandora's Box" ] } 
 		],
 		"discovery": [ 
@@ -7572,7 +7573,7 @@
 		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Starlight Parade" ] },
 		"discount": [ 
 			{ "mission": "mission_ScoreTotal", "s": [ 3000 ] }, 
-			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 200, 5 ] }, 
+			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 200, 5 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 93, "Dive in Blue" ] } 
 		],
 		"discovery": [ 
@@ -7581,9 +7582,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ **Prettiful!**" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] } 			
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Anthurium" ] } 
 		],
-		"links": [ "Dive in Blue", "Crystarium", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!", "Make That Body" ],
+		"links": [ "Dive in Blue", "Crystarium", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!", "Make That Body", "Anthurium" ],
 		"easyurl": "H6biv3FmQpE&t=22s",
 		"normalurl": "iZNzUQQ-zKU&t=22s"
 	},
@@ -7769,7 +7771,7 @@
 		],
 		"discovery": [ 
 			{ "mission": "mission_NoteTotal", "s": [ 1700, "PERFECT" ] }, 
-			{ "mission": "mission_ScoreAny", "s": [ 10, 90 ] } 
+			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 10, 90 ] } 
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscount": "anddiscount", "ing": "ing", "s": [ "Go Down" ] }, 
@@ -8786,5 +8788,91 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "nDSCtBH9rwo&t=23s",
 		"normalurl": "c4RkuQcy4e8&t=23s"
+	},
+	{
+		"title": "Anthurium",
+		"artist": "BlackY feat. Risa Yuzuki",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Anthurium.png",
+		"remyurl": "Anthurium",
+		"bpm": 142,
+		"easy": 4,
+		"normal": 8,
+		"stars": 40,
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] }
+			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Prettiful!" ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 7 ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "PARTY ALL NIGHT(DJ KEN-BOW MIX)" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Anthurium** ⇒ PARTY ALL NIGHT(DJ KEN-BOW MIX) ⇒ Get On Da Floor ⇒ ???" ] }  
+		],
+		"links": [ "Prettiful!", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor" ],
+		"easyurl": "fSO93dn_BVY&t=23s",
+		"normalurl": "F5HUkOwFa00&t=23s"
+	},
+	{
+		"title": "PARTY ALL NIGHT(DJ KEN-BOW MIX)",
+		"artist": "HiBiKi",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "PARTY_ALL_NIGHT(DJ_KEN-BOW_MIX).png",
+		"remyurl": "PARTY_ALL_NIGHT(DJ_KEN-BOW_MIX)",
+		"bpm": 135,
+		"easy": 5,
+		"normal": 9,
+		"stars": 80,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Anthurium" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] }
+			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 1000 ] }, 
+			{ "mission": "mission_NoteTotal", "s": [ 2200, "PERFECT" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Get On Da Floor" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nAnthurium ⇒ **PARTY ALL NIGHT(DJ KEN-BOW MIX)** ⇒ Get On Da Floor ⇒ ???" ] } 
+		],
+		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor" ],
+		"easyurl": "okD4RPnrCS4&t=23s",
+		"normalurl": "Ant_wRHBh4g&t=23s"
+	},
+	{
+		"title": "Get On Da Floor",
+		"alias": [ "GODF" ],
+		"artist": "DJ Shimamura",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Get_On_Da_Floor.png",
+		"remyurl": "Get_On_Da_Floor",
+		"bpm": 140,
+		"easy": 6,
+		"normal": 9,
+		"stars": 100,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "PARTY ALL NIGHT(DJ KEN-BOW MIX)" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "BEMANI" ] }
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 100, 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Warpstep" ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 15, 80 ] }, 
+			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 3 ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nAnthurium ⇒ PARTY ALL NIGHT(DJ KEN-BOW MIX) ⇒ **Get On Da Floor** ⇒ ???" ] } 
+		],
+		"links": [ "Warpstep", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor" ]
 	}
 ]

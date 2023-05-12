@@ -23,8 +23,8 @@
 				{"location":"Norwood", "roleId": "1046078006696869888"}
 			]},
 			{"region": "Victoria", "code": "VIC", "locations": [
-				{"location":"Highpoint", "roleId": "683630120518680592"},
-				{"location":"Crown", "roleId": "683630083847749674"}
+				{"location":"Crown", "roleId": "683630083847749674"},
+				{"location":"Eastland", "roleId": "683630120518680592"}
 			]},
 			{"region": "Western Australia", "code": "WA", "locations": [
 				{"location":"Northbridge", "roleId": "683630205423976467"}

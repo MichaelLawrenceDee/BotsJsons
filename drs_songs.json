@@ -2532,9 +2532,10 @@
 			{ "note": "note_SeeAlso", "s": [ "Midnight Amaretto RUNNING MAN EDITION" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "RISING FIRE HAWK" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, 5 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 19, 2023, 1400 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 19, 2023, 1400 ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Yuni's Nocturnal Days" ] } 
 		],
-		"links": [ "DAWN OF FALCON", "RISING FIRE HAWK", "Midnight Amaretto", "Crystarium", "Midnight Amaretto RUNNING MAN EDITION" ],
+		"links": [ "DAWN OF FALCON", "RISING FIRE HAWK", "Midnight Amaretto", "Crystarium", "Midnight Amaretto RUNNING MAN EDITION", "Yuni's Nocturnal Days" ],
 		"easyurl": "UPm57f3jHe8",
 		"normalurl": "IdFVaL8RAiM"
 	},
@@ -6008,8 +6009,10 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "Sakura Reflection (STARDOM Remix)", 2 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_Random", "prev": "Previously" }
+			{ "note": "note_Random", "prev": "Previously" }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Yuni's Nocturnal Days" ] } 
 		],
+		"links": [ "Yuni's Nocturnal Days" ],
 		"easyurl": "Q8pOzIpy-8o",
 		"normalurl": "r2Pi8GJkzSM"
 	},
@@ -8812,9 +8815,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "PARTY ALL NIGHT(DJ KEN-BOW MIX)" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Anthurium** ⇒ PARTY ALL NIGHT(DJ KEN-BOW MIX) ⇒ Get On Da Floor ⇒ ???" ] }  
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Anthurium** ⇒ PARTY ALL NIGHT(DJ KEN-BOW MIX) ⇒ Get On Da Floor ⇒ Yuni's Nocturnal Days" ] }  
 		],
-		"links": [ "Prettiful!", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor" ],
+		"links": [ "Prettiful!", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor", "Yuni's Nocturnal Days" ],
 		"easyurl": "fSO93dn_BVY&t=23s",
 		"normalurl": "F5HUkOwFa00&t=23s"
 	},
@@ -8842,9 +8845,9 @@
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Get On Da Floor" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nAnthurium ⇒ **PARTY ALL NIGHT(DJ KEN-BOW MIX)** ⇒ Get On Da Floor ⇒ ???" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nAnthurium ⇒ **PARTY ALL NIGHT(DJ KEN-BOW MIX)** ⇒ Get On Da Floor ⇒ Yuni's Nocturnal Days" ] } 
 		],
-		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor" ],
+		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor", "Yuni's Nocturnal Days" ],
 		"easyurl": "okD4RPnrCS4&t=23s",
 		"normalurl": "Ant_wRHBh4g&t=23s"
 	},
@@ -8872,8 +8875,41 @@
 			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 3 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nAnthurium ⇒ PARTY ALL NIGHT(DJ KEN-BOW MIX) ⇒ **Get On Da Floor** ⇒ ???" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Yuni's Nocturnal Days" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nAnthurium ⇒ PARTY ALL NIGHT(DJ KEN-BOW MIX) ⇒ **Get On Da Floor** ⇒ Yuni's Nocturnal Days" ] } 
 		],
-		"links": [ "Warpstep", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor" ]
+		"links": [ "Warpstep", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor", "Yuni's Nocturnal Days" ],
+		"easyurl": "qGggsOxOo8I&t=23s",
+		"normalurl": "KANkpkgcWC8&t=23s"
+	},
+	{
+		"title": "Yuni's Nocturnal Days",
+		"artist": "かめりあ",
+		"artistalias": [ "Camellia" ],
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Yuni's_Nocturnal_Days.png",
+		"remyurl": "Yuni%27s_Nocturnal_Days",
+		"bpm": 153,
+		"easy": 6,
+		"normal": 9,
+		"stars": 200,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Get On Da Floor" ] },
+		"discount": [ 
+			{ "mission": "mission_NoteTotal", "s": [ 3000, "PERFECT" ] },
+			{ "mission": "mission_ScoreSong", "s": [ 95, "Sakura Reflection (STARDOM Remix)" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "Midnight Amaretto" ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_MaxComboTotal", "s": [ 2400 ] }, 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 3 ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nAnthurium ⇒ PARTY ALL NIGHT(DJ KEN-BOW MIX) ⇒ Get On Da Floor ⇒ **Yuni's Nocturnal Days**" ] } 
+		],
+		"links": [ "Sakura Reflection (STARDOM Remix)", "Midnight Amaretto", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor", "Yuni's Nocturnal Days" ],
+		"easyurl": "0NIrYSar9Lc&t=23s",
+		"normalurl": "kA_Q7E4GgVE&t=23s"
 	}
 ]

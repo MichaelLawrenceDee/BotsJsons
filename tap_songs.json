@@ -8546,7 +8546,7 @@
 					"last_update": "04 Apr 2021"
 				},
 				{
-					"lsd": "None (Used in GB if not confident in top meta delay)",
+					"lsd": "16 Perfects (Used in GB if not confident in top meta delay)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
@@ -16745,6 +16745,14 @@
 					"long": { "star": "Spacy", "leader": true },
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" }
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -27379,6 +27387,16 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Expert(GB)",
+					"hr": "  ''",
+					"hrlabel": [],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Aria", "costume": true, "skill": 8 },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -27958,6 +27976,14 @@
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Apollo", "leader": true },
 					"flick": { "star": "Rose" }
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -30912,7 +30938,10 @@
 			],
 			"normal": [
 				{
-					"tap": { "star": "Patra", "skill": 8 },
+					"hr": "1-2-1-X-2-1",
+					"hrlabel": [[6,1]],
+					"lsd": "GOOD while no x2 combo",
+					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" }
@@ -30953,13 +30982,18 @@
 			"normal": [
 				{
 					"label": "Normal/Alt",
-					"tap": { "star": "Carol", "costume": true },
+					"hr": "1-2-1-X-2-1",
+					"hrlabel": [[6,1]],
+					"lsd": "GOOD while no x2 combo",
+					"tap": { "star": "Patra", "skill": 8 },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" }
 				},
 				{
 					"label": "Normal(GB)",
+					"hr": "    ''",
+					"hrlabel": [],
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Django" },
 					"slide": { "star": "Horyeon", "costume": true },
@@ -33284,6 +33318,14 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
 			],
 			"normal": [
 				{

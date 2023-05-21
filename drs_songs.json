@@ -7611,9 +7611,6 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }, 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }
 		],
-		"discovery": [ 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }
-		],
 		"notes": [ 
 			{ "note": "note_Random", "prev": "Previously" }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] } 

@@ -33329,7 +33329,7 @@
 			],
 			"normal": [
 				{
-					"label": "Normal/Alt",
+					"label": "Normal(GB)",
 					"hr": "1-X-X",
 					"hrlabel": [[2,1],[4,1]],
 					"tap": { "star": "Patra" },

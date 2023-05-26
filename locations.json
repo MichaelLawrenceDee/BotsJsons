@@ -233,8 +233,7 @@
 			]},
 			{"region": "Illinois", "code": "IL", "locations": [
 				{"location":"Aurora", "roleId": "607481217587216384"},
-				{"location":"North Riverside", "roleId": "620103460775264266"},
-				{"location":"Northwoods Mall", "roleId": "823072715371708447"}
+				{"location":"North Riverside", "roleId": "620103460775264266"}
 			]},
 			{"region": "Kansas", "code": "KS", "locations": [
 				{"location":"Wichita", "roleId": "748209390854864917"}

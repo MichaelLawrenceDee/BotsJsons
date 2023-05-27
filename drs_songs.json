@@ -2588,7 +2588,7 @@
 			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Catch Our Fire! (STARDOM Remix)" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Catch Our Fire! (STARDOM Remix)" ] }, 
 			{ "note": "note_Removed", "MM": 1, "s": [ 7, 2022 ] }
 		],
 		"links": [ "Butterfly", "Catch Our Fire! (STARDOM Remix)" ],
@@ -2854,15 +2854,16 @@
 		"normal": 10,
 		"stars": 100,
 		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "DUB I DUB" ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "EGOISM 110" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
 			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "ランカーキラーガール (STARDOM Remix)" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "ランカーキラーガール (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 7, 2022, 5, "BAD", "DUB I DUB" ] } 
 		],
-		"links": [ "DUB I DUB", "DANCERUSH STARDOM ANTHEM", "ランカーキラーガール (STARDOM Remix)" ],
+		"links": [ "EGOISM 110", "DANCERUSH STARDOM ANTHEM", "ランカーキラーガール (STARDOM Remix)", "DUB I DUB" ],
 		"easyurl": "p7bl5a9UP3k",
 		"normalurl": "VIHfQnKImPc"
 	},
@@ -4611,9 +4612,10 @@
 		"stars": 100,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crazy For You" ] }, 
-			"\n**SUMMER DANCE CAMP 2020**:\nThis Beat Is..... ⇒ ALGORITHM ⇒ **EGOISM 110**" 
+			"\n**SUMMER DANCE CAMP 2020**:\nThis Beat Is..... ⇒ ALGORITHM ⇒ **EGOISM 110**", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Catch Our Fire! (STARDOM Remix)" ] } 
 		],
-		"links": [ "Crazy For You", "This Beat Is.....", "ALGORITHM", "EGOISM 110" ],
+		"links": [ "Crazy For You", "This Beat Is.....", "ALGORITHM", "EGOISM 110", "Catch Our Fire! (STARDOM Remix)" ],
 		"easyurl": "pxzfKNfXbPM",
 		"normalurl": "kCnIpKj_hWk"
 	},

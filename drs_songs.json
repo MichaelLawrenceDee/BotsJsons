@@ -961,9 +961,10 @@
 		"easyurl": "mLSHR7HegP4",
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "BREDLI RUNNING MAN EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "BREDLI RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Midland Mainline RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Forgetting Machine RUNNING MAN EDITION", "BREDLI RUNNING MAN EDITION" ]
+		"links": [ "Forgetting Machine RUNNING MAN EDITION", "BREDLI RUNNING MAN EDITION", "Midland Mainline RUNNING MAN EDITION" ]
 	},
 	{
 		"title": "Tステップレッスン応用編",
@@ -978,9 +979,10 @@
 		"easyurl": "liuE8ANMGPw",
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Bad Riddim T STEP EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "HighBALL T STEP EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "HighBALL T STEP EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Don't Be Afraid T STEP EDITION" ] } 
 		],
-		"links": [ "Bad Riddim T STEP EDITION", "HighBALL T STEP EDITION" ]
+		"links": [ "Bad Riddim T STEP EDITION", "HighBALL T STEP EDITION", "Don't Be Afraid T STEP EDITION" ]
 	},
 	{
 		"title": "ランニングマン＆Tステップレッスン複合編",
@@ -1034,7 +1036,8 @@
 		"easyurl": "N6flkf2cAXI",
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (ランニングマン合宿コース/Running man Course)" ] } 
 		]
 	},
 	{
@@ -1050,7 +1053,8 @@
 		"easyurl": "kSWPanaFGi0",
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (Tステップ合宿コース/T step Course)" ] } 
 		]
 	},
 	{
@@ -1083,9 +1087,10 @@
 		"easyurl": "oiQv-WMFop0",
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Wicked SPONGEBOB EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Wicked SPONGEBOB EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Penguin Morning SPONGEBOB EDITION" ] } 
 		],
-		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ]
+		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION", "Penguin Morning SPONGEBOB EDITION" ]
 	},
 	{
 		"title": "ステップバリエーション1",
@@ -1938,7 +1943,7 @@
 		"easy": 4,
 		"normal": 8,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Broadway Walk" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Broadway Walk" ] } 
 		],
 		"links": [ "Broadway Walk" ],
 		"easyurl": "hcfSVq8Z4cU",
@@ -2807,9 +2812,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Roughneck Disco" ] }, 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ **Midland Mainline** ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] } 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ **Midland Mainline** ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "Midland Mainline RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
+		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep", "Midland Mainline RUNNING MAN EDITION" ],
 		"easyurl": "0GnLNwE5hhI",
 		"normalurl": "nRHrhVIr4Fo"
 	},
@@ -3214,7 +3220,7 @@
 		"normal": 8,
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "HighBALL" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Broadway Walk" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Broadway Walk" ] }, 
 			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ Deep Vibes ⇒ HighBALL ⇒ **Majestic** ⇒ Dual Bladez", 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } , 
 			{ "note": "note_SeeAlso", "s": [ "Majestic CRAB STEP EDITION" ] }, 
@@ -3286,7 +3292,7 @@
 		"normal": 7,
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Nocturnus" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Nocturnus" ] }, 
 			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ **Jalebi** ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda", 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Mandrake" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Mandrake" ] } 
@@ -3517,9 +3523,10 @@
 		],
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM**:\nBad Riddim ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ Forgetting Machine ⇒ Hastur ⇒ **Don't Be Afraid**", 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "A Legend Is Born" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "A Legend Is Born" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "Don't Be Afraid T STEP EDITION" ] } 
 		],
-		"links": [ "Bad Riddim", "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine", "Hastur", "Don't Be Afraid", "A Legend Is Born" ],
+		"links": [ "Bad Riddim", "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine", "Hastur", "Don't Be Afraid", "A Legend Is Born", "Don't Be Afraid T STEP EDITION" ],
 		"easyurl": "dNng8VGhn7M",
 		"normalurl": "U9yNlx6JGcA"
 	},
@@ -4517,7 +4524,7 @@
 		"easy": 5,
 		"normal": 7,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Nocturnus" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Nocturnus" ] } 
 		],
 		"links": [ "Nocturnus" ],
 		"easyurl": "SBRF_akH3dc",
@@ -4649,20 +4656,18 @@
 		"bpm": 108,
 		"easy": 4,
 		"normal": 8,
-		"stars": 100,
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_GetNAnySong", "s": [ 10, "BAD", 3 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 90, "Auto Click" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Jalebi" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "さよならトリップ" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Broadway Walk" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Heat Up The Dancefloor" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Nocturnus** ⇒ Broadway Walk ⇒ Heat Up The Dancefloor" ] }  
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Broadway Walk" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Heat Up The Dancefloor" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Nocturnus** ⇒ Broadway Walk ⇒ Heat Up The Dancefloor" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 31, 2023, 3, "EDM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "B", 31, 2023, 80, "Jalebi" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "noextra": "noExtra", "origlength": 3, "s": [ "C", 31, 2023, 80, "さよならトリップ" ] } 
 		],
 		"links": [ "Auto Click", "Jalebi", "さよならトリップ", "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor" ],
 		"easyurl": "YXeH46u_VjA",
@@ -4681,21 +4686,18 @@
 		"bpm": 117,
 		"easy": 6,
 		"normal": 8,
-		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Nocturnus" ] },
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_GetNSongs", "s": [ 10, "GOOD", 3, "EDM" ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 95, "アルストロメリア (walk with you remix)" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 23, "BAD", "C'mon baby" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Majestic" ] }, 
-			{ "mission": "mission_NoteTotal", "s": [ 2000, "PERFECT" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Heat Up The Dancefloor" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Heat Up The Dancefloor" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nNocturnus ⇒ **Broadway Walk** ⇒ Heat Up The Dancefloor" ] }, 
-			{ "note": "note_SeeAlso", "s": [ "Broadway Walk CHARLESTON EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Broadway Walk CHARLESTON EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 31, 2023, 23, "BAD", "C'mon baby" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "B", 31, 2023, 85, "Majestic" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 4, "noextra": "noExtra", "origlength": 3, "s": [ "C", 31, 2023, 2000, "PERFECT" ] } 
 		],
 		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "アルストロメリア (walk with you remix)", "C'mon baby", "Majestic", "Broadway Walk CHARLESTON EDITION" ],
 		"easyurl": "5kwB3WW9YRY",
@@ -4714,20 +4716,17 @@
 		"bpm": 132,
 		"easy": 7,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Broadway Walk" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_GetNSongs", "s": [ 5, "BAD", 5, "GOOD", 3, "BEMANI" ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 98, "エコ爺" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreTotal", "s": [ 2018 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Nocturnus" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Broadway Walk" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Next Stage 2022" ] },
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nNocturnus ⇒ Broadway Walk ⇒ **Heat Up The Dancefloor**" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nNocturnus ⇒ Broadway Walk ⇒ **Heat Up The Dancefloor**" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 31, 2023, 2018 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "B", 31, 2023, 90, "Nocturnus" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "noextra": "noExtra", "origlength": 3, "s": [ "C", 31, 2023, 90, "Broadway Walk" ] } 
 		],
 		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "エコ爺", "Next Stage 2022" ],
 		"easyurl": "JBPckMJj68Y",
@@ -5106,6 +5105,10 @@
 		"easy": 6,
 		"normal": 9,
 		"stars": 150,
+		"notes": [ 
+			{ "note": "note_SeeAlso", "s": [ "Bounce To This SPONGEBOB EDITION" ] } 
+		],
+		"links": [ "Bounce To This SPONGEBOB EDITION" ],
 		"easyurl": "TNWWI5xx87Y",
 		"normalurl": "apV5bce7RfA"
 	},
@@ -5292,9 +5295,10 @@
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNAnySong2,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ 10, "BAD", 20, "GOOD", 5, 2000 ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "I Like to BOUNCE" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "I Like to BOUNCE" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Light of Love" ] } 
 		],
-		"links": [ "I Like to BOUNCE" ],
+		"links": [ "I Like to BOUNCE", "Light of Love" ],
 		"easyurl": "aXck9xIqeDE",
 		"normalurl": "ROGdfxR6WX8"
 	},
@@ -5493,9 +5497,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "neu (STARDOM Remix)" ] }, 
-			"**DANCERUSH STARDOM GYM3**:\nDEVILFISHMANのテーマ ⇒ Synth Presets & Sample Loops ⇒ Shuffle The Cards ⇒ **Penguin Morning** ⇒ neu (STARDOM Remix)" 
+			"**DANCERUSH STARDOM GYM3**:\nDEVILFISHMANのテーマ ⇒ Synth Presets & Sample Loops ⇒ Shuffle The Cards ⇒ **Penguin Morning** ⇒ neu (STARDOM Remix)", 
+			{ "note": "note_SeeAlso", "s": [ "Penguin Morning SPONGEBOB EDITION" ] } 
 		],
-		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)" ],
+		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)", "Penguin Morning SPONGEBOB EDITION" ],
 		"easyurl": "JyqU4lKT5cI",
 		"normalurl": "qnnfwVVlMto"
 	},
@@ -7133,9 +7138,10 @@
 			{ "mission": "mission_Unlock", "s": [ "↑↑↓↓←→←→BA" ] } 
 		],
 		"notes": [ 
-			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\n**Trash** ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)" 
+			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\n**Trash** ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)", 
+			{ "note": "note_SeeAlso", "s": [ "Trash RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
+		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)", "Trash RUNNING MAN EDITION" ],
 		"easyurl": "5EHmF3RpNKE&t=22s",
 		"normalurl": "8npbmxxxQ3s&t=21s"
 	},
@@ -7206,9 +7212,10 @@
 			{ "mission": "mission_Unlock", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] } 
 		],
 		"notes": [ 
-			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ **You Take My Soul** ⇒ The GameHacker (Sampled Crazy Shuffle)" 
+			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ **You Take My Soul** ⇒ The GameHacker (Sampled Crazy Shuffle)", 
+			{ "note": "note_SeeAlso", "s": [ "You Take My Soul T STEP EDITION" ] } 
 		],
-		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
+		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)", "You Take My Soul T STEP EDITION" ],
 		"easyurl": "MJ72ohFQMh0&t=22s",
 		"normalurl": "CQ93v_r8tp8&t=22s"
 	},
@@ -8909,5 +8916,187 @@
 		"links": [ "Sakura Reflection (STARDOM Remix)", "Midnight Amaretto", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor", "Yuni's Nocturnal Days" ],
 		"easyurl": "0NIrYSar9Lc&t=23s",
 		"normalurl": "kA_Q7E4GgVE&t=23s"
+	},
+	{
+		"title": "Midland Mainline RUNNING MAN EDITION",
+		"alias": [ "Mainland China", "中土主線", "Midland Mainline RUNNINGMAN EDITION", "Midland Mainline RM EDITION", "Midland Mainline RUNNING MAN version", "Midland Mainline RUNNINGMAN version", "Midland Mainline RM version" ],
+		"artist": "Genick",
+		"category": "spring2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS",
+		"thumbnail": "_.png",
+		"remyurl": "Midland_Mainline",
+		"bpm": 140,
+		"easy": 6,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "ランニングマンレッスン応用編" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 160 ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Midland Mainline RUNNING MAN EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Trash RUNNING MAN EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (ランニングマン合宿コース/Running man Course)**:\n**Midland Mainline RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Trash RUNNING MAN EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "Midland Mainline" ] } 
+		],
+		"links": [ "ランニングマンレッスン応用編", "Midland Mainline RUNNING MAN EDITION", "Trash RUNNING MAN EDITION", "Midland Mainline" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "Trash RUNNING MAN EDITION",
+		"alias": [ "Trash RUNNINGMAN EDITION", "Trash RM EDITION", "Trash RUNNING MAN version", "Trash RUNNINGMAN version", "Trash RM version" ],
+		"artist": "Candy House",
+		"category": "spring2023",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "_.png",
+		"remyurl": "Trash_(Candy_House)",
+		"bpm": 140,
+		"easy": 6,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "Midland Mainline RUNNING MAN EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Trash RUNNING MAN EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (ランニングマン合宿コース/Running man Course)**:\nMidland Mainline RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Trash RUNNING MAN EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "Trash" ] } 
+		],
+		"links": [ "Midland Mainline RUNNING MAN EDITION", "Trash RUNNING MAN EDITION", "Trash" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "Don't Be Afraid T STEP EDITION",
+		"alias": [ "Music is my Suicide", "Dont Be Afraid", "Don't Be Afraid T-step EDITION", "Don't Be Afraid T STEP version", "Don't Be Afraid T-step version" ],
+		"artist": "MK",
+		"category": "spring2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": "_.png",
+		"remyurl": "Don%27t_Be_Afraid",
+		"bpm": 128,
+		"easy": 5,
+		"normal": 7,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "Tステップレッスン応用編" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 160 ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Don't Be Afraid T STEP EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "You Take My Soul T STEP EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (Tステップ合宿コース/T step Course)**:\n**Don't Be Afraid T STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ You Take My Soul T STEP EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "Don't Be Afraid" ] }
+		],
+		"links": [ "Tステップレッスン応用編", "Don't Be Afraid T STEP EDITION", "You Take My Soul T STEP EDITION", "Don't Be Afraid" ],
+		"easyurl": "TbFhJJ6Ltx0",
+		"normalurl": "BFgTO9yOjoM&t=23s"
+	},
+	{
+		"title": "You Take My Soul T STEP EDITION",
+		"alias": [ "You Take My Soul T-step EDITION", "You Take My Soul T STEP version", "You Take My Soul T-step version" ],
+		"artist": "BEMANI Sound Team \"SYUNN\"",
+		"artistalias": [ "BST SYUNN" ],
+		"category": "spring2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "_.png",
+		"remyurl": "You_Take_My_Soul",
+		"bpm": 122,
+		"easy": 6,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "Don't Be Afraid T STEP EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "You Take My Soul T STEP EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (Tステップ合宿コース/T step Course)**:\nDon't Be Afraid T STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **You Take My Soul T STEP EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "You Take My Soul" ] } 
+		],
+		"links": [ "Don't Be Afraid T STEP EDITION", "You Take My Soul T STEP EDITION", "You Take My Soul" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "Penguin Morning SPONGEBOB EDITION",
+		"alias": [ "企鵝的早晨", "Penguin Morning SPONGEBOB version" ],
+		"artist": "nora2r",
+		"category": "spring2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "TROP",
+		"thumbnail": "_.png",
+		"remyurl": "Penguin_Morning",
+		"bpm": 110,
+		"easy": 6,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "スポンジボブレッスン" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 160 ] }  
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Penguin Morning SPONGEBOB EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Bounce To This SPONGEBOB EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (スポンジボブ合宿コース/SpongeBob Course)**:\n**Penguin Morning SPONGEBOB EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Bounce To This SPONGEBOB EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "Penguin Morning" ] }
+		],
+		"links": [ "スポンジボブレッスン", "Penguin Morning SPONGEBOB EDITION", "Bounce To This SPONGEBOB EDITION", "Penguin Morning" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "Bounce To This SPONGEBOB EDITION",
+		"alias": [ "反彈", "Bounce To This SPONGEBOB version" ],
+		"artist": "android52",
+		"category": "spring2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS, Otias ENT Produced",
+		"thumbnail": "_.png",
+		"remyurl": "Bounce_To_This",
+		"bpm": 128,
+		"easy": 7,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "Penguin Morning SPONGEBOB EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Bounce To This SPONGEBOB EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (スポンジボブ合宿コース/SpongeBob Course)**:\nPenguin Morning SPONGEBOB EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Bounce To This SPONGEBOB EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "Bounce To This" ] } 
+		],
+		"links": [ "Penguin Morning SPONGEBOB EDITION", "Bounce To This SPONGEBOB EDITION", "Bounce To This" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "Light of Love",
+		"artist": "kors k",
+		"category": "spring2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER, Otias ENT Produced",
+		"thumbnail": "_.png",
+		"remyurl": "Light_of_Love",
+		"easy": 6,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 20, "BAD", 15 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 85, "about right" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Light of Love" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses" 
+		],
+		"links": [ "about right" ],
+		"easyurl": false,
+		"normalurl": false
 	}
 ]

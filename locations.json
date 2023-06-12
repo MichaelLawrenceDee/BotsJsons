@@ -56,8 +56,32 @@
 		"country": "Indonesia",
 		"code": "ID",
 		"flag": "🇮🇩",
-		"roleId": "678808795648098304",
-		"regions": []
+		"regionname": "province",
+		"regions": [
+			{"region": "Depok", "code": "Depok", "locations": [
+				{"location":"Timezone @ MargoCity", "roleId": "1117782744903188600"}
+			]},
+			{"region": "Medan", "code": "Sumut", "locations": [
+				{"location":"Amazing @ Centre Point Medan", "roleId": "1117783574607843459"}
+			]},
+			{"region": "North Jakarta", "code": "DKI North", "locations": [
+				{"location":"Amazone @ Mall Artha Gading", "roleId": "1117783595487080520"}
+			]},
+			{"region": "Surabaya", "code": "Jatim", "locations": [
+				{"location":"Timezone @ Galaxy Mall 3", "roleId": "1117783602114080818"}
+			]},
+			{"region": "South Jakarta", "code": "DKI South", "locations": [
+				{"location":"Timezone @ Lippo Mall Kemang", "roleId": "1117783607927373926"},
+				{"location":"Timezone @ Senayan Park", "roleId": "1117783612721467392"}
+			]},
+			{"region": "West Bandung", "code": "Jabar West", "locations": [
+				{"location":"Gamemaster @ Ciwalk", "roleId": "1117783617905635338"}
+			]},
+			{"region": "West Jakarta", "code": "DKI West", "locations": [
+				{"location":"Element @ Lippo Mall Puri", "roleId": "1117783622557122590"},
+				{"location":"Timezone @ Lippo Mall Puri", "roleId": "1117783626285858847"}
+			]}
+		]
 	},
 	{
 		"country": "Japan",
@@ -268,6 +292,7 @@
 			]},
 			{"region": "Nevada", "code": "NV", "locations": [
 				{"location":"Las Vegas", "roleId": "640230674355191845"},
+				{"location":"Game Nest Las Vegas", "roleId": "1117785419522781254"},
 				{"location":"Red Note Las Vegas", "roleId": "1102261071072460820"},
 				{"location":"Reno", "roleId": "682057274356793344"}
 			]},

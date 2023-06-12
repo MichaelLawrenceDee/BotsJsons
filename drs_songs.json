@@ -307,7 +307,8 @@
 		"easyurl": "DO1lSthh2Dk&t=10s",
 		"normalurl": "6KERfVRtHPQ",
 		"notes": [ 
-			{ "note": "note_Regional", "loc": "South Korea" }
+			{ "note": "note_Regional", "loc": "South Korea" }, 
+			{ "note": "note_Removed", "MM": 5, "s": [ 12, 2023 ] } 
 		]
 	},
 	{
@@ -6147,7 +6148,8 @@
 		"easy": 4,
 		"normal": 8,
 		"notes": [ 
-			{ "note": "note_Regional", "loc": "South Korea" }
+			{ "note": "note_Regional", "loc": "South Korea" }, 
+			{ "note": "note_Removed", "MM": 5, "s": [ 12, 2023 ] } 
 		],
 		"easyurl": "WX5o0vdXOwY&t=7s",
 		"normalurl": "OgsArEkN0r4"
@@ -6165,7 +6167,8 @@
 		"easy": 5,
 		"normal": 8,
 		"notes": [ 
-			{ "note": "note_Regional", "loc": "South Korea" }
+			{ "note": "note_Regional", "loc": "South Korea" }, 
+			{ "note": "note_Removed", "MM": 5, "s": [ 12, 2023 ] } 
 		],
 		"easyurl": "MytJmRliAoU&t=10s",
 		"normalurl": "CORQbILsY0Y"
@@ -6567,7 +6570,8 @@
 		"easy": 5,
 		"normal": 8,
 		"notes": [ 
-			{ "note": "note_Regional", "loc": "South Korea" }
+			{ "note": "note_Regional", "loc": "South Korea" }, 
+			{ "note": "note_Removed", "MM": 5, "s": [ 12, 2023 ] } 
 		],
 		"easyurl": "nBa2h35Uyhk&t=10s",
 		"normalurl": "985803761077354536/Bboom_Normal.mp4"
@@ -6586,7 +6590,8 @@
 		"easyurl": "khTYx7gCKXw&t=9s",
 		"normalurl": "4P5sCmTxfTs&t=9s",
 		"notes": [ 
-			{ "note": "note_Regional", "loc": "South Korea" }
+			{ "note": "note_Regional", "loc": "South Korea" }, 
+			{ "note": "note_Removed", "MM": 5, "s": [ 12, 2023 ] } 
 		]
 	},
 	{
@@ -6604,7 +6609,8 @@
 		"easyurl": "3Yfa0ngY9oU&t=9s",
 		"normalurl": "02BJ48D4-F0&t=9s",
 		"notes": [ 
-			{ "note": "note_Regional", "loc": "South Korea" }
+			{ "note": "note_Regional", "loc": "South Korea" }, 
+			{ "note": "note_Removed", "MM": 5, "s": [ 12, 2023 ] } 
 		]
 	},
 	{
@@ -7666,7 +7672,7 @@
 		"bpm": 126,
 		"easy": 6,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "sOYlXL13wec&t=22s",
 		"normalurl": "ORBGP2rsYc0&t=22s"
 	},
@@ -8546,7 +8552,7 @@
 		"bpm": 132,
 		"easy": 6,
 		"normal": 8,
-		"unlock": { "mission": "mission_Stamp" },
+		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
 		"easyurl": "pjwf3dQTRE4&t=23s",
 		"normalurl": "paJPzrQ_dMg&t=23s"
 	},
@@ -8794,7 +8800,7 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 8,
-		"unlock": { "mission": "mission_Stamp" },
+		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
 		"easyurl": "nDSCtBH9rwo&t=23s",
 		"normalurl": "c4RkuQcy4e8&t=23s"
 	},

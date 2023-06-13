@@ -213,7 +213,24 @@
 		"code": "UK",
 		"flag": "🇬🇧",
 		"roleId": "678685923617144837",
-		"regions": []
+		"regionname": "town",
+		"regions": [
+			{"region": "Blackpool", "code": "BLK", "locations": [
+				{"location":"Arcade Club Blackpool", "roleId": "1118189185451438200"}
+			]},
+			{"region": "Bradford", "code": "BRF", "locations": [
+				{"location":"Flashback Bradford", "roleId": "1118189933740437544"}
+			]},
+			{"region": "Bury", "code": "BUR", "locations": [
+				{"location":"Arcade Club Bury", "roleId": "1118189940619096125"}
+			]},
+			{"region": "Leeds", "code": "LBA", "locations": [
+				{"location":"Arcade Club Leeds", "roleId": "1118189944544968704"}
+			]},
+			{"region": "London", "code": "LON", "locations": [
+				{"location":"FreePlayCity", "roleId": "1118189947736817805"}
+			]}
+		]
 	},
 	{
 		"country": "USA",

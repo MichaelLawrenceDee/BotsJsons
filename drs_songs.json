@@ -8947,8 +8947,8 @@
 			{ "note": "note_SeeAlso", "s": [ "Midland Mainline" ] } 
 		],
 		"links": [ "ランニングマンレッスン応用編", "Midland Mainline RUNNING MAN EDITION", "Trash RUNNING MAN EDITION", "Midland Mainline" ],
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "NU14ccWQrPg&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=1&t=23s",
+		"normalurl": "km0wRzMOSnA&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=2&t=23s"
 	},
 	{
 		"title": "Trash RUNNING MAN EDITION",
@@ -8972,8 +8972,8 @@
 			{ "note": "note_SeeAlso", "s": [ "Trash" ] } 
 		],
 		"links": [ "Midland Mainline RUNNING MAN EDITION", "Trash RUNNING MAN EDITION", "Trash" ],
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "oLJ_HqxXt7s&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=3&t=23s",
+		"normalurl": "sc1neEO5bV8&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=4&t=23s"
 	},
 	{
 		"title": "Don't Be Afraid T STEP EDITION",
@@ -8999,8 +8999,8 @@
 			{ "note": "note_SeeAlso", "s": [ "Don't Be Afraid" ] }
 		],
 		"links": [ "Tステップレッスン応用編", "Don't Be Afraid T STEP EDITION", "You Take My Soul T STEP EDITION", "Don't Be Afraid" ],
-		"easyurl": "TbFhJJ6Ltx0",
-		"normalurl": "BFgTO9yOjoM&t=23s"
+		"easyurl": "s3vPPmyx73E&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=5&t=23s",
+		"normalurl": "m3YgWJ78PRg&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=6&t=23s"
 	},
 	{
 		"title": "You Take My Soul T STEP EDITION",
@@ -9026,8 +9026,8 @@
 			{ "note": "note_SeeAlso", "s": [ "You Take My Soul" ] } 
 		],
 		"links": [ "Don't Be Afraid T STEP EDITION", "You Take My Soul T STEP EDITION", "You Take My Soul" ],
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "YF4whMSXXHk&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=7&t=23s",
+		"normalurl": "_gFKxeVXoN4&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=8&t=23s"
 	},
 	{
 		"title": "Penguin Morning SPONGEBOB EDITION",
@@ -9053,8 +9053,8 @@
 			{ "note": "note_SeeAlso", "s": [ "Penguin Morning" ] }
 		],
 		"links": [ "スポンジボブレッスン", "Penguin Morning SPONGEBOB EDITION", "Bounce To This SPONGEBOB EDITION", "Penguin Morning" ],
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "PV2QjajA5Rk&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=9&t=23s",
+		"normalurl": "xNvLtNAafbU&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=10&t=23s"
 	},
 	{
 		"title": "Bounce To This SPONGEBOB EDITION",
@@ -9079,8 +9079,8 @@
 			{ "note": "note_SeeAlso", "s": [ "Bounce To This" ] } 
 		],
 		"links": [ "Penguin Morning SPONGEBOB EDITION", "Bounce To This SPONGEBOB EDITION", "Bounce To This" ],
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "FW1qD_PRnkY&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=11&t=23s",
+		"normalurl": "8cntRm-p0sg&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=12&t=23s"
 	},
 	{
 		"title": "Light of Love",
@@ -9091,6 +9091,7 @@
 		"label": "SUPER THUNDER, Otias ENT Produced",
 		"thumbnail": "_.png",
 		"remyurl": "Light_of_Love",
+		"bpm": 128,
 		"easy": 6,
 		"normal": 8,
 		"mission": [ 
@@ -9102,7 +9103,7 @@
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses" 
 		],
 		"links": [ "about right" ],
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "rWJSZOYHPvM&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=13&t=23s",
+		"normalurl": "9_Kudpqr8xg&list=PLbnpkzyfs8PlyiMAjdY3KLhWlx-H9LAqT&index=14&t=23s"
 	}
 ]

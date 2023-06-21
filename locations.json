@@ -148,9 +148,6 @@
 		"flag": "🇸🇬",
 		"regionname": "district",
 		"regions": [
-			{"region": "Ang Mo Kio", "code": "AMK", "locations": [
-				{"location":"Timezone @ AMK Hub", "roleId": "1121075045477916752"}
-			]},
 			{"region": "Esplanade", "code": "EZ", "locations": [
 				{"location":"Cow Play Cow Moo Flagship Store", "roleId": "1121075129942814751"}
 			]},

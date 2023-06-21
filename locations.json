@@ -146,8 +146,24 @@
 		"country": "Singapore",
 		"code": "SG",
 		"flag": "🇸🇬",
-		"roleId": "570532743168000031",
-		"regions": []
+		"regionname": "district",
+		"regions": [
+			{"region": "Ang Mo Kio", "code": "AMK", "locations": [
+				{"location":"Timezone @ AMK Hub", "roleId": "1121075045477916752"}
+			]},
+			{"region": "Esplanade", "code": "EZ", "locations": [
+				{"location":"Cow Play Cow Moo Flagship Store", "roleId": "1121075129942814751"}
+			]},
+			{"region": "Jurong East", "code": "JE", "locations": [
+				{"location":"Timezone Flagship Store @ Westgate", "roleId": "1121075132912373771"}
+			]},
+			{"region": "Pasir Ris", "code": "PR", "locations": [
+				{"location":"Cow Play Cow Moo @ Downtown East", "roleId": "1121075135479283863"}
+			]},
+			{"region": "Serangoon", "code": "SR", "locations": [
+				{"location":"VIRTUALAND @ Nex", "roleId": "1121075137362538607"}
+			]}
+		]
 	},
 	{
 		"country": "Spain",

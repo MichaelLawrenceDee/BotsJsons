@@ -4432,9 +4432,10 @@
 		"easyurl": "N4CV3wfQ-mw",
 		"normalurl": "iXZf3NrV1YY",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Insomniac Nights" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Insomniac Nights" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rejoin" ] } 
 		],
-		"links": [ "Insomniac Nights" ]
+		"links": [ "Insomniac Nights", "Rejoin" ]
 	},
 	{
 		"title": "Butterfly Twist",
@@ -7707,7 +7708,10 @@
 			{ "mission": "mission_ClearAnySong", "s": [ 10 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 95, "Triple Cross" ] } 
 		],
-		"links": [ "Triple Cross" ],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "SUPER SUMMER SALE" ] } 
+		],
+		"links": [ "Triple Cross", "SUPER SUMMER SALE" ],
 		"easyurl": "RXQOIVy-txw&t=22s",
 		"normalurl": "915TzxeXpuM&t=22s"
 	},
@@ -9105,5 +9109,47 @@
 		"links": [ "about right" ],
 		"easyurl": "rWJSZOYHPvM&t=23s",
 		"normalurl": "9_Kudpqr8xg&t=23s"
+	},
+	{
+		"title": "Rejoin",
+		"artist": "BEMANI Sound Team \"HuΣeR feat.PON\"",
+		"artistalias": [ "BST Humer" ],
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Rejoin.png",
+		"remyurl": "Rejoin",
+		"bpm": 135,
+		"easy": 5,
+		"normal": 8,
+		"stars": 100,
+		"discount": [ 
+			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 5 ] },
+			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 80, 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "ATRAX" ] }
+		],
+		"links": [ "ATRAX" ],
+		"easyurl": "grwlO11Y2YI&t=23s",
+		"normalurl": "B4HfazFM9Mk&t=23s"
+	},
+	{
+		"title": "SUPER SUMMER SALE",
+		"artist": "BEMANI Sound Team \"U1 overground\"",
+		"artistalias": [ "BST U1 overground" ],
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "SUPER_SUMMER_SALE.png",
+		"remyurl": "SUPER_SUMMER_SALE",
+		"bpm": 155,
+		"easy": 7,
+		"normal": 8,
+		"stars": 100,
+		"discount": [ 
+			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 5 ] },
+			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 80, 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "MOVE! (We Keep It Movin')" ] }
+		],
+		"links": [ "MOVE! (We Keep It Movin')" ],
+		"easyurl": "fWr9M7KAeno&t=23s",
+		"normalurl": "MYf6HdRgOeQ&t=23s"
 	}
 ]

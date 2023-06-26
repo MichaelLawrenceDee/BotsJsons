@@ -17393,7 +17393,7 @@
 			"expert": [
 				{
 					"label": "Expert/Alt",
-					"lsd": "None (Possible GB meta using Rose (L))",
+					"lsd": "None (Also used in GB using Rose (L))",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": false },
@@ -32949,7 +32949,7 @@
 				{
 					"hr": "1-X",
 					"hrlabel": [[2,1]],
-					"lsd": "Unknown delay",
+					"lsd": "GOOD until Rose skill activates, Perfect until x2 combo.",
 					"tap": { "star": "Patra", "skill": 8 },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },

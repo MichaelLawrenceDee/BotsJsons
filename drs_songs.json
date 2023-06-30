@@ -1299,7 +1299,7 @@
 		"easyurl": "FoT9ttuY6pk",
 		"normalurl": "vhbg7zukEiQ",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] }
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] }
 		],
 		"links": [ "Thank You Merry Christmas -DANCERUSH Mix-" ]
 	},
@@ -1353,7 +1353,7 @@
 			{ "name": "EXS", "url": "F6fTM0TeBsQ" }
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Be My Baby" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Be My Baby" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] } 
 		],
 		"links": [ "Be My Baby" ],
@@ -1712,8 +1712,8 @@
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "DOWNER & UPPER" ] }, 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Oppress" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Saturday Night Love -Phunk Disco Mix-" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Love 2 Shuffle" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "S7AGE" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Love 2 Shuffle" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "S7AGE" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Be My Baby" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Don't Stop!! RUNNING MAN EDITION" ] }
 		],
@@ -1803,7 +1803,7 @@
 		"normal": 5,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Small Steps" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Shuffle cats" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Shuffle cats" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] }
 		],
@@ -1825,9 +1825,10 @@
 		"normal": 7,
 		"notes": [ 
 			{ "note": "note_SeeAlso", "s": [ "NewAige CHARLESTON EDITION" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "GHOST KINGDOM" ] },
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
 		],
-		"links": [ "NewAige CHARLESTON EDITION" ],
+		"links": [ "GHOST KINGDOM", "NewAige CHARLESTON EDITION" ],
 		"easyurl": "JO0rkha_Qh4",
 		"normalurl": "cfbM81cK2lo"
 	},
@@ -1845,7 +1846,7 @@
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Unlock", "mis": "Discount", "origlength": 0, "s": [ "Don't Stop!!" ] }, 
 			{ "note": "note_OldMission", "mission": "mission_Unlock", "mis": "Discount", "origlength": 0, "s": [ "Gimme a Big Beat" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Sunshine let me find a way" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Bad Riddim T STEP EDITION" ] } 
 		],
@@ -1887,7 +1888,7 @@
 		"normal": 7,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Nightlife" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Be My Baby" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Be My Baby" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] } 
 		],
 		"links": [ "Nightlife", "Be My Baby" ],
@@ -2086,11 +2087,6 @@
 		"bpm": 118,
 		"easy": 4,
 		"normal": 8,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "NewAige" ] }, 
-			{ "mission": "mission_GetNSongs", "s": [ 5, "BAD", 3, "BEMANI" ] }
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Shuffle cats" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**GHOST KINGDOM** ⇒ Shuffle cats ⇒ S7AGE" ] }, 
@@ -2099,7 +2095,9 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 5, "origlength": 3, "s": [ "C", 5, 2021, 90, "Sweets (Soda Pop)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 2, "noextra": "noExtra", "origlength": 3, "s": [ "A", 23, 2022, 2000 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 90, "最小三倍完全数 (DANCERUSH Style)" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 90, "凛として咲く花の如く" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 90, "凛として咲く花の如く" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "NewAige" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5, "BAD", 3, "BEMANI" ] } 
 		],
 		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "NewAige", "GHOST KINGDOM CHARLESTON EDITION", "Graveyard", "Sweets (Soda Pop)", "最小三倍完全数 (DANCERUSH Style)", "凛として咲く花の如く" ],
 		"easyurl": "qvWtZXZsBAA",
@@ -2118,18 +2116,15 @@
 		"bpm": 110,
 		"easy": 4,
 		"normal": 7,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Robot Loves Smoked-Salmon" ] }, 
-			{ "mission": "mission_GetNSongs", "s": [ 5, "BAD", 3, "EDM" ] }
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "S7AGE" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nGHOST KINGDOM ⇒ **Shuffle cats** ⇒ S7AGE" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 10, 2021, 90, "Spacecats" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 2, "noextra": "noExtra", "origlength": 3, "s": [ "A", 23, 2022, 2000 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 90, "GHOST KINGDOM" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 90, "Afterimage d'automne" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 90, "Afterimage d'automne" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "Robot Loves Smoked-Salmon" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5, "BAD", 3, "EDM" ] } 
 		],
 		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "Robot Loves Smoked-Salmon", "Spacecats", "Afterimage d'automne" ],
 		"easyurl": "S8hJAbEgG08",
@@ -2147,16 +2142,13 @@
 		"bpm": 132,
 		"easy": 4,
 		"normal": 8,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Don't Stop!!" ] }, 
-			{ "mission": "mission_GetNSongs", "s": [ 5, "GOOD", 3, "POPS" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nGHOST KINGDOM ⇒ Shuffle cats ⇒ **S7AGE**" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 2, "noextra": "noExtra", "origlength": 3, "s": [ "A", 23, 2022, 2500 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ClearLesson", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 7 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 777, "PERFECT" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 777, "PERFECT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "Don't Stop!!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5, "GOOD", 3, "POPS" ] } 
 		],
 		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "Don't Stop!!" ],
 		"easyurl": "WOTcVxU0pHc",
@@ -2174,11 +2166,6 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 6,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Saturday Night Love" ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Saturday Night Love -Phunk Disco Mix-" ] }  
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Be My Baby" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Crystarium" ] }, 
@@ -2186,7 +2173,9 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 10, 2021, 90, "Without You" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 20, 2022, 90, "アルストロメリア (walk with you remix)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 20, 2022, 90, "Nightlife" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 3, "noextra": "noExtra", "origlength": 3, "s": [ "C", 20, 2022, 1225 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 3, "noextra": "noExtra", "origlength": 3, "s": [ "C", 20, 2022, 1225 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 5, "BAD", "Saturday Night Love" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5, "BAD", "Saturday Night Love -Phunk Disco Mix-" ] } 
 		],
 		"links": [ "Thank You Merry Christmas -DANCERUSH Mix-", "Be My Baby", "Crystarium", "Saturday Night Love", "Saturday Night Love -Phunk Disco Mix-", "アルストロメリア (walk with you remix)", "Nightlife", "Without You" ],
 		"easyurl": "Ty8FJ5L1xPE",
@@ -2204,18 +2193,15 @@
 		"bpm": 126,
 		"easy": 4,
 		"normal": 8,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_FCSong", "s": [ "Special One" ] }, 
-			{ "mission": "mission_FCSong", "s": [ "As I go" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Crystarium" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nThank You Merry Christmas -DANCERUSH Mix- ⇒ **Be My Baby** ⇒ Crystarium" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 5, "origlength": 3, "s": [ "B", 5, 2021, 90, "Let's Go" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "mis": "Discovery", "MM": 3, "noextra": "noExtra", "origlength": 3, "s": [ "A", 20, 2022, 5, "BAD", 10 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 20, 2022, 90, "True Blue (STARDOM Remix)" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 20, 2022, 90, "Don't Stop!!" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 20, 2022, 90, "Don't Stop!!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_FCSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "Special One" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_FCSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, "As I go" ] } 
 		],
 		"links": [ "Thank You Merry Christmas -DANCERUSH Mix-", "Be My Baby", "Crystarium", "Special One", "As I go", "True Blue (STARDOM Remix)", "Don't Stop!!", "Let's Go" ],
 		"easyurl": "kBlHzCfHX7g",
@@ -2234,17 +2220,14 @@
 		"bpm": 130,
 		"easy": 5,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_FCAnySongs", "diff": "Normal", "s": [ 3 ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "Midnight Amaretto" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nThank You Merry Christmas -DANCERUSH Mix- ⇒ Be My Baby ⇒ **Crystarium**" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_FCNSongs", "mis": "Discovery", "MM": 3, "noextra": "noExtra", "origlength": 3, "s": [ "A", 20, 2022, 15, "EDM" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 20, 2022, 90, "Thank You Merry Christmas -DANCERUSH Mix-" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 20, 2022, 90, "Be My Baby" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Prettiful!" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Prettiful!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_FCAnySongs", "mis": "Discount", "diff": "Normal", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 3 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 3, "BAD", "Midnight Amaretto" ] } 
 		],
 		"links": [ "Thank You Merry Christmas -DANCERUSH Mix-", "Be My Baby", "Crystarium", "Midnight Amaretto", "Prettiful!" ],
 		"easyurl": "-ECX8mGq9LU",
@@ -2463,8 +2446,8 @@
 		"normal": 10,
 		"notes": [ 
 			{ "note": "note_PrevUnlockBy", "mission": "mission_Unlock", "origlength": 0, "withstars": "withStars", "ing": "ing", "s": [ "Impress" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "THE SAFARI (STARDOM Remix)" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Shiva" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "THE SAFARI (STARDOM Remix)" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Shiva" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Garuda" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\n**FLOWER (STARDOM Remix)** ⇒ THE SAFARI (STARDOM Remix) ⇒ BEYOND THE EARTH (STARDOM Remix) ⇒ 灼熱Beach Side Bunny (STARDOM Remix)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "extra": "inExtra", "MM": 3, "origlength": 3, "s": [ "A,B,C", 19, 2023, "FLOWER (STARDOM Remix)" ] } 
@@ -2533,7 +2516,7 @@
 		"easy": 7,
 		"normal": 9,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crystarium" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Crystarium" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nDAWN OF FALCON ⇒ RISING FIRE HAWK ⇒ **Midnight Amaretto**" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Midnight Amaretto RUNNING MAN EDITION" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "RISING FIRE HAWK" ] }, 
@@ -2559,16 +2542,13 @@
 		"bpm": 134,
 		"easy": 7,
 		"normal": 10,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "FLOWER (STARDOM Remix)" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "BEYOND THE EARTH (STARDOM Remix)" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nFLOWER (STARDOM Remix) ⇒ **THE SAFARI (STARDOM Remix)** ⇒ BEYOND THE EARTH (STARDOM Remix) ⇒ 灼熱Beach Side Bunny (STARDOM Remix)" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "HARD MODE" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "HARD MODE" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "FLOWER (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 1400 ] } 
 		],
 		"links": [ "FLOWER (STARDOM Remix)", "THE SAFARI (STARDOM Remix)", "BEYOND THE EARTH (STARDOM Remix)", "灼熱Beach Side Bunny (STARDOM Remix)", "HARD MODE" ],
 		"easyurl": "LeX2NGpGMTE",
@@ -2859,16 +2839,13 @@
 		"bpm": 140,
 		"easy": 4,
 		"normal": 10,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "EGOISM 110" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "ランカーキラーガール (STARDOM Remix)" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 7, 2022, 5, "BAD", "DUB I DUB" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 7, 2022, 5, "BAD", "DUB I DUB" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 5, "BAD", "EGOISM 110" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 2000 ] } 
 		],
 		"links": [ "EGOISM 110", "DANCERUSH STARDOM ANTHEM", "ランカーキラーガール (STARDOM Remix)", "DUB I DUB" ],
 		"easyurl": "p7bl5a9UP3k",
@@ -2888,15 +2865,12 @@
 		"bpm": 133,
 		"easy": 7,
 		"normal": 10,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Don't Stop!!" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "new heaven" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "new heaven" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 5, "BAD", "Don't Stop!!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 2000 ] } 
 		],
 		"links": [ "Don't Stop!!", "DANCERUSH STARDOM ANTHEM", "new heaven" ],
 		"easyurl": "RD8PKCfwJNs",
@@ -2915,14 +2889,11 @@
 		"bpm": 150,
 		"easy": 7,
 		"normal": 10,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "FLOWER (STARDOM Remix)" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 5, "BAD", "FLOWER (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 2000 ] } 
 		],
 		"links": [ "FLOWER (STARDOM Remix)", "DANCERUSH STARDOM ANTHEM" ],
 		"easyurl": "43o21aJDQXU",
@@ -3000,7 +2971,6 @@
 		"bpm": 126,
 		"easy": 5,
 		"normal": 8,
-		"stars": 150,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The Second Summer" ] }
 		],
@@ -3020,7 +2990,6 @@
 		"bpm": 138,
 		"easy": 5,
 		"normal": 7,
-		"stars": 150,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "MUTSUKI" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] }, 
@@ -3042,7 +3011,6 @@
 		"bpm": 130,
 		"easy": 5,
 		"normal": 7,
-		"stars": 150,
 		"easyurl": "y6sOXqn2n08",
 		"normalurl": "-NsvqcWUJs4"
 	},
@@ -3407,12 +3375,11 @@
 		"bpm": 105,
 		"easy": 4,
 		"normal": 7,
-		"stars": 40,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX-" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX-" ] }, 
 			"**DANCERUSH STARDOM GYM**:\n**Bad Riddim** ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ Forgetting Machine ⇒ Hastur ⇒ Don't Be Afraid", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } , 
-			{ "note": "note_SeeAlso", "s": [ "Bad Riddim T STEP EDITION" ] }
+			{ "note": "note_SeeAlso", "s": [ "Bad Riddim T STEP EDITION" ] } 
 		],
 		"links": [ "Bad Riddim", "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine", "Hastur", "Don't Be Afraid", "Bad Riddim T STEP EDITION" ],
 		"easyurl": "ZH5Xv0iWCQU",
@@ -3431,17 +3398,14 @@
 		"bpm": 135,
 		"easy": 4,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Bad Riddim" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Bad Riddim" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Bad Riddim" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Forgetting Machine" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Forgetting Machine" ] }, 
 			"**DANCERUSH STARDOM GYM**:\nBad Riddim ⇒ **Second Heaven -Samba,Samba,SomeBody MIX-** ⇒ Forgetting Machine ⇒ Hastur ⇒ Don't Be Afraid", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Midnight Amaretto RUNNING MAN EDITION" ] }, 
-			{ "note": "note_SeeAlso", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION" ] }
+			{ "note": "note_SeeAlso", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "Bad Riddim" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, "Bad Riddim" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 95, "Bad Riddim" ] } 
 		],
 		"links": [ "Bad Riddim", "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine", "Hastur", "Don't Be Afraid", "Midnight Amaretto RUNNING MAN EDITION", "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION" ],
 		"easyurl": "rdfsfN1w5K4",
@@ -3460,18 +3424,15 @@
 		"bpm": 174,
 		"easy": 4,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX-" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Second Heaven -Samba,Samba,SomeBody MIX-" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Second Heaven -Samba,Samba,SomeBody MIX-" ] } 
-		],
 		"notes": [
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Hastur" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Hastur" ] }, 
 			"**DANCERUSH STARDOM GYM**:\nBad Riddim ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ **Forgetting Machine** ⇒ Hastur ⇒ Don't Be Afraid", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] },
-			{ "note": "note_MissionFor", "mis": "DiscountDiscovery", "s": [ "Forgetting Machine (RoughSketch Remix)" ] } 
+			{ "note": "note_MissionFor", "mis": "DiscountDiscovery", "s": [ "Forgetting Machine (RoughSketch Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "Second Heaven -Samba,Samba,SomeBody MIX-" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, "Second Heaven -Samba,Samba,SomeBody MIX-" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 95, "Second Heaven -Samba,Samba,SomeBody MIX-" ] } 
 		],
 		"links": [ "Bad Riddim", "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine", "Hastur", "Don't Be Afraid", "Forgetting Machine RUNNING MAN EDITION", "Forgetting Machine (RoughSketch Remix)" ],
 		"easyurl": "9i6jh39x3UY",
@@ -3488,16 +3449,13 @@
 		"bpm": 118,
 		"easy": 7,
 		"normal": 10,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Forgetting Machine" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Forgetting Machine" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Forgetting Machine" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Don't Be Afraid" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Don't Be Afraid" ] }, 
 			"**DANCERUSH STARDOM GYM**:\nBad Riddim ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ Forgetting Machine ⇒ **Hastur** ⇒ Don't Be Afraid", 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "DOWNER & UPPER T STEP EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "DOWNER & UPPER T STEP EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "Forgetting Machine" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, "Forgetting Machine" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 95, "Forgetting Machine" ] } 
 		],
 		"links": [ "Bad Riddim", "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine", "Hastur", "Don't Be Afraid", "DOWNER & UPPER T STEP EDITION" ],
 		"easyurl": "wJUrwrg7Fko",
@@ -3516,16 +3474,13 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Hastur" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Hastur" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Hastur" ] } 
-		],
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM**:\nBad Riddim ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ Forgetting Machine ⇒ Hastur ⇒ **Don't Be Afraid**", 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "A Legend Is Born" ] }, 
-			{ "note": "note_SeeAlso", "s": [ "Don't Be Afraid T STEP EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Don't Be Afraid T STEP EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "Hastur" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, "Hastur" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 95, "Hastur" ] } 
 		],
 		"links": [ "Bad Riddim", "Second Heaven -Samba,Samba,SomeBody MIX-", "Forgetting Machine", "Hastur", "Don't Be Afraid", "A Legend Is Born", "Don't Be Afraid T STEP EDITION" ],
 		"easyurl": "dNng8VGhn7M",
@@ -4622,7 +4577,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crazy For You" ] }, 
 			"\n**SUMMER DANCE CAMP 2020**:\nThis Beat Is..... ⇒ ALGORITHM ⇒ **EGOISM 110**", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Catch Our Fire! (STARDOM Remix)" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Catch Our Fire! (STARDOM Remix)" ] } 
 		],
 		"links": [ "Crazy For You", "This Beat Is.....", "ALGORITHM", "EGOISM 110", "Catch Our Fire! (STARDOM Remix)" ],
 		"easyurl": "pxzfKNfXbPM",

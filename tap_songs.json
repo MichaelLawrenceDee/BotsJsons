@@ -2348,10 +2348,9 @@
 				},
 				{
 					"label": "Expert(GB)",
-					"lsd": "Check Luci 9",
 					"hr": "3-2-1-31-3-2-1-3-31",
 					"hrlabel": [[17,2]],
-					"tap": { "star": "Lucifer" },
+					"tap": { "star": "Lucifer", "skill": 9 },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Titana" },
 					"flick": { "star": "Rose", "leader": true }
@@ -18897,6 +18896,15 @@
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Rose" },
 					"last_update": "???"
+				},
+				{
+					"label": "Expert(GB)",
+					"lsd": "None (SU Horyeon 10 > SU Horyeon 9 when using enhanced Rose)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -19204,25 +19212,18 @@
 			"hard": [
 				{
 					"label": "Hard/Alt",
+					"lsd": "None (Also used in GB using Rose (L) if no Raphael)",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Django" },
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "31 Jul 2022"
-				},
-				{
-					"label": "Hard(GB)",
-					"tap": { "star": "Carol", "costume": true },
-					"long": { "star": "Django" },
-					"slide": { "star": "Horyeon", "costume": true },
-					"flick": { "star": "Rose", "leader": true },
-					"last_update": "???"
 				}
 			],
 			"expert": [
 				{
 					"label": "Expert/Alt",
-					"lsd": "None (HT Senah > Slasher | Possible GB meta using Rose (L))",
+					"lsd": "None (HT Senah > Slasher | Also used in GB using Aresmus (L))",
 					"tap": { "star": "Carol", "costume": true },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
@@ -30223,6 +30224,14 @@
 					"slide": { "star": "Horyeon", "costume": true },
 					"flick": { "star": "HT Senah" },
 					"last_update": "01 May 2022"
+				},
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"hard": [
@@ -31547,6 +31556,16 @@
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Ava", "leader": true },
 					"flick": { "star": "Rose" },
+					"last_update": "???"
+				},
+				{
+					"label": "Normal(GB)",
+					"hr": "   ''",
+					"hrlabel": [],
+					"tap": { "star": "Lucifer" },
+					"long": { "star": "Dr. Trasher" },
+					"slide": { "star": "Titana" },
+					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
 				}
 			],

@@ -9106,5 +9106,20 @@
 		"links": [ "MOVE! (We Keep It Movin')" ],
 		"easyurl": "fWr9M7KAeno&t=23s",
 		"normalurl": "MYf6HdRgOeQ&t=23s"
+	},
+	{
+		"title": "Watch Out Pt.2",
+		"artist": "DJ Mass MAD Izm* VS.DJ Yoshitaka",
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Watch_Out_Pt.2.png",
+		"remyurl": "Watch_Out_Pt.2",
+		"bpm": 148,
+		"easy": 4,
+		"normal": 9,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "mHaX-OUA_0U&t=23s",
+		"normalurl": "TzPR6DRdJog&t=23s"
 	}
 ]

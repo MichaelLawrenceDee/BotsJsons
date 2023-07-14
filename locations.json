@@ -350,6 +350,7 @@
 			{"region": "Texas", "code": "TX", "locations": [
 				{"location":"Arlington", "roleId": "572437181864476703"},
 				{"location":"Grapevine", "roleId": "569682829324058656"},
+				{"location":"Okashi Houston", "roleId": "1129275932172103742"},
 				{"location":"San Antonio", "roleId": "1082700225887617054"}
 			]},
 			{"region": "Utah", "code": "UT", "locations": [

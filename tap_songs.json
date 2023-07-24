@@ -2535,6 +2535,7 @@
 			],
 			"normal": [
 				{
+					"lsd": "Perfect while no x2 combo",
 					"tap": { "star": "Patra" },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Asura", "costume": true, "leader": true },
@@ -17193,6 +17194,23 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "After 1st LS, GOOD while no x2, Perfect with x2, adjust to trigger LS at the Vibrato",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"lsd": "None (Use if not confident in delay)",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Valentine", "leader": true },
+					"slide": { "star": "Paris Upton", "costume": true, "skill": 9 },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
 				}
 			],
 			"normal": [
@@ -23503,6 +23521,14 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Normal(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"hard": [
@@ -23820,8 +23846,8 @@
 				},
 				{
 					"lsd": " ",
-					"tap": { "star": "", "costume": true },
-					"long": { "star": "", "costume": true },
+					"tap": { "star": "" },
+					"long": { "star": "" },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
 					"flick": { "star": "" }
 				}
@@ -28998,11 +29024,19 @@
 				{
 					"hr": "   ''",
 					"hrlabel": [],
-					"lsd": "None (Possible GB meta using Beatrice (L) | Nicol 10 > Nicol 9)",
+					"lsd": "None (Also used in GB using Beatrice (L) if no Dominiciel | Nicol 10 > Nicol 9)",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Expert(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			]
 		}

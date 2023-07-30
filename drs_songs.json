@@ -7075,6 +7075,7 @@
 		"folders": [ "POPS" ],
 		"thumbnail": "EZ_DO_DANCE.png",
 		"remyurl": "EZ_DO_DANCE",
+		"bpm": 148,
 		"easy": 3,
 		"normal": 7,
 		"easyurl": "uTrS9JQpqpU&t=10s",
@@ -9121,5 +9122,46 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "mHaX-OUA_0U&t=23s",
 		"normalurl": "TzPR6DRdJog&t=23s"
+	},
+	{
+		"title": "量子の海のリントヴルム (STARDOM Remix)",
+		"alias": [ "Ryoushi no umi no Lindwurm", "quantum sea Lindwurm" ],
+		"artist": "かめりあ",
+		"artistalias": [ "Camellia" ],
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"thumbnail": "Ryoushi_no_Lindwurm.jpg",
+		"remyurl": "Ryoushi_no_umi_no_Lindwurm_(STARDOM_Remix)",
+		"easy": 7,
+		"normal": 10,
+		"easyurl": "My9h-w1Mp3w&t=22s",
+		"normalurl": "WCQ2o-LGdHg&t=22s"
+	},
+	{
+		"title": "MEGALOVANIA",
+		"artist": "Toby Fox",
+		"record": "Yes",
+		"folders": [ "POPS", "Songs with MV" ],
+		"thumbnail": "MEGALOVANIA.png",
+		"remyurl": "MEGALOVANIA",
+		"bpm": 120,
+		"easy": 2,
+		"normal": 9,
+		"easyurl": "7zUI9qbRWJs&t=23s",
+		"normalurl": "F6wAknT45JY&t=13s"
+	},
+	{
+		"title": "Death by Glamour / 華麗なる死闘",
+		"alias": [ "Kareinaru shitou", "brilliant battle" ],
+		"artist": "Toby Fox",
+		"record": "Yes",
+		"folders": [ "POPS" ],
+		"thumbnail": "Death_by_Glamour_Kareinaru_shitou.png",
+		"remyurl": "Death_by_Glamour_/_Kareinaru_shitou",
+		"bpm": 148,
+		"easy": 4,
+		"normal": 9,
+		"easyurl": "Nqm82ku9p3w&t=16s",
+		"normalurl": "8-Y736OXyVg&t=14s"
 	}
 ]

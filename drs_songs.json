@@ -9147,8 +9147,8 @@
 		"bpm": 120,
 		"easy": 2,
 		"normal": 9,
-		"easyurl": "7zUI9qbRWJs&t=23s",
-		"normalurl": "F6wAknT45JY&t=13s"
+		"easyurl": "y8gBvPmdgV4&t=23s",
+		"normalurl": "Il2bo-ol-jI&t=23s"
 	},
 	{
 		"title": "Death by Glamour / 華麗なる死闘",
@@ -9161,7 +9161,54 @@
 		"bpm": 148,
 		"easy": 4,
 		"normal": 9,
-		"easyurl": "Nqm82ku9p3w&t=16s",
-		"normalurl": "8-Y736OXyVg&t=14s"
+		"easyurl": "abzv_6UN6pc&t=23s",
+		"normalurl": "j6BOxdf5QS4&t=23s"
+	},
+	{
+		"title": "insist",
+		"artist": "Tomoyuki Uchida feat.秋成",
+		"artistalias": [ "Akinari" ],
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Insist.png",
+		"remyurl": "Insist",
+		"bpm": 136,
+		"easy": 4,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Bring Me Back" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Bring Me Back" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ "**SPARK FESTIVAL 2023**:\n**insist** ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ ???" ],
+		"links": [ "insist", "Bring Me Back" ],
+		"easyurl": "zgCRcU7VBrY&t=44s",
+		"normalurl": "w_1iK3jhgQ0&t=44s"
+	},
+	{
+		"title": "Bring Me Back",
+		"artist": "9W3R7Y",
+		"artistalias": [ "qwerty_16180339" ],
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "TROP, Otias ENT Produced",
+		"thumbnail": "Bring_me_back_jacket.png",
+		"remyurl": "Bring_Me_Back",
+		"bpm": 132,
+		"easy": 4,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Caldwell 99" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Caldwell 99" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ **Bring Me Back** ⇒ Caldwell 99 ⇒ ???" ],
+		"links": [ "insist", "Bring Me Back" ],
+		"easyurl": "Rf7i_ilq8pg&t=44s",
+		"normalurl": "c-N_XOsmZ8w&t=44s"
 	}
 ]

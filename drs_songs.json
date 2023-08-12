@@ -9182,8 +9182,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Bring Me Back" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\n**insist** ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ ???" ],
-		"links": [ "insist", "Bring Me Back" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\n**insist** ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor" ],
 		"easyurl": "zgCRcU7VBrY&t=44s",
 		"normalurl": "w_1iK3jhgQ0&t=44s"
 	},
@@ -9206,9 +9206,88 @@
 			{ "mission": "mission_Unlock", "s": [ "Caldwell 99" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ **Bring Me Back** ⇒ Caldwell 99 ⇒ ???" ],
-		"links": [ "insist", "Bring Me Back" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ **Bring Me Back** ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor" ],
 		"easyurl": "Rf7i_ilq8pg&t=44s",
 		"normalurl": "c-N_XOsmZ8w&t=44s"
+	},
+	{
+		"title": "Caldwell 99",
+		"artist": "BlackY",
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "caldwell_99_jacket.png",
+		"remyurl": "Caldwell_99",
+		"easy": 6,
+		"normal": 9,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "So Fabulous !!" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "So Fabulous !!" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ **Caldwell 99** ⇒ So Fabulous !! ⇒ Basement Floor" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor" ],
+		"easyurl": "QNVm2mk1HJc&t=44s",
+		"normalurl": "Tm1j0VWNb30&t=44s"
+	},
+	{
+		"title": "So Fabulous !!",
+		"artist": "HHH (Ryu☆ & Dai)",
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "BEMANI", "Songs with MV" ],
+		"thumbnail": "So_fabulous_jacket.png",
+		"remyurl": "So_Fabulous_!!",
+		"bpm": 149,
+		"easy": 6,
+		"normal": 9,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Basement Floor" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Basement Floor" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ **So Fabulous !!** ⇒ Basement Floor" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor" ],
+		"easyurl": "LiKLpYFPkOQ&t=44s",
+		"normalurl": "xDlg8xck4JE&t=44s"
+	},
+	{
+		"title": "Basement Floor",
+		"artist": "BEMANI Sound Team \"ZAQUVA\"",
+		"artistalias": [ "BST" ],
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"thumbnail": "basement_floor_jacket.png",
+		"remyurl": "Basement_Floor",
+		"bpm": 124,
+		"easy": 7,
+		"normal": 9,
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ **Basement Floor**" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor" ],
+		"easyurl": "6m1P2axFkgc&t=44s",
+		"normalurl": "ikBPB2KXJvY&t=44s"
+	},
+	{
+		"title": "パーフェクトイーター (STARDOM Remix)",
+		"alias": [ "Pafekutoita", "Perfect Eater" ],
+		"artist": "BEMANI Sound Team \"KE!JU\"",
+		"artistalias": [ "BST KEIJU" ],
+		"category": "extra",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI", "Songs with MV" ],
+		"label": "FIVE PIECE RECORDS",
+		"thumbnail": "Perfect_eater_jacket.png",
+		"remyurl": "Perfect_eater_(STARDOM_Remix)",
+		"bpm": 128,
+		"easy": 6,
+		"normal": 10,
+		"unlock": { "mission": "mission_KAC", "s": [ "11th", "https://p.eagate.573.jp/game/kac/kac11/entry/select.html" ] },
+		"easyurl": false,
+		"normalurl": "ikBPB2KXJvY&t=44s"
 	}
 ]

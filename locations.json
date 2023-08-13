@@ -89,7 +89,20 @@
 		"code": "JP",
 		"flag": "🇯🇵",
 		"roleId": "573901962165092375",
-		"regions": []
+		"regionname": "area",
+		"regions": [
+			{"region": "関東 (Kanto)", "locations": [
+				{"location":"ラウンドワン池袋店 (ROUND1 Ikebukuro)", "alias": "東京都 (Tokyo)", "roleId": "1140111481237672066"}
+			]},
+			{"region": "中部 (Chubu)", "locations": [
+				{"location":"アピナ松本 (Apina Matsumoto)", "alias": "長野県 (Nagano)", "roleId": "1140107976238174248"},
+				{"location":"タイトーステーションフェドラ大須店 (Taito Station Phoedra Osu)", "alias": "愛知県 (Aichi/Nagoya)", "roleId": "1140116666097877127"},
+				{"location":"キングジョイ (King Joy)", "alias": "愛知県 (Aichi/Nagoya)", "roleId": "1140115548190023691"}
+			]},
+			{"region": "近畿 (Kansai)", "locations": [
+				{"location":"ラウンドワン千日前店 (ROUND1 STADIUM Sennichimae)", "alias": "大阪府 (Osaka)", "roleId": "1140113459623763978"}
+			]}
+		]
 	},
 	{
 		"country": "Korea",

@@ -99,7 +99,7 @@
 				{"location":"タイトーステーションフェドラ大須店 (Taito Station Phoedra Osu)", "alias": "愛知県 (Aichi/Nagoya)", "roleId": "1140116666097877127"},
 				{"location":"キングジョイ (King Joy)", "alias": "愛知県 (Aichi/Nagoya)", "roleId": "1140115548190023691"}
 			]},
-			{"region": "近畿 (Kansai)", "locations": [
+			{"region": "近畿 (Kinki)", "locations": [
 				{"location":"ラウンドワン千日前店 (ROUND1 STADIUM Sennichimae)", "alias": "大阪府 (Osaka)", "roleId": "1140113459623763978"}
 			]}
 		]

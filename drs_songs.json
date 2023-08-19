@@ -9182,8 +9182,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Bring Me Back" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\n**insist** ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\n**insist** ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
 		"easyurl": "zgCRcU7VBrY&t=44s",
 		"normalurl": "w_1iK3jhgQ0&t=44s"
 	},
@@ -9206,8 +9206,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Caldwell 99" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ **Bring Me Back** ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ **Bring Me Back** ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
 		"easyurl": "Rf7i_ilq8pg&t=44s",
 		"normalurl": "c-N_XOsmZ8w&t=44s"
 	},
@@ -9219,6 +9219,7 @@
 		"folders": [ "BEMANI" ],
 		"thumbnail": "caldwell_99_jacket.png",
 		"remyurl": "Caldwell_99",
+		"bpm": 142,
 		"easy": 6,
 		"normal": 9,
 		"stars": 20,
@@ -9227,8 +9228,8 @@
 			{ "mission": "mission_Unlock", "s": [ "So Fabulous !!" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ **Caldwell 99** ⇒ So Fabulous !! ⇒ Basement Floor" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ **Caldwell 99** ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
 		"easyurl": "QNVm2mk1HJc&t=44s",
 		"normalurl": "Tm1j0VWNb30&t=44s"
 	},
@@ -9249,8 +9250,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Basement Floor" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ **So Fabulous !!** ⇒ Basement Floor" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ **So Fabulous !!** ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
 		"easyurl": "LiKLpYFPkOQ&t=44s",
 		"normalurl": "xDlg8xck4JE&t=44s"
 	},
@@ -9266,11 +9267,61 @@
 		"bpm": 124,
 		"easy": 7,
 		"normal": 9,
+		"stars": 100,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Buss Tune" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Buss Tune" ] } 
+		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ **Basement Floor**" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ **Basement Floor** ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
 		"easyurl": "6m1P2axFkgc&t=44s",
 		"normalurl": "ikBPB2KXJvY&t=44s"
+	},
+	{
+		"title": "Buss Tune",
+		"artist": "DJ RoughSketch feat. K2",
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Buss_Tune.png",
+		"remyurl": "Buss_Tune",
+		"bpm": 120,
+		"easy": 5,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Killer Ability" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Killer Ability" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ **Buss Tune** ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
+		"easyurl": "g92echGggPo&t=44s",
+		"normalurl": "D2Fq9A2Hguk&t=44s"
+	},
+	{
+		"title": "Killer Ability",
+		"artist": "BEMANI Sound Team \"SYUNN\"",
+		"artistalias": [ "BST" ],
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"thumbnail": "killer_ability_Jacket.png",
+		"remyurl": "Killer_Ability",
+		"bpm": 128,
+		"easy": 6,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Continue" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Continue" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ **Killer Ability** ⇒ Continue ⇒ ???" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
+		"easyurl": "9r11MBFIReI&t=44s",
+		"normalurl": "VuROFK8e9hI&t=44s"
 	},
 	{
 		"title": "パーフェクトイーター (STARDOM Remix)",
@@ -9288,6 +9339,6 @@
 		"normal": 10,
 		"unlock": { "mission": "mission_KAC", "s": [ "11th", "https://p.eagate.573.jp/game/kac/kac11/entry/select.html" ] },
 		"easyurl": "EUlRFxz50EE",
-		"normalurl": "ikBPB2KXJvY&t=23s"
+		"normalurl": "EzZDDawQnlk&t=23s"
 	}
 ]

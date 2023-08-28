@@ -76,11 +76,11 @@
 				{"location":"Timezone @ Senayan Park", "roleId": "1117783612721467392"}
 			]},
 			{"region": "West Bandung", "code": "Jabar West", "locations": [
-				{"location":"Gamemaster @ Ciwalk", "roleId": "1117783617905635338"}
+				{"location":"Gamemaster @ Ciwalk", "roleId": "1117783617905635338"},
+				{"location":"Timezone @ Paris Van Java", "roleId": "1117783626285858847"}
 			]},
 			{"region": "West Jakarta", "code": "DKI West", "locations": [
-				{"location":"Element @ Lippo Mall Puri", "roleId": "1117783622557122590"},
-				{"location":"Timezone @ Lippo Mall Puri", "roleId": "1117783626285858847"}
+				{"location":"Element @ Lippo Mall Puri", "roleId": "1117783622557122590"}
 			]}
 		]
 	},

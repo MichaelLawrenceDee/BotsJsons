@@ -8761,6 +8761,10 @@
 		"easy": 4,
 		"normal": 8,
 		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Ride or Die" ] }
+		],
+		"links": [ "Ride or Die" ],
 		"easyurl": "nDSCtBH9rwo&t=23s",
 		"normalurl": "c4RkuQcy4e8&t=23s"
 	},
@@ -8877,9 +8881,10 @@
 			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 3 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nAnthurium ⇒ PARTY ALL NIGHT(DJ KEN-BOW MIX) ⇒ Get On Da Floor ⇒ **Yuni's Nocturnal Days**" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nAnthurium ⇒ PARTY ALL NIGHT(DJ KEN-BOW MIX) ⇒ Get On Da Floor ⇒ **Yuni's Nocturnal Days**" ] },
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Ride or Die" ] } 
 		],
-		"links": [ "Sakura Reflection (STARDOM Remix)", "Midnight Amaretto", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor", "Yuni's Nocturnal Days" ],
+		"links": [ "Sakura Reflection (STARDOM Remix)", "Midnight Amaretto", "Anthurium", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "Get On Da Floor", "Yuni's Nocturnal Days", "Ride or Die" ],
 		"easyurl": "0NIrYSar9Lc&t=23s",
 		"normalurl": "kA_Q7E4GgVE&t=23s"
 	},
@@ -9060,9 +9065,10 @@
 		],
 		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Light of Love" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses" 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Ride or Die" ] } 
 		],
-		"links": [ "about right" ],
+		"links": [ "about right", "Ride or Die" ],
 		"easyurl": "rWJSZOYHPvM&t=23s",
 		"normalurl": "9_Kudpqr8xg&t=23s"
 	},
@@ -9182,8 +9188,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Bring Me Back" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\n**insist** ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\n**insist** ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "zgCRcU7VBrY&t=44s",
 		"normalurl": "w_1iK3jhgQ0&t=44s"
 	},
@@ -9206,8 +9212,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Caldwell 99" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ **Bring Me Back** ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ **Bring Me Back** ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "Rf7i_ilq8pg&t=44s",
 		"normalurl": "c-N_XOsmZ8w&t=44s"
 	},
@@ -9228,8 +9234,8 @@
 			{ "mission": "mission_Unlock", "s": [ "So Fabulous !!" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ **Caldwell 99** ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ **Caldwell 99** ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "QNVm2mk1HJc&t=44s",
 		"normalurl": "Tm1j0VWNb30&t=44s"
 	},
@@ -9250,8 +9256,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Basement Floor" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ **So Fabulous !!** ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ **So Fabulous !!** ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "LiKLpYFPkOQ&t=44s",
 		"normalurl": "xDlg8xck4JE&t=44s"
 	},
@@ -9273,8 +9279,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Buss Tune" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ **Basement Floor** ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ **Basement Floor** ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "6m1P2axFkgc&t=44s",
 		"normalurl": "ikBPB2KXJvY&t=44s"
 	},
@@ -9295,8 +9301,8 @@
 			{ "mission": "mission_Unlock", "s": [ "Killer Ability" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ **Buss Tune** ⇒ Killer Ability ⇒ Continue ⇒ ???" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ **Buss Tune** ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "g92echGggPo&t=44s",
 		"normalurl": "D2Fq9A2Hguk&t=44s"
 	},
@@ -9307,6 +9313,7 @@
 		"category": "sparkfes2023",
 		"record": "Yes",
 		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS",
 		"thumbnail": "killer_ability_Jacket.png",
 		"remyurl": "Killer_Ability",
 		"bpm": 128,
@@ -9318,10 +9325,80 @@
 			{ "mission": "mission_Unlock", "s": [ "Continue" ] } 
 		],
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
-		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ **Killer Ability** ⇒ Continue ⇒ ???" ],
-		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability" ],
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ **Killer Ability** ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "9r11MBFIReI&t=44s",
 		"normalurl": "VuROFK8e9hI&t=44s"
+	},
+	{
+		"title": "Continue",
+		"artist": "PRIDASK",
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST, Otias ENT Produced",
+		"thumbnail": "Continue.png",
+		"remyurl": "Continue",
+		"easy": 5,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "CUTIE" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "CUTIE" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ **Continue** ⇒ CUTIE ⇒ Ride or Die" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "CUTIE",
+		"artist": "KO3",
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS, Otias ENT Produced",
+		"thumbnail": "CUTIE.png",
+		"remyurl": "CUTIE",
+		"easy": 6,
+		"normal": 9,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Ride or Die" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Ride or Die" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ **CUTIE** ⇒ Ride or Die" ],
+		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
+		"easyurl": "9r11MBFIReI&t=44s",
+		"normalurl": "VuROFK8e9hI&t=44s"
+	},
+	{
+		"title": "Ride or Die",
+		"artist": "kors k vs Relect",
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS, Otias ENT Produced",
+		"thumbnail": "Ride_or_die_Jacket.png",
+		"remyurl": "Ride_or_Die",
+		"bpm": 150,
+		"easy": 6,
+		"normal": 10,
+		"stars": 160,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Love You" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Yuni's Nocturnal Days" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Light of Love" ] } 
+		],
+		"unlock": { "mission": "mission_OMES", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ **Ride or Die**" 
+		],
+		"links": [ "Love You", "Yuni's Nocturnal Days", "Light of Love", "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
+		"easyurl": false,
+		"normalurl": "bxNxNMU8mdE&t=46s"
 	},
 	{
 		"title": "パーフェクトイーター (STARDOM Remix)",

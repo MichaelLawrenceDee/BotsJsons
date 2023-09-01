@@ -6399,7 +6399,7 @@
 		"bpm": 150,
 		"easy": 7,
 		"normal": 10,
-		"stars": 180,
+		"stars": 200,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Sunrise (feat. LEO & Viola)" ] }, 
 			{ "mission": "mission_Clear", "s": [ "CHAPTER II(Ready Go)" ] }, 
@@ -7799,12 +7799,11 @@
 		"bpm": 130,
 		"easy": 5,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Let's Party!!" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Let's Party!!" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ "**SPARK FESTIVAL 2022**:\n**Golden Palms** ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "nk8IG-Sc_Fs&t=55s",
@@ -7823,12 +7822,11 @@
 		"bpm": 126,
 		"easy": 4,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Ignited Night" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Ignited Night" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ **Let's Party!!** ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "Z37zi5E-Rrk&t=55s",
@@ -7845,12 +7843,11 @@
 		"bpm": 149,
 		"easy": 6,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Neon Rider" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Neon Rider" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ **Ignited Night** ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "wfaLo0cuBdg&t=55s",
@@ -7868,12 +7865,11 @@
 		"bpm": 150,
 		"easy": 5,
 		"normal": 10,
-		"stars": 100,
+		"stars": 160,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Catastrophic Dance" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Catastrophic Dance" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ **Neon Rider** ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "pK68CjFEYOk&t=55s",
@@ -7891,12 +7887,11 @@
 		"bpm": 145,
 		"easy": 5,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Without Words" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Without Words" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ **Catastrophic Dance** ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "Kqcw3VY1Ves&t=55s",
@@ -7914,12 +7909,11 @@
 		"bpm": 135,
 		"easy": 5,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Oboro Cybernetics" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Oboro Cybernetics" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ **Without Words** ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "yIGYhYSAiqA&t=55s",
@@ -7936,12 +7930,11 @@
 		"bpm": 121,
 		"easy": 6,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Sweet Bordeaux Nightmare" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Sweet Bordeaux Nightmare" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ **Oboro Cybernetics** ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "yuXZBp2f9hY&t=55s",
@@ -7960,12 +7953,11 @@
 		"bpm": 131,
 		"easy": 5,
 		"normal": 9,
-		"stars": 100,
+		"stars": 160,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Make That Body" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Make That Body" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ **Sweet Bordeaux Nightmare** ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "brBrQVGJtkY&t=55s",
@@ -7983,13 +7975,12 @@
 		"bpm": 140,
 		"easy": 8,
 		"normal": 10,
-		"stars": 160,
+		"stars": 200,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Prettiful!" ] }, 
 			{ "mission": "mission_Clear", "s": [ "A Vague Idea" ] }, 
 			{ "mission": "mission_Clear", "s": [ "DEADLOCK (STARDOM Remix)" ] } 
 		],
-		"unlock": { "mission": "mission_OMES", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ **Make That Body**" 
 		],

@@ -8026,7 +8026,7 @@
 		"bpm": 150,
 		"easy": 5,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "MahTO3S5Efw&t=23s",
 		"normalurl": "6-YrSeVKTo4&t=23s"
 	},

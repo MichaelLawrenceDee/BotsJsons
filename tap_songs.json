@@ -12969,7 +12969,7 @@
 			"easy": [
 				{
 					"label": "Easy/Alt",
-					"lsd": "None (Also used in GB using Rose (L))",
+					"lsd": "None (Also used in GB using Rose (L) if no Hephatos)",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Franken" },
 					"slide": { "star": "Paris Upton", "costume": true, "skill": 8 },
@@ -12982,6 +12982,14 @@
 					"slide": { "star": "Titana", "leader": true },
 					"flick": { "star": "Rose" },
 					"last_update": "06 Dec 2020"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -18130,6 +18138,7 @@
 			"hard": [
 				{
 					"label": "Hard/Alt",
+					"lsd": "None (Also used in GB using Rose (L))",
 					"tap": { "star": "Arwen", "costume": true },
 					"long": { "star": "Jaguar", "costume": true, "skill": 9 },
 					"slide": { "star": "Paris Upton", "costume": true },
@@ -21011,6 +21020,14 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true },
 					"last_update": "???"
+				},
+				{
+					"label": "Expert(GB)",
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Aresmus", "leader": true },
+					"last_update": "???"
 				}
 			]
 		}
@@ -23683,6 +23700,14 @@
 					"slide": { "star": "Paris Upton", "costume": true },
 					"flick": { "star": "Rose" },
 					"last_update": "17 May 2020"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
 				}
 			],
 			"normal": [
@@ -26850,6 +26875,13 @@
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "22 May 2022"
+				},
+				{
+					"lsd": "None (GB meta for Android, possible Aresmus (L) for iOS)",
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol" },
+					"flick": { "star": "Rose", "leader": true }
 				}
 			]
 		}
@@ -27413,6 +27445,16 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "3-2-1-X",
+					"hrlabel": [[6,1]],
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Aria", "costume": true, "skill": 8 },
+					"slide": { "star": "Dominiciel" },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [
@@ -31708,6 +31750,15 @@
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "17 Oct 2021"
+				},
+				{
+					"label": "Easy(GB)",
+					"lsd": "Follow top meta delay, adjust to cover flicks",
+					"tap": { "star": "Jessi", "costume": false },
+					"long": { "star": "Beatrice", "costume": true },
+					"slide": { "star": "Nicol", "skill": 9 },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"normal": [

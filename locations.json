@@ -63,7 +63,7 @@
 				{"location":"Timezone @ MargoCity", "roleId": "1117782744903188600"}
 			]},
 			{"region": "Medan", "code": "Sumut", "locations": [
-				{"location":"Amazing @ Centre Point Medan", "roleId": "1117783574607843459"}
+				{"location":"Playtopia @ Centre Point Medan", "roleId": "1117783574607843459"}
 			]},
 			{"region": "North Jakarta", "code": "DKI North", "locations": [
 				{"location":"Amazone @ Mall Artha Gading", "roleId": "1117783595487080520"}
@@ -375,6 +375,7 @@
 				{"location":"South Hill Mall", "roleId": "1008293366766768148"},
 				{"location":"Southcenter Mall", "roleId": "569701202330124289"},
 				{"location":"Spokane Chaos Arcade", "roleId": "940189300862107649"},
+				{"location":"Spokane Claw Cade", "roleId": "1151542104141594725"},
 				{"location":"Vancouver", "roleId": "844760953055870976"}
 			]}
 		]

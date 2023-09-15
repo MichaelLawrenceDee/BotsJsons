@@ -1926,7 +1926,7 @@
 		"easy": 5,
 		"normal": 8,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Cyber Devotion" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Cyber Devotion" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Go Down" ] } 
 		],
 		"links": [ "Cyber Devotion", "Go Down" ],
@@ -3476,7 +3476,7 @@
 		"normal": 8,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM**:\nBad Riddim ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ Forgetting Machine ⇒ Hastur ⇒ **Don't Be Afraid**", 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "A Legend Is Born" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "A Legend Is Born" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Don't Be Afraid T STEP EDITION" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "Hastur" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, "Hastur" ] }, 
@@ -5271,20 +5271,18 @@
 		"bpm": 130,
 		"easy": 6,
 		"normal": 8,
-		"stars": 100,
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_GetNSongs", "s": [ 20, "BAD", 3, "EDM" ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 80, "Follow Tomorrow" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_ClearNSongs", "s": [ 5, "BEMANI" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Chaos of Drum" ] }, 
-			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "A Legend Is Born" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "BONE BORN" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Cyber Devotion** ⇒ A Legend Is Born ⇒ BONE BORN" ] }  
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "A Legend Is Born" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "BONE BORN" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Cyber Devotion** ⇒ A Legend Is Born ⇒ BONE BORN" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "A", 13, 2023, 5, "BEMANI" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "B", 13, 2023, 80, "Chaos of Drum" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearDanceGuide", "mis": "Discovery", "MM": 8, "noextra": "noExtra", "origlength": 3, "s": [ "C", 13, 2023, 1 ] } 
 		],
 		"links": [ "Follow Tomorrow", "Chaos of Drum", "Cyber Devotion", "A Legend Is Born", "BONE BORN" ],
 		"easyurl": "td5yGJTLmX8",
@@ -5303,20 +5301,17 @@
 		"bpm": 150,
 		"easy": 6,
 		"normal": 9,
-		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Cyber Devotion" ] },
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_GetNAnySongDiff", "diff": "Normal", "s": [ 10, "BAD", 3 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 95, "Get On The Floor" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreTotal", "s": [ 666 ] }, 
-			{ "mission": "mission_ComboSong", "s": [ 66, "Don't Be Afraid" ] }, 
-			{ "mission": "mission_GetNAnySong", "noextra": "noExtra", "s": [ 6, "BAD", 1 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "BONE BORN" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCyber Devotion ⇒ **A Legend Is Born** ⇒ BONE BORN" ] }  
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "BONE BORN" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCyber Devotion ⇒ **A Legend Is Born** ⇒ BONE BORN" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "A", 13, 2023, 666 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboSong", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "B", 13, 2023, 66, "Don't Be Afraid" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "noextra": "noExtra", "mis": "Discovery", "MM": 8, "noextra": "noExtra", "origlength": 3, "s": [ "C", 13, 2023, 6, "BAD", 1 ] } 
 		],
 		"links": [ "Cyber Devotion", "A Legend Is Born", "BONE BORN", "Get On The Floor", "Don't Be Afraid" ],
 		"easyurl": "F7qxVVkfJP4",
@@ -5334,19 +5329,16 @@
 		"bpm": 135,
 		"easy": 7,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "A Legend Is Born" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_GetNAnySong", "s": [ 5, "BAD", 5 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 98, "GHOST KINGDOM" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_NoteTotal", "s": [ 2020, "PERFECT" ] }, 
-			{ "mission": "mission_GetNAnySong", "noextra": "noExtra", "s": [ 10, "BAD", 10 ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 31, "GOOD", "Cyber Devotion" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nCyber Devotion ⇒ A Legend Is Born ⇒ **BONE BORN**" ] }  
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nCyber Devotion ⇒ A Legend Is Born ⇒ **BONE BORN**" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "A", 13, 2023, 2020, "PERFECT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "noextra": "noExtra", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "B", 13, 2023, 10, "BAD", 10 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 8, "noextra": "noExtra", "origlength": 3, "s": [ "C", 13, 2023, 31, "GOOD", "Cyber Devotion" ] } 
 		],
 		"links": [ "Cyber Devotion", "A Legend Is Born", "BONE BORN", "GHOST KINGDOM" ],
 		"easyurl": "aJEjuMiUxYo",

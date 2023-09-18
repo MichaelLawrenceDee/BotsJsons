@@ -9123,6 +9123,13 @@
 		"remyurl": "Ryoushi_no_umi_no_Lindwurm_(STARDOM_Remix)",
 		"easy": 7,
 		"normal": 10,
+		"stars": 300,
+		"singlediscount": true,
+		"discount": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 3000 ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 3000 ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 3000 ] } 
+		],
 		"easyurl": "My9h-w1Mp3w&t=22s",
 		"normalurl": "WCQ2o-LGdHg&t=22s"
 	},

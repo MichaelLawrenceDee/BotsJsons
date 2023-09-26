@@ -91,6 +91,9 @@
 		"roleId": "573901962165092375",
 		"regionname": "area",
 		"regions": [
+			{"region": "北海道・東北 (Hokkaido, Tohoku)", "locations": [
+				{"location":"北海道 (Hokkaido)", "roleId": "1156257651018178661"}
+			]},
 			{"region": "関東 (Kanto)", "locations": [
 				{"location":"東京都 (Tokyo)", "roleId": "1140111481237672066"}
 			]},

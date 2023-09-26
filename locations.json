@@ -95,7 +95,8 @@
 				{"location":"北海道 (Hokkaido)", "roleId": "1156257651018178661"}
 			]},
 			{"region": "関東 (Kanto)", "locations": [
-				{"location":"東京都 (Tokyo)", "roleId": "1140111481237672066"}
+				{"location":"東京都 (Tokyo)", "roleId": "1140111481237672066"},
+				{"location":"神奈川県 (Kanagawa)", "alias": "Yokohama", "roleId": "1156264032936931369"}
 			]},
 			{"region": "中部 (Chubu)", "locations": [
 				{"location":"長野県 (Nagano)", "roleId": "1140107976238174248"},
@@ -104,6 +105,9 @@
 			]},
 			{"region": "近畿 (Kinki)", "locations": [
 				{"location":"大阪府 (Osaka)", "roleId": "1140113459623763978"}
+			]},
+			{"region": "近畿 (Chūgoku)", "alias": "Chugoku", "locations": [
+				{"location":"広島県 (Hiroshima)", "roleId": "1156263545302949899"}
 			]}
 		]
 	},

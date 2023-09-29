@@ -1039,7 +1039,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (ランニングマン合宿コース/Running man Course)" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (ランニングマン合宿コース/Running Man Course)" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ] } 
 		],
 		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ]
@@ -5321,7 +5321,7 @@
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCyber Devotion ⇒ **A Legend Is Born** ⇒ BONE BORN" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "A", 13, 2023, 666 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ComboSong", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "B", 13, 2023, 66, "Don't Be Afraid" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "noextra": "noExtra", "mis": "Discovery", "MM": 8, "noextra": "noExtra", "origlength": 3, "s": [ "C", 13, 2023, 6, "BAD", 1 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "noextra": "noExtra", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "C", 13, 2023, 6, "BAD", 1 ] } 
 		],
 		"links": [ "Cyber Devotion", "A Legend Is Born", "BONE BORN", "Get On The Floor", "Don't Be Afraid" ],
 		"easyurl": "F7qxVVkfJP4",

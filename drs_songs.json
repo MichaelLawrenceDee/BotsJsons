@@ -963,9 +963,10 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "BREDLI RUNNING MAN EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Midland Mainline RUNNING MAN EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Midland Mainline RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "WELCOME TO MY GAME RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Forgetting Machine RUNNING MAN EDITION", "BREDLI RUNNING MAN EDITION", "Midland Mainline RUNNING MAN EDITION" ]
+		"links": [ "Forgetting Machine RUNNING MAN EDITION", "BREDLI RUNNING MAN EDITION", "Midland Mainline RUNNING MAN EDITION", "WELCOME TO MY GAME RUNNING MAN EDITION" ]
 	},
 	{
 		"title": "Tステップレッスン応用編",
@@ -1038,8 +1039,10 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (ランニングマン合宿コース/Running man Course)" ] } 
-		]
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (ランニングマン合宿コース/Running man Course)" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ] } 
+		],
+		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ]
 	},
 	{
 		"title": "Tステップレッスン 炎の特訓編",
@@ -1314,9 +1317,10 @@
 		"easy": 4,
 		"normal": 7,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Feelin' Good" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Feelin' Good" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "LUV CAN SAVE U RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Feelin' Good" ],
+		"links": [ "Feelin' Good", "LUV CAN SAVE U RUNNING MAN EDITION" ],
 		"easyurl": "hWCYcEe14wA",
 		"normalurl": "DC3fxskhrmk"
 	},
@@ -2124,9 +2128,10 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 90, "GHOST KINGDOM" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 90, "Afterimage d'automne" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "Robot Loves Smoked-Salmon" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5, "BAD", 3, "EDM" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5, "BAD", 3, "EDM" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "Shuffle cats RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "Robot Loves Smoked-Salmon", "Spacecats", "Afterimage d'automne" ],
+		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "Robot Loves Smoked-Salmon", "Spacecats", "Afterimage d'automne", "Shuffle cats RUNNING MAN EDITION" ],
 		"easyurl": "S8hJAbEgG08",
 		"normalurl": "ihP6bkr6hro"
 	},
@@ -3241,9 +3246,10 @@
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Bloody Bounce" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Jalebi" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Jalebi" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "PARTY ALL NIGHT(DJ KEN-BOW MIX)" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "PARTY ALL NIGHT(DJ KEN-BOW MIX)" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "Bloody Bounce", "PARTY ALL NIGHT(DJ KEN-BOW MIX)" ],
+		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "Bloody Bounce", "PARTY ALL NIGHT(DJ KEN-BOW MIX)", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ],
 		"easyurl": "kjUvaYWNeTg",
 		"normalurl": "EWROUlbFC0Y"
 	},
@@ -4756,7 +4762,7 @@
 			{ "mission": "mission_Unlock", "s": [ "Dive in Blue" ] } 
 		],
 		"notes": [ "**SPARK FESTIVAL 2020**:\n**Like This** ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You" ],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You" ],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You" ],
 		"easyurl": "emSiz9bGBOw",
 		"normalurl": "kFJdySLbMrE"
 	},
@@ -4781,7 +4787,7 @@
 			"**SPARK FESTIVAL 2020**:\nLike This ⇒ **Dive in Blue** ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You", 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Prettiful!" ] } 
 		],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You", "Prettiful!" ],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You", "Prettiful!" ],
 		"easyurl": "co7qWvsEaQ8",
 		"normalurl": "Qf5nEXW7CWU"
 	},
@@ -4804,7 +4810,7 @@
 			{ "mission": "mission_Unlock", "s": [ "Act Now!" ] } 
 		],
 		"notes": [ "**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ **Shamshir** ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You" ],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You" ],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You" ],
 		"easyurl": "-LDsAtld8NQ",
 		"normalurl": "UTqguc3Ufuk"
 	},
@@ -4830,7 +4836,7 @@
 			"**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ **Act Now!** ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You", 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Hello World" ] } 
 		],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You", "Hello World" ],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You", "Hello World" ],
 		"easyurl": "pbbeBkT37Gs",
 		"normalurl": "HCSspKa03vU"
 	},
@@ -4853,12 +4859,13 @@
 			{ "mission": "mission_Unlock", "s": [ "Touch Me" ] } 
 		],
 		"notes": [ "**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ **Don't Speak** ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You" ],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You" ],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You" ],
 		"easyurl": "HLMYEsn5jQY",
 		"normalurl": "BVRLEmDKUWA"
 	},
 	{
-		"title": "Touch Me",
+		"displaytitle": "Touch Me",
+		"title": "Touch Me (Dog)",
 		"alias": [ "Doggo", "摸我", "吉娃娃" ],
 		"artist": "C-Show",
 		"category": "sparkfes2020",
@@ -4875,8 +4882,11 @@
 			{ "mission": "mission_Clear", "s": [ "Meltdown" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Meltdown" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ **Touch Me** ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You" ],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You" ],
+		"notes": [ 
+			"**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ **Touch Me** ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You", 
+			{ "note": "note_SeeAlso", "s": [ "Touch Me" ] } 
+		],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You", "Touch Me|Sota" ],
 		"easyurl": "4jGPiCP-sgw",
 		"normalurl": "drpB-R_4QkI"
 	},
@@ -4899,7 +4909,7 @@
 			{ "mission": "mission_Unlock", "s": [ "UCHU" ] } 
 		],
 		"notes": [ "**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ **Meltdown** ⇒ UCHU ⇒ Crazy For You" ],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You" ],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You" ],
 		"easyurl": "7aZ7UAutMEg",
 		"normalurl": "LJyU8M6iXT0"
 	},
@@ -4922,7 +4932,7 @@
 			{ "mission": "mission_Unlock", "s": [ "Crazy For You" ] } 
 		],
 		"notes": [ "**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ **UCHU** ⇒ Crazy For You" ],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You" ],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You" ],
 		"easyurl": "YAzXhHkgi2Q",
 		"normalurl": "NMp1EO6kHJc"
 	},
@@ -4950,7 +4960,7 @@
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "UCHU" ] }, 
 			"**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ **Crazy For You**" 
 		],
-		"links": [ "This Beat Is.....", "ALGORITHM", "EGOISM 110", "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me", "Meltdown", "UCHU", "Crazy For You" ],
+		"links": [ "This Beat Is.....", "ALGORITHM", "EGOISM 110", "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You" ],
 		"easyurl": "dx1KM991wZA",
 		"normalurl": "hgkJaFCJzWc"
 	},
@@ -6721,9 +6731,10 @@
 		"normal": 7,
 		"stars": 60,
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ **WELCOME TO MY GAME** ⇒ melody H4CKER ⇒ Brand New Step" 
+			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ **WELCOME TO MY GAME** ⇒ melody H4CKER ⇒ Brand New Step", 
+			{ "note": "note_SeeAlso", "s": [ "WELCOME TO MY GAME RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
+		"links": [ "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step", "WELCOME TO MY GAME RUNNING MAN EDITION" ],
 		"easyurl": "TbD24UIGvOI",
 		"normalurl": "AZyHA-IoQqk"
 	},
@@ -9131,8 +9142,8 @@
 			{ "mission": "mission_ScoreTotal", "s": [ 3000 ] }, 
 			{ "mission": "mission_ScoreTotal", "s": [ 3000 ] } 
 		],
-		"easyurl": "My9h-w1Mp3w&t=22s",
-		"normalurl": "WCQ2o-LGdHg&t=22s"
+		"easyurl": "j1xCrVAiT6Y&t=23s",
+		"normalurl": "cG76ESdv0KU&t=23s"
 	},
 	{
 		"title": "MEGALOVANIA",
@@ -9341,7 +9352,7 @@
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ **Continue** ⇒ CUTIE ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
-		"easyurl": "_T3NPX2CZYY",
+		"easyurl": "2KegNFwJ0Xg&t=44s",
 		"normalurl": "jVTkpqrVbWA"
 	},
 	{
@@ -9364,7 +9375,7 @@
 		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ **CUTIE** ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
-		"easyurl": "26CD7-O0I0o",
+		"easyurl": "HKuEjKVHye4&t=44s",
 		"normalurl": "J97CsTriPYE"
 	},
 	{
@@ -9390,7 +9401,7 @@
 			"**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ **Ride or Die**" 
 		],
 		"links": [ "Love You", "Yuni's Nocturnal Days", "Light of Love", "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
-		"easyurl": "rtaVd3x9JLM",
+		"easyurl": "FE-L6-vpx98&t=44s",
 		"normalurl": "bxNxNMU8mdE&t=46s"
 	},
 	{
@@ -9407,8 +9418,207 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 10,
-		"unlock": { "mission": "mission_KAC", "s": [ "11th", "https://p.eagate.573.jp/game/kac/kac11/entry/select.html" ] },
+		"unlock": { "mission": "mission_KAC", "unavailable": "eventEnd", "s": [ "11th", "https://p.eagate.573.jp/game/kac/kac11/entry/select.html" ] },
 		"easyurl": "EUlRFxz50EE",
 		"normalurl": "EzZDDawQnlk&t=23s"
+	},
+	{
+		"title": "Afterhours",
+		"artist": "MK",
+		"category": "extra",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI", "Songs with MV" ],
+		"label": "FIVE PIECE RECORDS, Otias ENT Produced",
+		"thumbnail": "Afterhours.png",
+		"remyurl": "Afterhours",
+		"bpm": 128,
+		"easy": 9,
+		"normal": 10,
+		"unlock": { "mission": "mission_KAC", "s": [ "11th", "https://p.eagate.573.jp/game/kac/kac11/entry/select.html" ] },
+		"easyurl": false,
+		"normalurl": "Y2VTtVjNjkY&t=23s"
+	},
+	{
+		"title": "WELCOME TO MY GAME RUNNING MAN EDITION",
+		"alias": [ "WELCOME TO MY GAME RUNNINGMAN EDITION", "WELCOME TO MY GAME RM EDITION", "WELCOME TO MY GAME RUNNING MAN version", "WELCOME TO MY GAME RUNNINGMAN version", "WELCOME TO MY GAME RM version" ],
+		"artist": "GUCHON",
+		"category": "autumn2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST, Otias ENT Produced",
+		"thumbnail": "welcome_to_my_rm_edition.png",
+		"remyurl": "WELCOME_TO_MY_GAME",
+		"bpm": 120,
+		"easy": 6,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "ランニングマンレッスン応用編" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 160 ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "WELCOME TO MY GAME RUNNING MAN EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Shuffle cats RUNNING MAN EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (ランニングマン合宿コース/Running man Course)**:\n**WELCOME TO MY GAME RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Shuffle cats RUNNING MAN EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "WELCOME TO MY GAME" ] } 
+		],
+		"links": [ "ランニングマンレッスン応用編", "WELCOME TO MY GAME RUNNING MAN EDITION", "Shuffle cats RUNNING MAN EDITION", "WELCOME TO MY GAME" ], 
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "Shuffle cats RUNNING MAN EDITION",
+		"alias": [ "Shuffle cats RUNNINGMAN EDITION", "Shuffle cats RM EDITION", "Shuffle cats RUNNING MAN version", "Shuffle cats RUNNINGMAN version", "Shuffle cats RM version" ],
+		"artist": "BEMANI Sound Team \"猫叉Master\"",
+		"artistalias": [ "BST Nekosata Master", "BST Nekomata Master" ],
+		"category": "autumn2023",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "Shuffle_cats_rm_edition.png",
+		"remyurl": "Shuffle_cats",
+		"bpm": 110,
+		"easy": 5,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "WELCOME TO MY GAME RUNNING MAN EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "Shuffle cats RUNNING MAN EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (ランニングマン合宿コース/Running man Course)**:\nWELCOME TO MY GAME RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Shuffle cats RUNNING MAN EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "Shuffle cats" ] } 
+		],
+		"links": [ "WELCOME TO MY GAME RUNNING MAN EDITION", "Shuffle cats RUNNING MAN EDITION", "Shuffle cats" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION",
+		"shortname": "DO YOU WANNA PARTY RM",
+		"alias": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNINGMAN EDITION", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RM EDITION", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN version", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNINGMAN version", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RM version" ],
+		"artist": "HiBiKi",
+		"category": "autumn2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "TROP",
+		"thumbnail": "DO_YOU_WANNA_RM_edition.png",
+		"remyurl": "DO_YOU_WANNA_PARTY!!(DJ_KEN-BOW_MIX)",
+		"bpm": 130,
+		"easy": 6,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "ランニングマンレッスン 炎の特訓編" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 160 ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "LUV CAN SAVE U RUNNING MAN EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (スーパーアルティメット ランニングマン合宿コース/Super Ultimate Running man Course)**:\n**DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ LUV CAN SAVE U RUNNING MAN EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] } 
+		],
+		"links": [ "ランニングマンレッスン 炎の特訓編", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION", "LUV CAN SAVE U RUNNING MAN EDITION", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "LUV CAN SAVE U RUNNING MAN EDITION",
+		"alias": [ "LUV CAN SAVE U RUNNINGMAN EDITION", "LUV CAN SAVE U RM EDITION", "LUV CAN SAVE U RUNNING MAN version", "LUV CAN SAVE U RUNNINGMAN version", "LUV CAN SAVE U RM version" ],
+		"artist": "HIDEKI NAGANUMA",
+		"category": "autumn2023",
+		"record": "Yes",
+		"folders": [ "BEMANI", "Songs with MV" ],
+		"thumbnail": "LUV_CAN_SAVE_rm_edition.png",
+		"remyurl": "LUV_CAN_SAVE_U",
+		"bpm": 140
+		"easy": 5,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "LUV CAN SAVE U RUNNING MAN EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (スーパーアルティメット ランニングマン合宿コース/Super Ultimate Running man Course)**:\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **LUV CAN SAVE U RUNNING MAN EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "LUV CAN SAVE U" ] } 
+		],
+		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION", "LUV CAN SAVE U RUNNING MAN EDITION", "LUV CAN SAVE U" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "GOLDEN CROSS RUNNING MAN EDITION",
+		"alias": [ "黃金十字", "將棋", "GOLDEN CROSS RUNNINGMAN EDITION", "GOLDEN CROSS RM EDITION", "GOLDEN CROSS RUNNING MAN version", "GOLDEN CROSS RUNNINGMAN version", "GOLDEN CROSS RM version" ],
+		"artist": "dj REMO-CON VS dj TAKA",
+		"category": "autumn2023",
+		"record": "Yes, not downloadable",
+		"folders": [ "BEMANI" ],
+		"label": "TROP",
+		"thumbnail": "Golden_Cross_rm_edition.png",
+		"remyurl": "GOLDEN_CROSS",
+		"bpm": 150,
+		"easy": 6,
+		"normal": 10,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "リバースランニングマンレッスン" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 160 ] }  
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "GOLDEN CROSS RUNNING MAN EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Touch Me" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (超ウルトラハイパーアルティメットエキサイティング ランニングマン合宿コース/CHO EXCITING Ultra Hyper Ultimate Running man Course)**:\n**GOLDEN CROSS RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Touch Me", 
+			{ "note": "note_SeeAlso", "s": [ "GOLDEN CROSS" ] }
+		],
+		"links": [ "リバースランニングマンレッスン", "GOLDEN CROSS RUNNING MAN EDITION", "Touch Me|Sota", "GOLDEN CROSS" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"displaytitle": "Touch Me",
+		"title": "Touch Me (Sota)",
+		"alias": [ "摸我", "Disco Ball", "GekiReco", "Fujimori" ],
+		"artist": "BEMANI Sound Team \"GekiReco & Sota F.\"",
+		"artistalias": [ "BST GekiReco & Sota Fujimori" ],
+		"category": "autumn2023",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Touch_me_sota.png",
+		"remyurl": "Touch_Me_(BEMANI_Sound_Team_%22GekiReco_%26_Sota_F.%22)",
+		"bpm": 136,
+		"easy": 5,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "GOLDEN CROSS RUNNING MAN EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "Touch Me" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (超ウルトラハイパーアルティメットエキサイティング ランニングマン合宿コース/CHO EXCITING Ultra Hyper Ultimate Running man Course)**:\nGOLDEN CROSS RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Touch Me**", 
+			{ "note": "note_SeeAlso", "s": [ "Touch Me" ] } 
+		],
+		"links": [ "GOLDEN CROSS RUNNING MAN EDITION", "Touch Me|Sota", "Touch Me|Dog" ],
+		"easyurl": "mTJ4SoWr7mc&t=23s",
+		"normalurl": "1HfIyX449IE&t=23s"
+	},
+	{
+		"title": "ROCK THE PARTY",
+		"artist": "BEMANI Sound Team \"KE!JU\"",
+		"category": "autumn2023",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "ROCK_THE_PARTY.png",
+		"remyurl": "ROCK_THE_PARTY",
+		"bpm": 128,
+		"easy": 7,
+		"normal": 10,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 20, "BAD", 15 ] }, 
+			{ "mission": "mission_NoteTotal", "s": [ 3000, "PERFECT" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "ROCK THE PARTY" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses" 
+		],
+		"easyurl": "ibd9R22wKzM&t=23s",
+		"normalurl": "ojBZ44v_pkQ&t=23s"
 	}
 ]

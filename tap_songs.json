@@ -93,8 +93,67 @@
 				"complete": 10
 			}
 		],
-		"teams": null,
-		"altteams": null
+		"teams": {
+			"easy": [
+			],
+			"normal": [
+			],
+			"hard": [
+			],
+			"expert": [
+			]
+		},
+		"altteams": {
+			"easy": [
+				{
+					"label": "Easy(GB)",
+					"tap": { "star": "Seete" },
+					"long": { "star": "Valentine", "costume": true },
+					"slide": { "star": "Paris Upton", "costume": true },
+					"flick": { "star": "Charon", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"normal": [
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				}
+			],
+			"hard": [
+				{
+					"label": "Hard(GB)",
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true, "leader": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				}
+			],
+			"expert": [
+				{
+					"label": "Expert(GB)",
+					"lsd": "None (Potential GB meta for Android)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Horyeon", "costume": false },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
+				},
+				{
+					"lsd": "None (Potential GB meta for iOS)",
+					"tap": { "star": "Carol", "costume": true },
+					"long": { "star": "Raphael", "leader": true },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose" },
+					"last_update": "???"
+				}
+			]
+		}
 	},
 	{
 		"title": "Tok! Tok! Tok!",

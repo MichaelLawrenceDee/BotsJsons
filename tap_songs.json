@@ -95,12 +95,36 @@
 		],
 		"teams": {
 			"easy": [
+				{
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "",
+					"flick": { "star": "" }
+				}
 			],
 			"normal": [
+				{
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "",
+					"flick": { "star": "" }
+				}
 			],
 			"hard": [
+				{
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "",
+					"flick": { "star": "" }
+				}
 			],
 			"expert": [
+				{
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "",
+					"flick": { "star": "" }
+				}
 			]
 		},
 		"altteams": {

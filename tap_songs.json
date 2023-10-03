@@ -96,6 +96,7 @@
 		"teams": {
 			"easy": [
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "",
@@ -104,6 +105,7 @@
 			],
 			"normal": [
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "",
@@ -112,6 +114,7 @@
 			],
 			"hard": [
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "",
@@ -120,6 +123,7 @@
 			],
 			"expert": [
 				{
+					"lsd": " ",
 					"tap": { "star": "" },
 					"long": { "star": "" },
 					"slide": { "star": "",

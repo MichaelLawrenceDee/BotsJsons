@@ -1984,7 +1984,6 @@
 		"easy": 4,
 		"normal": 8,
 		"notes": [ 
-			, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "DANCERUSH STARDOM ANTHEM" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "DANCERUSH STARDOM ANTHEM" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "C", 4, 2023, "DANCERUSH STARDOM ANTHEM" ] } 

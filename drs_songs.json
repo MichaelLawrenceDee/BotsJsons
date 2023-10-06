@@ -1739,7 +1739,7 @@
 		"notes": [
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Don't Stop!!" ] }, 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Wicked" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Luminous Pajama" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Luminous Pajama" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "DOWNER & UPPER T STEP EDITION" ] }
 		],
 		"links": [ "Don't Stop!!", "Wicked", "Luminous Pajama", "DOWNER & UPPER T STEP EDITION" ],
@@ -1872,7 +1872,7 @@
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Gymnopedie-kors k mix-" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "As I go" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Nighthiker" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Nighthiker" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] } 
 		],
 		"links": [ "Gymnopedie-kors k mix-", "As I go", "Nighthiker", "Thank You Merry Christmas -DANCERUSH Mix-" ],
@@ -1967,7 +1967,7 @@
 		"easy": 4,
 		"normal": 9,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Nighthiker" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Nighthiker" ] } 
 		],
 		"links": [ "Nighthiker" ],
 		"easyurl": "FvEmnM9Z1lU",
@@ -1983,12 +1983,11 @@
 		"bpm": 132,
 		"easy": 4,
 		"normal": 8,
-		"stars": 200,
-		"singlediscount": true,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "DANCERUSH STARDOM ANTHEM" ] }	
+		"notes": [ 
+			, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "DANCERUSH STARDOM ANTHEM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "DANCERUSH STARDOM ANTHEM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "C", 4, 2023, "DANCERUSH STARDOM ANTHEM" ] } 
 		],
 		"links": [ "DANCERUSH STARDOM ANTHEM" ],
 		"easyurl": "heSgnP66Lwg",
@@ -2250,18 +2249,15 @@
 		"bpm": 112,
 		"easy": 4,
 		"normal": 7,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Nightlife" ] }, 
-			{ "mission": "mission_ScoreNSongs", "s": [ 80, 3, "EDM" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Get On The Floor" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "prev": "Previously", "s": [ "Luminous Pajama" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Nighthiker** ⇒ Get On The Floor ⇒ Luminous Pajama" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 9, "noextra": "noExtra", "origlength": 3, "s": [ "A", 19, 2022, 1000 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 19, 2022, 80, "NewAige" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 19, 2022, 80, "Disco Nights" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 19, 2022, 80, "Disco Nights" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Nightlife" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreNSongs", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, 80, 3, "EDM" ] } 
 		],
 		"links": [ "Nighthiker", "Get On The Floor", "Luminous Pajama", "Nightlife", "NewAige", "Disco Nights" ],
 		"easyurl": "xA7pE11vYB8",
@@ -2280,18 +2276,15 @@
 		"bpm": 150,
 		"easy": 4,
 		"normal": 8,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Dual Bladez" ] }, 
-			{ "mission": "mission_ScoreNSongs", "s": [ 85, 3, "BEMANI" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Luminous Pajama" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nNighthiker ⇒ **Get On The Floor** ⇒ Luminous Pajama" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "A Legend Is Born" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "mis": "Discovery", "MM": 9, "noextra": "noExtra", "origlength": 3, "s": [ "A", 19, 2022, 10, "BAD", 10 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 19, 2022, 85, "DAWN OF FALCON" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 19, 2022, 85, "Gimme a Big Beat" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 19, 2022, 85, "Gimme a Big Beat" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Dual Bladez" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreNSongs", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, 85, 3, "BEMANI" ] } 
 		],
 		"links": [ "Nighthiker", "Get On The Floor", "Luminous Pajama", "Dual Bladez", "DAWN OF FALCON", "Gimme a Big Beat", "A Legend Is Born" ],
 		"easyurl": "nI8OpC4fNgY",
@@ -2311,16 +2304,13 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "DOWNER & UPPER" ] }, 
-			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 3, 90 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nNighthiker ⇒ Get On The Floor ⇒ **Luminous Pajama**" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "A", 19, 2022, 2400, "PERFECT" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 19, 2022, 90, "Nighthiker" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 19, 2022, 90, "Get On The Floor" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 19, 2022, 90, "Get On The Floor" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, 3, "BAD", "DOWNER & UPPER" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreAny", "mis": "Discount", "MM": 9, "origlength": 3, "ing": "s", "s": [ "B", 4, 2023, 3, 90 ] } 
 		],
 		"links": [ "Nighthiker", "Get On The Floor", "Luminous Pajama", "DOWNER & UPPER" ],
 		"easyurl": "p1QDxu-SgU4",
@@ -2548,7 +2538,7 @@
 		"easy": 7,
 		"normal": 10,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "BEYOND THE EARTH (STARDOM Remix)" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "BEYOND THE EARTH (STARDOM Remix)" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nFLOWER (STARDOM Remix) ⇒ **THE SAFARI (STARDOM Remix)** ⇒ BEYOND THE EARTH (STARDOM Remix) ⇒ 灼熱Beach Side Bunny (STARDOM Remix)" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "HARD MODE" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "FLOWER (STARDOM Remix)" ] }, 
@@ -2599,14 +2589,11 @@
 		"bpm": 130,
 		"easy": 4,
 		"normal": 8,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Play", "extra": "inExtraP", "s": [ "Catch Our Fire! (STARDOM Remix)" ] }, 
-			{ "mission": "mission_Play", "extra": "inExtraP", "s": [ "Love 2 Shuffle" ] }, 
-			{ "mission": "mission_Play", "extra": "inExtraP", "s": [ "Shiva" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The First Step" ] }
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "The First Step" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Play", "mis": "Discount", "MM": 9, "origlength": 3, "extra": "inExtraP", "s": [ "A", 4, 2023, "Catch Our Fire! (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Play", "mis": "Discount", "MM": 9, "origlength": 3, "extra": "inExtraP", "s": [ "B", 4, 2023, "Love 2 Shuffle" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Play", "mis": "Discount", "MM": 9, "origlength": 3, "extra": "inExtraP", "s": [ "C", 4, 2023, "Shiva" ] } 
 		],
 		"links": [ "Catch Our Fire! (STARDOM Remix)", "Love 2 Shuffle", "Shiva", "The First Step" ],
 		"easyurl": "c3vXEoDadAs",
@@ -2624,15 +2611,12 @@
 		"bpm": 140,
 		"easy": 6,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Crazy Shuffle" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "JOK3R" ] }, 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ **take me higher** ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] } 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ **take me higher** ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Crazy Shuffle" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "C", 4, 2023, 1400 ] } 
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
 		"easyurl": "N6Li2UnNTI0",
@@ -2652,15 +2636,12 @@
 		"bpm": 133,
 		"easy": 7,
 		"normal": 10,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "THE SAFARI (STARDOM Remix)" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "灼熱Beach Side Bunny (STARDOM Remix)" ] }, 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nFLOWER (STARDOM Remix) ⇒ THE SAFARI (STARDOM Remix) ⇒ **BEYOND THE EARTH (STARDOM Remix)** ⇒ 灼熱Beach Side Bunny (STARDOM Remix)" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "灼熱Beach Side Bunny (STARDOM Remix)" ] }, 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nFLOWER (STARDOM Remix) ⇒ THE SAFARI (STARDOM Remix) ⇒ **BEYOND THE EARTH (STARDOM Remix)** ⇒ 灼熱Beach Side Bunny (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "THE SAFARI (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "C", 4, 2023, 1400 ] } 
 		],
 		"links": [ "FLOWER (STARDOM Remix)", "THE SAFARI (STARDOM Remix)", "BEYOND THE EARTH (STARDOM Remix)", "灼熱Beach Side Bunny (STARDOM Remix)" ],
 		"easyurl": "zlH2-rdFciA",
@@ -2680,14 +2661,11 @@
 		"bpm": 138,
 		"easy": 7,
 		"normal": 10,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "BEYOND THE EARTH (STARDOM Remix)" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nFLOWER (STARDOM Remix) ⇒ THE SAFARI (STARDOM Remix) ⇒ BEYOND THE EARTH (STARDOM Remix) ⇒ **灼熱Beach Side Bunny (STARDOM Remix)**" ] } 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nFLOWER (STARDOM Remix) ⇒ THE SAFARI (STARDOM Remix) ⇒ BEYOND THE EARTH (STARDOM Remix) ⇒ **灼熱Beach Side Bunny (STARDOM Remix)**" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "BEYOND THE EARTH (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "C", 4, 2023, 1400 ] } 
 		],
 		"links": [ "FLOWER (STARDOM Remix)", "THE SAFARI (STARDOM Remix)", "BEYOND THE EARTH (STARDOM Remix)", "灼熱Beach Side Bunny (STARDOM Remix)" ],
 		"easyurl": "UsazzqkEpf4",
@@ -2845,7 +2823,7 @@
 		"easy": 4,
 		"normal": 10,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "ランカーキラーガール (STARDOM Remix)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 7, 2022, 5, "BAD", "DUB I DUB" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 5, "BAD", "EGOISM 110" ] }, 
@@ -2871,7 +2849,7 @@
 		"easy": 7,
 		"normal": 10,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "new heaven" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 5, "BAD", "Don't Stop!!" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5 ] }, 
@@ -2895,7 +2873,7 @@
 		"easy": 7,
 		"normal": 10,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 5, "BAD", "FLOWER (STARDOM Remix)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 2000 ] } 
@@ -2918,7 +2896,7 @@
 		"easy": 5,
 		"normal": 9,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "take me higher" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "take me higher" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\n**Crazy Shuffle** ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
@@ -3031,7 +3009,6 @@
 		"bpm": 118,
 		"easy": 3,
 		"normal": 7,
-		"stars": 150,
 		"easyurl": "RYqIlkCp12U",
 		"normalurl": "2Tf1n_vIvAw"
 	},
@@ -3047,7 +3024,6 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 7,
-		"stars": 150,
 		"easyurl": "ziIcTgw9cm8",
 		"normalurl": "4Yo2gpb--XA"
 	},
@@ -3221,7 +3197,7 @@
 		"normal": 9,
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Majestic" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Get On The Floor" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Get On The Floor" ] }, 
 			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ Deep Vibes ⇒ HighBALL ⇒ Majestic ⇒ **Dual Bladez**", 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "HARD MODE" ] } 
 		],
@@ -3504,14 +3480,11 @@
 		"bpm": 112,
 		"easy": 5,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Flying soda" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Flying soda" ] } 
-		],
 		"notes": [ 
 			"**SPARK FESTIVAL 2019**: \n**Memories** ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free", 
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Flying soda" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Flying soda" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free" ],
 		"easyurl": "BbiAFZv_9Pk",
@@ -3529,15 +3502,12 @@
 		"bpm": 106,
 		"easy": 3,
 		"normal": 6,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Fire Spirit" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Fire Spirit" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Memories" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Memories" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ **Flying soda** ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Waiting for you" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Waiting for you" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Fire Spirit" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Fire Spirit" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Waiting for you" ],
 		"easyurl": "pmbhB184NKg",
@@ -3555,15 +3525,12 @@
 		"bpm": 120,
 		"easy": 6,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Night & Day" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Night & Day" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Flying soda" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Flying soda" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ **Fire Spirit** ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free", 
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Party Jumpin' RUNNING MAN EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Night & Day" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Night & Day" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Party Jumpin' RUNNING MAN EDITION" ],
 		"easyurl": "4xf9B5MgkNI",
@@ -3582,15 +3549,12 @@
 		"bpm": 125,
 		"easy": 3,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Wowie Zowie!" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Wowie Zowie!" ] } 
-		],
 		"notes": [
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Fire Spirit" ] },
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Fire Spirit" ] },
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ **Night & Day** ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free",
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "DANCE ALL NIGHT" ] }
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "DANCE ALL NIGHT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Wowie Zowie!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Wowie Zowie!" ] }
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "DANCE ALL NIGHT" ],
 		"easyurl": "0eF-10_d8gc",
@@ -3607,15 +3571,12 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Twinkle" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Twinkle" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Night & Day" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Night & Day" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ **Wowie Zowie!** ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free", 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Polar Night" ] } 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Polar Night" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Twinkle" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Twinkle" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Polar Night" ],
 		"easyurl": "1PC44D7ETsg",
@@ -3633,14 +3594,11 @@
 		"bpm": 130,
 		"easy": 5,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "RAVELINE ATTACK" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "RAVELINE ATTACK" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Wowie Zowie!" ] }, 
-			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ **Twinkle** ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free" 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Wowie Zowie!" ] }, 
+			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ **Twinkle** ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "RAVELINE ATTACK" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "RAVELINE ATTACK" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free" ],
 		"easyurl": "6jI41svE1Zc",
@@ -3658,16 +3616,13 @@
 		"bpm": 138,
 		"easy": 4,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Switch" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Switch" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Twinkle" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Twinkle" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ **RAVELINE ATTACK** ⇒ Switch ⇒ Set Me Free", 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "You You You" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "You You You" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Switch" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Switch" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Robot Loves Smoked-Salmon CRAB STEP EDITION", "You You You" ],
 		"easyurl": "24utWCaCMbE",
@@ -3685,16 +3640,13 @@
 		"bpm": 140,
 		"easy": 4,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Set Me Free" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Set Me Free" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "RAVELINE ATTACK" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "RAVELINE ATTACK" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ **Switch** ⇒ Set Me Free", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] }, 
-			{ "note": "note_SeeAlso", "s": [ "Switch SPONGEBOB EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Switch SPONGEBOB EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Set Me Free" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Set Me Free" ] } 
 		],
 		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Switch SPONGEBOB EDITION" ],
 		"easyurl": "fLDYuMWvayw",
@@ -3714,16 +3666,13 @@
 		"bpm": 152,
 		"easy": 7,
 		"normal": 10,
-		"stars": 200,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Electric Dance System Music" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Drop The Bounce" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Astrogazer" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Switch" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ **Set Me Free**", 
-			{ "note": "note_SeeAlso", "s": [ "Set Me Free (Hommarju Remix)" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Set Me Free (Hommarju Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Electric Dance System Music" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Drop The Bounce" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "C", 4, 2023, "Astrogazer" ] } 
 		],
 		"links": [ "Electric Dance System Music", "Drop The Bounce", "Astrogazer", "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Set Me Free (Hommarju Remix)" ],
 		"easyurl": "BzW7jkOVZ10",
@@ -3743,7 +3692,7 @@
 		"normal": 8,
 		"stars": 40,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Set Me Free" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Set Me Free" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Drop The Bounce" ] }, 
 			"\n**SUMMER DANCE CAMP**:\n**Electric Dance System Music** ⇒ Drop The Bounce ⇒ Astrogazer" 
 		],
@@ -3765,7 +3714,7 @@
 		"normal": 9,
 		"stars": 60,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Set Me Free" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Set Me Free" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Astrogazer" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Polar Night" ] }, 
 			"\n**SUMMER DANCE CAMP**:\nElectric Dance System Music ⇒ **Drop The Bounce** ⇒ Astrogazer" 
@@ -3787,7 +3736,7 @@
 		"normal": 10,
 		"stars": 100,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Set Me Free" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Set Me Free" ] }, 
 			"\n**SUMMER DANCE CAMP**:\nElectric Dance System Music ⇒ Drop The Bounce ⇒ **Astrogazer**" 
 		],
 		"links": [ "Electric Dance System Music", "Drop The Bounce", "Astrogazer", "Set Me Free" ],

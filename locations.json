@@ -171,9 +171,6 @@
 			{"region": "Esplanade", "code": "EZ", "locations": [
 				{"location":"Cow Play Cow Moo Flagship Store", "roleId": "1121075129942814751"}
 			]},
-			{"region": "Jurong East", "code": "JE", "locations": [
-				{"location":"Timezone Flagship Store @ Westgate", "roleId": "1121075132912373771"}
-			]},
 			{"region": "Pasir Ris", "code": "PR", "locations": [
 				{"location":"Cow Play Cow Moo @ Downtown East", "roleId": "1121075135479283863"}
 			]},

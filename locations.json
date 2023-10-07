@@ -198,8 +198,7 @@
 			]},
 			{"region": "新北 (New Taipei)", "code": "NWT", "locations": [
 				{"location":"湯姆熊淡水店 (Tom's World Tamsui)", "roleId": "1087756775413006357"},
-				{"location":"板橋無限遊戲中心 (INF GAME Center)", "roleId": "1087756820937986199"},
-				{"location":"新莊老虎歡樂世界 (J-MART Tiger's World)", "roleId": "1087756823802683493"}
+				{"location":"板橋無限遊戲中心 (INF GAME Center)", "roleId": "1087756820937986199"}
 			]},
 			{"region": "新竹 (Hsinchu)", "code": "HSZ", "locations": [
 				{"location":"湯姆熊中興店 (Tom's World Jhongsing)", "roleId": "1087756828399644822"}

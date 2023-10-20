@@ -7183,7 +7183,7 @@
 		"artist": "(Official髭男dism)",
 		"artistalias": [ "Official Hige Dandism", "Ofisharu higeo dism" ],
 		"record": "Yes",
-		"folders": [ "POPS" ],
+		"folders": [ "POPS, not downloadable" ],
 		"thumbnail": "Pretender.png",
 		"remyurl": "Pretender",
 		"bpm": 92,
@@ -7226,14 +7226,11 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "ランニングマンレッスン応用編" ] }, 
-			{ "mission": "mission_ClearNSongs", "s": [ 1, "BEMANI" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "BREDLI RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\n**BREDLI RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ BENJAMIN RUNNING MAN EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "BREDLI" ] }
+			{ "note": "note_SeeAlso", "s": [ "BREDLI" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ClearNSongs", "mis": "Event", "origlength": 0, "s": [ "ランニングマンレッスン応用編", 1, "BEMANI" ] } 
 		],
 		"links": [ "ランニングマンレッスン応用編", "BREDLI RUNNING MAN EDITION", "BENJAMIN RUNNING MAN EDITION", "BREDLI" ],
 		"easyurl": "5Z9BkazEizA&t=22s",
@@ -7252,14 +7249,11 @@
 		"bpm": 132,
 		"easy": 6,
 		"normal": 9,
-		"mission": [ 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "BREDLI RUNNING MAN EDITION" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Midnight Amaretto RUNNING MAN EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "BENJAMIN RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\nBREDLI RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **BENJAMIN RUNNING MAN EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "BENJAMIN" ] }
+			{ "note": "note_SeeAlso", "s": [ "BENJAMIN" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_ScoreSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 85, "BREDLI RUNNING MAN EDITION", 85, "Midnight Amaretto RUNNING MAN EDITION" ] } 
 		],
 		"links": [ "Midnight Amaretto RUNNING MAN EDITION", "BREDLI RUNNING MAN EDITION", "BENJAMIN RUNNING MAN EDITION", "BENJAMIN" ],
 		"easyurl": "--OL0Yk5yhQ&t=22s",
@@ -7278,14 +7272,11 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "Tステップレッスン応用編" ] }, 
-			{ "mission": "mission_ClearNSongs", "s": [ 1, "EDM" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "HighBALL T STEP EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\n**HighBALL T STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ True Blue (STARDOM Remix) T STEP EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "HighBALL" ] }
+			{ "note": "note_SeeAlso", "s": [ "HighBALL" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ClearNSongs", "mis": "Event", "origlength": 0, "s": [ "Tステップレッスン応用編", 1, "EDM" ] } 
 		],
 		"links": [ "Tステップレッスン応用編", "HighBALL T STEP EDITION", "True Blue (STARDOM Remix) T STEP EDITION", "HighBALL" ],
 		"easyurl": "0JeX57HcHds&t=22s",
@@ -7305,14 +7296,11 @@
 		"bpm": 142,
 		"easy": 6,
 		"normal": 9,
-		"mission": [ 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "DOWNER & UPPER T STEP EDITION" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "HighBALL T STEP EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "True Blue (STARDOM Remix) T STEP EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\nHighBALL T STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **True Blue (STARDOM Remix) T STEP EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "True Blue (STARDOM Remix)" ] }
+			{ "note": "note_SeeAlso", "s": [ "True Blue (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_ScoreSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 85, "DOWNER & UPPER T STEP EDITION", 85, "HighBALL T STEP EDITION" ] }
 		],
 		"links": [ "DOWNER & UPPER T STEP EDITION", "HighBALL T STEP EDITION", "True Blue (STARDOM Remix) T STEP EDITION", "True Blue (STARDOM Remix)" ],
 		"easyurl": "a2zLsX-aTZc&t=22s",
@@ -7330,14 +7318,11 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "スポンジボブレッスン" ] }, 
-			{ "mission": "mission_ClearNSongs", "s": [ 1, "POPS" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "Wicked SPONGEBOB EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\n**Wicked SPONGEBOB EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Switch SPONGEBOB EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "Wicked" ] }
+			{ "note": "note_SeeAlso", "s": [ "Wicked" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ClearNSongs", "mis": "Event", "origlength": 0, "s": [ "スポンジボブレッスン", 1, "POPS" ] } 
 		],
 		"links": [ "スポンジボブレッスン", "Wicked SPONGEBOB EDITION", "Switch SPONGEBOB EDITION", "Wicked" ],
 		"easyurl": "xhpyFrlDVPE&t=22s",
@@ -7356,14 +7341,11 @@
 		"bpm": 140,
 		"easy": 5,
 		"normal": 9,
-		"mission": [ 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Wicked SPONGEBOB EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "Switch SPONGEBOB EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\nWicked SPONGEBOB EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Switch SPONGEBOB EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "Switch" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Switch" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_ScoreSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 85, "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION", 85, "Wicked SPONGEBOB EDITION" ] } 
 		],
 		"links": [ "Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION", "Wicked SPONGEBOB EDITION", "Switch SPONGEBOB EDITION", "Switch" ],
 		"easyurl": "rsQBL9U6Trs&t=22s",
@@ -7382,14 +7364,11 @@
 		"bpm": 134,
 		"easy": 6,
 		"normal": 9,
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ <:2022spring:962666510206267402>", "A Vague Idea" ] },
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 15, "BAD", 15 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Red Hot Chili Samba!" ] } 
-		],
+		"stars": 100,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 15, "BAD", 15, 90, "Red Hot Chili Samba!" ] } 
 		],
 		"links": [ "Red Hot Chili Samba!", "Make That Body" ],
 		"easyurl": "G_nuPn0NFNQ&t=22s",
@@ -8581,7 +8560,7 @@
 	{
 		"title": "SOUVENIR",
 		"artist": "(BUMP OF CHICKEN)",
-		"record": "Yes",
+		"record": "Yes, not downloadable",
 		"folders": [ "POPS" ],
 		"thumbnail": "souvenir_jacket.png",
 		"remyurl": "SOUVENIR",
@@ -9096,7 +9075,7 @@
 	{
 		"title": "MEGALOVANIA",
 		"artist": "Toby Fox",
-		"record": "Yes",
+		"record": "Yes, not downloadable",
 		"folders": [ "POPS", "Songs with MV" ],
 		"thumbnail": "MEGALOVANIA.png",
 		"remyurl": "MEGALOVANIA",
@@ -9110,7 +9089,7 @@
 		"title": "Death by Glamour / 華麗なる死闘",
 		"alias": [ "Kareinaru shitou", "brilliant battle" ],
 		"artist": "Toby Fox",
-		"record": "Yes",
+		"record": "Yes, not downloadable",
 		"folders": [ "POPS" ],
 		"thumbnail": "Death_by_Glamour_Kareinaru_shitou.png",
 		"remyurl": "Death_by_Glamour_/_Kareinaru_shitou",
@@ -9568,5 +9547,20 @@
 		],
 		"easyurl": "ibd9R22wKzM&t=23s",
 		"normalurl": "ojBZ44v_pkQ&t=23s"
+	},
+	{
+		"title": "Virtual Bit",
+		"artist": "KAN TAKAHIKO",
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Virtual_Bit.png",
+		"remyurl": "Virtual_Bit",
+		"bpm": 152,
+		"easy": 6,
+		"normal": 9,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": false,
+		"normalurl": false
 	}
 ]

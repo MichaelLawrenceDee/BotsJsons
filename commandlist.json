@@ -857,5 +857,15 @@
 		"examples": [
 			"<>mottiesays Hello welcome!"
 		]
+	},
+	{
+		"name": "changecolor",
+		"name2": "changecolor (Member Plus only)",
+		"description": "(Member Plus only) Change your current role color",
+		"global": false,
+		"category": "Mottie",
+		"examples": [
+			"(Use Slash Command)"
+		]
 	}
 ]

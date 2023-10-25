@@ -104,7 +104,8 @@
 				{"location":"三重県 (Mie)", "roleId": "1140115548190023691"}
 			]},
 			{"region": "近畿 (Kinki)", "locations": [
-				{"location":"大阪府 (Osaka)", "roleId": "1140113459623763978"}
+				{"location":"大阪府 (Osaka)", "roleId": "1140113459623763978"},
+				{"location":"兵庫県 (Hyogo)", "roleId": "1166653076015427685"}
 			]},
 			{"region": "近畿 (Chūgoku)", "alias": "Chugoku", "locations": [
 				{"location":"広島県 (Hiroshima)", "roleId": "1156263545302949899"}

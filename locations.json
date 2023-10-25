@@ -108,7 +108,8 @@
 				{"location":"兵庫県 (Hyogo)", "roleId": "1166653076015427685"}
 			]},
 			{"region": "中国 (Chūgoku)", "alias": "Chugoku", "locations": [
-				{"location":"広島県 (Hiroshima)", "roleId": "1156263545302949899"}
+				{"location":"広島県 (Hiroshima)", "roleId": "1156263545302949899"},
+				{"location":"山口県 (Yamaguchi)", "roleId": "1166713918165618739"}
 			]},
 			{"region": "四国 (Shikoku)", "locations": [
 				{"location":"徳島県 (Tokushima)", "roleId": "1166673076314980373"},

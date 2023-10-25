@@ -109,6 +109,15 @@
 			]},
 			{"region": "中国 (Chūgoku)", "alias": "Chugoku", "locations": [
 				{"location":"広島県 (Hiroshima)", "roleId": "1156263545302949899"}
+			]},
+			{"region": "四国 (Shikoku)", "locations": [
+				{"location":"徳島県 (Tokushima)", "roleId": "1166673076314980373"},
+				{"location":"愛媛県 (Ehime)", "roleId": "1166673092374954074"}
+			]},
+			{"region": "九州・沖縄 (Kyushu + Okinawa)", "locations": [
+				{"location":"福岡県 (Fukuoka)", "roleId": "1166675016205733898"},
+				{"location":"長崎県 (Nagasaki)", "roleId": "1166675021469597717"},
+				{"location":"沖縄県 (Okinawa)", "roleId": "1166675025311580220"}
 			]}
 		]
 	},

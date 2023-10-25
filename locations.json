@@ -237,7 +237,21 @@
 		"code": "TH",
 		"flag": "🇹🇭",
 		"roleId": "672604325431869461",
-		"regions": []
+		"regionname": "province",
+		"regions": [
+			{"region": "กรุงเทพฯ (Bangkok)", "alias": "กรุงเทพมหานคร (Krung Thep Maha Nakhon)", "code": "BKK", "locations": [
+				{"location":"ex10 @ Central Ladprao", "roleId": "1166721951809679400"},
+				{"location":"ex10 @ MBK Center", "roleId": "1166721962714869860"},
+				{"location":"JOYPOLIS @ Central Praram 2", "roleId": "1166721969664835614"},
+				{"location":"Let's Play @ MBK Center", "roleId": "1166721986026819584"}
+			]},
+			{"region": "ชลบุรี (Chonburi)", "code": "CHO", "locations": [
+				{"location":"JOYPOLIS @ Central Chonburi", "roleId": "1166721981668917270"}
+			]},
+			{"region": "ปทุมธานี (Pathum Thani)", "code": "PTN", "locations": [
+				{"location":"ex10 @ Future Park / Zpell Rangsit", "roleId": "1166721975083860068"}
+			]}
+		]
 	},
 	{
 		"country": "United Arab Emirates",
@@ -250,7 +264,6 @@
 		"country": "United Kingdom",
 		"code": "UK",
 		"flag": "🇬🇧",
-		"roleId": "678685923617144837",
 		"regionname": "town",
 		"regions": [
 			{"region": "Blackpool", "code": "BLK", "locations": [

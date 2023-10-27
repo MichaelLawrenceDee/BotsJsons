@@ -3573,7 +3573,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Night & Day" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ **Wowie Zowie!** ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free", 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Polar Night" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Polar Night" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Twinkle" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Twinkle" ] } 
 		],
@@ -3841,7 +3841,7 @@
 		"easy": 4,
 		"normal": 8,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Polar Night" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Polar Night" ] } 
 		],
 		"links": [ "Polar Night" ],
 		"easyurl": "MqU0OhR-f-U",
@@ -4009,7 +4009,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "BREDLI" ] }, 
 			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ **Honey Bounce** ⇒ BREDLI ⇒ BENJAMIN ⇒ Awakening", 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "HoneyComb" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "HoneyComb" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] } 
 		],
 		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "HoneyComb", "Funky Street" ],
@@ -5625,20 +5625,18 @@
 		"bpm": 118,
 		"easy": 5,
 		"normal": 8,
-		"stars": 100,
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 95, "Drop The Bounce" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 510 ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 25, "BAD", "Wowie Zowie!" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "voltississimo (DANCERUSH Style)" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "HoneyComb" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Waiting for you" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\n**Polar Night** ⇒ HoneyComb ⇒ Waiting for you" ] }  
+			{ "note": "note_UnlockFor", "prev": "Previously", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "HoneyComb" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Waiting for you" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\n**Polar Night** ⇒ HoneyComb ⇒ Waiting for you" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 9, "origlength": 3, "noextra": "noExtra", "s": [ "A", 25, 2023, 510 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 25, 2023, 25, "BAD", "Wowie Zowie!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 25, 2023, 85, "voltississimo (DANCERUSH Style)" ] } 
 		],
 		"links": [ "Drop The Bounce", "Wowie Zowie!", "voltississimo (DANCERUSH Style)", "Polar Night", "HoneyComb", "Waiting for you" ],
 		"easyurl": "DHdkwMczEuM",
@@ -5657,20 +5655,17 @@
 		"bpm": 150,
 		"easy": 4,
 		"normal": 9,
-		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Polar Night" ] },
+		"stars": 60,
 		"discount": [ 
 			{ "mission": "mission_FCNSongs", "s": [ 3, "EDM", 80 ] }, 
 			{ "mission": "mission_GetNOnSong", "s": [ 20, "GREAT", "Afterimage d'automne" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_NoteTotal", "s": [ 2021, "PERFECT" ] }, 
-			{ "mission": "mission_GetNSongs", "noextra": "noExtra", "s": [ 30, "BAD", 8, "BEMANI" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 88, "Honey Bounce" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Waiting for you" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nPolar Night ⇒ **HoneyComb** ⇒ Waiting for you" ] }  
+			{ "note": "note_UnlockFor", "prev": "Previously", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Waiting for you" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nPolar Night ⇒ **HoneyComb** ⇒ Waiting for you" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "A", 25, 2023, 2021, "PERFECT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discovery", "noextra": "noExtra", "MM": 9, "origlength": 3, "s": [ "B", 25, 2023, 30, "BAD", 8, "BEMANI" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 25, 2023, 88, "Honey Bounce" ] }
 		],
 		"links": [ "Polar Night", "HoneyComb", "Waiting for you", "Afterimage d'automne", "Honey Bounce" ],
 		"easyurl": "3HRO3uYWZDc",
@@ -5688,19 +5683,16 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 8,
-		"stars": 200,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "HoneyComb" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_ScoreAnyDiff", "diff": "Normal", "s": [ 95, 5 ] }, 
 			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "Flying Soda" ] } 
 		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreAny", "ing": "s", "noextra": "noExtra", "s": [ 10, 90 ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "Polar Night" ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "HoneyComb" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nPolar Night ⇒ HoneyComb ⇒ **Waiting for you**" ] }  
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nPolar Night ⇒ HoneyComb ⇒ **Waiting for you**" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreAny", "mis": "Discovery", "ing": "s", "noextra": "noExtra", "MM": 9, "origlength": 3, "s": [ "A", 25, 2023, 10, 90 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 25, 2023, 15, "BAD", "Polar Night" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 25, 2023, 15, "BAD", "HoneyComb" ] }
 		],
 		"links": [ "Polar Night", "HoneyComb", "Waiting for you", "Flying Soda" ],
 		"easyurl": "DsBNKTXJ8c0",

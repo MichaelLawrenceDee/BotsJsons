@@ -4454,8 +4454,7 @@
 		"bpm": 155,
 		"easy": 6,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Villains" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Roughneck Disco" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -4957,8 +4956,7 @@
 		"bpm": 130,
 		"easy": 5,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "PRANK" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Villains" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -5519,8 +5517,7 @@
 		"bpm": 138,
 		"easy": 7,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Don't Rush but Dance Rush" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "PRANK" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -5710,8 +5707,7 @@
 		"bpm": 150,
 		"easy": 7,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "My Time" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "Don't Rush But Dance Rush" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
@@ -5774,8 +5770,7 @@
 		"bpm": 135,
 		"easy": 6,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Ch4nge M4 Life" ] },
+		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_Unlock", "s": [ "My Time" ] }, 
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 

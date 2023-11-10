@@ -24685,7 +24685,7 @@
 					"label": "Hard/Alt",
 					"hr": "2-1-X",
 					"hrlabel": [[4,1]],
-					"lsd": "Perfect up to x2 combo",
+					"lsd": "Perfect up to x2 combo (Also used in GB using Rose (L))",
 					"tap": { "star": "Elly" },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },

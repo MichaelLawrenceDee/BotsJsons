@@ -9547,7 +9547,27 @@
 		"easy": 6,
 		"normal": 9,
 		"unlock": { "mission": "mission_Stamp" },
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "jHpwMzpxkew&t=23s",
+		"normalurl": "IrXkbWtZJfw&t=23s"
+	},
+	{
+		"title": "Beluga",
+		"artist": "BEMANI Sound Team \"S-C-U\"",
+		"artistalias": [ "BST SCU", "Shigeharu Saeki" ],
+		"category": "gym6",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Beluga.png",
+		"remyurl": "Beluga",
+		"bpm": 132,
+		"easy": 3,
+		"normal": 7,
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM GYM6**:\n**Beluga** ⇒ ???" 
+		],
+		"links": [ "Beluga" ],
+		"easyurl": "XWRpKXacWIg&t=41s",
+		"normalurl": "6v2xVFBqVDk&t=41s"
 	}
 ]

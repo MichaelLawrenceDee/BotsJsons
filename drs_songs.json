@@ -9564,10 +9564,30 @@
 		"normal": 7,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\n**Beluga** ⇒ ???" 
+			"**DANCERUSH STARDOM GYM6**:\n**Beluga** ⇒ All All Night ⇒ ???" 
 		],
-		"links": [ "Beluga" ],
+		"links": [ "Beluga", "All All Night" ],
 		"easyurl": "XWRpKXacWIg&t=41s",
 		"normalurl": "6v2xVFBqVDk&t=41s"
+	},
+	{
+		"title": "All All Night",
+		"artist": "Ba-Boom",
+		"category": "gym6",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER, Otias ENT Produced",
+		"thumbnail": "All_All_night_jacket.png",
+		"remyurl": "All_All_Night",
+		"bpm": 129,
+		"easy": 5,
+		"normal": 8,
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ **All All Night** ⇒ ???" 
+		],
+		"links": [ "Beluga", "All All Night" ],
+		"easyurl": "ZM9A80A2wQw&t=41s",
+		"normalurl": "tWjfMkBm1-Y&t=41s"
 	}
 ]

@@ -9564,9 +9564,9 @@
 		"normal": 7,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\n**Beluga** ⇒ All All Night ⇒ ???" 
+			"**DANCERUSH STARDOM GYM6**:\n**Beluga** ⇒ All All Night ⇒ FLASH BACK ⇒ ???" 
 		],
-		"links": [ "Beluga", "All All Night" ],
+		"links": [ "Beluga", "All All Night", "FLASH BACK" ],
 		"easyurl": "XWRpKXacWIg&t=41s",
 		"normalurl": "6v2xVFBqVDk&t=41s"
 	},
@@ -9584,10 +9584,30 @@
 		"normal": 8,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ **All All Night** ⇒ ???" 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ **All All Night** ⇒ FLASH BACK ⇒ ???" 
 		],
-		"links": [ "Beluga", "All All Night" ],
+		"links": [ "Beluga", "All All Night", "FLASH BACK" ],
 		"easyurl": "ZM9A80A2wQw&t=41s",
 		"normalurl": "tWjfMkBm1-Y&t=41s"
+	},
+	{
+		"title": "FLASH BACK",
+		"artist": "Musicarus",
+		"category": "gym6",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS, Otias ENT Produced",
+		"thumbnail": "Flash_back_jacket.png",
+		"remyurl": "FLASH_BACK",
+		"bpm": 130,
+		"easy": 5,
+		"normal": 8,
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ **FLASH BACK** ⇒ ???" 
+		],
+		"links": [ "Beluga", "All All Night", "FLASH BACK" ],
+		"easyurl": "8WXV0bsLx5w&t=41s",
+		"normalurl": "vEw0MkP0rUc&t=41s"
 	}
 ]

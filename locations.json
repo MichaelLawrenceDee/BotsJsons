@@ -127,7 +127,37 @@
 		"code": "KR",
 		"flag": "🇰🇷",
 		"roleId": "683601069330268160",
-		"regions": []
+		"regions": [
+			{"region": "서울 (Seoul)", "locations": [
+				{"location":"서울강북 (Gangbuk-gu, Seoul)", "roleId": "1181786718987354112"}
+			]},
+			{"region": "수도권 (Sudogwon)", "locations": [
+				{"location":"경기남부 (Southern Gyeonggi)", "roleId": "1181790082831745156"},
+				{"location":"경기북부 (Northern Gyeonggi)", "roleId": "1181790095615983717"},
+				{"location":"인천 (Incheon)", "roleId": "1181790096786198691"}
+			]},
+			{"region": "충청 (Chungcheong)", "locations": [
+				{"location":"대전 (Daejeon)", "roleId": "1181791696707665950"},
+				{"location":"충북 (Chungbuk)", "alias": "Chungcheongbuk-do", "roleId": "1181791705255653496"}
+			]},
+			{"region": "강원 (Gangwon)", "locations": [
+				{"location":"강원 (Gangwon)", "roleId": "1181792465569714207"}
+			]},
+			{"region": "부울경 (Booulgyeong)", "locations": [
+				{"location":"부산 (Busan)", "roleId": "1181793752461869086"},
+				{"location":"울산 (Ulsan)", "roleId": "1181793759097258044"},
+				{"location":"경남 (Gyeongnam)", "alias": "Gyeongsangnam-do", "roleId": "1181793761735479388"}
+			]},
+			{"region": "대구 (Daegu)", "locations": [
+				{"location":"대구 (Daegu)", "roleId": "1181794900606464010"},
+				{"location":"경북 (Gyeongbuk)", "alias": "Gyeongsangbuk-do", "roleId": "1181794907308965963"}
+			]},
+			{"region": "전라 (Jeolla)", "locations": [
+				{"location":"광주 (Gwangju)", "roleId": "1181796295774572575"},
+				{"location":"전남 (Jeonnam)", "alias": "Jeollanam-do", "roleId": "1181796301466239116"},
+				{"location":"전북 (Jeonbuk)", "roleId": "1181796305115291658"}
+			]}
+		]
 	},
 	{
 		"country": "Netherlands",

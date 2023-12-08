@@ -7960,15 +7960,12 @@
 		"bpm": 117,
 		"easy": 5,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_ClearAnySong", "s": [ 1 ] }, 
-			{ "mission": "mission_NoteTotal", "s": [ 200, "PERFECT" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "Broadway Walk CHARLESTON EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Oppress CHARLESTON EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\n**Broadway Walk CHARLESTON EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Oppress CHARLESTON EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "Broadway Walk" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Broadway Walk" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_ClearAnySong,mission_NoteTotal", "mis": "Event", "origlength": 0, "s": [ 1, 200, "PERFECT" ] } 
 		],
 		"links": [ "Broadway Walk CHARLESTON EDITION", "Oppress CHARLESTON EDITION", "Broadway Walk" ],
 		"easyurl": "UhQcdDvscF4",
@@ -7987,14 +7984,11 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 20, "BAD", 2 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Broadway Walk CHARLESTON EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "Oppress CHARLESTON EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\nBroadway Walk CHARLESTON EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Oppress CHARLESTON EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "Oppress" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Oppress" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 20, "BAD", 2, 80, "Broadway Walk CHARLESTON EDITION" ] } 
 		],
 		"links": [ "Broadway Walk CHARLESTON EDITION", "Oppress CHARLESTON EDITION", "Oppress" ],
 		"easyurl": "0gw7NXdZ7hg",
@@ -8013,15 +8007,12 @@
 		"bpm": 128,
 		"easy": 3,
 		"normal": 7,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "クラブステップレッスン" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 100 ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "Honey Bounce CRAB STEP EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "December In Strasbourg CRAB STEP EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\n**Honey Bounce CRAB STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ December In Strasbourg CRAB STEP EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "Honey Bounce" ] }
+			{ "note": "note_SeeAlso", "s": [ "Honey Bounce" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ "クラブステップレッスン", 100 ] } 
 		],
 		"links": [ "クラブステップレッスン", "Honey Bounce CRAB STEP EDITION", "December In Strasbourg CRAB STEP EDITION", "Honey Bounce" ],
 		"easyurl": "TbFhJJ6Ltx0",
@@ -8040,14 +8031,11 @@
 		"bpm": 115,
 		"easy": 5,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 30, "GOOD", 2 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Honey Bounce CRAB STEP EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "December In Strasbourg CRAB STEP EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\nHoney Bounce CRAB STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **December In Strasbourg CRAB STEP EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "December In Strasbourg" ] }
+			{ "note": "note_SeeAlso", "s": [ "December In Strasbourg" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "GOOD", 2, 80, "Honey Bounce CRAB STEP EDITION" ] } 
 		],
 		"links": [ "Honey Bounce CRAB STEP EDITION", "December In Strasbourg CRAB STEP EDITION", "December In Strasbourg" ],
 		"easyurl": "pjLqEcD-Wp4",
@@ -8067,15 +8055,12 @@
 		"bpm": 110,
 		"easy": 5,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "ステップバリエーション2" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 100 ] }  
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "Shuffle the Cards RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "JOK3R RUNNING MAN EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\n**Shuffle the Cards RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ JOK3R RUNNING MAN EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "Shuffle the Cards" ] }
+			{ "note": "note_SeeAlso", "s": [ "Shuffle the Cards" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ "ステップバリエーション2", 100 ] } 
 		],
 		"links": [ "ステップバリエーション2", "Shuffle the Cards RUNNING MAN EDITION", "JOK3R RUNNING MAN EDITION", "Shuffle the Cards" ],
 		"easyurl": "luAmhK-TpPI",
@@ -8094,14 +8079,11 @@
 		"bpm": 150,
 		"easy": 6,
 		"normal": 9,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 40, "GREAT", 2 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Shuffle the Cards RUNNING MAN EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "JOK3R RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\nShuffle the Cards RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **JOK3R RUNNING MAN EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "JOK3R" ] }
+			{ "note": "note_SeeAlso", "s": [ "JOK3R" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 40, "GREAT", 2, 80, "Shuffle the Cards RUNNING MAN EDITION" ] } 
 		],
 		"links": [ "Shuffle the Cards RUNNING MAN EDITION", "JOK3R RUNNING MAN EDITION", "JOK3R" ],
 		"easyurl": "7Ccj87ahN0s",
@@ -8119,14 +8101,11 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 9,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 15, "BAD", 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ <:2022autumn:1031029571706949663>", "So What" ] },
+		"stars": 100,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ 15, "BAD", 5, 2000 ] } 
 		],
 		"links": [ "Lose Control" ],
 		"easyurl": "FE9aUwM709U",
@@ -9564,9 +9543,9 @@
 		"normal": 7,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\n**Beluga** ⇒ All All Night ⇒ FLASH BACK ⇒ ???" 
+			"**DANCERUSH STARDOM GYM6**:\n**Beluga** ⇒ All All Night ⇒ FLASH BACK ⇒ 焱影 ⇒ ???" 
 		],
-		"links": [ "Beluga", "All All Night", "FLASH BACK" ],
+		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影" ],
 		"easyurl": "XWRpKXacWIg&t=41s",
 		"normalurl": "6v2xVFBqVDk&t=41s"
 	},
@@ -9584,9 +9563,9 @@
 		"normal": 8,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ **All All Night** ⇒ FLASH BACK ⇒ ???" 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ **All All Night** ⇒ FLASH BACK ⇒ 焱影 ⇒ ???" 
 		],
-		"links": [ "Beluga", "All All Night", "FLASH BACK" ],
+		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影" ],
 		"easyurl": "ZM9A80A2wQw&t=41s",
 		"normalurl": "tWjfMkBm1-Y&t=41s"
 	},
@@ -9604,10 +9583,31 @@
 		"normal": 8,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ **FLASH BACK** ⇒ ???" 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ **FLASH BACK** ⇒ 焱影 ⇒ ???" 
 		],
-		"links": [ "Beluga", "All All Night", "FLASH BACK" ],
+		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影" ],
 		"easyurl": "8WXV0bsLx5w&t=41s",
 		"normalurl": "vEw0MkP0rUc&t=41s"
+	},
+	{
+		"title": "焱影",
+		"alias": [ "Hikage", "flame shadow", "Yan ying" ],
+		"artist": "RoughSkreamZ feat.楽天斎",
+		"artistalias": [ "RoughSketch", "Rakuten toki", "Rakutensai" ],
+		"category": "gym6",
+		"record": "Yes",
+		"folders": [ "BEMANI", "Songs with MV" ],
+		"thumbnail": "Hikage_jacket.png",
+		"remyurl": "Hikage",
+		"bpm": 136,
+		"easy": 7,
+		"normal": 9,
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ FLASH BACK ⇒ **焱影** ⇒ ???" 
+		],
+		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影" ],
+		"easyurl": "p9eFj63ohPA&t=41s",
+		"normalurl": "bBbDbIsaCTk&t=41s"
 	}
 ]

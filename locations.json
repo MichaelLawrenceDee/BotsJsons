@@ -75,6 +75,9 @@
 				{"location":"Timezone @ Lippo Mall Kemang", "roleId": "1117783607927373926"},
 				{"location":"Timezone @ Senayan Park", "roleId": "1117783612721467392"}
 			]},
+			{"region": "Tangerang", "locations": [
+				{"location":"Cow Play Cow Moo @ Carstensz", "roleId": "1182680073317392434"}
+			]},
 			{"region": "West Bandung", "code": "Jabar West", "locations": [
 				{"location":"Gamemaster @ Ciwalk", "roleId": "1117783617905635338"},
 				{"location":"Timezone @ Paris Van Java", "roleId": "1117783626285858847"}

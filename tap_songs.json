@@ -22426,7 +22426,7 @@
 					"hr": "    ''",
 					"hrlabel": [],
 					"tap": { "star": "Jessi", "costume": true },
-					"long": { "star": "Aria", "costume": true, "skill": 8 },
+					"long": { "star": "Aria", "costume": true, "skill": 9 },
 					"slide": { "star": "Dominiciel" },
 					"flick": { "star": "Rose", "leader": true }
 				}
@@ -33552,6 +33552,16 @@
 					"slide": { "star": "Asura", "costume": true, "leader": true },
 					"flick": { "star": "Rose" },
 					"last_update": "08 Aug 2021"
+				},
+				{
+					"label": "Hard(GB)",
+					"hr": "    ''",
+					"hrlabel": [],
+					"tap": { "star": "Patra" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Asura", "costume": true },
+					"flick": { "star": "Rose", "leader": true },
+					"last_update": "???"
 				}
 			],
 			"expert": [

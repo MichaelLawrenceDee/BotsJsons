@@ -9543,9 +9543,9 @@
 		"normal": 7,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\n**Beluga** ⇒ All All Night ⇒ FLASH BACK ⇒ 焱影 ⇒ ???" 
+			"**DANCERUSH STARDOM GYM6**:\n**Beluga** ⇒ All All Night ⇒ FLASH BACK ⇒ 焱影 ⇒ ZZ (STARDOM Remix)" 
 		],
-		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影" ],
+		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影", "ZZ (STARDOM Remix)" ],
 		"easyurl": "XWRpKXacWIg&t=41s",
 		"normalurl": "6v2xVFBqVDk&t=41s"
 	},
@@ -9563,9 +9563,9 @@
 		"normal": 8,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ **All All Night** ⇒ FLASH BACK ⇒ 焱影 ⇒ ???" 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ **All All Night** ⇒ FLASH BACK ⇒ 焱影 ⇒ ZZ (STARDOM Remix)" 
 		],
-		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影" ],
+		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影", "ZZ (STARDOM Remix)" ],
 		"easyurl": "ZM9A80A2wQw&t=41s",
 		"normalurl": "tWjfMkBm1-Y&t=41s"
 	},
@@ -9583,9 +9583,9 @@
 		"normal": 8,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ **FLASH BACK** ⇒ 焱影 ⇒ ???" 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ **FLASH BACK** ⇒ 焱影 ⇒ ZZ (STARDOM Remix)" 
 		],
-		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影" ],
+		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影", "ZZ (STARDOM Remix)" ],
 		"easyurl": "8WXV0bsLx5w&t=41s",
 		"normalurl": "vEw0MkP0rUc&t=41s"
 	},
@@ -9604,10 +9604,30 @@
 		"normal": 9,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ FLASH BACK ⇒ **焱影** ⇒ ???" 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ FLASH BACK ⇒ **焱影** ⇒ ZZ (STARDOM Remix)" 
 		],
-		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影" ],
+		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影", "ZZ (STARDOM Remix)" ],
 		"easyurl": "p9eFj63ohPA&t=41s",
 		"normalurl": "bBbDbIsaCTk&t=41s"
+	},
+	{
+		"title": "ZZ (STARDOM Remix)",
+		"artist": "OSTER project",
+		"category": "gym6",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "DIVING GHOST",
+		"thumbnail": "ZZ_Stardom_Remix.png",
+		"remyurl": "ZZ_(STARDOM_Remix)",
+		"bpm": 140,
+		"easy": 5,
+		"normal": 10,
+		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ FLASH BACK ⇒ 焱影 ⇒ **ZZ (STARDOM Remix)**" 
+		],
+		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影", "ZZ (STARDOM Remix)" ],
+		"easyurl": "aZLgnLymCVA&t=41s",
+		"normalurl": "3kLFHGlZYYs&t=41s"
 	}
 ]

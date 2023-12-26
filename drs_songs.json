@@ -5481,7 +5481,8 @@
 		"easyurl": "901823053066022912/Gurenge_Easy.mp4",
 		"normalurl": "901823148759064616/Gurenge_Normal.mp4",
 		"notes": [ 
-			{ "note": "note_SeeAlso", "s": [ "紅蓮華 ANOTHER EDITION" ] }
+			{ "note": "note_SeeAlso", "s": [ "紅蓮華 ANOTHER EDITION" ] }, 
+			{ "note": "note_Removed", "MM": 11, "s": [ 12, 2023 ] } 
 		],
 		"links": [ "紅蓮華 ANOTHER EDITION" ]
 	},
@@ -5499,7 +5500,8 @@
 		"easyurl": "901823260503732315/Gurenge_ANOTHER_Easy.mp4",
 		"normalurl": "901823368163127306/Gurenge_ANOTHER_Normal.mp4",
 		"notes": [ 
-			{ "note": "note_SeeAlso", "s": [ "紅蓮華" ] } 
+			{ "note": "note_SeeAlso", "s": [ "紅蓮華" ] }, 
+			{ "note": "note_Removed", "MM": 11, "s": [ 12, 2023 ] } 
 		],
 		"links": [ "紅蓮華" ]
 	},
@@ -9629,5 +9631,33 @@
 		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影", "ZZ (STARDOM Remix)" ],
 		"easyurl": "aZLgnLymCVA&t=41s",
 		"normalurl": "3kLFHGlZYYs&t=41s"
+	},
+	{
+		"title": "Spider Dance / スパイダーダンス",
+		"alias": [ "Supaidadansu" ],
+		"artist": "Toby Fox",
+		"record": "Yes, not downloadable",
+		"folders": [ "POPS" ],
+		"thumbnail": "Spider_Dance.png",
+		"remyurl": "Spider_Dance",
+		"bpm": 230,
+		"easy": 3,
+		"normal": 8,
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "Dummy! / 怒りのマネキン！",
+		"alias": [ "Ikari no manekin!", "Angry mannequin" ],
+		"artist": "Toby Fox",
+		"record": "Yes, not downloadable",
+		"folders": [ "POPS" ],
+		"thumbnail": "",
+		"remyurl": "Dummy!_/_Ikari_no_mannequin!",
+		"bpm": 125,
+		"easy": 3,
+		"normal": 8,
+		"easyurl": false,
+		"normalurl": false
 	}
 ]

@@ -2852,9 +2852,10 @@
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "new heaven" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 5, "BAD", "Don't Stop!!" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 2000 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 2000 ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Dance With The Dead" ] } 
 		],
-		"links": [ "Don't Stop!!", "DANCERUSH STARDOM ANTHEM", "new heaven" ],
+		"links": [ "Don't Stop!!", "DANCERUSH STARDOM ANTHEM", "new heaven", "Dance With The Dead" ],
 		"easyurl": "RD8PKCfwJNs",
 		"normalurl": "y1cg70wlhgc"
 	},
@@ -4037,9 +4038,10 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "BENJAMIN" ] }, 
 			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ **BREDLI** ⇒ BENJAMIN ⇒ Awakening", 
-			{ "note": "note_SeeAlso", "s": [ "BREDLI RUNNING MAN EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "BREDLI RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "新蛇姫" ] } 
 		],
-		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "BREDLI RUNNING MAN EDITION" ],
+		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "BREDLI RUNNING MAN EDITION", "新蛇姫" ],
 		"easyurl": "v-QdKImB89A",
 		"normalurl": "UcaXZLeI9sM"
 	},
@@ -4636,9 +4638,10 @@
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nNocturnus ⇒ Broadway Walk ⇒ **Heat Up The Dancefloor**" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 31, 2023, 2018 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "B", 31, 2023, 90, "Nocturnus" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "noextra": "noExtra", "origlength": 3, "s": [ "C", 31, 2023, 90, "Broadway Walk" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "noextra": "noExtra", "origlength": 3, "s": [ "C", 31, 2023, 90, "Broadway Walk" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "New Decade" ] } 
 		],
-		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "エコ爺", "Next Stage 2022" ],
+		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "エコ爺", "Next Stage 2022", "New Decade" ],
 		"easyurl": "JBPckMJj68Y",
 		"normalurl": "QRp5rH4rHTo"
 	},
@@ -8139,7 +8142,16 @@
 		"bpm": 100,
 		"easy": 6,
 		"normal": 8,
-		"unlock": { "mission": "mission_IchikaMixUpBlue", "s": [ "DDR" ] },
+		"stars": 80,
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 5, "POPS" ] }, 
+			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 3 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Heat Up The Dancefloor" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "新蛇姫" ] } 
+		],
+		"links": [ "Heat Up The Dancefloor", "新蛇姫" ],
 		"easyurl": "71chhkJ3WF8",
 		"normalurl": "drVfsA_KCT8&t=23s"
 	},
@@ -8155,7 +8167,16 @@
 		"bpm": 150,
 		"easy": 6,
 		"normal": 9,
-		"unlock": { "mission": "mission_IchikaMixUpBlue", "s": [ "jubeat" ] },
+		"stars": 80,
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 5, "EDM" ] }, 
+			{ "mission": "mission_ClearAnySong", "diff": "Easy", "s": [ 3 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Rejoin" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Dance With The Dead" ] } 
+		],
+		"links": [ "Rejoin", "Dance With The Dead" ],
 		"easyurl": "p0YtsPvx5P0",
 		"normalurl": "perixISl_qk&t=23s"
 	},
@@ -8172,7 +8193,16 @@
 		"bpm": 115,
 		"easy": 4,
 		"normal": 8,
-		"unlock": { "mission": "mission_IchikaMixUpPink", "s": [ "DRS×DDR" ] },
+		"stars": 100,
+		"discount": [ 
+			{ "mission": "mission_ComboNSongs", "any": "any", "ing": "s", "s": [ 80, 3 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "New Decade" ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "BREDLI" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "VOLAQUAS" ] } 
+		],
+		"links": [ "New Decade", "BREDLI", "VOLAQUAS" ],
 		"easyurl": "0zAaVMmjrm8",
 		"normalurl": "gmxnz6TYo00&t=23s"
 	},
@@ -8189,7 +8219,16 @@
 		"bpm": 150,
 		"easy": 3,
 		"normal": 7,
-		"unlock": { "mission": "mission_IchikaMixUpPink", "s": [ "jubeat×DRS" ] },
+		"stars": 100,
+		"discount": [ 
+			{ "mission": "mission_ComboNSongs", "any": "any", "ing": "s", "s": [ 80, 3 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Love 2 Shuffle" ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "Necroxis Girl" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "VOLAQUAS" ] } 
+		],
+		"links": [ "Love 2 Shuffle", "Necroxis Girl", "VOLAQUAS" ],
 		"easyurl": "BTG0cNf0lPQ",
 		"normalurl": "5YUBlmKD2Pk&t=23s"
 	},
@@ -8205,7 +8244,13 @@
 		"bpm": 106,
 		"easy": 7,
 		"normal": 10,
-		"unlock": { "mission": "mission_IchikaMixUpPurple", "s": [ "DRS" ] },
+		"stars": 300,
+		"discount": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 2500 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Dance With The Dead" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "新蛇姫" ] } 
+		],
+		"links": [ "Dance With The Dead", "新蛇姫" ],
 		"easyurl": "JGy-GNaLY2c",
 		"normalurl": "ZTEOezGx19k&t=23s"
 	},
@@ -8401,7 +8446,7 @@
 		"bpm": 132,
 		"easy": 6,
 		"normal": 8,
-		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "pjwf3dQTRE4&t=23s",
 		"normalurl": "paJPzrQ_dMg&t=23s"
 	},
@@ -8978,7 +9023,10 @@
 			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 80, 1 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 80, "ATRAX" ] }
 		],
-		"links": [ "ATRAX" ],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Dance With The Dead" ] } 
+		],
+		"links": [ "ATRAX", "Necroxis Girl" ],
 		"easyurl": "grwlO11Y2YI&t=23s",
 		"normalurl": "B4HfazFM9Mk&t=23s"
 	},

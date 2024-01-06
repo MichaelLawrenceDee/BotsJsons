@@ -9691,8 +9691,8 @@
 		"bpm": 230,
 		"easy": 3,
 		"normal": 8,
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "sF8tSDJTczY&t=23s",
+		"normalurl": "iae36IU5sdg&t=23s"
 	},
 	{
 		"title": "Dummy! / 怒りのマネキン！",
@@ -9700,12 +9700,25 @@
 		"artist": "Toby Fox",
 		"record": "Yes, not downloadable",
 		"folders": [ "POPS" ],
-		"thumbnail": "",
+		"thumbnail": "Dummy_Ikari_no_mannequin_jacket.png",
 		"remyurl": "Dummy!_/_Ikari_no_mannequin!",
 		"bpm": 125,
 		"easy": 3,
 		"normal": 8,
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "bhfDzeLqbO0&t=26s",
+		"normalurl": "eQWZwUEKdcE&t=23s"
+	},
+	{
+		"title": "CIAO",
+		"artist": "Merk & Kremont",
+		"record": "Yes, not downloadable",
+		"folders": [ "EDM" ],
+		"thumbnail": "CIAO.png",
+		"remyurl": "CIAO",
+		"bpm": 129,
+		"easy": 5,
+		"normal": 8,
+		"easyurl": "pm12GkQbTBc&t=23s",
+		"normalurl": "u83Dj_9jiYY&t=23s"
 	}
 ]

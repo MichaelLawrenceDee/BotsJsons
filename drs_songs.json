@@ -9720,5 +9720,35 @@
 		"normal": 8,
 		"easyurl": "pm12GkQbTBc&t=23s",
 		"normalurl": "u83Dj_9jiYY&t=23s"
+	},
+	{
+		"title": "轟け！恋のビーンボール！！ (STARDOM Remix)",
+		"alias": [ "Todoroke! Koi no beanball!!", "Roar! Beanball of love! !" ],
+		"artist": "RoughSketch Vs. BEMANI Sound Team \"L.E.D.-G\"",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS",
+		"thumbnail": "beanball-jacket.png",
+		"remyurl": "Todoroke!_Koi_no_beanball!!_(STARDOM_Remix)",
+		"bpm": 145,
+		"easy": 6,
+		"normal": 10,
+		"stars": 160,
+		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "轟け！恋のビーンボール！！ (STARDOM Remix)" ] },
+		"singlediscount": true,
+		"discount": [ 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "轟け！恋のビーンボール！！ (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "轟け！恋のビーンボール！！ (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "轟け！恋のビーンボール！！ (STARDOM Remix)", 2 ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "轟け！恋のビーンボール！！ (STARDOM Remix)", 2 ] }
+		],
+		"notes": [ 
+			{ "note": "note_Random" } 
+		],
+		"easyurl": "69_h_QUc4Zg&t=23s",
+		"normalurl": "14zLLG7pcBE&t=20s"
 	}
 ]

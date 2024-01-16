@@ -72,6 +72,7 @@
 				{"location":"Timezone @ Galaxy Mall 3", "roleId": "1117783602114080818"}
 			]},
 			{"region": "South Jakarta", "code": "DKI South", "locations": [
+				{"location":"Timezone @ Lippo Mall Kemang", "roleId": "1196817990809825292"},
 				{"location":"Timezone @ Senayan Park", "roleId": "1117783612721467392"}
 			]},
 			{"region": "Tangerang", "locations": [

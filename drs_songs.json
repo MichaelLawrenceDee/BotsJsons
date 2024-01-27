@@ -7024,7 +7024,8 @@
 		"easyurl": "uTrS9JQpqpU&t=10s",
 		"normalurl": "0LMKaqVwqVo&t=13s",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }, 
+			{ "note": "note_Removed", "MM": 0, "s": [ 23, 2024 ] } 
 		]
 	},
 	{
@@ -7174,8 +7175,8 @@
 		"title": "Pretender",
 		"artist": "(Official髭男dism)",
 		"artistalias": [ "Official Hige Dandism", "Ofisharu higeo dism" ],
-		"record": "Yes",
-		"folders": [ "POPS, not downloadable" ],
+		"record": "Yes, not downloadable",
+		"folders": [ "POPS" ],
 		"thumbnail": "Pretender.png",
 		"remyurl": "Pretender",
 		"bpm": 92,
@@ -8417,18 +8418,14 @@
 		"easy": 5,
 		"normal": 9,
 		"stars": 160,
-		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)" ] },
 		"singlediscount": true,
 		"discount": [ 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }, 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }, 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }
 		],
-		"discovery": [ 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }
-		],
 		"notes": [ 
-			{ "note": "note_Random" }, 
+			{ "note": "note_Random", "prev": "Previously" }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] } 
 		],
 		"links": [ "Lose Control" ],
@@ -9712,7 +9709,7 @@
 		"title": "CIAO",
 		"artist": "Merk & Kremont",
 		"record": "Yes, not downloadable",
-		"folders": [ "EDM" ],
+		"folders": [ "POPS", "EDM" ],
 		"thumbnail": "CIAO.png",
 		"remyurl": "CIAO",
 		"bpm": 129,
@@ -9750,5 +9747,20 @@
 		],
 		"easyurl": "69_h_QUc4Zg&t=23s",
 		"normalurl": "14zLLG7pcBE&t=20s"
+	},
+	{
+		"title": "Debug Dance",
+		"artist": "lapix",
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Debug_Dance.png",
+		"remyurl": "Debug_Dance",
+		"bpm": 151,
+		"easy": 6,
+		"normal": 9,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "8PJa2aPsR98&t=23s",
+		"normalurl": "b1FJ7uupzRM&t=23s"
 	}
 ]

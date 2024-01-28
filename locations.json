@@ -323,6 +323,7 @@
 		"regionname": "state",
 		"regions": [
 			{"region": "Arizona", "code": "AZ", "locations": [
+				{"location":"Glendale", "roleId": "1201091079341080606"},
 				{"location":"Tucson", "roleId": "643014654133665823"}
 			]},
 			{"region": "California", "code": "CA", "locations": [

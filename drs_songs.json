@@ -5556,6 +5556,7 @@
 		"alias": [ "Sekai no hate ni yakusoku no gaika wo", "A promised triumphant song at the end of the world", "10th KAC entry song", "世界盡頭的約束凱歌", "女王頭" ],
 		"artist": "BEMANI Sound Team \"JYUNN\"",
 		"artistalias": [ "BST SYUNN", "Jun Wakita", "脇田潤", "wac", "Shunsuke Sato", "佐藤俊介" ],
+		"category": "extra",
 		"record": "Yes",
 		"folders": [ "EDM", "BEMANI" ],
 		"label": "FIVE PIECE RECORDS",
@@ -5571,7 +5572,10 @@
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
 			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
 		],
-		"links": [ "ランカーキラーガール (STARDOM Remix)" ],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "パーフェクトイーター (STARDOM Remix)" ] }
+		],
+		"links": [ "ランカーキラーガール (STARDOM Remix)", "パーフェクトイーター (STARDOM Remix)" ],
 		"easyurl": "3ROkFjj4uAI",
 		"normalurl": "WLnDacIke6g"
 	},
@@ -5579,6 +5583,7 @@
 		"title": "Vamos A Bailar",
 		"alias": [ "Other 10th KAC song", "來跳舞吧" ],
 		"artist": "Yooh",
+		"category": "extra",
 		"record": "Yes",
 		"folders": [ "EDM", "BEMANI" ],
 		"label": "FIVE PIECE RECORDS",
@@ -5594,7 +5599,10 @@
 			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
 			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
 		],
-		"links": [ "new heaven" ],
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Afterhours" ] }
+		],
+		"links": [ "new heaven", "Afterhours" ],
 		"easyurl": "nTPctnBjuHg",
 		"normalurl": "CxggygSk_oA"
 	},
@@ -9358,7 +9366,14 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 10,
-		"unlock": { "mission": "mission_KAC", "unavailable": "eventEnd", "s": [ "11th", "https://p.eagate.573.jp/game/kac/kac11/entry/select.html" ] },
+		"stars": 200,
+		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "パーフェクトイーター (STARDOM Remix)" ] },
+		"discount": [ 
+			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "世界の果てに約束の凱歌を (STARDOM Remix)" ] }, 
+			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
+		],
+		"links": [ "世界の果てに約束の凱歌を (STARDOM Remix)" ],
 		"easyurl": "EUlRFxz50EE",
 		"normalurl": "EzZDDawQnlk&t=23s"
 	},
@@ -9374,7 +9389,14 @@
 		"bpm": 128,
 		"easy": 9,
 		"normal": 10,
-		"unlock": { "mission": "mission_KAC", "s": [ "11th", "https://p.eagate.573.jp/game/kac/kac11/entry/select.html" ] },
+		"stars": 200,
+		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Afterhours" ] },
+		"discount": [ 
+			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Vamos A Bailar" ] }, 
+			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
+		],
+		"links": [ "Vamos A Bailar" ],
 		"easyurl": "7o1uezDpExE",
 		"normalurl": "Y2VTtVjNjkY&t=23s"
 	},

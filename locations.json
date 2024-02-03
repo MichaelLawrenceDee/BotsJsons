@@ -261,6 +261,7 @@
 				{"location":"湯姆熊Focus店 (Tom's World Focus)", "roleId": "1087756840831561839"}
 			]},
 			{"region": "高雄 (Kaohsiung)", "code": "KHH", "locations": [
+				{"location":"競音殿堂 (Rhythm Arena)", "roleId": "1203380178102001755"},
 				{"location":"湯姆熊六合店 (Tom's World Liuhe)", "roleId": "1087756843620769844"}
 			]}
 		]

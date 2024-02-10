@@ -8466,7 +8466,7 @@
 		"bpm": 134,
 		"easy": 6,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Linkage" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Linkage" ] } 
@@ -8490,7 +8490,7 @@
 		"bpm": 132,
 		"easy": 6,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Come aROUND" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Come aROUND" ] } 
@@ -8513,7 +8513,7 @@
 		"bpm": 125,
 		"easy": 5,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Tropical Juice" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Tropical Juice" ] } 
@@ -8537,7 +8537,7 @@
 		"bpm": 127,
 		"easy": 5,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Lose Control" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Lose Control" ] } 
@@ -8561,13 +8561,12 @@
 		"bpm": 142,
 		"easy": 8,
 		"normal": 10,
-		"stars": 160,
+		"stars": 200,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "So What" ] }, 
 			{ "mission": "mission_Clear", "s": [ "音楽 (STARDOM Remix)" ] }, 
 			{ "mission": "mission_Clear", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)" ] } 
 		],
-		"unlock": { "mission": "mission_OMES", "s": [ "SPARK FESTIVAL 2022 <:sparkfes2022:1003587047052804117> AFTER PARTY" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2022**: **AFTER PARTY**\nDraw the Savage ⇒ Linkage ⇒ Come aROUND ⇒ Tropical Juice ⇒ **Lose Control**" 
 		],

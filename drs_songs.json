@@ -9577,8 +9577,10 @@
 		],
 		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "ROCK THE PARTY" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses" 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rushiest Rush" ] } 
 		],
+		"links": [ "Rushiest Rush" ],
 		"easyurl": "ibd9R22wKzM&t=23s",
 		"normalurl": "ojBZ44v_pkQ&t=23s"
 	},
@@ -9594,6 +9596,10 @@
 		"easy": 6,
 		"normal": 9,
 		"unlock": { "mission": "mission_Stamp" },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rushiest Rush" ] } 
+		],
+		"links": [ "Rushiest Rush" ],
 		"easyurl": "jHpwMzpxkew&t=23s",
 		"normalurl": "IrXkbWtZJfw&t=23s"
 	},
@@ -9692,9 +9698,10 @@
 		"normal": 10,
 		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ FLASH BACK ⇒ 焱影 ⇒ **ZZ (STARDOM Remix)**" 
+			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ FLASH BACK ⇒ 焱影 ⇒ **ZZ (STARDOM Remix)**", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rushiest Rush" ] } 
 		],
-		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影", "ZZ (STARDOM Remix)" ],
+		"links": [ "Beluga", "All All Night", "FLASH BACK", "焱影", "ZZ (STARDOM Remix)", "Rushiest Rush" ],
 		"easyurl": "aZLgnLymCVA&t=41s",
 		"normalurl": "3kLFHGlZYYs&t=41s"
 	},
@@ -9783,5 +9790,132 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "8PJa2aPsR98&t=23s",
 		"normalurl": "b1FJ7uupzRM&t=23s"
+	},
+	{
+		"title": "Into UR Heart",
+		"artist": "Sota Fujimori feat.yoshiko",
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Into_UR_Heart.png",
+		"remyurl": "Into_UR_Heart",
+		"bpm": 140,
+		"easy": 6,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Sleepin' in the night" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Sleepin' in the night" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\n**Into UR Heart** ⇒ Sleepin' in the night ⇒ New High ⇒ Freeway Shuffle ⇒ Rushiest Rush" 
+		],
+		"links": [ "Into UR Heart", "Sleepin' in the night", "New High", "Freeway Shuffle", "Rushiest Rush" ],
+		"easyurl": "GugpYgGa8qQ&t=23s",
+		"normalurl": "7jufd-Fb6uY&t=23s"
+	},
+	{
+		"title": "Sleepin' in the night",
+		"alias": [ "Sleeping" ],
+		"artist": "nagomu tamaki feat. 彩夏",
+		"artistalias": [ "Ayaka" ],
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "TROP, Otias ENT Produced",
+		"thumbnail": "Sleepin%2527_in_the_night.png",
+		"remyurl": "Sleepin%27_in_the_night",
+		"bpm": 132,
+		"easy": 4,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "New High" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "New High" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\nInto UR Heart ⇒ **Sleepin' in the night** ⇒ New High ⇒ Freeway Shuffle ⇒ Rushiest Rush" 
+		],
+		"links": [ "Into UR Heart", "Sleepin' in the night", "New High", "Freeway Shuffle", "Rushiest Rush" ],
+		"easyurl": "aXuNFutCuGo&t=23s",
+		"normalurl": "E7JbxqAApNE&t=23s"
+	},
+	{
+		"title": "New High",
+		"artist": "The Herb Shop",
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS, Otias ENT Produced",
+		"thumbnail": "New_High.png",
+		"remyurl": "New_High",
+		"bpm": 140,
+		"easy": 5,
+		"normal": 8,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Freeway Shuffle" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Freeway Shuffle" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\nInto UR Heart ⇒ Sleepin' in the night ⇒ **New High** ⇒ Freeway Shuffle ⇒ Rushiest Rush" 
+		],
+		"links": [ "Into UR Heart", "Sleepin' in the night", "New High", "Freeway Shuffle", "Rushiest Rush" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "Freeway Shuffle",
+		"artist": "dj TAKA",
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Freeway_Shuffle.png",
+		"remyurl": "Freeway_Shuffle",
+		"bpm": 145,
+		"easy": 6,
+		"normal": 9,
+		"stars": 20,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "Rushiest Rush" ] }, 
+			{ "mission": "mission_Unlock", "s": [ "Rushiest Rush" ] } 
+		],
+		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\nInto UR Heart ⇒ Sleepin' in the night ⇒ New High ⇒ **Freeway Shuffle** ⇒ Rushiest Rush" 
+		],
+		"links": [ "Into UR Heart", "Sleepin' in the night", "New High", "Freeway Shuffle", "Rushiest Rush" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "Rushiest Rush",
+		"artist": "かめりあ",
+		"artistalias": [ "Camellia" ],
+		"category": "sparkfes2023",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS",
+		"thumbnail": "Rushiest_Rush.png",
+		"remyurl": "Rushiest_Rush",
+		"bpm": "110-145",
+		"easy": 8,
+		"normal": 10,
+		"stars": 160,
+		"discount": [ 
+			{ "mission": "mission_Clear", "s": [ "ROCK THE PARTY" ] }, 
+			{ "mission": "mission_Clear", "s": [ "Virtual Bit" ] }, 
+			{ "mission": "mission_Clear", "s": [ "ZZ (STARDOM Remix)" ] } 
+		],
+		"unlock": { "mission": "mission_OMES", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
+		"notes": [ 
+			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\nInto UR Heart ⇒ Sleepin' in the night ⇒ New High ⇒ Freeway Shuffle ⇒ **Rushiest Rush**" 
+		],
+		"links": [ "ROCK THE PARTY", "Virtual Bit", "ZZ (STARDOM Remix)", "Into UR Heart", "Sleepin' in the night", "New High", "Freeway Shuffle", "Rushiest Rush" ],
+		"easyurl": false,
+		"normalurl": "FndOcurslF8&t=23s"
 	}
 ]

@@ -16,7 +16,10 @@
 			{ "name": "default", "url": "901427453057179658/LADY_Easy.mp4" },
 			{ "name": "LEO", "url": "901430246342017074/LADY_Easy_LEO.mp4" }
 		],
-		"normalurl": "901429273192185886/LADY_Normal.mp4"
+		"normalurl": "901429273192185886/LADY_Normal.mp4",
+		"notes": [
+			{ "note": "note_Removed", "MM": 2, "s": [ 12, 2024 ] }
+		]
 	},
 	{
 		"title": "MEGA SHAKE IT !",
@@ -253,7 +256,10 @@
 			{ "name": "default", "url": "901513453854937148/Sugar_song_Easy.mp4" },
 			{ "name": "Viola", "url": "901513532309381120/Sugar_song_Easy_Viola.mp4" }
 		],
-		"normalurl": "901513583601520670/Sugar_song_Normal.mp4"
+		"normalurl": "901513583601520670/Sugar_song_Normal.mp4",
+		"notes": [
+			{ "note": "note_Removed", "MM": 2, "s": [ 12, 2024 ] }
+		]
 	},
 	{
 		"title": "BOOMBAYAH-Japanese version-",
@@ -272,7 +278,8 @@
 		],
 		"normalurl": "TCGoR79ZZ9w",
 		"notes": [ 
-			{ "note": "note_SeeAlso", "s": [ "BOOMBAYAH-Japanese version- ANOTHER EDITION" ] }
+			{ "note": "note_SeeAlso", "s": [ "BOOMBAYAH-Japanese version- ANOTHER EDITION" ] }, 
+			{ "note": "note_Removed", "MM": 2, "s": [ 12, 2024 ] } 
 		],
 		"links": [ "BOOMBAYAH-Japanese version- ANOTHER EDITION" ]
 	},
@@ -290,7 +297,8 @@
 		"easyurl": "901669242485760041/Boombayah_ANOTHER_Easy.mp4",
 		"normalurl": "901669317458927616/Boombayah_ANOTHER_Normal.mp4",
 		"notes": [ 
-			{ "note": "note_SeeAlso", "s": [ "BOOMBAYAH-Japanese version-" ] }
+			{ "note": "note_SeeAlso", "s": [ "BOOMBAYAH-Japanese version-" ] }, 
+			{ "note": "note_Removed", "MM": 2, "s": [ 12, 2024 ] } 
 		],
 		"links": [ "BOOMBAYAH-Japanese version-" ]
 	},
@@ -2327,18 +2335,15 @@
 		"bpm": 149,
 		"easy": 5,
 		"normal": 7,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Starlight Kiss" ] }, 
-			{ "mission": "mission_ComboNSongs", "ing": "s", "genre": "genre", "s": [ 60, 3, "BEMANI " ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "SHINOBI" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "prev": "Previously", "s": [ "MUTSUKI" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**朧** ⇒ SHINOBI ⇒ MUTSUKI" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong2", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "A", 29, 2023, 20, "BAD", 20, "GOOD", 5 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ClearDanceGuide", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 29, 2023, 1 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 80, "Din Don Dan" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 80, "Din Don Dan" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, 5, "BAD", "Starlight Kiss" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "ing": "s", "genre": "genre", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 60, 3, "BEMANI " ] },  
 		],
 		"links": [ "朧", "SHINOBI", "MUTSUKI", "Starlight Kiss", "Din Don Dan" ],
 		"easyurl": "2Y8uizAjQf4",
@@ -2356,17 +2361,14 @@
 		"bpm": 128,
 		"easy": 7,
 		"normal": 9,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "GOOD", "True Blue (STARDOM Remix)" ] }, 
-			{ "mission": "mission_ComboNSongs", "ing": "s", "genre": "genre", "s": [ 100, 3, "EDM " ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "MUTSUKI" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n朧 ⇒ **SHINOBI** ⇒ MUTSUKI" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "A", 29, 2023, 2020, "PERFECT" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 29, 2023, 85, "Bad Boy Birdwatch" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 85, "Mandrake" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 85, "Mandrake" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, 5, "GOOD", "True Blue (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "mis": "Discount", "ing": "s", "genre": "genre", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 100, 3, "EDM " ] } 
 		],
 		"links": [ "朧", "SHINOBI", "MUTSUKI", "True Blue (STARDOM Remix)", "Bad Boy Birdwatch", "Mandrake" ],
 		"easyurl": "ywXuz2JuCp4",
@@ -2384,16 +2386,13 @@
 		"bpm": 138,
 		"easy": 6,
 		"normal": 10,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "Party Jumpin'" ] }, 
-			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 140, 3 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\n朧 ⇒ SHINOBI ⇒ **MUTSUKI**" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "A", 29, 2023, 2020 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 29, 2023, 90, "朧" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 90, "SHINOBI" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 90, "SHINOBI" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, 3, "BAD", "Party Jumpin'" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 140, 3 ] },  
 		],
 		"links": [ "朧", "SHINOBI", "MUTSUKI", "Party Jumpin'" ],
 		"easyurl": "XiZkYyHnWb4",
@@ -2683,16 +2682,13 @@
 		"bpm": 150,
 		"easy": 4,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "take me higher" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Undercover" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ **JOK3R** ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
-			{ "note": "note_SeeAlso", "s": [ "JOK3R RUNNING MAN EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "JOK3R RUNNING MAN EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "take me higher" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 1400 ] } 
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep", "JOK3R RUNNING MAN EDITION" ],
 		"easyurl": "hJGo6GoxELM",
@@ -2710,15 +2706,12 @@
 		"bpm": 130,
 		"easy": 4,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "JOK3R" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Midland Mainline" ] }, 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ **Undercover** ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ **Undercover** ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "JOK3R" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 1400 ] }
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
 		"easyurl": "ftCuRupsdy8",
@@ -2741,14 +2734,11 @@
 			{ "name": "default", "url": "dg3CvO_cppc" },
 			{ "name": "いちか/Ichika", "url": "clvmBWmuSe8" }
 		],
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "ミッドナイト☆WAR" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Forgetting Machine (RoughSketch Remix)" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Forgetting Machine (RoughSketch Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "ミッドナイト☆WAR" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 1400 ] } 
 		],
 		"links": [ "ミッドナイト☆WAR", "Forgetting Machine (RoughSketch Remix)" ],
 		"easyurl": "zuAzd77_LSM",
@@ -2767,16 +2757,13 @@
 		"bpm": 140,
 		"easy": 7,
 		"normal": 10,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Undercover" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Roughneck Disco" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ **Midland Mainline** ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
-			{ "note": "note_SeeAlso", "s": [ "Midland Mainline RUNNING MAN EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Midland Mainline RUNNING MAN EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "Undercover" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 1400 ] } 
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep", "Midland Mainline RUNNING MAN EDITION" ],
 		"easyurl": "0GnLNwE5hhI",
@@ -3039,7 +3026,6 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 150,
 		"easyurl": "QW8vMzQjU1Q",
 		"normalurl": "NdPcEM3855I"
 	},
@@ -3056,7 +3042,6 @@
 		"bpm": 115,
 		"easy": 6,
 		"normal": 8,
-		"stars": 150,
 		"notes": [ 
 			{ "note": "note_SeeAlso", "s": [ "December In Strasbourg CRAB STEP EDITION" ] }
 		],
@@ -3690,7 +3675,6 @@
 		"bpm": 140,
 		"easy": 4,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Set Me Free" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Drop The Bounce" ] }, 
@@ -3712,7 +3696,6 @@
 		"bpm": 150,
 		"easy": 6,
 		"normal": 9,
-		"stars": 60,
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Set Me Free" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Astrogazer" ] }, 
@@ -3734,7 +3717,6 @@
 		"bpm": 154,
 		"easy": 5,
 		"normal": 10,
-		"stars": 100,
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Set Me Free" ] }, 
 			"\n**SUMMER DANCE CAMP**:\nElectric Dance System Music ⇒ Drop The Bounce ⇒ **Astrogazer**" 
@@ -3965,7 +3947,6 @@
 		"bpm": 130,
 		"easy": 7,
 		"normal": 10,
-		"stars": 200,
 		"easyurl": "lvoV4qpXMf8",
 		"normalurl": "IaWAmbzUcU0"
 	},
@@ -3980,7 +3961,6 @@
 		"bpm": 110,
 		"easy": 6,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Honey Bounce" ] }, 
 			"**DANCERUSH STARDOM GYM2**:\n**Poochie** ⇒ Honey Bounce ⇒ BREDLI ⇒ BENJAMIN ⇒ Awakening" 
@@ -4001,17 +3981,14 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Poochie" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Poochie" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Poochie" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "BREDLI" ] }, 
 			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ **Honey Bounce** ⇒ BREDLI ⇒ BENJAMIN ⇒ Awakening", 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "HoneyComb" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "Poochie" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, "Poochie" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 95, "Poochie" ] } 
 		],
 		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "HoneyComb", "Funky Street" ],
 		"easyurl": "OveyIUsa_qI",
@@ -4029,17 +4006,14 @@
 		"bpm": 128,
 		"easy": 7,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Honey Bounce" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Honey Bounce" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Honey Bounce" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "BENJAMIN" ] }, 
 			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ **BREDLI** ⇒ BENJAMIN ⇒ Awakening", 
 			{ "note": "note_SeeAlso", "s": [ "BREDLI RUNNING MAN EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "新蛇姫" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "新蛇姫" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "Honey Bounce" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, "Honey Bounce" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 95, "Honey Bounce" ] } 
 		],
 		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "BREDLI RUNNING MAN EDITION", "新蛇姫" ],
 		"easyurl": "v-QdKImB89A",
@@ -4058,17 +4032,14 @@
 		"bpm": 132,
 		"easy": 6,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "BREDLI" ] }, 
-			{ "mission": "mission_Clear", "s": [ "BREDLI" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "BREDLI" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Awakening" ] }, 
 			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ BREDLI ⇒ **BENJAMIN** ⇒ Awakening", 
 			{ "note": "note_SeeAlso", "s": [ "BENJAMIN RUNNING MAN EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "BREDLI" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, "BREDLI" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 95, "BREDLI" ] } 
 		],
 		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "BENJAMIN RUNNING MAN EDITION" ],
 		"easyurl": "PgBo94ucPlQ",
@@ -4086,14 +4057,11 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "BENJAMIN" ] }, 
-			{ "mission": "mission_Clear", "s": [ "BENJAMIN" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "BENJAMIN" ] } 
-		],
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ BREDLI ⇒ BENJAMIN ⇒ **Awakening**" 
+			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ BREDLI ⇒ BENJAMIN ⇒ **Awakening**", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "BENJAMIN" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, "BENJAMIN" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 95, "BENJAMIN" ] } 
 		],
 		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening" ],
 		"easyurl": "TRXmVDoDDfg",
@@ -4117,14 +4085,11 @@
 			{ "name": "default", "url": "Wy968Z6UXow" },
 			{ "name": "いちか/Ichika", "url": "lgp3bMzcts0" }
 		],
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Catch Our Fire! (STARDOM Remix)" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "世界の果てに約束の凱歌を (STARDOM Remix)" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "世界の果てに約束の凱歌を (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, 5, "BAD", "Catch Our Fire! (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 2000 ] } 
 		],
 		"links": [ "Catch Our Fire! (STARDOM Remix)", "世界の果てに約束の凱歌を (STARDOM Remix)" ],
 		"easyurl": "lgp3bMzcts0",
@@ -4143,14 +4108,11 @@
 		"bpm": 133,
 		"easy": 7,
 		"normal": 10,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "Love 2 Shuffle" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Vamos A Bailar" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Vamos A Bailar" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, 5, "BAD", "Love 2 Shuffle" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 2000 ] } 
 		],
 		"links": [ "Love 2 Shuffle", "Vamos A Bailar" ],
 		"easyurl": "HtK7JhWKNNY",
@@ -4417,7 +4379,6 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 150,
 		"easyurl": "2uj0RuaUF-M",
 		"normalurl": "U-kBA4-MoM0",
 		"notes": [ 
@@ -9849,9 +9810,9 @@
 		"record": "Yes",
 		"folders": [ "EDM", "BEMANI" ],
 		"label": "CLASS, Otias ENT Produced",
-		"thumbnail": "New_High.png",
+		"thumbnail": "new_high_jacket.png",
 		"remyurl": "New_High",
-		"bpm": 140,
+		"bpm": 126,
 		"easy": 5,
 		"normal": 8,
 		"stars": 20,
@@ -9864,8 +9825,8 @@
 			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\nInto UR Heart ⇒ Sleepin' in the night ⇒ **New High** ⇒ Freeway Shuffle ⇒ Rushiest Rush" 
 		],
 		"links": [ "Into UR Heart", "Sleepin' in the night", "New High", "Freeway Shuffle", "Rushiest Rush" ],
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "aG3QHQbUfnQ&t=23s",
+		"normalurl": "az9MxGaElAs&t=23s"
 	},
 	{
 		"title": "Freeway Shuffle",
@@ -9888,8 +9849,8 @@
 			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\nInto UR Heart ⇒ Sleepin' in the night ⇒ New High ⇒ **Freeway Shuffle** ⇒ Rushiest Rush" 
 		],
 		"links": [ "Into UR Heart", "Sleepin' in the night", "New High", "Freeway Shuffle", "Rushiest Rush" ],
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "6jAGyfdKFjg&t=23s",
+		"normalurl": "sMgFZJaGaOo&t=23s"
 	},
 	{
 		"title": "Rushiest Rush",
@@ -9915,7 +9876,7 @@
 			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\nInto UR Heart ⇒ Sleepin' in the night ⇒ New High ⇒ Freeway Shuffle ⇒ **Rushiest Rush**" 
 		],
 		"links": [ "ROCK THE PARTY", "Virtual Bit", "ZZ (STARDOM Remix)", "Into UR Heart", "Sleepin' in the night", "New High", "Freeway Shuffle", "Rushiest Rush" ],
-		"easyurl": false,
+		"easyurl": "IySYeDrYqZw&t=23s",
 		"normalurl": "FndOcurslF8&t=23s"
 	}
 ]

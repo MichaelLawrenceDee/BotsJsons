@@ -2343,7 +2343,7 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_ClearDanceGuide", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 29, 2023, 1 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 80, "Din Don Dan" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, 5, "BAD", "Starlight Kiss" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "ing": "s", "genre": "genre", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 60, 3, "BEMANI " ] },  
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "ing": "s", "genre": "genre", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 60, 3, "BEMANI " ] }
 		],
 		"links": [ "朧", "SHINOBI", "MUTSUKI", "Starlight Kiss", "Din Don Dan" ],
 		"easyurl": "2Y8uizAjQf4",
@@ -2392,7 +2392,7 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 29, 2023, 90, "朧" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 90, "SHINOBI" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, 3, "BAD", "Party Jumpin'" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 140, 3 ] },  
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 140, 3 ] }
 		],
 		"links": [ "朧", "SHINOBI", "MUTSUKI", "Party Jumpin'" ],
 		"easyurl": "XiZkYyHnWb4",

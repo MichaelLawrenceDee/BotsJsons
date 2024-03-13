@@ -22359,8 +22359,8 @@
 					"label": "Normal(GB)",
 					"hr": "1-X-X-X-X",
 					"hrlabel": [[2,1],[4,1],[6,1],[8,1]],
-					"tap": { "star": "Jessi", "costume": false },
-					"long": { "star": "Aria", "costume": true },
+					"tap": { "star": "Jessi", "costume": true },
+					"long": { "star": "Aria", "costume": true, "skill": 9 },
 					"slide": { "star": "Dominiciel" },
 					"flick": { "star": "Rose", "leader": true },
 					"last_update": "???"
@@ -26156,6 +26156,7 @@
 			],
 			"normal": [
 				{
+					"lsd": "Perfect until x2 combo",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Horyeon", "costume": true },
@@ -26196,6 +26197,7 @@
 			"normal": [
 				{
 					"label": "Normal(GB)",
+					"lsd": "Perfect until x2 combo",
 					"tap": { "star": "Jessi", "costume": true },
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Horyeon", "costume": true },
@@ -29394,6 +29396,13 @@
 					"long": { "star": "Raphael", "skill": 9 },
 					"slide": { "star": "Horyeon", "costume": true, "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true }
+				},
+				{
+					"label": "Normal(GB)",
+					"tap": { "star": "Patra", "skill": 8 },
+					"long": { "star": "Django" },
+					"slide": { "star": "Horyeon", "costume": true },
+					"flick": { "star": "Rose", "leader": true }
 				}
 			],
 			"hard": [
@@ -31932,7 +31941,6 @@
 				{
 					"hr": "2-1-2-1-2-1-2-1-X",
 					"hrlabel": [[16,1]],
-					"lsd": "After the 1st LS, Perfect 4 slides.",
 					"tap": { "star": "Lucifer" },
 					"long": { "star": "Dr. Trasher" },
 					"slide": { "star": "Titana", "leader": true },

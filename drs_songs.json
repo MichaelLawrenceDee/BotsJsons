@@ -1294,8 +1294,10 @@
 		"normalurl": "10zRsC7M8JQ",
 		"group": "fSwZ4o73b0g",
 		"notes": [ 
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }  
-		]
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Ark" ] } 
+		],
+		"links": [ "Ark" ]
 	},
 	{
 		"title": "Saturday Night Love",
@@ -3231,9 +3233,10 @@
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Nocturnus" ] }, 
 			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ **Jalebi** ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda", 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Mandrake" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Mandrake" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Mandrake" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Passion" ] } 
 		],
-		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "Nocturnus" ],
+		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "Jalebi", "Mandrake", "Raw Crawler", "Bad Boy Birdwatch", "Garuda", "Nocturnus", "Passion" ],
 		"easyurl": "ZGNDuOjxrjs",
 		"normalurl": "vndFWQyRoOE"
 	},
@@ -4605,6 +4608,35 @@
 		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "エコ爺", "Next Stage 2022", "New Decade" ],
 		"easyurl": "JBPckMJj68Y",
 		"normalurl": "QRp5rH4rHTo"
+	},
+	{
+		"title": "Ark",
+		"artist": "kors k",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Ark.png",
+		"remyurl": "Ark",
+		"bpm": 145,
+		"easy": 6,
+		"normal": 9,
+		"stars": 60,
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] },
+			{ "mission": "mission_NoteTotal", "s": [ 2000, "PERFECT" ] },
+			{ "mission": "mission_ScoreSong", "s": [ 90, "smooooch・∀・" ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 7 ] }, 
+			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 1 ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Passion" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Ark** ⇒ Passion ⇒ Blue Sky" ] }  
+		],
+		"links": [ "smooooch・∀・", "Ark", "Passion", "Blue Sky" ],
+		"easyurl": "de9UmJIV8Ro&t=23s",
+		"normalurl": "vkJQn6HHdV8&t=23s"
 	},
 	{
 		"title": "Sparkle Smilin'",
@@ -6820,9 +6852,10 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Bloody Bounce" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Insomniac Nights" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**DANCE ALL NIGHT** ⇒ Insomniac Nights ⇒ Bloody Bounce ⇒ Next Stage 2022" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**DANCE ALL NIGHT** ⇒ Insomniac Nights ⇒ Bloody Bounce ⇒ Next Stage 2022" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Blue Sky" ] } 
 		],
-		"links": [ "Our Soul", "Night & Day", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022" ],
+		"links": [ "Our Soul", "Night & Day", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022", "Blue Sky" ],
 		"easyurl": "pJbMKsAgZGg",
 		"normalurl": "9VVj_olP6Io"
 	},
@@ -7553,7 +7586,7 @@
 		"normal": 7,
 		"stars": 80,
 		"discount": [ 
-			{ "mission": "mission_ClearAnySong", "s": [ 10 ] }, 
+			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 10 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 95, "Triple Cross" ] } 
 		],
 		"notes": [ 
@@ -9878,5 +9911,66 @@
 		"links": [ "ROCK THE PARTY", "Virtual Bit", "ZZ (STARDOM Remix)", "Into UR Heart", "Sleepin' in the night", "New High", "Freeway Shuffle", "Rushiest Rush" ],
 		"easyurl": "IySYeDrYqZw&t=23s",
 		"normalurl": "FndOcurslF8&t=23s"
+	},
+	{
+		"title": "Passion",
+		"artist": "KAN TAKAHIKO",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Passion_(KAN_TAKAHIKO).png",
+		"remyurl": "Passion_(KAN_TAKAHIKO)",
+		"bpm": "105-120",
+		"easy": 6,
+		"normal": 8,
+		"stars": 100,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Ark" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] },
+			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Jalebi" ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 1000 ] }, 
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 70, 1 ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Blue Sky" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nArk ⇒ **Passion** ⇒ Blue Sky" ] } 
+		],
+		"links": [ "Ark", "Passion", "Blue Sky", "Jalebi" ],
+		"easyurl": "ckbjy8_7QAI&t=23s",
+		"normalurl": "D8mi_Qa-Mdc&t=23s"
+	},
+	{
+		"title": "Blue Sky",
+		"artist": "Sota F.",
+		"artistalias": [ "Sota Fujimori" ],
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Blue_Sky.png",
+		"remyurl": "Blue_Sky",
+		"bpm": 142,
+		"easy": 6,
+		"normal": 9,
+		"stars": 200,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Passion" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "BEMANI" ] },
+			{ "mission": "mission_ClearAnySong", "diff": "Easy", "s": [ 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "DANCE ALL NIGHT" ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 15, 85 ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 20, "BAD", "Ark" ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 20, "BAD", "Passion" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nArk ⇒ Passion ⇒ **Blue Sky**" ] } 
+		],
+		"links": [ "Ark", "Passion", "Blue Sky", "DANCE ALL NIGHT" ],
+		"easyurl": false,
+		"normalurl": false
 	}
 ]

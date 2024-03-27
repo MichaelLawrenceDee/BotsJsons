@@ -2046,6 +2046,35 @@
 		"normalurl": "vPpc-O8Rwm4"
 	},
 	{
+		"title": "Ark",
+		"artist": "kors k",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Ark.png",
+		"remyurl": "Ark",
+		"bpm": 145,
+		"easy": 6,
+		"normal": 9,
+		"stars": 60,
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] },
+			{ "mission": "mission_NoteTotal", "s": [ 2000, "PERFECT" ] },
+			{ "mission": "mission_ScoreSong", "s": [ 90, "smooooch・∀・" ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 7 ] }, 
+			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 1 ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Passion" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Ark** ⇒ Passion ⇒ Blue Sky" ] }  
+		],
+		"links": [ "smooooch・∀・", "Ark", "Passion", "Blue Sky" ],
+		"easyurl": "de9UmJIV8Ro&t=23s",
+		"normalurl": "vkJQn6HHdV8&t=23s"
+	},
+	{
 		"title": "Sunrise (feat. LEO & Viola)",
 		"alias": [ "Sunrise (KAC)", "Sunrise (Spark Festival)", "Sunrise (SparkFes" ],
 		"artist": "Hommarju",
@@ -4608,35 +4637,6 @@
 		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "エコ爺", "Next Stage 2022", "New Decade" ],
 		"easyurl": "JBPckMJj68Y",
 		"normalurl": "QRp5rH4rHTo"
-	},
-	{
-		"title": "Ark",
-		"artist": "kors k",
-		"category": "discovery",
-		"record": "Yes",
-		"folders": [ "BEMANI" ],
-		"thumbnail": "Ark.png",
-		"remyurl": "Ark",
-		"bpm": 145,
-		"easy": 6,
-		"normal": 9,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] },
-			{ "mission": "mission_NoteTotal", "s": [ 2000, "PERFECT" ] },
-			{ "mission": "mission_ScoreSong", "s": [ 90, "smooooch・∀・" ] }
-		],
-		"discovery": [ 
-			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 7 ] }, 
-			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 1 ] } 
-		],
-		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Passion" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Ark** ⇒ Passion ⇒ Blue Sky" ] }  
-		],
-		"links": [ "smooooch・∀・", "Ark", "Passion", "Blue Sky" ],
-		"easyurl": "de9UmJIV8Ro&t=23s",
-		"normalurl": "vkJQn6HHdV8&t=23s"
 	},
 	{
 		"title": "Sparkle Smilin'",

@@ -345,6 +345,9 @@
 			{"region": "Colorado", "code": "CO", "locations": [
 				{"location":"Littleton", "roleId": "584741233977458710"}
 			]},
+			{"region": "Connecticut", "code": "CT", "locations": [
+				{"location":"Danbury Fair Mall", "roleId": "832850113361084456"}
+			]},
 			{"region": "Florida", "code": "FL", "locations": [
 				{"location":"Jacksonville Leaderboard", "roleId": "1063864478980112435"},
 				{"location":"Lake Mary Arcade Monsters", "roleId": "1063864496919150712"},
@@ -366,9 +369,6 @@
 			]},
 			{"region": "Kansas", "code": "KS", "locations": [
 				{"location":"Wichita", "roleId": "748209390854864917"}
-			]},
-			{"region": "Kentucky", "code": "KY", "locations": [
-				{"location":"Louisville", "roleId": "832850113361084456"}
 			]},
 			{"region": "Massachusetts", "code": "MA", "locations": [
 				{"location":"Holyoke", "roleId": "653453087427788800"}

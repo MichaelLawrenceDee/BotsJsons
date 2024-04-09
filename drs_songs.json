@@ -8060,7 +8060,7 @@
 		"label": "CLASS",
 		"thumbnail": "shuffle_the_cards_RM_Ver_Jacket.png",
 		"remyurl": "Shuffle_The_Cards",
-		"bpm": 110,
+		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
 		"stars": 40,
@@ -9951,7 +9951,7 @@
 		"folders": [ "BEMANI" ],
 		"thumbnail": "Blue_Sky.png",
 		"remyurl": "Blue_Sky",
-		"bpm": 142,
+		"bpm": 145,
 		"easy": 6,
 		"normal": 9,
 		"stars": 200,
@@ -9970,7 +9970,21 @@
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nArk ⇒ Passion ⇒ **Blue Sky**" ] } 
 		],
 		"links": [ "Ark", "Passion", "Blue Sky", "DANCE ALL NIGHT" ],
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "tLhda330wNk&t=23s",
+		"normalurl": "rSbbjOnFbCQ&t=23s"
+	},
+	{
+		"title": "Keiko my love",
+		"alias": [ "Sumo" ],
+		"artist": "Jimmy Weckl",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Keiko_my_love.png",
+		"remyurl": "Keiko_my_love",
+		"bpm": 120,
+		"easy": 3,
+		"normal": 7,
+		"easyurl": "yDlvmFLafEc&t=23s",
+		"normalurl": "eAmQFD1af38&t=23s"
 	}
 ]

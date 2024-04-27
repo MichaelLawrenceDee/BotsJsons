@@ -350,7 +350,7 @@
 		"easyurl": "Neq1k1GZo_Q",
 		"normalurl": "vzkA22K6h-8",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Heat Up The Dancefloor" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Heat Up The Dancefloor" ] } 
 		],
 		"links": [ "Heat Up The Dancefloor" ]
 	},
@@ -564,7 +564,8 @@
 		"normalurl": "muU63c9AZTw",
 		"group": "lI-5u0x7Fxo",
 		"notes": [ 
-			{ "note": "note_SeeAlso", "s": [ "女々しくて ANOTHER EDITION" ] }
+			{ "note": "note_SeeAlso", "s": [ "女々しくて ANOTHER EDITION" ] }, 
+			{ "note": "note_Removed", "MM": 3, "s": [ 16, 2024 ] } 
 		],
 		"links": [ "女々しくて ANOTHER EDITION" ]
 	},
@@ -583,7 +584,8 @@
 		"easyurl": "901850912065224785/Meme_ANOTHER_Easy.mp4",
 		"normalurl": "901852094645026816/Meme_ANOTHER_Normal.mp4",
 		"notes": [ 
-			{ "note": "note_SeeAlso", "s": [ "女々しくて" ] }
+			{ "note": "note_SeeAlso", "s": [ "女々しくて" ] }, 
+			{ "note": "note_Removed", "MM": 3, "s": [ 16, 2024 ] } 
 		],
 		"links": [ "女々しくて" ]
 	},
@@ -1453,7 +1455,7 @@
 		"easy": 3,
 		"normal": 7,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Broadway Walk" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Broadway Walk" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] } 
 		],
 		"links": [ "Broadway Walk", "Thank You Merry Christmas -DANCERUSH Mix-" ],
@@ -1921,7 +1923,7 @@
 		"easy": 4,
 		"normal": 8,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Nocturnus" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Nocturnus" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
 		],
 		"links": [ "Nocturnus" ],
@@ -2714,7 +2716,7 @@
 		"easy": 4,
 		"normal": 9,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Undercover" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Undercover" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ **JOK3R** ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "JOK3R RUNNING MAN EDITION" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "take me higher" ] }, 
@@ -2738,7 +2740,7 @@
 		"easy": 4,
 		"normal": 9,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Midland Mainline" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Midland Mainline" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ **Undercover** ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "JOK3R" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 5 ] }, 
@@ -2789,7 +2791,7 @@
 		"easy": 7,
 		"normal": 10,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Roughneck Disco" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Roughneck Disco" ] }, 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ **Midland Mainline** ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Midland Mainline RUNNING MAN EDITION" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "Undercover" ] }, 
@@ -2813,15 +2815,12 @@
 		"bpm": 132,
 		"easy": 7,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Midland Mainline" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Villains" ] }, 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ **Roughneck Disco** ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Villains" ] }, 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ **Roughneck Disco** ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 17, 2024, "Midland Mainline" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 17, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 17, 2024, 1400 ] } 
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
 		"easyurl": "_YU9qJ9hNOQ",
@@ -4163,7 +4162,6 @@
 		"bpm": 174,
 		"easy": 5,
 		"normal": 7,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "ランニングマンレッスン応用編", "SigSig" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\n**Forgetting Machine RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Midnight Amaretto RUNNING MAN EDITION", 
@@ -4189,7 +4187,6 @@
 		"bpm": 135,
 		"easy": 7,
 		"normal": 9,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 15, "BAD", "Second Heaven -Samba,Samba,SomeBody MIX-", 85, "Forgetting Machine RUNNING MAN EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\nForgetting Machine RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Midnight Amaretto RUNNING MAN EDITION**", 
@@ -4213,7 +4210,6 @@
 		"bpm": 105,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "Tステップレッスン応用編", "Saturday Night Love -Phunk Disco Mix-" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\n**Bad Riddim T STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ DOWNER & UPPER T STEP EDITION", 
@@ -4237,7 +4233,6 @@
 		"bpm": 140,
 		"easy": 6,
 		"normal": 9,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 20, "GOOD", "Hastur", 85, "Bad Riddim T STEP EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\nBad Riddim T STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **DOWNER & UPPER T STEP EDITION**", 
@@ -4261,7 +4256,6 @@
 		"bpm": 214,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "スポンジボブレッスン", "Robot Loves Smoked-Salmon" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\n**†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION", 
@@ -4285,7 +4279,6 @@
 		"bpm": 135,
 		"easy": 6,
 		"normal": 9,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "GREAT", "Kill The Beat", 85, "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) SPONGEBOB EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Second Heaven -Samba,Samba,SomeBody MIX- SPONGEBOB EDITION**", 
@@ -4309,7 +4302,6 @@
 		"bpm": 128,
 		"easy": 8,
 		"normal": 10,
-		"stars": 100,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNAnySong2,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ 20, "GOOD", 30, "GREAT", 3, 2000 ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
@@ -4333,7 +4325,6 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 8,
-		"stars": 80,
 		"easyurl": "N4CV3wfQ-mw",
 		"normalurl": "iXZf3NrV1YY",
 		"notes": [ 
@@ -4354,7 +4345,6 @@
 		"bpm": 160,
 		"easy": 7,
 		"normal": 10,
-		"stars": 80,
 		"easyurl": "tAlDDkBTiME",
 		"normalurl": "Ailz4IXidYo",
 		"notes": [ 
@@ -4373,7 +4363,6 @@
 		"bpm": 150,
 		"easy": 6,
 		"normal": 9,
-		"stars": 80,
 		"easyurl": "DCirpwYFcs8",
 		"normalurl": "HgTMpoHAXeY",
 		"notes": [ 
@@ -4394,7 +4383,6 @@
 		"bpm": 152,
 		"easy": 5,
 		"normal": 9,
-		"stars": 80,
 		"easyurl": "A2A4117Ycxg",
 		"normalurl": "Vaggy9j-3kE"
 	},
@@ -4449,15 +4437,12 @@
 		"bpm": 155,
 		"easy": 6,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Roughneck Disco" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "PRANK" ] }, 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ **Villains** ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] } 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ **Villains** ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 17, 2024, "Roughneck Disco" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 17, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 17, 2024, 1400 ] } 
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
 		"easyurl": "wKCbqi2pXfA",
@@ -4475,7 +4460,6 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crazy For You" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "ALGORITHM" ] }, 
@@ -4498,7 +4482,6 @@
 		"bpm": 130,
 		"easy": 5,
 		"normal": 9,
-		"stars": 60,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crazy For You" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "EGOISM 110" ] }, 
@@ -4521,7 +4504,6 @@
 		"bpm": 110,
 		"easy": 7,
 		"normal": 10,
-		"stars": 100,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Crazy For You" ] }, 
 			"\n**SUMMER DANCE CAMP 2020**:\nThis Beat Is..... ⇒ ALGORITHM ⇒ **EGOISM 110**", 
@@ -4561,18 +4543,15 @@
 		"bpm": 108,
 		"easy": 4,
 		"normal": 8,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 10, "BAD", 3 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Auto Click" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Broadway Walk" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Heat Up The Dancefloor" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Nocturnus** ⇒ Broadway Walk ⇒ Heat Up The Dancefloor" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 31, 2023, 3, "EDM" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "B", 31, 2023, 80, "Jalebi" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "noextra": "noExtra", "origlength": 3, "s": [ "C", 31, 2023, 80, "さよならトリップ" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "noextra": "noExtra", "origlength": 3, "s": [ "C", 31, 2023, 80, "さよならトリップ" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 17, 2024, 10, "BAD", 3 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 17, 2024, 90, "Auto Click" ] } 
 		],
 		"links": [ "Auto Click", "Jalebi", "さよならトリップ", "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor" ],
 		"easyurl": "YXeH46u_VjA",
@@ -4591,18 +4570,15 @@
 		"bpm": 117,
 		"easy": 6,
 		"normal": 8,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_GetNSongs", "s": [ 10, "GOOD", 3, "EDM" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "アルストロメリア (walk with you remix)" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Heat Up The Dancefloor" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nNocturnus ⇒ **Broadway Walk** ⇒ Heat Up The Dancefloor" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Broadway Walk CHARLESTON EDITION" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 31, 2023, 23, "BAD", "C'mon baby" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "B", 31, 2023, 85, "Majestic" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 4, "noextra": "noExtra", "origlength": 3, "s": [ "C", 31, 2023, 2000, "PERFECT" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 4, "noextra": "noExtra", "origlength": 3, "s": [ "C", 31, 2023, 2000, "PERFECT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 17, 2024, 10, "GOOD", 3, "EDM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 17, 2024, 95, "アルストロメリア (walk with you remix)" ] }  
 		],
 		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "アルストロメリア (walk with you remix)", "C'mon baby", "Majestic", "Broadway Walk CHARLESTON EDITION" ],
 		"easyurl": "5kwB3WW9YRY",
@@ -4621,18 +4597,15 @@
 		"bpm": 132,
 		"easy": 7,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_GetNSongs", "s": [ 5, "BAD", 5, "GOOD", 3, "BEMANI" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 98, "エコ爺" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Next Stage 2022" ] },
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nNocturnus ⇒ Broadway Walk ⇒ **Heat Up The Dancefloor**" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 31, 2023, 2018 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "B", 31, 2023, 90, "Nocturnus" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "noextra": "noExtra", "origlength": 3, "s": [ "C", 31, 2023, 90, "Broadway Walk" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "New Decade" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "New Decade" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 17, 2024, 5, "BAD", 5, "GOOD", 3, "BEMANI" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 17, 2024, 98, "エコ爺" ] } 
 		],
 		"links": [ "Nocturnus", "Broadway Walk", "Heat Up The Dancefloor", "エコ爺", "Next Stage 2022", "New Decade" ],
 		"easyurl": "JBPckMJj68Y",
@@ -4651,7 +4624,6 @@
 		"bpm": 180,
 		"easy": 5,
 		"normal": 7,
-		"stars": 80,
 		"easyurl": "5a9W56oyXRo",
 		"normalurl": "jzNpTj5qZyg"
 	},
@@ -9986,5 +9958,35 @@
 		"normal": 7,
 		"easyurl": "yDlvmFLafEc&t=23s",
 		"normalurl": "eAmQFD1af38&t=23s"
+	},
+	{
+		"title": "明鏡止水 (STARDOM Remix)",
+		"alias": [ "Meikyoushisui", "Meikyo water stop" ],
+		"artist": "MK",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS",
+		"thumbnail": "beanball-jacket.png",
+		"remyurl": "Meikyoushisui_(STARDOM_Remix).png",
+		"bpm": 135,
+		"easy": 6,
+		"normal": 9,
+		"stars": 160,
+		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "明鏡止水 (STARDOM Remix)" ] },
+		"singlediscount": true,
+		"discount": [ 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "明鏡止水 (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "明鏡止水 (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "明鏡止水 (STARDOM Remix)", 2 ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "明鏡止水 (STARDOM Remix)", 2 ] }
+		],
+		"notes": [ 
+			{ "note": "note_Random" } 
+		],
+		"easyurl": "5H4QDeQ7gVA&t=23s",
+		"normalurl": "H6RInMXmjrU&t=23s"
 	}
 ]

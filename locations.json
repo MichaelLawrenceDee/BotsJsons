@@ -47,6 +47,13 @@
 		"regions": []
 	},
 	{
+		"country": "Finland",
+		"code": "FI",
+		"flag": "🇫🇮",
+		"roleId": "1248521008617492510",
+		"regions": []
+	},
+	{
 		"country": "Hong Kong",
 		"code": "HK",
 		"flag": "🇭🇰",

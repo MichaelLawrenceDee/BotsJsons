@@ -7031,7 +7031,7 @@
 		"alias": [ "Ue ue shita shita hidari migi hidari migi BA", "Up up down down left right left right BA", "Konami Code" ],
 		"artist": "meiyo",
 		"category": "sparkfes2021",
-		"record": "Yes",
+		"record": "Yes, not downloadable",
 		"folders": [ "POPS", "Songs with MV" ],
 		"thumbnail": "upup_jacket.png",
 		"remyurl": "Ue_ue_shita_shita_hidari_migi_hidari_migi_BA",
@@ -7055,7 +7055,7 @@
 		"alias": [ "Ue ue shita shita hidari migi hidari migi BA", "Up up down down left right left right BA", "Konami Code" ],
 		"artist": "TOKYO MACHINE",
 		"category": "sparkfes2021",
-		"record": "Yes",
+		"record": "Yes, not downloadable",
 		"folders": [ "POPS", "BEMANI", "Songs with MV" ],
 		"thumbnail": "Gradius_Remix.png",
 		"remyurl": "GRADIUS_REMIX（UUDDLRLRBA_Ver.)",
@@ -9988,5 +9988,21 @@
 		],
 		"easyurl": "5H4QDeQ7gVA&t=23s",
 		"normalurl": "H6RInMXmjrU&t=23s"
+	},
+	{
+		"title": "Stay Alone",
+		"artist": "コバヤシユウヤ(IOSYS)",
+		"artistalias": [ "Yuya Kobayashi", "Kobayashiyuuya" ],
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Stay_Alone.png",
+		"remyurl": "Stay_Alone",
+		"bpm": 128,
+		"easy": 6,
+		"normal": 8,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "drcuWEtK7Yo&t=23s",
+		"normalurl": "P-Afj4c23uk&t=23s"
 	}
 ]

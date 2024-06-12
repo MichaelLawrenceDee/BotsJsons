@@ -334,6 +334,9 @@
 				{"location":"Glendale", "roleId": "1201091079341080606"},
 				{"location":"Tucson", "roleId": "643014654133665823"}
 			]},
+			{"region": "Arkansas", "code": "AR", "locations": [
+				{"location":"Lucky Cat Arcade", "roleId": "1250258677475180626"}
+			]},
 			{"region": "California", "code": "CA", "locations": [
 				{"location":"Burbank", "roleId": "662885758696161311"},
 				{"location":"Folsom", "roleId": "1076378591216013423"},

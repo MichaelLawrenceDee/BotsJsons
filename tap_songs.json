@@ -4623,7 +4623,7 @@
 					"long": { "star": "Beatrice", "costume": true },
 					"slide": { "star": "Nicol" },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
-					"last_update": "08 Aug 2021"
+					"last_update": "30 Jun 2024"
 				}
 			],
 			"normal": [
@@ -4641,10 +4641,9 @@
 				{
 					"hr": "2-1-3-X-X",
 					"hrlabel": [[6,1],[8,1]],
-					"lsd": "GOOD longs on x2, GOOD w/o x2 and until before 1st long of 3-3",
-					"tap": { "star": "Kermilla" },
+					"tap": { "star": "Eve", "leader": true },
 					"long": { "star": "Raphael" },
-					"slide": { "star": "Dominiciel", "leader": true },
+					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true }
 				}
 			],
@@ -4708,21 +4707,21 @@
 					"label": "Hard/Alt",
 					"hr": "2-1-3-X-X",
 					"hrlabel": [[6,1],[8,1]],
+					"lsd": "GOOD longs on x2, GOOD w/o x2 and until before 1st long of 3-3",
+					"tap": { "star": "Kermilla" },
+					"long": { "star": "Raphael" },
+					"slide": { "star": "Dominiciel", "leader": true },
+					"flick": { "star": "Slasher", "costume": true }
+				},
+				{
+					"hr": "   ''",
+					"hrlabel": [],
 					"lsd": "None (Also used in GB using Rose (L))",
 					"tap": { "star": "Kermilla" },
 					"long": { "star": "Raphael" },
 					"slide": { "star": "Nicol", "skill": 9 },
 					"flick": { "star": "Slasher", "costume": true, "leader": true },
 					"last_update": "08 Aug 2021"
-				},
-				{
-					"hr": "   ''",
-					"hrlabel": [],
-					"lsd": "None (Potentially top meta if Eve is enhanced enough)",
-					"tap": { "star": "Eve", "leader": true },
-					"long": { "star": "Raphael" },
-					"slide": { "star": "Nicol", "skill": 9 },
-					"flick": { "star": "Slasher", "costume": true }
 				},
 				{
 					"label": "Hard(GB)",
@@ -33213,6 +33212,14 @@
 		},
 		"altteams": {
 			"easy": [
+				{
+					"label": "Easy(GB)",
+					"lsd": "(Same team as rank)",
+					"tap": { "star": "" },
+					"long": { "star": "" },
+					"slide": { "star": "" },
+					"flick": { "star": "" }
+				}
 			],
 			"normal": [
 				{

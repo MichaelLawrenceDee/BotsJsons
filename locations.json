@@ -412,6 +412,7 @@
 				{"location":"Reno", "roleId": "682057274356793344"}
 			]},
 			{"region": "New York", "code": "NY", "locations": [
+				{"location":"Gatcha Tangram", "roleId": "1260194488941547550"},
 				{"location":"Hicksville", "roleId": "571739486585880616"},
 				{"location":"Middletown", "roleId": "575717897847046145"}
 			]},

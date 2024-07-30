@@ -73,7 +73,8 @@
 				{"location":"Playtopia @ SUN Plaza Medan", "roleId": "1117783574607843459"}
 			]},
 			{"region": "North Jakarta", "code": "DKI North", "locations": [
-				{"location":"Amazone @ Mall Artha Gading", "roleId": "1117783595487080520"}
+				{"location":"Amazone @ Mall Artha Gading", "roleId": "1117783595487080520"},
+				{"location":"Cow Play Cow Moo @ Pluit Village", "roleId": "1267753750752399401"}
 			]},
 			{"region": "Surabaya", "code": "Jatim", "locations": [
 				{"location":"Timezone @ Galaxy Mall 3", "roleId": "1117783602114080818"}

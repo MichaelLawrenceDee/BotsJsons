@@ -3709,9 +3709,10 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Set Me Free" ] }, 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Drop The Bounce" ] }, 
-			"\n**SUMMER DANCE CAMP**:\n**Electric Dance System Music** ⇒ Drop The Bounce ⇒ Astrogazer" 
+			"\n**SUMMER DANCE CAMP**:\n**Electric Dance System Music** ⇒ Drop The Bounce ⇒ Astrogazer", 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Mouse Music" ] } 
 		],
-		"links": [ "Set Me Free", "Electric Dance System Music", "Drop The Bounce", "Astrogazer" ],
+		"links": [ "Set Me Free", "Electric Dance System Music", "Drop The Bounce", "Astrogazer", "Mouse Music" ],
 		"easyurl": "fgWTy6q4Sx8",
 		"normalurl": "gWHn6UXsjfw"
 	},
@@ -4873,9 +4874,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "UCHU" ] }, 
-			"**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ **Crazy For You**" 
+			"**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ **Crazy For You**", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Mouse Music" ] } 
 		],
-		"links": [ "This Beat Is.....", "ALGORITHM", "EGOISM 110", "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You" ],
+		"links": [ "This Beat Is.....", "ALGORITHM", "EGOISM 110", "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You", "Mouse Music" ],
 		"easyurl": "dx1KM991wZA",
 		"normalurl": "hgkJaFCJzWc"
 	},
@@ -10004,5 +10006,34 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "drcuWEtK7Yo&t=23s",
 		"normalurl": "P-Afj4c23uk&t=23s"
+	},
+	{
+		"title": "Mouse Music",
+		"artist": "uno(IOSYS TRAX)",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS",
+		"thumbnail": "mouse_music_jacket.png",
+		"remyurl": "Mouse_Music",
+		"bpm": 127,
+		"easy": 6,
+		"normal": 8,
+		"stars": 60,
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "BEMANI" ] },
+			{ "mission": "mission_NoteTotal", "s": [ 1500, "PERFECT" ] },
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Crazy For You" ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 700 ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 100, "GREAT", "Electric Dance System Music" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Mouse Music** ⇒ ??? ⇒ ???" ] }  
+		],
+		"links": [ "Crazy For You", "Electric Dance System Music", "Mouse Music" ],
+		"easyurl": "tHJ2ufL5nlo&t=23s",
+		"normalurl": "je3LNGspTew&t=23s"
 	}
 ]

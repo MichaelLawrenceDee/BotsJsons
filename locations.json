@@ -320,6 +320,9 @@
 			{"region": "Leeds", "code": "LBA", "locations": [
 				{"location":"Arcade Club Leeds", "roleId": "1118189944544968704"}
 			]},
+			{"region": "Liverpool", "code": "LPL", "locations": [
+				{"location":"ArCains Liverpool", "roleId": "1270694837221458032"}
+			]},
 			{"region": "London", "code": "LON", "locations": [
 				{"location":"FreePlayCity", "roleId": "1118189947736817805"}
 			]}

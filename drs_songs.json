@@ -2070,6 +2070,7 @@
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Passion" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Blue Sky" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Ark** ⇒ Passion ⇒ Blue Sky" ] }  
 		],
 		"links": [ "smooooch・∀・", "Ark", "Passion", "Blue Sky" ],
@@ -2672,9 +2673,10 @@
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nFLOWER (STARDOM Remix) ⇒ THE SAFARI (STARDOM Remix) ⇒ **BEYOND THE EARTH (STARDOM Remix)** ⇒ 灼熱Beach Side Bunny (STARDOM Remix)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "THE SAFARI (STARDOM Remix)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, 5 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "C", 4, 2023, 1400 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "C", 4, 2023, 1400 ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Last Summer" ] } 
 		],
-		"links": [ "FLOWER (STARDOM Remix)", "THE SAFARI (STARDOM Remix)", "BEYOND THE EARTH (STARDOM Remix)", "灼熱Beach Side Bunny (STARDOM Remix)" ],
+		"links": [ "FLOWER (STARDOM Remix)", "THE SAFARI (STARDOM Remix)", "BEYOND THE EARTH (STARDOM Remix)", "灼熱Beach Side Bunny (STARDOM Remix)", "Last Summer" ],
 		"easyurl": "zlH2-rdFciA",
 		"normalurl": "6voIEH0K7Po"
 	},
@@ -3662,9 +3664,10 @@
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Switch SPONGEBOB EDITION" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Set Me Free" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Set Me Free" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Set Me Free" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Barbless Ego" ] } 
 		],
-		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Switch SPONGEBOB EDITION" ],
+		"links": [ "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Switch SPONGEBOB EDITION", "Barbless Ego" ],
 		"easyurl": "fLDYuMWvayw",
 		"normalurl": "gwBNCmZJfpg"
 	},
@@ -6519,7 +6522,7 @@
 	{
 		"title": "怪物",
 		"alias": [ "Kaibutsu", "Monster" ],
-		"artist": "Ayase",
+		"artist": "YOASOBI",
 		"record": "No",
 		"folders": [ "POPS" ],
 		"thumbnail": "Kaibutsucoverart.jpg",
@@ -8992,7 +8995,7 @@
 		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 5 ] },
-			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 80, 1 ] }, 
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 80, 1 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 80, "ATRAX" ] }
 		],
 		"notes": [ 
@@ -9016,7 +9019,7 @@
 		"stars": 100,
 		"discount": [ 
 			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 5 ] },
-			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 80, 1 ] }, 
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 80, 1 ] }, 
 			{ "mission": "mission_ScoreSong", "s": [ 80, "MOVE! (We Keep It Movin')" ] }
 		],
 		"links": [ "MOVE! (We Keep It Movin')" ],
@@ -9898,7 +9901,7 @@
 		"easy": 6,
 		"normal": 8,
 		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Ark" ] },
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "anddiscover": "anddiscover", "s": [ "Ark" ] },
 		"discount": [ 
 			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] },
 			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] }, 
@@ -10030,10 +10033,73 @@
 			{ "mission": "mission_GetNOnSong", "s": [ 100, "GREAT", "Electric Dance System Music" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Mouse Music** ⇒ ??? ⇒ ???" ] }  
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Last Summer" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Barbless Ego" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Mouse Music** ⇒ Last Summer ⇒ Barbless Ego" ] }  
 		],
-		"links": [ "Crazy For You", "Electric Dance System Music", "Mouse Music" ],
+		"links": [ "Crazy For You", "Electric Dance System Music", "Mouse Music", "Last Summer", "Barbless Ego" ],
 		"easyurl": "tHJ2ufL5nlo&t=23s",
 		"normalurl": "je3LNGspTew&t=23s"
+	},
+	{
+		"title": "Last Summer",
+		"artist": "BEMANI Sound Team \"Monolith vs. Nautilus\"",
+		"artistalias": [ "BST" ],
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Last_Summer.png",
+		"remyurl": "Last_Summer",
+		"bpm": 132,
+		"easy": 7,
+		"normal": 9,
+		"stars": 100,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Mouse Music" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] }, 
+			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "BEYOND THE EARTH (STARDOM Remix)" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 10, "EDM" ] }, 
+			{ "mission": "mission_NoteTotal", "s": [ 2500, "PERFECT" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Barbless Ego" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMouse Music ⇒ **Last Summer** ⇒ Barbless Ego" ] }  
+		],
+		"links": [ "BEYOND THE EARTH (STARDOM Remix)", "Mouse Music", "Last Summer", "Barbless Ego" ],
+		"easyurl": false,
+		"normalurl": false
+	},
+	{
+		"title": "Barbless Ego",
+		"artist": "MAD CHILD",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Barbless_Ego.png",
+		"remyurl": "Barbless_Ego",
+		"bpm": 150,
+		"easy": 8,
+		"normal": 10,
+		"stars": 200,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Last Summer" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 5, "EDM" ] }, 
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 300, 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "Switch" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 15, 85 ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 20, "BAD", "Mouse Music" ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 20, "BAD", "Last Summer" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMouse Music ⇒ Last Summer ⇒ **Barbless Ego**" ] }  
+		],
+		"links": [ "Switch", "Mouse Music", "Last Summer", "Barbless Ego" ],
+		"easyurl": false,
+		"normalurl": false
 	}
 ]

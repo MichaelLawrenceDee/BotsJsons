@@ -9901,7 +9901,7 @@
 		"easy": 6,
 		"normal": 8,
 		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "ing": "ing", "anddiscover": "anddiscover", "s": [ "Ark" ] },
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Ark" ] },
 		"discount": [ 
 			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] },
 			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] }, 
@@ -9912,7 +9912,7 @@
 			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 70, 1 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Blue Sky" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Blue Sky" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nArk ⇒ **Passion** ⇒ Blue Sky" ] } 
 		],
 		"links": [ "Ark", "Passion", "Blue Sky", "Jalebi" ],

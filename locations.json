@@ -171,6 +171,13 @@
 		]
 	},
 	{
+		"country": "Myanmar",
+		"code": "MM",
+		"flag": "🇲🇲",
+		"roleId": "1275277676348968990",
+		"regions": []
+	},
+	{
 		"country": "Netherlands",
 		"code": "NL",
 		"flag": "🇳🇱",

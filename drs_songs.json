@@ -10101,5 +10101,20 @@
 		"links": [ "Switch", "Mouse Music", "Last Summer", "Barbless Ego" ],
 		"easyurl": "ST5Jgg4s_4g&t=23s",
 		"normalurl": "fUmnFk6I0iI&t=23s"
+	},
+	{
+		"title": "I-W-U (I Want U)",
+		"artist": "nagomu tamaki",
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "I-W-U_(I_Want_U).png",
+		"remyurl": "I-W-U_(I_Want_U)",
+		"bpm": 150,
+		"easy": 7,
+		"normal": 9,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "h_dZAOwEYJY&t=23s",
+		"normalurl": "2FHaQImOIKs&t=23s"
 	}
 ]

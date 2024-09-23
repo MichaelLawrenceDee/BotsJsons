@@ -17,6 +17,7 @@
 				{"location":"Macquarie Park", "roleId": "683629865957589005"}
 			]},
 			{"region": "Queensland", "code": "QLD", "locations": [
+				{"location":"Coolangatta", "roleId": "1287651074781745224"},
 				{"location":"Garden City", "roleId": "683629978784497664"},
 				{"location":"Surfers Paradise", "roleId": "683630033645862984"}
 			]},
@@ -25,7 +26,8 @@
 			]},
 			{"region": "Victoria", "code": "VIC", "locations": [
 				{"location":"Crown", "roleId": "683630083847749674"},
-				{"location":"Eastland", "roleId": "683630120518680592"}
+				{"location":"Eastland", "roleId": "683630120518680592"},
+				{"location":"Southland", "roleId": "1287651081882570827"}
 			]},
 			{"region": "Western Australia", "code": "WA", "locations": [
 				{"location":"Northbridge", "roleId": "683630205423976467"}

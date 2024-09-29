@@ -18,7 +18,7 @@
 		],
 		"normalurl": "901429273192185886/LADY_Normal.mp4",
 		"notes": [
-			{ "note": "note_Removed", "MM": 2, "s": [ 12, 2024 ] }
+			{ "note": "note_Removed", "MM": 2, "s": [ 12, 2024 ] } 
 		]
 	},
 	{
@@ -35,7 +35,7 @@
 		"easyurl": "901437241916813342/MEGA_SHAKE_IT__Easy.mp4",
 		"normalurl": "901438211996405810/MEGA_SHAKE_IT__Normal.mp4",
 		"notes": [
-			{ "note": "note_Removed", "MM": 3, "s": [ 16, 2021 ] }
+			{ "note": "note_Removed", "MM": 3, "s": [ 16, 2021 ] } 
 		]
 	},
 	{
@@ -1705,7 +1705,8 @@
 			{ "note": "note_PrevUnlockBy", "mission": "mission_Clear", "origlength": 0, "ing": "ing", "s": [ "Don't Stop!!" ] }, 
 			{ "note": "note_OldMission", "mission": "mission_Clear", "mis": "Discount", "origlength": 0, "s": [ "Gimme a Big Beat" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DUB I DUB" ] }, 
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Garuda" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Garuda" ] }, 
+			{ "note": "note_Removed", "MM": 9, "s": [ 22, 2024 ] } 
 		],
 		"links": [ "Don't Stop!!", "Gimme a Big Beat", "DUB I DUB", "Garuda" ],
 		"easyurl": "_Wibt185l9s",
@@ -2377,7 +2378,7 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_ClearDanceGuide", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 29, 2023, 1 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 29, 2023, 80, "Din Don Dan" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, 5, "BAD", "Starlight Kiss" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "ing": "s", "genre": "genre", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 60, 3, "BEMANI " ] }
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "ing": "s", "genre": "genre", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 60, 3, "BEMANI " ] } 
 		],
 		"links": [ "朧", "SHINOBI", "MUTSUKI", "Starlight Kiss", "Din Don Dan" ],
 		"easyurl": "2Y8uizAjQf4",
@@ -5033,7 +5034,6 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "チャールストンレッスン", "50th Memorial Songs -Beginning Story-" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\n**NewAige CHARLESTON EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ GHOST KINGDOM CHARLESTON EDITION", 
@@ -5059,7 +5059,6 @@
 		"bpm": 118,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 15, "BAD", "Starlight Kiss", 85, "NewAige CHARLESTON EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\nNewAige CHARLESTON EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **GHOST KINGDOM CHARLESTON EDITION**", 
@@ -5082,7 +5081,6 @@
 		"bpm": 125,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "クラブステップレッスン", "Rip It Off (Now) Rip It Off" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\n**Majestic CRAB STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Robot Loves Smoked-Salmon CRAB STEP EDITION", 
@@ -5107,7 +5105,6 @@
 		"bpm": 120,
 		"easy": 4,
 		"normal": 7,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 20, "GOOD", "RAVELINE ATTACK", 85, "Majestic CRAB STEP EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\nMajestic CRAB STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Robot Loves Smoked-Salmon CRAB STEP EDITION**", 
@@ -5130,7 +5127,6 @@
 		"bpm": 129,
 		"easy": 6,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_Clear,mission_Clear", "mis": "Event", "origlength": 0, "s": [ "ステップバリエーション2", "Small Steps" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\n**Don't Stop!! RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Party Jumpin' RUNNING MAN EDITION", 
@@ -5154,7 +5150,6 @@
 		"bpm": 138,
 		"easy": 6,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNOnSong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "GREAT", "Fire Spirit", 85, "Don't Stop!! RUNNING MAN EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\nDon't Stop!! RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Party Jumpin' RUNNING MAN EDITION**", 
@@ -5177,7 +5172,6 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 8,
-		"stars": 100,
 		"notes": [ 
 			{ "note": "note_OldMission", "mission": "mission_GetNAnySong2,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ 10, "BAD", 20, "GOOD", 5, 2000 ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
@@ -5200,18 +5194,15 @@
 		"bpm": 130,
 		"easy": 6,
 		"normal": 8,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_GetNSongs", "s": [ 20, "BAD", 3, "EDM" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Follow Tomorrow" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "A Legend Is Born" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "BONE BORN" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Cyber Devotion** ⇒ A Legend Is Born ⇒ BONE BORN" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "A", 13, 2023, 5, "BEMANI" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "B", 13, 2023, 80, "Chaos of Drum" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ClearDanceGuide", "mis": "Discovery", "MM": 8, "noextra": "noExtra", "origlength": 3, "s": [ "C", 13, 2023, 1 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearDanceGuide", "mis": "Discovery", "MM": 8, "noextra": "noExtra", "origlength": 3, "s": [ "C", 13, 2023, 1 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, 20, "BAD", 3, "EDM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 80, "Follow Tomorrow" ] } 
 		],
 		"links": [ "Follow Tomorrow", "Chaos of Drum", "Cyber Devotion", "A Legend Is Born", "BONE BORN" ],
 		"easyurl": "td5yGJTLmX8",
@@ -5230,17 +5221,14 @@
 		"bpm": 150,
 		"easy": 6,
 		"normal": 9,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_GetNAnySongDiff", "diff": "Normal", "s": [ 10, "BAD", 3 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Get On The Floor" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "BONE BORN" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCyber Devotion ⇒ **A Legend Is Born** ⇒ BONE BORN" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "A", 13, 2023, 666 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ComboSong", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "B", 13, 2023, 66, "Don't Be Afraid" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "noextra": "noExtra", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "C", 13, 2023, 6, "BAD", 1 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "noextra": "noExtra", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "C", 13, 2023, 6, "BAD", 1 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySongDiff", "diff": "Normal", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, 10, "BAD", 3 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 95, "Get On The Floor" ] } 
 		],
 		"links": [ "Cyber Devotion", "A Legend Is Born", "BONE BORN", "Get On The Floor", "Don't Be Afraid" ],
 		"easyurl": "F7qxVVkfJP4",
@@ -5258,16 +5246,13 @@
 		"bpm": 135,
 		"easy": 7,
 		"normal": 9,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 5, "BAD", 5 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 98, "GHOST KINGDOM" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nCyber Devotion ⇒ A Legend Is Born ⇒ **BONE BORN**" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "A", 13, 2023, 2020, "PERFECT" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "noextra": "noExtra", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "B", 13, 2023, 10, "BAD", 10 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 8, "noextra": "noExtra", "origlength": 3, "s": [ "C", 13, 2023, 31, "GOOD", "Cyber Devotion" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 8, "noextra": "noExtra", "origlength": 3, "s": [ "C", 13, 2023, 31, "GOOD", "Cyber Devotion" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, 5, "BAD", 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 98, "GHOST KINGDOM" ] } 
 		],
 		"links": [ "Cyber Devotion", "A Legend Is Born", "BONE BORN", "GHOST KINGDOM" ],
 		"easyurl": "aJEjuMiUxYo",
@@ -5287,7 +5272,6 @@
 		"bpm": 120,
 		"easy": 4,
 		"normal": 7,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Synth Presets & Sample Loops" ] }, 
 			"**DANCERUSH STARDOM GYM3**:\n**DEVILFISHMANのテーマ** ⇒ Synth Presets & Sample Loops ⇒ Shuffle The Cards ⇒ Penguin Morning ⇒ neu (STARDOM Remix)", 
@@ -5311,15 +5295,12 @@
 		"bpm": 126,
 		"easy": 6,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "DEVILFISHMANのテーマ" ] }, 
-			{ "mission": "mission_Clear", "s": [ "DEVILFISHMANのテーマ" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "DEVILFISHMANのテーマ" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Shuffle The Cards" ] }, 
-			"**DANCERUSH STARDOM GYM3**:\nDEVILFISHMANのテーマ ⇒ **Synth Presets & Sample Loops** ⇒ Shuffle The Cards ⇒ Penguin Morning ⇒ neu (STARDOM Remix)" 
+			"**DANCERUSH STARDOM GYM3**:\nDEVILFISHMANのテーマ ⇒ **Synth Presets & Sample Loops** ⇒ Shuffle The Cards ⇒ Penguin Morning ⇒ neu (STARDOM Remix)", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, "DEVILFISHMANのテーマ" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, "DEVILFISHMANのテーマ" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "C", 18, 2024, 95, "DEVILFISHMANのテーマ" ] } 
 		],
 		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)" ],
 		"easyurl": "9cLpQicDZgs",
@@ -5339,16 +5320,13 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Synth Presets & Sample Loops" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Synth Presets & Sample Loops" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Synth Presets & Sample Loops" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Penguin Morning" ] }, 
 			"**DANCERUSH STARDOM GYM3**:\nDEVILFISHMANのテーマ ⇒ Synth Presets & Sample Loops ⇒ **Shuffle The Cards** ⇒ Penguin Morning ⇒ neu (STARDOM Remix)", 
-			{ "note": "note_SeeAlso", "s": [ "Shuffle the Cards RUNNING MAN EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Shuffle the Cards RUNNING MAN EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, "Synth Presets & Sample Loops" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, "Synth Presets & Sample Loops" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "C", 18, 2024, 95, "Synth Presets & Sample Loops" ] } 
 		],
 		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)", "Shuffle the Cards RUNNING MAN EDITION" ],
 		"easyurl": "_IyeETXKpD4",
@@ -5367,16 +5345,13 @@
 		"bpm": 110,
 		"easy": 5,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Shuffle The Cards" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Shuffle The Cards" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Shuffle The Cards" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "neu (STARDOM Remix)" ] }, 
 			"**DANCERUSH STARDOM GYM3**:\nDEVILFISHMANのテーマ ⇒ Synth Presets & Sample Loops ⇒ Shuffle The Cards ⇒ **Penguin Morning** ⇒ neu (STARDOM Remix)", 
-			{ "note": "note_SeeAlso", "s": [ "Penguin Morning SPONGEBOB EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Penguin Morning SPONGEBOB EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, "Shuffle The Cards" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, "Shuffle The Cards" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "C", 18, 2024, 95, "Shuffle The Cards" ] } 
 		],
 		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)", "Penguin Morning SPONGEBOB EDITION" ],
 		"easyurl": "JyqU4lKT5cI",
@@ -5395,15 +5370,12 @@
 		"bpm": 133,
 		"easy": 6,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Penguin Morning" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Penguin Morning" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Penguin Morning" ] } 
-		],
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM3**:\nDEVILFISHMANのテーマ ⇒ Synth Presets & Sample Loops ⇒ Shuffle The Cards ⇒ Penguin Morning ⇒ **neu (STARDOM Remix)**", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "I Like to BOUNCE" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "I Like to BOUNCE" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, "Penguin Morning" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, "Penguin Morning" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "C", 18, 2024, 95, "Penguin Morning" ] } 
 		],
 		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)", "I Like to BOUNCE" ],
 		"easyurl": "WIrrTgiw4KM",
@@ -5492,15 +5464,12 @@
 		"bpm": 138,
 		"easy": 7,
 		"normal": 10,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "PRANK" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "My Time" ] }, 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ **Don't Rush but Dance Rush** ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] } 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ **Don't Rush but Dance Rush** ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, "PRANK" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "C", 18, 2024, 1400 ] } 
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
 		"easyurl": "S3gtzpG0ZR0",
@@ -5535,15 +5504,11 @@
 		"bpm": 132,
 		"easy": 7,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "世界の果てに約束の凱歌を (STARDOM Remix)" ] },
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "ランカーキラーガール (STARDOM Remix)" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "パーフェクトイーター (STARDOM Remix)" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "パーフェクトイーター (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, 5, "BAD", "ランカーキラーガール (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "C", 18, 2024, 2000 ] } 
 		],
 		"links": [ "ランカーキラーガール (STARDOM Remix)", "パーフェクトイーター (STARDOM Remix)" ],
 		"easyurl": "3ROkFjj4uAI",
@@ -5562,15 +5527,11 @@
 		"bpm": 138,
 		"easy": 5,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Vamos A Bailar" ] },
-		"discount": [ 
-			{ "mission": "mission_GetNOnSong", "s": [ 5, "BAD", "new heaven" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 2000 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Afterhours" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Afterhours" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, 5, "BAD", "new heaven" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "C", 18, 2024, 2000 ] } 
 		],
 		"links": [ "new heaven", "Afterhours" ],
 		"easyurl": "nTPctnBjuHg",
@@ -5605,18 +5566,15 @@
 		"bpm": 118,
 		"easy": 5,
 		"normal": 8,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Drop The Bounce" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "prev": "Previously", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "HoneyComb" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Waiting for you" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\n**Polar Night** ⇒ HoneyComb ⇒ Waiting for you" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 9, "origlength": 3, "noextra": "noExtra", "s": [ "A", 25, 2023, 510 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 25, 2023, 25, "BAD", "Wowie Zowie!" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 25, 2023, 85, "voltississimo (DANCERUSH Style)" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 25, 2023, 85, "voltississimo (DANCERUSH Style)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, 3, "EDM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 95, "Drop The Bounce" ] } 
 		],
 		"links": [ "Drop The Bounce", "Wowie Zowie!", "voltississimo (DANCERUSH Style)", "Polar Night", "HoneyComb", "Waiting for you" ],
 		"easyurl": "DHdkwMczEuM",
@@ -5635,17 +5593,14 @@
 		"bpm": 150,
 		"easy": 4,
 		"normal": 9,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_FCNSongs", "s": [ 3, "EDM", 80 ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 20, "GREAT", "Afterimage d'automne" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "prev": "Previously", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Waiting for you" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nPolar Night ⇒ **HoneyComb** ⇒ Waiting for you" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "A", 25, 2023, 2021, "PERFECT" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discovery", "noextra": "noExtra", "MM": 9, "origlength": 3, "s": [ "B", 25, 2023, 30, "BAD", 8, "BEMANI" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 25, 2023, 88, "Honey Bounce" ] }
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 25, 2023, 88, "Honey Bounce" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "ing": "s", "genre": "genre", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, 80, 3, "EDM " ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 20, "GREAT", "Afterimage d'automne" ] } 
 		],
 		"links": [ "Polar Night", "HoneyComb", "Waiting for you", "Afterimage d'automne", "Honey Bounce" ],
 		"easyurl": "3HRO3uYWZDc",
@@ -5663,16 +5618,13 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 8,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_ScoreAnyDiff", "diff": "Normal", "s": [ 95, 5 ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 3, "BAD", "Flying Soda" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nPolar Night ⇒ HoneyComb ⇒ **Waiting for you**" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreAny", "mis": "Discovery", "ing": "s", "noextra": "noExtra", "MM": 9, "origlength": 3, "s": [ "A", 25, 2023, 10, 90 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 25, 2023, 15, "BAD", "Polar Night" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 25, 2023, 15, "BAD", "HoneyComb" ] }
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 25, 2023, 15, "BAD", "HoneyComb" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreAnyDiff", "diff": "Normal", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, 95, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 3, "BAD", "Flying Soda" ] } 
 		],
 		"links": [ "Polar Night", "HoneyComb", "Waiting for you", "Flying Soda" ],
 		"easyurl": "DsBNKTXJ8c0",
@@ -6500,7 +6452,8 @@
 		"easy": 3,
 		"normal": 7,
 		"notes": [ 
-			{ "note": "note_Regional", "loc": "Japan" }
+			{ "note": "note_Regional", "loc": "Japan" }, 
+			{ "note": "note_Removed", "MM": 8, "s": [ 10, 2024 ] } 
 		],
 		"easyurl": "v3RHHjyoWTk",
 		"normalurl": "wxgfbg3_XHI"
@@ -6517,7 +6470,10 @@
 		"easy": 3,
 		"normal": 7,
 		"easyurl": "-uzXSFHKE90",
-		"normalurl": "MpKY1cSNd00"
+		"normalurl": "MpKY1cSNd00",
+		"notes": [
+			{ "note": "note_Removed", "MM": 8, "s": [ 10, 2024 ] } 
+		]
 	},
 	{
 		"title": "怪物",
@@ -6531,7 +6487,10 @@
 		"easy": 3,
 		"normal": 7,
 		"easyurl": "fxMf4oKN1Ws",
-		"normalurl": "mRZdKWR27WA"
+		"normalurl": "mRZdKWR27WA",
+		"notes": [
+			{ "note": "note_Removed", "MM": 8, "s": [ 10, 2024 ] } 
+		]
 	},
 	{
 		"title": "Synaptic",
@@ -9383,15 +9342,12 @@
 		"bpm": 120,
 		"easy": 6,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "ランニングマンレッスン応用編" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 160 ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "WELCOME TO MY GAME RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Shuffle cats RUNNING MAN EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (ランニングマン合宿コース/Running Man Course)**:\n**WELCOME TO MY GAME RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Shuffle cats RUNNING MAN EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "WELCOME TO MY GAME" ] } 
+			{ "note": "note_SeeAlso", "s": [ "WELCOME TO MY GAME" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ "ランニングマンレッスン応用編", 160 ] } 
 		],
 		"links": [ "ランニングマンレッスン応用編", "WELCOME TO MY GAME RUNNING MAN EDITION", "Shuffle cats RUNNING MAN EDITION", "WELCOME TO MY GAME" ], 
 		"easyurl": "0wUnZliM2A4&t=23s",
@@ -9411,14 +9367,11 @@
 		"bpm": 110,
 		"easy": 5,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "WELCOME TO MY GAME RUNNING MAN EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "Shuffle cats RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (ランニングマン合宿コース/Running Man Course)**:\nWELCOME TO MY GAME RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Shuffle cats RUNNING MAN EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "Shuffle cats" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Shuffle cats" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "BAD", 2, 80, "WELCOME TO MY GAME RUNNING MAN EDITION" ] } 
 		],
 		"links": [ "WELCOME TO MY GAME RUNNING MAN EDITION", "Shuffle cats RUNNING MAN EDITION", "Shuffle cats" ],
 		"easyurl": "uncXHTSOpws&t=23s",
@@ -9438,15 +9391,12 @@
 		"bpm": 130,
 		"easy": 6,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "ランニングマンレッスン 炎の特訓編" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 160 ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "LUV CAN SAVE U RUNNING MAN EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (スーパーアルティメット ランニングマン合宿コース/Super Ultimate Running Man Course)**:\n**DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ LUV CAN SAVE U RUNNING MAN EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] } 
+			{ "note": "note_SeeAlso", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ "ランニングマンレッスン 炎の特訓編", 160 ] } 
 		],
 		"links": [ "ランニングマンレッスン 炎の特訓編", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION", "LUV CAN SAVE U RUNNING MAN EDITION", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ],
 		"easyurl": "RpnZ0usWFVw&t=23s",
@@ -9464,14 +9414,11 @@
 		"bpm": 140,
 		"easy": 5,
 		"normal": 9,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "LUV CAN SAVE U RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (スーパーアルティメット ランニングマン合宿コース/Super Ultimate Running Man Course)**:\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **LUV CAN SAVE U RUNNING MAN EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "LUV CAN SAVE U" ] } 
+			{ "note": "note_SeeAlso", "s": [ "LUV CAN SAVE U" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "BAD", 2, 80, "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ] } 
 		],
 		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION", "LUV CAN SAVE U RUNNING MAN EDITION", "LUV CAN SAVE U" ],
 		"easyurl": "Qi2x8AYzczM&t=23s",
@@ -9490,15 +9437,12 @@
 		"bpm": 150,
 		"easy": 6,
 		"normal": 10,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "リバースランニングマンレッスン" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 160 ] }  
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "GOLDEN CROSS RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Touch Me" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (超ウルトラハイパーアルティメットエキサイティング ランニングマン合宿コース/CHO EXCITING Ultra Hyper Ultimate Running Man Course)**:\n**GOLDEN CROSS RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Touch Me", 
-			{ "note": "note_SeeAlso", "s": [ "GOLDEN CROSS" ] }
+			{ "note": "note_SeeAlso", "s": [ "GOLDEN CROSS" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ "リバースランニングマンレッスン", 160 ] } 
 		],
 		"links": [ "リバースランニングマンレッスン", "GOLDEN CROSS RUNNING MAN EDITION", "Touch Me|Sota", "GOLDEN CROSS" ],
 		"easyurl": "D4YDID6iLxg&t=23s",
@@ -9518,14 +9462,11 @@
 		"bpm": 136,
 		"easy": 5,
 		"normal": 9,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "GOLDEN CROSS RUNNING MAN EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "Touch Me" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (超ウルトラハイパーアルティメットエキサイティング ランニングマン合宿コース/CHO EXCITING Ultra Hyper Ultimate Running Man Course)**:\nGOLDEN CROSS RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Touch Me**", 
-			{ "note": "note_SeeAlso", "s": [ "Touch Me" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Touch Me" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "BAD", 2, 80, "GOLDEN CROSS RUNNING MAN EDITION" ] } 
 		],
 		"links": [ "GOLDEN CROSS RUNNING MAN EDITION", "Touch Me|Sota", "Touch Me|Dog" ],
 		"easyurl": "mTJ4SoWr7mc&t=23s",
@@ -9542,14 +9483,11 @@
 		"bpm": 128,
 		"easy": 7,
 		"normal": 10,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 20, "BAD", 15 ] }, 
-			{ "mission": "mission_NoteTotal", "s": [ 3000, "PERFECT" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ <:2023autumn:1157210722384756766>", "ROCK THE PARTY" ] },
+		"stars": 100,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rushiest Rush" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rushiest Rush" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_NoteTotal", "mis": "Event", "origlength": 0, "s": [ 20, "BAD", 15, 3000, "PERFECT" ] } 
 		],
 		"links": [ "Rushiest Rush" ],
 		"easyurl": "ibd9R22wKzM&t=23s",

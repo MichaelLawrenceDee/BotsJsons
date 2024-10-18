@@ -410,6 +410,7 @@
 				{"location":"Gateway Mall", "alias": "Lincoln", "roleId": "992275126387216515"}
 			]},
 			{"region": "North Carolina", "code": "NC", "locations": [
+				{"location":"Flippers Convenience & Arcade Grandy", "roleId": "1296665132851662888"},
 				{"location":"Four Seasons", "roleId": "571962133785477140"}
 			]},
 			{"region": "New Jersey", "code": "NJ", "locations": [

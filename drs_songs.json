@@ -974,9 +974,10 @@
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "BREDLI RUNNING MAN EDITION" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Midland Mainline RUNNING MAN EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "WELCOME TO MY GAME RUNNING MAN EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "WELCOME TO MY GAME RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Too Late Snow RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Forgetting Machine RUNNING MAN EDITION", "BREDLI RUNNING MAN EDITION", "Midland Mainline RUNNING MAN EDITION", "WELCOME TO MY GAME RUNNING MAN EDITION" ]
+		"links": [ "Forgetting Machine RUNNING MAN EDITION", "BREDLI RUNNING MAN EDITION", "Midland Mainline RUNNING MAN EDITION", "WELCOME TO MY GAME RUNNING MAN EDITION", "Too Late Snow RUNNING MAN EDITION" ]
 	},
 	{
 		"title": "Tステップレッスン応用編",
@@ -1050,9 +1051,10 @@
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (ランニングマン合宿コース/Running Man Course)" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Meltdown RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION" ]
+		"links": [ "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX) RUNNING MAN EDITION", "Meltdown RUNNING MAN EDITION" ]
 	},
 	{
 		"title": "Tステップレッスン 炎の特訓編",
@@ -1165,8 +1167,11 @@
 		"easyurl": "YtJAH9V-YDQ",
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }, 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] } 
-		]
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "5<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "GOLDEN CROSS RUNNING MAN EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "MOVE! (We Keep It Movin') RUNNING MAN EDITION" ] } 
+		],
+		"links": [ "GOLDEN CROSS RUNNING MAN EDITION", "MOVE! (We Keep It Movin') RUNNING MAN EDITION" ]
 	},
 	{
 		"title": "リバースTステップレッスン",
@@ -2326,9 +2331,10 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 19, 2022, 85, "DAWN OF FALCON" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 19, 2022, 85, "Gimme a Big Beat" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Dual Bladez" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreNSongs", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, 85, 3, "BEMANI" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreNSongs", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, 85, 3, "BEMANI" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "Get On The Floor RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Nighthiker", "Get On The Floor", "Luminous Pajama", "Dual Bladez", "DAWN OF FALCON", "Gimme a Big Beat", "A Legend Is Born" ],
+		"links": [ "Nighthiker", "Get On The Floor", "Luminous Pajama", "Dual Bladez", "DAWN OF FALCON", "Gimme a Big Beat", "A Legend Is Born", "Get On The Floor RUNNING MAN EDITION" ],
 		"easyurl": "nI8OpC4fNgY",
 		"normalurl": "KC_inzEzHiE"
 	},
@@ -4097,9 +4103,10 @@
 			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ BREDLI ⇒ BENJAMIN ⇒ **Awakening**", 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "BENJAMIN" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, "BENJAMIN" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 95, "BENJAMIN" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 95, "BENJAMIN" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "Awakening RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening" ],
+		"links": [ "Poochie", "Honey Bounce", "BREDLI", "BENJAMIN", "Awakening", "Awakening RUNNING MAN EDITION" ],
 		"easyurl": "TRXmVDoDDfg",
 		"normalurl": "GsUyuvu4kRE"
 	},
@@ -4828,8 +4835,11 @@
 			{ "mission": "mission_Clear", "s": [ "UCHU" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "UCHU" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ **Meltdown** ⇒ UCHU ⇒ Crazy For You" ],
-		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You" ],
+		"notes": [ 
+			"**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ **Meltdown** ⇒ UCHU ⇒ Crazy For You", 
+			{ "note": "note_SeeAlso", "s": [ "Meltdown RUNNING MAN EDITION" ] } 
+		],
+		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You", "Meltdown RUNNING MAN EDITION" ],
 		"easyurl": "7aZ7UAutMEg",
 		"normalurl": "LJyU8M6iXT0"
 	},
@@ -5550,6 +5560,10 @@
 		"easy": 4,
 		"normal": 6,
 		"stars": 150,
+		"notes": [ 
+			{ "note": "note_SeeAlso", "s": [ "Too Late Snow RUNNING MAN EDITION" ] } 
+		],
+		"links": [ "Too Late Snow RUNNING MAN EDITION" ],
 		"easyurl": "MYQO5cgpk3I",
 		"normalurl": "OOKW1LYMe-g"
 	},
@@ -7526,9 +7540,10 @@
 			{ "mission": "mission_ScoreSong", "s": [ 95, "Triple Cross" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "SUPER SUMMER SALE" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "SUPER SUMMER SALE" ] }, 
+			{ "note": "note_SeeAlso", "s": [ "MOVE! (We Keep It Movin') RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "Triple Cross", "SUPER SUMMER SALE" ],
+		"links": [ "Triple Cross", "SUPER SUMMER SALE", "MOVE! (We Keep It Movin') RUNNING MAN EDITION" ],
 		"easyurl": "RXQOIVy-txw&t=22s",
 		"normalurl": "915TzxeXpuM&t=22s"
 	},
@@ -8274,9 +8289,10 @@
 		"normal": 8,
 		"stars": 60,
 		"notes": [ 
-			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ **Tropical White** ⇒ Rock The Club ⇒ Jumbo Drill ⇒ 音楽 (STARDOM Remix)" 
+			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ **Tropical White** ⇒ Rock The Club ⇒ Jumbo Drill ⇒ 音楽 (STARDOM Remix)", 
+			{ "note": "note_SeeAlso", "s": [ "Tropical White RUNNING MAN EDITION" ] } 
 		],
-		"links": [ "HANDS UP IN THE AIR", "Tropical White", "Rock The Club", "Jumbo Drill", "音楽 (STARDOM Remix)" ],
+		"links": [ "HANDS UP IN THE AIR", "Tropical White", "Rock The Club", "Jumbo Drill", "音楽 (STARDOM Remix)", "Tropical White RUNNING MAN EDITION" ],
 		"easyurl": "RArOJVVk1gk&t=40s",
 		"normalurl": "kUyayR08L7g&t=40s"
 	},
@@ -10054,5 +10070,188 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "h_dZAOwEYJY&t=23s",
 		"normalurl": "2FHaQImOIKs&t=23s"
+	},
+	{
+		"title": "Too Late Snow RUNNING MAN EDITION",
+		"alias": [ "Too Late Snow RUNNINGMAN EDITION", "Too Late Snow RM EDITION", "Too Late Snow RUNNING MAN version", "Too Late Snow RUNNINGMAN version", "Too Late Snow RM version" ],
+		"artist": "movies (moimoi×Xceon×Dai.)",
+		"artistalias": [ "Daisuke", "Mayumi Morinaga", "Prim" ],
+		"category": "autumn2024",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "too_late_snow_jacket.png",
+		"remyurl": "Too_Late_Snow",
+		"bpm": 138,
+		"easy": 5,
+		"normal": 7,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "ランニングマンレッスン応用編" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 160 ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ <:2024autumn:1296342299718189147>", "Too Late Snow RUNNING MAN EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Tropical White RUNNING MAN EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ (ランニングマン合宿コース/Running Man Course)**:\n**Too Late Snow RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Tropical White RUNNING MAN EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "Too Late Snow" ] } 
+		],
+		"links": [ "ランニングマンレッスン応用編", "Too Late Snow RUNNING MAN EDITION", "Tropical White RUNNING MAN EDITION", "Too Late Snow" ],
+		"easyurl": "LJuDZUtflLE&t=23s",
+		"normalurl": "fWDs7cCdBiE&t=23s"
+	},
+	{
+		"title": "Tropical White RUNNING MAN EDITION",
+		"alias": [ "Tropical White RUNNINGMAN EDITION", "Tropical White RM EDITION", "Tropical White RUNNING MAN version", "Tropical White RUNNINGMAN version", "Tropical White RM version" ],
+		"artist": "星宮とと+TEMPLIME",
+		"artistalias": [ "HOSHIMIYA TOTO" ],
+		"category": "autumn2024",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "TROP, Otias ENT Produced",
+		"thumbnail": "tropical_white_rm_jacket.png",
+		"remyurl": "Tropical_White",
+		"bpm": 132,
+		"easy": 5,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "Too Late Snow RUNNING MAN EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ <:2024autumn:1296342299718189147>", "Tropical White RUNNING MAN EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ (ランニングマン合宿コース/Running Man Course)**:\nToo Late Snow RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Tropical White RUNNING MAN EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "Tropical White" ] } 
+		],
+		"links": [ "Too Late Snow RUNNING MAN EDITION", "Tropical White RUNNING MAN EDITION", "Tropical White" ],
+		"easyurl": "2nlP-Amb8QQ&t=23s",
+		"normalurl": "bkT1lZ9UwlA&t=23s"
+	},
+	{
+		"title": "Meltdown RUNNING MAN EDITION",
+		"alias": [ "熔化", "Meltdown RUNNINGMAN EDITION", "Meltdown RM EDITION", "Meltdown RUNNING MAN version", "Meltdown RUNNINGMAN version", "Meltdown RM version" ],
+		"artist": "G Blazen",
+		"category": "autumn2024",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER, Otias ENT Produced",
+		"thumbnail": "meltdown_jacket.png",
+		"remyurl": "Meltdown",
+		"bpm": 128,
+		"easy": 7,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "ランニングマンレッスン 炎の特訓編" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 160 ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ <:2024autumn:1296342299718189147>", "Meltdown RUNNING MAN EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Awakening RUNNING MAN EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ (スーパーアルティメット ランニングマン合宿コース/Super Ultimate Running Man Course)**:\n**Meltdown RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Awakening RUNNING MAN EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "Meltdown" ] } 
+		],
+		"links": [ "ランニングマンレッスン 炎の特訓編", "Meltdown RUNNING MAN EDITION", "Awakening RUNNING MAN EDITION", "Meltdown" ],
+		"easyurl": "wbg7GrxQkbE&t=23s",
+		"normalurl": "xWfWs-xUvRc&t=23s"
+	},
+	{
+		"title": "Awakening RUNNING MAN EDITION",
+		"alias": [ "Awakening RUNNINGMAN EDITION", "Awakening RM EDITION", "Awakening RUNNING MAN version", "Awakening RUNNINGMAN version", "Awakening RM version" ],
+		"artist": "Shouya Namai",
+		"category": "autumn2024",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": "awakening_jacket.png",
+		"remyurl": "Awakening_(Shouya_Namai)",
+		"bpm": 128,
+		"easy": 6,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "Meltdown RUNNING MAN EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ <:2024autumn:1296342299718189147>", "Awakening RUNNING MAN EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ (スーパーアルティメット ランニングマン合宿コース/Super Ultimate Running Man Course)**:\nMeltdown RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Awakening RUNNING MAN EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "Awakening" ] } 
+		],
+		"links": [ "Meltdown RUNNING MAN EDITION", "Awakening RUNNING MAN EDITION", "Awakening" ],
+		"easyurl": "WCB38PHSoig&t=23s",
+		"normalurl": "wgmoOB-hd3U&t=23s"
+	},
+	{
+		"title": "MOVE! (We Keep It Movin') RUNNING MAN EDITION",
+		"alias": [ "Moving", "MOVE! RUNNINGMAN EDITION", "MOVE! RM EDITION", "MOVE! RUNNING MAN version", "MOVE! RUNNINGMAN version", "MOVE! RM version" ],
+		"artist": "Jonny Dynamite!,Lisa - paint with stars -,Rio Hiiragi by BEMANI Sound Team \"U1-ASAMi\"",
+		"artistalias": [ "浅見祐一", "柊木りお", "ヒイラギリオ", "Jonathan Medley", "BST Yuichi Asami" ],
+		"category": "autumn2024",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Move_jacket.png",
+		"remyurl": "MOVE!_(We_Keep_It_Movin%27)",
+		"bpm": 142,
+		"easy": 6,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_Clear", "s": [ "リバースランニングマンレッスン" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 160 ] }  
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ <:2024autumn:1296342299718189147>", "MOVE! (We Keep It Movin') RUNNING MAN EDITION" ] },
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Get On The Floor RUNNING MAN EDITION" ] }, 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ (超ウルトラハイパーアルティメットエキサイティング ランニングマン合宿コース/CHO EXCITING Ultra Hyper Ultimate Running Man Course)**:\n**MOVE! (We Keep It Movin') RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Get On The Floor RUNNING MAN EDITION", 
+			{ "note": "note_SeeAlso", "s": [ "MOVE! (We Keep It Movin')" ] } 
+		],
+		"links": [ "リバースランニングマンレッスン", "MOVE! (We Keep It Movin') RUNNING MAN EDITION", "Get On The Floor RUNNING MAN EDITION", "MOVE! (We Keep It Movin')" ],
+		"easyurl": "90yNRiwsl44&t=23s",
+		"normalurl": "Aj39iZUi12o&t=23s"
+	},
+	{
+		"title": "Get On The Floor RUNNING MAN EDITION",
+		"alias": [ "GOTF", "Get On The Floor RUNNINGMAN EDITION", "Get On The Floor RM EDITION", "Get On The Floor RUNNING MAN version", "Get On The Floor RUNNINGMAN version", "Get On The Floor RM version" ],
+		"artist": "RoughSketch",
+		"category": "autumn2024",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": "get_on_the_floor_jacket.png",
+		"remyurl": "Get_On_The_Floor",
+		"bpm": 150,
+		"easy": 8,
+		"normal": 9,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 80, "MOVE! (We Keep It Movin') RUNNING MAN EDITION" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ <:2024autumn:1296342299718189147>", "Get On The Floor RUNNING MAN EDITION" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ (超ウルトラハイパーアルティメットエキサイティング ランニングマン合宿コース/CHO EXCITING Ultra Hyper Ultimate Running Man Course)**:\nMOVE! (We Keep It Movin') RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Get On The Floor RUNNING MAN EDITION**", 
+			{ "note": "note_SeeAlso", "s": [ "Get On The Floor" ] } 
+		],
+		"links": [ "MOVE! (We Keep It Movin') RUNNING MAN EDITION", "Get On The Floor RUNNING MAN EDITION", "Get On The Floor" ],
+		"easyurl": "zRcR-WHyhk8&t=23s",
+		"normalurl": "N_pXbJK2BJs&t=23s"
+	},
+	{
+		"title": "TITANS RETURN (STARDOM Remix)",
+		"artist": "Hommarju",
+		"category": "autumn2024",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "SUPER THUNDER",
+		"thumbnail": "titans_return_jacket.png",
+		"remyurl": "TITANS_RETURN_(STARDOM_Remix)",
+		"bpm": 138,
+		"easy": 6,
+		"normal": 8,
+		"mission": [ 
+			{ "mission": "mission_GetNAnySong", "s": [ 20, "BAD", 15 ] }, 
+			{ "mission": "mission_NoteTotal", "s": [ 3000, "PERFECT" ] } 
+		],
+		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ <:2024autumn:1296342299718189147>", "TITANS RETURN (STARDOM Remix)" ] },
+		"notes": [ 
+			"**DANCERUSH STARDOM 炎のDANCE合宿～2024AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses" 
+		],
+		"easyurl": "OYR8A6KJHuo&t=23s",
+		"normalurl": "vp4_itujtxI&t=23s"
 	}
 ]

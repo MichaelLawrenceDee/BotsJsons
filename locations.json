@@ -356,6 +356,7 @@
 				{"location":"Hayward", "roleId": "625568317305782272"},
 				{"location":"Moreno Valley", "roleId": "571900957844176907"},
 				{"location":"Puente Hills", "roleId": "569683341394182164"},
+				{"location":"San Francisco", "roleId": "1305046698896130119"},
 				{"location":"San Jose", "roleId": "571917176894652418"},
 				{"location":"San Rafael Haze's Toys", "roleId": "1054224860294959244"},
 				{"location":"Lakewood", "roleId": "572437061936611339"},
@@ -414,7 +415,8 @@
 				{"location":"Four Seasons", "roleId": "571962133785477140"}
 			]},
 			{"region": "New Jersey", "code": "NJ", "locations": [
-				{"location":"Deptford Mall", "roleId": "812147207062552617"}
+				{"location":"Deptford Mall", "roleId": "812147207062552617"},
+				{"location":"Gatcha Menlo Park Mall", "roleId": "1305046712632737852"}
 			]},
 			{"region": "New Mexico", "code": "NM", "locations": [
 				{"location":"Coronado", "roleId": "573901390229929984"}

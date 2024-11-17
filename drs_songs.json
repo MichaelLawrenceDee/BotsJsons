@@ -10253,5 +10253,20 @@
 		],
 		"easyurl": "OYR8A6KJHuo&t=23s",
 		"normalurl": "vp4_itujtxI&t=23s"
+	},
+	{
+		"title": "Get Up! feat. Kanae Asaba",
+		"artist": "MK",
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Get_Up!_feat._Kanae_Asaba.png",
+		"remyurl": "Get_Up!_feat._Kanae_Asaba",
+		"bpm": 130,
+		"easy": 6,
+		"normal": 9,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "-OzLeGYqBZ8&t=23s",
+		"normalurl": "MDVTNa_c-JM&t=23s"
 	}
 ]

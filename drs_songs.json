@@ -5004,9 +5004,10 @@
 		"normal": 9,
 		"stars": 150,
 		"notes": [ 
-			{ "note": "note_SeeAlso", "s": [ "Bounce To This SPONGEBOB EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Bounce To This SPONGEBOB EDITION" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "aleatrik" ] } 
 		],
-		"links": [ "Bounce To This SPONGEBOB EDITION" ],
+		"links": [ "Bounce To This SPONGEBOB EDITION", "aleatrik" ],
 		"easyurl": "TNWWI5xx87Y",
 		"normalurl": "apV5bce7RfA"
 	},
@@ -6669,10 +6670,11 @@
 		"normal": 9,
 		"stars": 60,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
-			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ **Brand New Step**" 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] }, 
+			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ **Brand New Step**", 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "aleatrik" ] } 
 		],
-		"links": [ "The GameHacker (Sampled Crazy Shuffle)", "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step" ],
+		"links": [ "The GameHacker (Sampled Crazy Shuffle)", "Metric", "Crystal Clear", "WELCOME TO MY GAME", "melody H4CKER", "Brand New Step", "aleatrik" ],
 		"easyurl": "dt8wNEAiGhk",
 		"normalurl": "Q0usevgOVDQ"
 	},
@@ -10296,12 +10298,42 @@
 			{ "mission": "mission_GetNOnSong", "s": [ 30, "BAD", "PRANK" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "???" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "aleatrik" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "???" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Crazy Control** ⇒ ??? ⇒ ???" ] }  
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Crazy Control** ⇒ aleatrik ⇒ ???" ] }  
 		],
-		"links": [ "Spin & Slide", "PRANK", "Crazy Control" ],
+		"links": [ "Spin & Slide", "PRANK", "Crazy Control", "aleatrik" ],
 		"easyurl": "NOUmWHU_lDY&t=23s",
 		"normalurl": "1eK6o5PKDMc&t=23s"
+	},
+	{
+		"title": "aleatrik",
+		"artist": "nc ft. NRGFactory",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Aleatrik.png",
+		"remyurl": "Aleatrik",
+		"bpm": 138,
+		"easy": 5,
+		"normal": 8,
+		"stars": 100,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Crazy Control" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "BEMANI" ] }, 
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 100, 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Bounce To This" ] } 
+		],
+		"discovery": [
+			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 10, 90 ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 30, "GOOD", "Brand New Step" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "anddiscover": "anddiscover", "ing": "ing", "s": [ "???" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Control ⇒ **aleatrik** ⇒ ???" ] }  
+		],
+		"links": [ "Bounce To This", "Brand New Step", "Crazy Control", "aleatrik" ],
+		"easyurl": "cOAAMPF4zlo&t=23s",
+		"normalurl": "W3l38vVEn20&t=23s"
 	}
 ]

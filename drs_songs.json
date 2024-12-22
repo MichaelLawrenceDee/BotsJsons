@@ -1216,12 +1216,12 @@
 			{ "name": "Hboy", "url": "YXofu4qdpWs" }
 		],
 		"notes": [
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Raveology" ] },
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Oppress" ] },
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Robot Loves Smoked-Salmon" ] },
-			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Where's The Party At" ] },
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Raveology" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Oppress" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Robot Loves Smoked-Salmon" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Where's The Party At" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Don't Stop!! RUNNING MAN EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Garuda (Hommarju Remix)" ] }
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Garuda (Hommarju Remix)" ] } 
 		],
 		"links": [ "Raveology", "Oppress", "Robot Loves Smoked-Salmon", "Where's The Party At", "Don't Stop!! RUNNING MAN EDITION", "Garuda (Hommarju Remix)" ]
 	},
@@ -6295,9 +6295,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Anxiety" ] }, 
-			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ **Let Me See Your Dance**" 
+			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ **Let Me See Your Dance**", 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Vermilion" ] } 
 		],
-		"links": [ "Sunrise (feat. LEO & Viola)", "CHAPTER II(Ready Go)", "I Like To BOUNCE", "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
+		"links": [ "Sunrise (feat. LEO & Viola)", "CHAPTER II(Ready Go)", "I Like To BOUNCE", "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance", "Vermilion" ],
 		"easyurl": "4BE3Ltr5e-s",
 		"normalurl": "JM6GID_b7_E"
 	},
@@ -10299,10 +10300,10 @@
 		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "aleatrik" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "???" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Crazy Control** ⇒ aleatrik ⇒ ???" ] }  
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Vermilion" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Crazy Control** ⇒ aleatrik ⇒ Vermilion" ] }  
 		],
-		"links": [ "Spin & Slide", "PRANK", "Crazy Control", "aleatrik" ],
+		"links": [ "Spin & Slide", "PRANK", "Crazy Control", "aleatrik", "Vermilion" ],
 		"easyurl": "NOUmWHU_lDY&t=23s",
 		"normalurl": "1eK6o5PKDMc&t=23s"
 	},
@@ -10329,11 +10330,41 @@
 			{ "mission": "mission_GetNOnSong", "s": [ 30, "GOOD", "Brand New Step" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "anddiscover": "anddiscover", "ing": "ing", "s": [ "???" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Control ⇒ **aleatrik** ⇒ ???" ] }  
+			{ "note": "note_UnlockFor", "cond": "unlock", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Vermilion" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Control ⇒ **aleatrik** ⇒ Vermilion" ] }  
 		],
-		"links": [ "Bounce To This", "Brand New Step", "Crazy Control", "aleatrik" ],
+		"links": [ "Bounce To This", "Brand New Step", "Crazy Control", "aleatrik", "Vermilion" ],
 		"easyurl": "cOAAMPF4zlo&t=23s",
 		"normalurl": "W3l38vVEn20&t=23s"
+	},
+	{
+		"title": "Vermilion",
+		"artist": "Remo-con",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Vermilion.png",
+		"remyurl": "Vermilion",
+		"bpm": 143,
+		"easy": 7,
+		"normal": 9,
+		"stars": 200,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "aleatrik" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 5, "POPS" ] }, 
+			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 5 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "Let Me See Your Dance" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 2200 ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "Crazy Control" ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "aleatrik" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCrazy Control ⇒ aleatrik ⇒ **Vermilion**" ] }  
+		],
+		"links": [ "Let Me See Your Dance", "Crazy Control", "aleatrik", "Vermilion" ],
+		"easyurl": "ZHmu98ce-Rk&t=23s",
+		"normalurl": "MWDFC0Eib2I&t=23s"
 	}
 ]

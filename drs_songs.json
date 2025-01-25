@@ -3243,7 +3243,7 @@
 		"normal": 7,
 		"notes": [ 
 			"**SPARK FESTIVAL**: **SUNSET DAY**\n**DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)** ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ Garuda", 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Bloody Bounce" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Bloody Bounce" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Jalebi" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "Jalebi" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "PARTY ALL NIGHT(DJ KEN-BOW MIX)" ] }, 
@@ -3577,7 +3577,7 @@
 		"notes": [
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Fire Spirit" ] },
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ **Night & Day** ⇒ Wowie Zowie! ⇒ Twinkle ⇒ RAVELINE ATTACK ⇒ Switch ⇒ Set Me Free",
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "DANCE ALL NIGHT" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "DANCE ALL NIGHT" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Wowie Zowie!" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Wowie Zowie!" ] }
 		],
@@ -4340,7 +4340,7 @@
 		"easyurl": "N4CV3wfQ-mw",
 		"normalurl": "iXZf3NrV1YY",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Insomniac Nights" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Insomniac Nights" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rejoin" ] } 
 		],
 		"links": [ "Insomniac Nights", "Rejoin" ]
@@ -4360,7 +4360,7 @@
 		"easyurl": "tAlDDkBTiME",
 		"normalurl": "Ailz4IXidYo",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Bloody Bounce" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Bloody Bounce" ] } 
 		],
 		"links": [ "Bloody Bounce" ]
 	},
@@ -4378,7 +4378,7 @@
 		"easyurl": "DCirpwYFcs8",
 		"normalurl": "HgTMpoHAXeY",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DANCE ALL NIGHT" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "DANCE ALL NIGHT" ] } 
 		],
 		"links": [ "DANCE ALL NIGHT" ]
 	},
@@ -4610,7 +4610,7 @@
 		"easy": 7,
 		"normal": 9,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Next Stage 2022" ] },
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Next Stage 2022" ] },
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nNocturnus ⇒ Broadway Walk ⇒ **Heat Up The Dancefloor**" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 31, 2023, 2018 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "B", 31, 2023, 90, "Nocturnus" ] }, 
@@ -6571,7 +6571,7 @@
 		"easyurl": "c8hIAAmCstw",
 		"normalurl": "lRSkOpRLYK4",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Insomniac Nights" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Insomniac Nights" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "MOVE! (We Keep It Movin')" ] } 
 		],
 		"links": [ "Insomniac Nights", "MOVE! (We Keep It Movin')" ]
@@ -6671,7 +6671,7 @@
 		"normal": 9,
 		"stars": 60,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] }, 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ **Brand New Step**", 
 			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "aleatrik" ] } 
 		],
@@ -6760,7 +6760,7 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] } 
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
 			{ "note": "note_Random", "prev": "Previously" }
 		],
 		"links": [ "The GameHacker (Sampled Crazy Shuffle)" ],
@@ -6797,21 +6797,16 @@
 		"bpm": 135,
 		"easy": 5,
 		"normal": 8,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_ClearLesson", "s": [ 1 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Our Soul" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreTotal", "s": [ 450 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Night & Day" ] }, 
-			{ "mission": "mission_ClearNSongs", "s": [ 3, "EDM" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Bloody Bounce" ] }, 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Insomniac Nights" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Bloody Bounce" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Insomniac Nights" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**DANCE ALL NIGHT** ⇒ Insomniac Nights ⇒ Bloody Bounce ⇒ Next Stage 2022" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Blue Sky" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Blue Sky" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, 450 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, 90, "Night & Day" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "C", 15, 2025, 3, "EDM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearLesson", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, 1 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, 90, "Our Soul" ] } 
 		],
 		"links": [ "Our Soul", "Night & Day", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022", "Blue Sky" ],
 		"easyurl": "pJbMKsAgZGg",
@@ -6830,21 +6825,15 @@
 		"bpm": 140,
 		"easy": 5,
 		"normal": 9,
-		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "DANCE ALL NIGHT" ] },
-		"discount": [ 
-			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "ATRAX" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] }, 
-			{ "mission": "mission_NoteTotal", "s": [ 2022, "PERFECT" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Triple Cross" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Bloody Bounce" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Next Stage 2022" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ **Insomniac Nights** ⇒ Bloody Bounce ⇒ Next Stage 2022" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Bloody Bounce" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Next Stage 2022" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ **Insomniac Nights** ⇒ Bloody Bounce ⇒ Next Stage 2022" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearDanceGuide", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, 1 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, 2022, "PERFECT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "C", 15, 2025, 90, "Triple Cross" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, 3, "POPS" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, 95, "ATRAX" ] } 
 		],
 		"links": [ "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022", "ATRAX", "Triple Cross" ],
 		"easyurl": "9Kr4QYubYdM",
@@ -6862,20 +6851,14 @@
 		"bpm": 126,
 		"easy": 6,
 		"normal": 8,
-		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Insomniac Nights" ] },
-		"discount": [ 
-			{ "mission": "mission_GetNAnySongDiff", "diff": "Normal", "s": [ 10, "BAD", 3 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 96, "Butterfly Twist" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_GetNAnySong2", "s": [ 20, "BAD", 22, "GOOD", 10 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "DANCE ALL NIGHT" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Next Stage 2022" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ Insomniac Nights ⇒ **Bloody Bounce** ⇒ Next Stage 2022" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Next Stage 2022" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ Insomniac Nights ⇒ **Bloody Bounce** ⇒ Next Stage 2022" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong2", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, 20, "BAD", 22, "GOOD", 10 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, 90, "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "C", 15, 2025, 90, "DANCE ALL NIGHT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySongDiff", "mis": "Discount", "MM": 0, "diff": "Normal", "origlength": 3, "s": [ "A", 15, 2025, 10, "BAD", 3 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, 96, "Butterfly Twist" ] } 
 		],
 		"links": [ "Butterfly Twist", "DO YOU WANNA PARTY!!(DJ KEN-BOW MIX)", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022" ],
 		"easyurl": "gfLBa65g33M",
@@ -6894,20 +6877,14 @@
 		"bpm": 133,
 		"easy": 6,
 		"normal": 10,
-		"stars": 200,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Bloody Bounce" ] },
-		"discount": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 5, "BAD", 5 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 97, "Heat Up The Dancefloor" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_ScoreTotal", "s": [ 2022 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 92, "Bloody Bounce" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 92, "Insomniac Nights" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ Insomniac Nights ⇒ Bloody Bounce ⇒ **Next Stage 2022**" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nDANCE ALL NIGHT ⇒ Insomniac Nights ⇒ Bloody Bounce ⇒ **Next Stage 2022**" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, 2022 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, 92, "Bloody Bounce" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "C", 15, 2025, 92, "Insomniac Nights" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, 5, "BAD", 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, 97, "Heat Up The Dancefloor" ] } 
 		],
 		"links": [ "Heat Up The Dancefloor", "The GameHacker (Sampled Crazy Shuffle)", "DANCE ALL NIGHT", "Insomniac Nights", "Bloody Bounce", "Next Stage 2022" ],
 		"easyurl": "N51FtjQ6p0M",
@@ -6925,15 +6902,11 @@
 		"bpm": 140,
 		"easy": 6,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Official Bootleg" ] },
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Synaptic" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ **Official Bootleg** ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] } 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ **Official Bootleg** ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, "Synaptic" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "C", 15, 2025, 1400 ] } 
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
 		"easyurl": "o4YKvjP4tuM",
@@ -6950,7 +6923,6 @@
 		"bpm": 152,
 		"easy": 5,
 		"normal": 9,
-		"stars": 150,
 		"easyurl": "ibBMBW-BDmI&t=23s",
 		"normalurl": "My3v6l4Q5Vo&t=24s"
 	},
@@ -6966,7 +6938,8 @@
 		"easy": 3,
 		"normal": 7,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] } 
+			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)" ] }, 
+			{ "note": "note_Removed", "MM": 0, "s": [ 27, 2025 ] } 
 		],
 		"easyurl": "oybq2lhxY5I&t=11s",
 		"normalurl": "SQWkF7fGcDQ&t=15s"
@@ -6999,14 +6972,11 @@
 		"bpm": 140,
 		"easy": 3,
 		"normal": 8,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "↑↑↓↓←→←→BA" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "↑↑↓↓←→←→BA" ] } 
-		],
 		"notes": [ 
 			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\n**Trash** ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)", 
-			{ "note": "note_SeeAlso", "s": [ "Trash RUNNING MAN EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Trash RUNNING MAN EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, "↑↑↓↓←→←→BA" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, "↑↑↓↓←→←→BA" ] } 
 		],
 		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)", "Trash RUNNING MAN EDITION" ],
 		"easyurl": "5EHmF3RpNKE&t=22s",
@@ -7024,13 +6994,10 @@
 		"bpm": 124,
 		"easy": 4,
 		"normal": 8,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)" ] } 
-		],
 		"notes": [ 
-			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ **↑↑↓↓←→←→BA** ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)" 
+			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ **↑↑↓↓←→←→BA** ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)" ] } 
 		],
 		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
 		"easyurl": "jYXw5bjGtew&t=24s",
@@ -7048,13 +7015,10 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 8,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "You Take My Soul" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "You Take My Soul" ] } 
-		],
 		"notes": [ 
-			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ **GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)** ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)" 
+			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ **GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)** ⇒ You Take My Soul ⇒ The GameHacker (Sampled Crazy Shuffle)", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, "You Take My Soul" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, "You Take My Soul" ] } 
 		],
 		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
 		"easyurl": "_fVrssTWM6o&t=22s",
@@ -7073,14 +7037,11 @@
 		"bpm": 122,
 		"easy": 5,
 		"normal": 9,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] } 
-		],
 		"notes": [ 
 			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ **You Take My Soul** ⇒ The GameHacker (Sampled Crazy Shuffle)", 
-			{ "note": "note_SeeAlso", "s": [ "You Take My Soul T STEP EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "You Take My Soul T STEP EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, "The GameHacker (Sampled Crazy Shuffle)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, "The GameHacker (Sampled Crazy Shuffle)" ] } 
 		],
 		"links": [ "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)", "You Take My Soul T STEP EDITION" ],
 		"easyurl": "MJ72ohFQMh0&t=22s",
@@ -7099,14 +7060,11 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 10,
-		"stars": 200,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Next Stage 2022" ] }, 
-			{ "mission": "mission_Clear", "s": [ "ドーパミン (STARDOM Remix)" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Brand New Step" ] } 
-		],
 		"notes": [ 
-			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ **The GameHacker (Sampled Crazy Shuffle)**" 
+			"**SPARK FESTIVAL 2021**: **AFTER PARTY**\nTrash ⇒ ↑↑↓↓←→←→BA ⇒ GRADIUS REMIX (↑↑↓↓←→←→BA Ver.) ⇒ You Take My Soul ⇒ **The GameHacker (Sampled Crazy Shuffle)**", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "A", 15, 2025, "Next Stage 2022" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, "ドーパミン (STARDOM Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 0, "origlength": 3, "s": [ "B", 15, 2025, "Brand New Step" ] } 
 		],
 		"links": [ "Next Stage 2022", "ドーパミン (STARDOM Remix)", "Brand New Step", "Trash", "↑↑↓↓←→←→BA", "GRADIUS REMIX (↑↑↓↓←→←→BA Ver.)", "You Take My Soul", "The GameHacker (Sampled Crazy Shuffle)" ],
 		"easyurl": "J7XysS29oEc&t=23s",
@@ -7179,7 +7137,6 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\n**BREDLI RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ BENJAMIN RUNNING MAN EDITION", 
 			{ "note": "note_SeeAlso", "s": [ "BREDLI" ] }, 
@@ -7202,7 +7159,6 @@
 		"bpm": 132,
 		"easy": 6,
 		"normal": 9,
-		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (ランニングマン合宿コース/Running Man Training Camp Course)**:\nBREDLI RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **BENJAMIN RUNNING MAN EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "BENJAMIN" ] }, 
@@ -7225,7 +7181,6 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\n**HighBALL T STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ True Blue (STARDOM Remix) T STEP EDITION", 
 			{ "note": "note_SeeAlso", "s": [ "HighBALL" ] }, 
@@ -7249,7 +7204,6 @@
 		"bpm": 142,
 		"easy": 6,
 		"normal": 9,
-		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (Tステップ合宿コース/T-step Training Camp Course)**:\nHighBALL T STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **True Blue (STARDOM Remix) T STEP EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "True Blue (STARDOM Remix)" ] }, 
@@ -7271,7 +7225,6 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\n**Wicked SPONGEBOB EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Switch SPONGEBOB EDITION", 
 			{ "note": "note_SeeAlso", "s": [ "Wicked" ] }, 
@@ -7294,7 +7247,6 @@
 		"bpm": 140,
 		"easy": 5,
 		"normal": 9,
-		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (スポンジボブ合宿コース/Spongebob Training Camp Course)**:\nWicked SPONGEBOB EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Switch SPONGEBOB EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "Switch" ] }, 
@@ -7317,7 +7269,6 @@
 		"bpm": 134,
 		"easy": 6,
 		"normal": 9,
-		"stars": 100,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] }, 
@@ -10366,5 +10317,21 @@
 		"links": [ "Let Me See Your Dance", "Crazy Control", "aleatrik", "Vermilion" ],
 		"easyurl": "ZHmu98ce-Rk&t=23s",
 		"normalurl": "MWDFC0Eib2I&t=23s"
+	},
+	{
+		"title": "Sky Is The Limit",
+		"artist": "Sota F. feat.Anna",
+		"artistalias": [ "Sota Fujimori" ],
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Sky_Is_The_Limit.png",
+		"remyurl": "Sky_Is_The_Limit",
+		"bpm": 150,
+		"easy": "?",
+		"normal": 8,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": false,
+		"normalurl": false
 	}
 ]

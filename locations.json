@@ -76,7 +76,7 @@
 			]},
 			{"region": "North Jakarta", "code": "DKI North", "locations": [
 				{"location":"Amazone @ Mall Artha Gading", "roleId": "1117783595487080520"},
-				{"location":"Cow Play Cow Moo @ Mall of Indonesia", "roleId": "1332720870082478182"}
+				{"location":"Cow Play Cow Moo @ Mall of Indonesia", "roleId": "1332720870082478182"},
 				{"location":"Cow Play Cow Moo @ Pluit Village", "roleId": "1267753750752399401"}
 			]},
 			{"region": "Surabaya", "code": "Jatim", "locations": [
@@ -435,7 +435,7 @@
 			]},
 			{"region": "Ohio", "code": "OH", "locations": [
 				{"location":"Beavercreek", "roleId": "878896361079209984"},
-				{"location":"Mentor", "roleId": "571917120560955402"}
+				{"location":"Mentor", "roleId": "571917120560955402"},
 				{"location":"Old North Arcade Columbus", "roleId": "1332718786150662155"}
 			]},
 			{"region": "Oklahoma", "code": "OK", "locations": [

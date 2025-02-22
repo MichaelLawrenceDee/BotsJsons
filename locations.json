@@ -345,6 +345,7 @@
 		"regionname": "state",
 		"regions": [
 			{"region": "Arizona", "code": "AZ", "locations": [
+				{"location":"Chandler Fashion Center", "roleId": "1342699765833531503"},
 				{"location":"Glendale", "roleId": "1201091079341080606"},
 				{"location":"Tucson", "roleId": "643014654133665823"}
 			]},
@@ -452,6 +453,7 @@
 			]},
 			{"region": "Texas", "code": "TX", "locations": [
 				{"location":"Arlington", "roleId": "572437181864476703"},
+				{"location":"Deerbrook Mall", "roleId": "1342699819302518784"},
 				{"location":"Grapevine", "roleId": "569682829324058656"},
 				{"location":"Okashi Houston", "roleId": "1129275932172103742"},
 				{"location":"San Antonio", "roleId": "1082700225887617054"}

@@ -6709,13 +6709,6 @@
 		"bpm": 110,
 		"easy": 7,
 		"normal": 10,
-		"stars": 160,
-		"singlediscount": true,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [  ] }, 
-			{ "mission": "", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] }, 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
 			{ "note": "note_Random", "prev": "Previously" }, 

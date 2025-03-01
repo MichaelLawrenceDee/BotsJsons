@@ -1221,7 +1221,7 @@
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Robot Loves Smoked-Salmon" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Where's The Party At" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Don't Stop!! RUNNING MAN EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Garuda (Hommarju Remix)" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Garuda (Hommarju Remix)" ] } 
 		],
 		"links": [ "Raveology", "Oppress", "Robot Loves Smoked-Salmon", "Where's The Party At", "Don't Stop!! RUNNING MAN EDITION", "Garuda (Hommarju Remix)" ]
 	},
@@ -2101,7 +2101,7 @@
 			{ "mission": "mission_Unlock", "s": [ "Tropical Love" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Let Me See Your Dance" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Let Me See Your Dance" ] }, 
 			"**SPARK FESTIVAL 2020**: **AFTER PARTY**\n**Sunrise (feat. LEO & Viola)** ⇒ Tropical Love ⇒ CHAPTER II(Ready Go) ⇒ Comin’ Back ⇒ I Like To BOUNCE" ],
 		"links": [ "Let Me See Your Dance", "Sunrise (feat. LEO & Viola)", "Tropical Love", "CHAPTER II(Ready Go)", "Comin’ Back", "I Like To BOUNCE" ],
 		"easyurl": "YtDs4u4zIc0",
@@ -2452,14 +2452,12 @@
 		"bpm": 140,
 		"easy": 7,
 		"normal": 9,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Anxiety" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Anxiety" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Ideal Sunset" ] }, 
-			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ **Flow** ⇒ Anxiety ⇒ Let Me See Your Dance" ],
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Ideal Sunset" ] }, 
+			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ **Flow** ⇒ Anxiety ⇒ Let Me See Your Dance", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "Anxiety" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "Anxiety" ] } 
+		],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "_Z-Qg9xHOxY",
 		"normalurl": "DO8HgCMxlAg"
@@ -2777,7 +2775,7 @@
 			{ "name": "いちか/Ichika", "url": "clvmBWmuSe8" }
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Forgetting Machine (RoughSketch Remix)" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Forgetting Machine (RoughSketch Remix)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "ミッドナイト☆WAR" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, 5 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 1400 ] } 
@@ -3360,7 +3358,7 @@
 		"normal": 10,
 		"notes": [
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Bad Boy Birdwatch" ] },
-			"Discount and Discovery Mission for Garuda (Hommarju Remix)",
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "DiscountDiscovery", "s": [ "Garuda (Hommarju Remix)" ] }, 
 			"**SPARK FESTIVAL**: **SUNSET DAY**\nDO YOU WANNA PARTY!!(DJ KEN-BOW MIX) ⇒ Jalebi ⇒ Mandrake ⇒ Raw Crawler ⇒ Bad Boy Birdwatch ⇒ **Garuda**", 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, 95, "Butterfly" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, 95, "FLOWER (STARDOM Remix)" ] }, 
@@ -3436,7 +3434,7 @@
 			"**DANCERUSH STARDOM GYM**:\nBad Riddim ⇒ Second Heaven -Samba,Samba,SomeBody MIX- ⇒ **Forgetting Machine** ⇒ Hastur ⇒ Don't Be Afraid", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (Tステップ合宿コース/T-step Training Camp Course)" ] }, 
 			{ "note": "note_SeeAlso", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] },
-			{ "note": "note_MissionFor", "mis": "DiscountDiscovery", "s": [ "Forgetting Machine (RoughSketch Remix)" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "DiscountDiscovery", "s": [ "Forgetting Machine (RoughSketch Remix)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "Second Heaven -Samba,Samba,SomeBody MIX-" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, "Second Heaven -Samba,Samba,SomeBody MIX-" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 95, "Second Heaven -Samba,Samba,SomeBody MIX-" ] } 
@@ -5778,7 +5776,7 @@
 			{ "mission": "mission_Unlock", "s": [ "Comin’ Back" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Let Me See Your Dance" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Let Me See Your Dance" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Tropical Love" ] }, 
 			"**SPARK FESTIVAL 2020**: **AFTER PARTY**\nSunrise (feat. LEO & Viola) ⇒ Tropical Love ⇒ **CHAPTER II(Ready Go)** ⇒ Comin’ Back ⇒ I Like To BOUNCE" 
 		],
@@ -5834,7 +5832,7 @@
 			{ "mission": "mission_Clear", "s": [ "neu (STARDOM Remix)" ] } 
 		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Let Me See Your Dance" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Let Me See Your Dance" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Comin’ Back" ] }, 
 			"**SPARK FESTIVAL 2020**: **AFTER PARTY**\nSunrise (feat. LEO & Viola) ⇒ Tropical Love ⇒ CHAPTER II(Ready Go) ⇒ Comin’ Back ⇒ **I Like to BOUNCE**" 
 		],
@@ -5862,7 +5860,8 @@
 		],
 		"notes": [ 
 			{ "note": "note_Random", "prev": "Previously" }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Yuni's Nocturnal Days" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Yuni's Nocturnal Days" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "A", 30, 2022, "Sakura Reflection (STARDOM Remix)", 2 ] } 
 		],
 		"links": [ "Yuni's Nocturnal Days" ],
 		"easyurl": "Q8pOzIpy-8o",
@@ -6068,7 +6067,8 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "gigadelic (STARDOM Remix)", 2 ] }
 		],
 		"notes": [ 
-			{ "note": "note_Random", "prev": "Previously" }
+			{ "note": "note_Random", "prev": "Previously" }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 8, "origlength": 3, "s": [ "A", 7, 2022, "gigadelic (STARDOM Remix)", 2 ] } 
 		],
 		"easyurl": "eyGdQkpMQ9c",
 		"normalurl": "-7hhiLLvqNI"
@@ -6113,12 +6113,11 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 8,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "New Solution" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "New Solution" ] } 
+		"notes": [ 
+			"**SPARK FESTIVAL 2021**:\n**7 to Smoke** ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "New Solution" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "New Solution" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2021**:\n**7 to Smoke** ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" ],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "2867NtHA6II",
 		"normalurl": "v6LQO-6gWZM"
@@ -6135,14 +6134,11 @@
 		"bpm": 110,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "8347" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "8347" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "7 to Smoke" ] }, 
-			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ **New Solution** ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "7 to Smoke" ] }, 
+			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ **New Solution** ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "8347" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "8347" ] } 
 		],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "8YfsnLLS3Rc",
@@ -6160,14 +6156,11 @@
 		"bpm": 130,
 		"easy": 6,
 		"normal": 9,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Do It!" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Do It!" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "New Solution" ] }, 
-			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ **8347** ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "New Solution" ] }, 
+			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ **8347** ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "Do It!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "Do It!" ] } 
 		],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "YzMdjioRTIU",
@@ -6185,14 +6178,11 @@
 		"bpm": 145,
 		"easy": 7,
 		"normal": 10,
-		"stars": 160,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Orange Lullaby" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Orange Lullaby" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "8347" ] }, 
-			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ **Do It!** ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "8347" ] }, 
+			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ **Do It!** ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "Orange Lullaby" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "Orange Lullaby" ] } 
 		],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "bEA74Jn16KE",
@@ -6210,14 +6200,11 @@
 		"bpm": 120,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Ideal Sunset" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Ideal Sunset" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Do It!" ] }, 
-			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ **Orange Lullaby** ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Do It!" ] }, 
+			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ **Orange Lullaby** ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "Ideal Sunset" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "Ideal Sunset" ] } 
 		],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "1oYAC8UehOw",
@@ -6235,14 +6222,11 @@
 		"bpm": 110,
 		"easy": 4,
 		"normal": 8,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Flow" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Flow" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Orange Lullaby" ] }, 
-			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ **Ideal Sunset** ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance" 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Orange Lullaby" ] }, 
+			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ **Ideal Sunset** ⇒ Flow ⇒ Anxiety ⇒ Let Me See Your Dance", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "Flow" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "Flow" ] } 
 		],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "os4WAWH-YvE",
@@ -6260,14 +6244,11 @@
 		"bpm": 140,
 		"easy": 7,
 		"normal": 9,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Let Me See Your Dance" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Let Me See Your Dance" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Flow" ] }, 
-			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ **Anxiety** ⇒ Let Me See Your Dance" 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Flow" ] }, 
+			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ **Anxiety** ⇒ Let Me See Your Dance", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "Let Me See Your Dance" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "Let Me See Your Dance" ] } 
 		],
 		"links": [ "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance" ],
 		"easyurl": "HHoKmIgQ2VQ",
@@ -6287,16 +6268,13 @@
 		"bpm": 150,
 		"easy": 7,
 		"normal": 10,
-		"stars": 200,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Sunrise (feat. LEO & Viola)" ] }, 
-			{ "mission": "mission_Clear", "s": [ "CHAPTER II(Ready Go)" ] }, 
-			{ "mission": "mission_Clear", "s": [ "I Like To BOUNCE" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Anxiety" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Anxiety" ] }, 
 			"**SPARK FESTIVAL 2021**:\n7 to Smoke ⇒ New Solution ⇒ 8347 ⇒ Do It! ⇒ Orange Lullaby ⇒ Ideal Sunset ⇒ Flow ⇒ Anxiety ⇒ **Let Me See Your Dance**", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Vermilion" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Vermilion" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "Sunrise (feat. LEO & Viola)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "CHAPTER II(Ready Go)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "C", 27, 2024, "I Like To BOUNCE" ] } 
 		],
 		"links": [ "Sunrise (feat. LEO & Viola)", "CHAPTER II(Ready Go)", "I Like To BOUNCE", "7 to Smoke", "New Solution", "8347", "Do It!", "Orange Lullaby", "Ideal Sunset", "Flow", "Anxiety", "Let Me See Your Dance", "Vermilion" ],
 		"easyurl": "4BE3Ltr5e-s",
@@ -6521,15 +6499,11 @@
 		"bpm": 160,
 		"easy": 5,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Synaptic" ] },
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Ch4nge M4 Life" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ **Synaptic** ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] } 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ **Synaptic** ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ Warpstep" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "Ch4nge M4 Life" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "C", 27, 2024, 1400 ] } 
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
 		"easyurl": "N6Q41nNdFQQ",
@@ -6548,7 +6522,6 @@
 		"bpm": 137,
 		"easy": 5,
 		"normal": 9,
-		"stars": 150,
 		"easyurl": "c5r31JGuW4g",
 		"normalurl": "1eY-wwD3Jk8",
 		"notes": [
@@ -6587,7 +6560,6 @@
 		"bpm": 123,
 		"easy": 5,
 		"normal": 8,
-		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM4**:\n**Metric** ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ Brand New Step" 
 		],
@@ -6607,7 +6579,6 @@
 		"bpm": 124,
 		"easy": 5,
 		"normal": 8,
-		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ **Crystal Clear** ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ Brand New Step" 
 		],
@@ -6627,7 +6598,6 @@
 		"bpm": 120,
 		"easy": 5,
 		"normal": 7,
-		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ **WELCOME TO MY GAME** ⇒ melody H4CKER ⇒ Brand New Step", 
 			{ "note": "note_SeeAlso", "s": [ "WELCOME TO MY GAME RUNNING MAN EDITION" ] } 
@@ -6649,7 +6619,6 @@
 		"bpm": 155,
 		"easy": 5,
 		"normal": 9,
-		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ **melody H4CKER** ⇒ Brand New Step" 
 		],
@@ -6669,7 +6638,6 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 9,
-		"stars": 60,
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] }, 
 			"**DANCERUSH STARDOM GYM4**:\nMetric ⇒ Crystal Clear ⇒ WELCOME TO MY GAME ⇒ melody H4CKER ⇒ **Brand New Step**", 
@@ -6691,19 +6659,14 @@
 		"bpm": 125,
 		"easy": 5,
 		"normal": 9,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Garuda" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Small Steps" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_Clear", "s": [ "Garuda" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 700 ] }, 
-			{ "mission": "mission_ClearNSongs", "s": [ 2, "POPS" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Forgetting Machine (RoughSketch Remix)" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Garuda (Hommarju Remix)** ⇒ Forgetting Machine (RoughSketch Remix)" ] } 
+			{ "note": "note_UnlockFor", "prev": "Previously", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Forgetting Machine (RoughSketch Remix)" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Garuda (Hommarju Remix)** ⇒ Forgetting Machine (RoughSketch Remix)" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discovery", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "Garuda" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, 700 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discovery", "MM": 10, "origlength": 3, "s": [ "C", 27, 2024, 2, "POPS" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, 95, "Garuda" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, 95, "Small Steps" ] } 
 		],
 		"links": [ "Garuda", "Small Steps", "Garuda (Hommarju Remix)", "Forgetting Machine (RoughSketch Remix)" ],
 		"easyurl": "b7xNPKBLJ-Q",
@@ -6721,19 +6684,13 @@
 		"bpm": 155,
 		"easy": 5,
 		"normal": 9,
-		"stars": 40,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Garuda (Hommarju Remix)" ] },
-		"discount": [ 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Forgetting Machine" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "MY NAME IS" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_Clear", "s": [ "Forgetting Machine" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 777 ] }, 
-			{ "mission": "mission_ClearNSongs", "s": [ 3, "BEMANI" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nGaruda (Hommarju Remix) ⇒ **Forgetting Machine (RoughSketch Remix)**" ] } 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nGaruda (Hommarju Remix) ⇒ **Forgetting Machine (RoughSketch Remix)**" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discovery", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "Forgetting Machine" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, 777 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discovery", "MM": 10, "origlength": 3, "s": [ "C", 27, 2024, 3, "BEMANI" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, 95, "Forgetting Machine" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, 95, "MY NAME IS" ] } 
 		],
 		"links": [ "Garuda (Hommarju Remix)", "Forgetting Machine (RoughSketch Remix)", "Forgetting Machine", "MY NAME IS" ],
 		"easyurl": "yHlSbh3OqIk",
@@ -6755,13 +6712,17 @@
 		"stars": 160,
 		"singlediscount": true,
 		"discount": [ 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] }, 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "s": [  ] }, 
+			{ "mission": "", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] }, 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "ドーパミン (STARDOM Remix)", 2 ] } 
 		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
-			{ "note": "note_Random", "prev": "Previously" }
+			{ "note": "note_Random", "prev": "Previously" }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "A", 11, 2023, "ドーパミン (STARDOM Remix)", 2 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "ドーパミン (STARDOM Remix)", 2 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "ドーパミン (STARDOM Remix)", 2 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "C", 27, 2024, "ドーパミン (STARDOM Remix)", 2 ] } 
 		],
 		"links": [ "The GameHacker (Sampled Crazy Shuffle)" ],
 		"easyurl": "GOYWZk1LAZQ",
@@ -7101,7 +7062,10 @@
 		"easy": 2,
 		"normal": 6,
 		"easyurl": "XHoLIl3aiJA&t=13s",
-		"normalurl": "kvTclEMO3eQ&t=9s"
+		"normalurl": "kvTclEMO3eQ&t=9s",
+		"notes": [ 
+			{ "note": "note_Removed", "MM": 2, "s": [ 4, 2025 ] } 
+		]
 	},
 	{
 		"title": "野球の遊び方　そしてその歴史　～決定版～",
@@ -7419,7 +7383,8 @@
 		],
 		"notes": [ 
 			{ "note": "note_Random", "prev": "Previously" }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 17, 2023, "DEADLOCK (STARDOM Remix)", 2 ] } 
 		],
 		"links": [ "Make That Body" ],
 		"easyurl": "02t1FhP4tXE&t=22s",
@@ -8339,7 +8304,8 @@
 		],
 		"notes": [ 
 			{ "note": "note_Random", "prev": "Previously" }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "A", 17, 2024, "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] } 
 		],
 		"links": [ "Lose Control" ],
 		"easyurl": "Si76d_Ag63c&t=23s",
@@ -8356,7 +8322,7 @@
 		"bpm": 132,
 		"easy": 6,
 		"normal": 8,
-		"unlock": { "mission": "mission_Stamp" },
+		"stars": 150,
 		"easyurl": "pjwf3dQTRE4&t=23s",
 		"normalurl": "paJPzrQ_dMg&t=23s"
 	},
@@ -8603,7 +8569,7 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 8,
-		"unlock": { "mission": "mission_Stamp", "unavailable": "eventEnd" },
+		"stars": 150,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Ride or Die" ] }
 		],
@@ -9036,12 +9002,11 @@
 		"bpm": 136,
 		"easy": 4,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Bring Me Back" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Bring Me Back" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\n**insist** ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "zgCRcU7VBrY&t=44s",
@@ -9060,12 +9025,11 @@
 		"bpm": 132,
 		"easy": 4,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Caldwell 99" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Caldwell 99" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ **Bring Me Back** ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "Rf7i_ilq8pg&t=44s",
@@ -9082,12 +9046,11 @@
 		"bpm": 142,
 		"easy": 6,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "So Fabulous !!" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "So Fabulous !!" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ **Caldwell 99** ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "QNVm2mk1HJc&t=44s",
@@ -9104,12 +9067,11 @@
 		"bpm": 149,
 		"easy": 6,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Basement Floor" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Basement Floor" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ **So Fabulous !!** ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "LiKLpYFPkOQ&t=44s",
@@ -9127,12 +9089,11 @@
 		"bpm": 124,
 		"easy": 7,
 		"normal": 9,
-		"stars": 100,
+		"stars": 160,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Buss Tune" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Buss Tune" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ **Basement Floor** ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "6m1P2axFkgc&t=44s",
@@ -9149,12 +9110,11 @@
 		"bpm": 120,
 		"easy": 5,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Killer Ability" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Killer Ability" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ **Buss Tune** ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "g92echGggPo&t=44s",
@@ -9173,12 +9133,11 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Continue" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Continue" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ **Killer Ability** ⇒ Continue ⇒ CUTIE ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "9r11MBFIReI&t=44s",
@@ -9196,12 +9155,11 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "CUTIE" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "CUTIE" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ **Continue** ⇒ CUTIE ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "_T3NPX2CZYY",
@@ -9219,12 +9177,11 @@
 		"bpm": 126,
 		"easy": 6,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Ride or Die" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Ride or Die" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ "**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ **CUTIE** ⇒ Ride or Die" ],
 		"links": [ "insist", "Bring Me Back", "Caldwell 99", "So Fabulous !!", "Basement Floor", "Buss Tune", "Killer Ability", "Continue", "CUTIE", "Ride or Die" ],
 		"easyurl": "26CD7-O0I0o",
@@ -9242,13 +9199,12 @@
 		"bpm": 150,
 		"easy": 6,
 		"normal": 10,
-		"stars": 160,
+		"stars": 200,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Love You" ] }, 
 			{ "mission": "mission_Clear", "s": [ "Yuni's Nocturnal Days" ] }, 
 			{ "mission": "mission_Clear", "s": [ "Light of Love" ] } 
 		],
-		"unlock": { "mission": "mission_OMES", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2023**:\ninsist ⇒ Bring Me Back ⇒ Caldwell 99 ⇒ So Fabulous !! ⇒ Basement Floor ⇒ Buss Tune ⇒ Killer Ability ⇒ Continue ⇒ CUTIE ⇒ **Ride or Die**" 
 		],
@@ -9499,7 +9455,7 @@
 		"bpm": 132,
 		"easy": 3,
 		"normal": 7,
-		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
+		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM6**:\n**Beluga** ⇒ All All Night ⇒ FLASH BACK ⇒ 焱影 ⇒ ZZ (STARDOM Remix)" 
 		],
@@ -9519,7 +9475,7 @@
 		"bpm": 129,
 		"easy": 5,
 		"normal": 8,
-		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
+		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ **All All Night** ⇒ FLASH BACK ⇒ 焱影 ⇒ ZZ (STARDOM Remix)" 
 		],
@@ -9539,7 +9495,7 @@
 		"bpm": 130,
 		"easy": 5,
 		"normal": 8,
-		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
+		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ **FLASH BACK** ⇒ 焱影 ⇒ ZZ (STARDOM Remix)" 
 		],
@@ -9560,7 +9516,7 @@
 		"bpm": 136,
 		"easy": 7,
 		"normal": 9,
-		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
+		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ FLASH BACK ⇒ **焱影** ⇒ ZZ (STARDOM Remix)" 
 		],
@@ -9580,7 +9536,7 @@
 		"bpm": 140,
 		"easy": 5,
 		"normal": 10,
-		"unlock": { "mission": "mission_GymClock", "s": [ "DANCERUSH STARDOM GYM6 <:gym6:1175062001949626418>" ] },
+		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM6**:\nBeluga ⇒ All All Night ⇒ FLASH BACK ⇒ 焱影 ⇒ **ZZ (STARDOM Remix)**", 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rushiest Rush" ] } 
@@ -9644,18 +9600,15 @@
 		"easy": 6,
 		"normal": 10,
 		"stars": 160,
-		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "轟け！恋のビーンボール！！ (STARDOM Remix)" ] },
 		"singlediscount": true,
 		"discount": [ 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "轟け！恋のビーンボール！！ (STARDOM Remix)", 2 ] }, 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "轟け！恋のビーンボール！！ (STARDOM Remix)", 2 ] }, 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "轟け！恋のビーンボール！！ (STARDOM Remix)", 2 ] }
 		],
-		"discovery": [ 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "轟け！恋のビーンボール！！ (STARDOM Remix)", 2 ] }
-		],
 		"notes": [ 
-			{ "note": "note_Random" } 
+			{ "note": "note_Random", "prev": "Previously" }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 1, "origlength": 3, "s": [ "A", 26, 2025, "轟け！恋のビーンボール！！ (STARDOM Remix)", 2 ] } 
 		],
 		"easyurl": "69_h_QUc4Zg&t=23s",
 		"normalurl": "14zLLG7pcBE&t=20s"
@@ -9686,12 +9639,11 @@
 		"bpm": 140,
 		"easy": 6,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Sleepin' in the night" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Sleepin' in the night" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\n**Into UR Heart** ⇒ Sleepin' in the night ⇒ New High ⇒ Freeway Shuffle ⇒ Rushiest Rush" 
 		],
@@ -9713,7 +9665,7 @@
 		"bpm": 132,
 		"easy": 4,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "New High" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "New High" ] } 
@@ -9738,12 +9690,11 @@
 		"bpm": 126,
 		"easy": 5,
 		"normal": 8,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Freeway Shuffle" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Freeway Shuffle" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\nInto UR Heart ⇒ Sleepin' in the night ⇒ **New High** ⇒ Freeway Shuffle ⇒ Rushiest Rush" 
 		],
@@ -9762,12 +9713,11 @@
 		"bpm": 145,
 		"easy": 6,
 		"normal": 9,
-		"stars": 20,
+		"stars": 40,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "Rushiest Rush" ] }, 
 			{ "mission": "mission_Unlock", "s": [ "Rushiest Rush" ] } 
 		],
-		"unlock": { "mission": "mission_SparkFesTimetable", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\nInto UR Heart ⇒ Sleepin' in the night ⇒ New High ⇒ **Freeway Shuffle** ⇒ Rushiest Rush" 
 		],
@@ -9788,13 +9738,12 @@
 		"bpm": "110-145",
 		"easy": 8,
 		"normal": 10,
-		"stars": 160,
+		"stars": 200,
 		"discount": [ 
 			{ "mission": "mission_Clear", "s": [ "ROCK THE PARTY" ] }, 
 			{ "mission": "mission_Clear", "s": [ "Virtual Bit" ] }, 
 			{ "mission": "mission_Clear", "s": [ "ZZ (STARDOM Remix)" ] } 
 		],
-		"unlock": { "mission": "mission_OMES", "s": [ "SPARK FESTIVAL 2023 <:sparkfes2023:1137233394984566844>" ] },
 		"notes": [ 
 			"**SPARK FESTIVAL 2023**: **AFTER PARTY**\nInto UR Heart ⇒ Sleepin' in the night ⇒ New High ⇒ Freeway Shuffle ⇒ **Rushiest Rush**" 
 		],

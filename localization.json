@@ -55,7 +55,7 @@
 		"mission_Keys": {
 			"inExtra": " in Extra Stage <:extrastage:575165685001355295>",
 			"inExtraP": " in Extra Stage <:extrastage:575165685001355295>",
-			"nTimes": " <s>2 times",
+			"nTimes": " <s>n times",
 			"noExtra": " (except EXTRA STAGE)",
 			"Easy": " on 「かんたん」 (<:Easy:896415729438584882>Easy) difficulty",
 			"Normal": " on 「ふつう」 (<:Normal:896415729493110794>Normal) difficulty",
@@ -181,7 +181,7 @@
 		"mission_Keys": {
 			"inExtra": "在 EXTRA STAGE <:extrastage:575165685001355295> 中",
 			"inExtraP": "在 EXTRA STAGE <:extrastage:575165685001355295> ",
-			"nTimes": " <s>2 次",
+			"nTimes": " <s>n 次",
 			"noExtra": " （EXTRA STAGE 不採計）",
 			"Easy": "<:Easy:896415729438584882>簡單難度",
 			"Normal": "<:Normal:896415729493110794>普通難度",

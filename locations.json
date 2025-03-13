@@ -214,7 +214,7 @@
 				{"location":"Quantum SM Calamba", "roleId": "970914772973391892"}
 			]},
 			{"region": "Metro Manila", "code": "NCR", "locations": [
-				{"location":"Quantum SM North EDSA", "roleId": "970914763406188634"},
+				{"location":"Quantum SM Grand Central", "roleId": "970914763406188634"},
 				{"location":"QPS Mall of Asia", "alias": "MOA", "roleId": "970914776731496468"},
 				{"location":"QPS Power Plant Mall", "alias": "Rockwell", "roleId": "970914780565102642"},
 				{"location":"QPS Shangri-La Mall", "alias": "Shangrila", "roleId": "970914784025382982"}

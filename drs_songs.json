@@ -10275,5 +10275,35 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "wBJJwhKJIsM&t=23s",
 		"normalurl": "INKi6JehnB8&t=23s"
+	},
+	{
+		"title": "隅田川夏恋歌 (STARDOM Remix)",
+		"alias": [ "Sumidagawa karenka", "Sumida River Summer Love Song" ],
+		"artist": "PRIDASK",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "FIVE PIECE RECORDS",
+		"thumbnail": "sumidawa_remix.png",
+		"remyurl": "Sumidagawa_karenka_(STARDOM_Remix)",
+		"bpm": 150,
+		"easy": 6,
+		"normal": 9,
+		"stars": 160,
+		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "隅田川夏恋歌 (STARDOM Remix)" ] },
+		"singlediscount": true,
+		"discount": [ 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "隅田川夏恋歌 (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "隅田川夏恋歌 (STARDOM Remix)", 2 ] }, 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "隅田川夏恋歌 (STARDOM Remix)", 2 ] }
+		],
+		"discovery": [ 
+			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "隅田川夏恋歌 (STARDOM Remix)", 2 ] }
+		],
+		"notes": [ 
+			{ "note": "note_Random" } 
+		],
+		"easyurl": "v6JHF8rSky8&t=23s",
+		"normalurl": "DsWLMVKB59M&t=23s"
 	}
 ]

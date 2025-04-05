@@ -8703,15 +8703,12 @@
 		"bpm": 140,
 		"easy": 6,
 		"normal": 9,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "ランニングマンレッスン応用編" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 160 ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Midland Mainline RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Trash RUNNING MAN EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (ランニングマン合宿コース/Running Man Course)**:\n**Midland Mainline RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Trash RUNNING MAN EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "Midland Mainline" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Midland Mainline" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ "ランニングマンレッスン応用編", 160 ] } 
 		],
 		"links": [ "ランニングマンレッスン応用編", "Midland Mainline RUNNING MAN EDITION", "Trash RUNNING MAN EDITION", "Midland Mainline" ],
 		"easyurl": "NU14ccWQrPg&t=23s",
@@ -8729,14 +8726,11 @@
 		"bpm": 140,
 		"easy": 6,
 		"normal": 9,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Midland Mainline RUNNING MAN EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Trash RUNNING MAN EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (ランニングマン合宿コース/Running Man Course)**:\nMidland Mainline RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Trash RUNNING MAN EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "Trash" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Trash" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "BAD", 2, 80, "Midland Mainline RUNNING MAN EDITION" ] } 
 		],
 		"links": [ "Midland Mainline RUNNING MAN EDITION", "Trash RUNNING MAN EDITION", "Trash" ],
 		"easyurl": "oLJ_HqxXt7s&t=23s",
@@ -8755,15 +8749,12 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 7,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "Tステップレッスン応用編" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 160 ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Don't Be Afraid T STEP EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "You Take My Soul T STEP EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (Tステップ合宿コース/T step Course)**:\n**Don't Be Afraid T STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ You Take My Soul T STEP EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "Don't Be Afraid" ] }
+			{ "note": "note_SeeAlso", "s": [ "Don't Be Afraid" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ "Tステップレッスン応用編", 160 ] } 
 		],
 		"links": [ "Tステップレッスン応用編", "Don't Be Afraid T STEP EDITION", "You Take My Soul T STEP EDITION", "Don't Be Afraid" ],
 		"easyurl": "s3vPPmyx73E&t=23s",
@@ -8783,14 +8774,11 @@
 		"bpm": 122,
 		"easy": 6,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Don't Be Afraid T STEP EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "You Take My Soul T STEP EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (Tステップ合宿コース/T step Course)**:\nDon't Be Afraid T STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **You Take My Soul T STEP EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "You Take My Soul" ] } 
+			{ "note": "note_SeeAlso", "s": [ "You Take My Soul" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "BAD", 2, 80, "Don't Be Afraid T STEP EDITION" ] } 
 		],
 		"links": [ "Don't Be Afraid T STEP EDITION", "You Take My Soul T STEP EDITION", "You Take My Soul" ],
 		"easyurl": "YF4whMSXXHk&t=23s",
@@ -8809,15 +8797,12 @@
 		"bpm": 110,
 		"easy": 6,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_Clear", "s": [ "スポンジボブレッスン" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 160 ] }  
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Penguin Morning SPONGEBOB EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Bounce To This SPONGEBOB EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (スポンジボブ合宿コース/SpongeBob Course)**:\n**Penguin Morning SPONGEBOB EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Bounce To This SPONGEBOB EDITION", 
-			{ "note": "note_SeeAlso", "s": [ "Penguin Morning" ] }
+			{ "note": "note_SeeAlso", "s": [ "Penguin Morning" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_Clear,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ "スポンジボブレッスン", 160 ] } 
 		],
 		"links": [ "スポンジボブレッスン", "Penguin Morning SPONGEBOB EDITION", "Bounce To This SPONGEBOB EDITION", "Penguin Morning" ],
 		"easyurl": "PV2QjajA5Rk&t=23s",
@@ -8836,14 +8821,11 @@
 		"bpm": 128,
 		"easy": 7,
 		"normal": 9,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 30, "BAD", 2 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 80, "Penguin Morning SPONGEBOB EDITION" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Bounce To This SPONGEBOB EDITION" ] },
+		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (スポンジボブ合宿コース/SpongeBob Course)**:\nPenguin Morning SPONGEBOB EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Bounce To This SPONGEBOB EDITION**", 
-			{ "note": "note_SeeAlso", "s": [ "Bounce To This" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Bounce To This" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 30, "BAD", 2, 80, "Penguin Morning SPONGEBOB EDITION" ] } 
 		],
 		"links": [ "Penguin Morning SPONGEBOB EDITION", "Bounce To This SPONGEBOB EDITION", "Bounce To This" ],
 		"easyurl": "FW1qD_PRnkY&t=23s",
@@ -8861,14 +8843,11 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 8,
-		"mission": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 20, "BAD", 15 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "about right" ] } 
-		],
-		"unlock": { "mission": "mission_TrainingCamp", "s": [ "DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ <:2023spring:1111852207193739354>", "Light of Love" ] },
+		"stars": 100,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2023SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Ride or Die" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Ride or Die" ] }, 
+			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 20, "BAD", 15, 85, "about right" ] } 
 		],
 		"links": [ "about right", "Ride or Die" ],
 		"easyurl": "rWJSZOYHPvM&t=23s",

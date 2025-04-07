@@ -24,7 +24,7 @@
 		"options": [
 			{
 				"name": "country",
-				"type": "STRING",
+				"type": "String",
 				"description": "View country's regions/states",
 				"required": true
 			}
@@ -42,13 +42,13 @@
 		"options": [
 			{
 				"name": "location",
-				"type": "STRING",
+				"type": "String",
 				"description": "Get a list of arcade locations from this region/state/country",
 				"required": true
 			},
 			{
 				"name": "country",
-				"type": "STRING",
+				"type": "String",
 				"description": "The country the location is in, for easier filtering",
 				"required": false
 			}
@@ -66,7 +66,7 @@
 		"options": [
 			{
 				"name": "location",
-				"type": "STRING",
+				"type": "String",
 				"description": "Location role to add/remove",
 				"required": true
 			}
@@ -86,13 +86,13 @@
 		"options": [
 			{
 				"name": "title",
-				"type": "STRING",
+				"type": "String",
 				"description": "Title of song to search",
 				"required": true
 			},
 			{
 				"name": "difficulty",
-				"type": "STRING",
+				"type": "String",
 				"description": "Song difficulty",
 				"required": true,
 				"choices": [
@@ -108,7 +108,7 @@
 			},
 			{
 				"name": "guide",
-				"type": "STRING",
+				"type": "String",
 				"description": "Dance guide for a song. Type \"default\" for no dance guide for a chart that uses one",
 				"required": false
 			}
@@ -127,24 +127,24 @@
 		"options": [
 			{
 				"name": "eng",
-				"type": "SUB_COMMAND",
+				"type": "Subcommand",
 				"description": "Search a song's info, using its title or matching filters.",
 				"options": [
 					{
 						"name": "title",
-						"type": "STRING",
+						"type": "String",
 						"description": "Title of song to search. Use \"*\" to use only filters.",
 						"required": true
 					},
 					{
 						"name": "artist",
-						"type": "STRING",
+						"type": "String",
 						"description": "Song Artist",
 						"required": false
 					},
 					{
 						"name": "folders",
-						"type": "STRING",
+						"type": "String",
 						"description": "Folder(s) or Song genre",
 						"required": false,
 						"choices": [
@@ -180,7 +180,7 @@
 					},
 					{
 						"name": "label",
-						"type": "STRING",
+						"type": "String",
 						"description": "Custom BEMANI icons in the song's jackets",
 						"required": false,
 						"choices": [
@@ -216,7 +216,7 @@
 					},
 					{
 						"name": "easy",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is >= on Easy/かんたん difficulty or equal to if easy_max is not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -224,7 +224,7 @@
 					},
 					{
 						"name": "easy_max",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is <= on Easy/かんたん difficulty or same as easy if not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -232,7 +232,7 @@
 					},
 					{
 						"name": "normal",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is >= on Normal/ふつう difficulty or equal to if normal_max is not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -240,7 +240,7 @@
 					},
 					{
 						"name": "normal_max",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is <= on Normal/ふつう difficulty or same as normal if not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -248,7 +248,7 @@
 					},
 					{
 						"name": "level",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is >= on any difficulty or equal to if level_max is not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -256,7 +256,7 @@
 					},
 					{
 						"name": "level_max",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is <= on any difficulty or same as level if not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -264,19 +264,19 @@
 					},
 					{
 						"name": "bpm",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "BPM of a song is more than or equal to, or equal to if bpm_max is not provided",
 						"required": false
 					},
 					{
 						"name": "bpm_max",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "BPM of a song is less than or equal to, or same as bpm if not provided",
 						"required": false
 					},
 					{
 						"name": "random",
-						"type": "BOOLEAN",
+						"type": "Boolean",
 						"description": "Set to true to select a random song from the matching results (defaults to false)",
 						"required": false
 					}
@@ -284,24 +284,24 @@
 			},
 			{
 				"name": "中文",
-				"type": "SUB_COMMAND",
+				"type": "Subcommand",
 				"description": "輸入一首歌曲的名稱（或簡稱、代名詞）來搜尋資料。",
 				"options": [
 					{
 						"name": "曲名",
-						"type": "STRING",
+						"type": "String",
 						"description": "必填。輸入你想搜尋的歌名，如果不想指定歌名搜尋的話，請輸入「*」。",
 						"required": true
 					},
 					{
 						"name": "作曲者",
-						"type": "STRING",
+						"type": "String",
 						"description": "作曲者",
 						"required": false
 					},
 					{
 						"name": "歌曲類型",
-						"type": "STRING",
+						"type": "String",
 						"description": "歌曲資料夾或是歌曲類型。",
 						"required": false,
 						"choices": [
@@ -337,7 +337,7 @@
 					},
 					{
 						"name": "label",
-						"type": "STRING",
+						"type": "String",
 						"description": "歌曲所屬的虛擬廠牌。通常會標記在歌曲封面。",
 						"required": false,
 						"choices": [
@@ -373,7 +373,7 @@
 					},
 					{
 						"name": "等級_簡單",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "簡單難度的等級。如果有設定「等級上限_簡單」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
@@ -381,7 +381,7 @@
 					},
 					{
 						"name": "等級上限_簡單",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "簡單難度的等級上限。如果沒有設定，則視為與「等級_簡單」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
@@ -389,7 +389,7 @@
 					},
 					{
 						"name": "等級_普通",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "普通難度的等級。如果有設定「等級上限_普通」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
@@ -397,7 +397,7 @@
 					},
 					{
 						"name": "等級上限_普通",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "普通難度的等級上限。如果沒有設定，則視為與「等級_普通」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
@@ -405,7 +405,7 @@
 					},
 					{
 						"name": "等級_任何",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "任何難度的等級。如果有設定「等級上限_任何」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
@@ -413,7 +413,7 @@
 					},
 					{
 						"name": "等級上限_任何",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "任何難度的等級上限。如果沒有設定，則視為與「等級_任何」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
@@ -421,19 +421,19 @@
 					},
 					{
 						"name": "bpm",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "BPM的等級。如果有設定「bpm上限」，則此選項視為等級下限。",
 						"required": false
 					},
 					{
 						"name": "bpm上限",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "BPM的等級上限。如果沒有設定，則視為與「bpm」的數值相同。",
 						"required": false
 					},
 					{
 						"name": "隨機",
-						"type": "BOOLEAN",
+						"type": "Boolean",
 						"description": "輸入「true」以開啟隨機選曲，會在符合搜尋條件的範圍內隨機選出一首歌。預設為「false（關閉）」。",
 						"required": false
 					}
@@ -472,7 +472,7 @@
 		"options": [
 			{
 				"name": "ids",
-				"type": "STRING",
+				"type": "String",
 				"description": "channel ID to limit bot in, separated by commas.",
 				"required": false
 			}
@@ -490,7 +490,7 @@
 		"options": [
 			{
 				"name": "location",
-				"type": "STRING",
+				"type": "String",
 				"description": "Location to check",
 				"required": false
 			}
@@ -508,7 +508,7 @@
 		"options": [
 			{
 				"name": "message",
-				"type": "STRING",
+				"type": "String",
 				"description": "Use em<emoji_id/name_here> to insert animated emojis",
 				"required": true
 			}
@@ -525,24 +525,24 @@
 		"options": [
 			{
 				"name": "eng",
-				"type": "SUB_COMMAND",
+				"type": "Subcommand",
 				"description": "Search multiple song/s info, using its title or matching filters.",
 				"options": [
 					{
 						"name": "title",
-						"type": "STRING",
+						"type": "String",
 						"description": "Title of song to search. Use \"*\" to use only filters.",
 						"required": true
 					},
 					{
 						"name": "artist",
-						"type": "STRING",
+						"type": "String",
 						"description": "Song Artist",
 						"required": false
 					},
 					{
 						"name": "folders",
-						"type": "STRING",
+						"type": "String",
 						"description": "Folder(s) or Song genre",
 						"required": false,
 						"choices": [
@@ -578,7 +578,7 @@
 					},
 					{
 						"name": "label",
-						"type": "STRING",
+						"type": "String",
 						"description": "Custom BEMANI icons in the song's jackets",
 						"required": false,
 						"choices": [
@@ -614,7 +614,7 @@
 					},
 					{
 						"name": "easy",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is >= on Easy/かんたん difficulty or equal to if easy_max is not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -622,7 +622,7 @@
 					},
 					{
 						"name": "easy_max",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is <= on Easy/かんたん difficulty or same as easy if not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -630,7 +630,7 @@
 					},
 					{
 						"name": "normal",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is >= on Normal/ふつう difficulty or equal to if normal_max is not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -638,7 +638,7 @@
 					},
 					{
 						"name": "normal_max",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is <= on Normal/ふつう difficulty or same as normal if not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -646,7 +646,7 @@
 					},
 					{
 						"name": "level",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is >= on any difficulty or equal to if level_max is not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -654,7 +654,7 @@
 					},
 					{
 						"name": "level_max",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "Level of song is <= on any difficulty or same as level if not provided",
 						"min_value": 1,
 						"max_value": 10,
@@ -662,13 +662,13 @@
 					},
 					{
 						"name": "bpm",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "BPM of a song is more than or equal to, or equal to if bpm_max is not provided",
 						"required": false
 					},
 					{
 						"name": "bpm_max",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "BPM of a song is less than or equal to, or same as bpm if not provided",
 						"required": false
 					}
@@ -676,24 +676,24 @@
 			},
 			{
 				"name": "中文",
-				"type": "SUB_COMMAND",
+				"type": "Subcommand",
 				"description": "輸入歌曲的名稱（或簡稱、代名詞）來搜尋資料。",
 				"options": [
 					{
 						"name": "曲名",
-						"type": "STRING",
+						"type": "String",
 						"description": "必填。輸入你想搜尋的歌名，如果不想指定歌名搜尋的話，請輸入「*」。",
 						"required": true
 					},
 					{
 						"name": "作曲者",
-						"type": "STRING",
+						"type": "String",
 						"description": "作曲者",
 						"required": false
 					},
 					{
 						"name": "歌曲類型",
-						"type": "STRING",
+						"type": "String",
 						"description": "歌曲資料夾或是歌曲類型。",
 						"required": false,
 						"choices": [
@@ -729,7 +729,7 @@
 					},
 					{
 						"name": "label",
-						"type": "STRING",
+						"type": "String",
 						"description": "歌曲所屬的虛擬廠牌。通常會標記在歌曲封面。",
 						"required": false,
 						"choices": [
@@ -765,7 +765,7 @@
 					},
 					{
 						"name": "等級_簡單",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "簡單難度的等級。如果有設定「等級上限_簡單」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
@@ -773,7 +773,7 @@
 					},
 					{
 						"name": "等級上限_簡單",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "簡單難度的等級上限。如果沒有設定，則視為與「等級_簡單」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
@@ -781,7 +781,7 @@
 					},
 					{
 						"name": "等級_普通",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "普通難度的等級。如果有設定「等級上限_普通」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
@@ -789,7 +789,7 @@
 					},
 					{
 						"name": "等級上限_普通",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "普通難度的等級上限。如果沒有設定，則視為與「等級_普通」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
@@ -797,7 +797,7 @@
 					},
 					{
 						"name": "等級_任何",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "任何難度的等級。如果有設定「等級上限_任何」，則此選項視為等級下限。",
 						"min_value": 1,
 						"max_value": 10,
@@ -805,7 +805,7 @@
 					},
 					{
 						"name": "等級上限_任何",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "任何難度的等級上限。如果沒有設定，則視為與「等級_任何」的數值相同。",
 						"min_value": 1,
 						"max_value": 10,
@@ -813,13 +813,13 @@
 					},
 					{
 						"name": "bpm",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "BPM的等級。如果有設定「bpm上限」，則此選項視為等級下限。",
 						"required": false
 					},
 					{
 						"name": "bpm上限",
-						"type": "INTEGER",
+						"type": "Integer",
 						"description": "BPM的等級上限。如果沒有設定，則視為與「bpm」的數值相同。",
 						"required": false
 					}
@@ -841,13 +841,13 @@
 		"options": [
 			{
 				"name": "message",
-				"type": "STRING",
+				"type": "String",
 				"description": "Use :emoji_id/name_here: to insert animated/global emojis",
 				"required": true
 			},
 			{
 				"name": "channel",
-				"type": "CHANNEL",
+				"type": "Channel",
 				"description": "Channel to announce in",
 				"required": true
 			}

@@ -207,9 +207,6 @@
 		"flag": "🇵🇭",
 		"regionname": "province",
 		"regions": [
-			{"region": "Benguet", "code": "CAR", "alias": "Cordillera", "locations": [
-				{"location":"Quantum SM Baguio", "roleId": "970914721584775228"}
-			]},
 			{"region": "Laguna", "code": "Region IV-A", "locations": [
 				{"location":"Quantum SM Calamba", "roleId": "970914772973391892"}
 			]},
@@ -271,7 +268,6 @@
 			]},
 			{"region": "台北 (Taipei)", "code": "TPE", "locations": [
 				{"location":"湯姆熊金萬年店 (Tom's World Jinwannian)", "roleId": "1087755148455063614"},
-				{"location":"武昌遊戲玩家 (Eslite HYPER GAMER)", "roleId": "1087756384612917339"},
 				{"location":"地下街鯊魚夾 (City Mall Y-area Shark Claw)", "roleId": "1087756597360603307"}
 			]},
 			{"region": "台南 (Tainan)", "code": "TNN", "locations": [

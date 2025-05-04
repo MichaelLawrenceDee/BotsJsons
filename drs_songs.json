@@ -115,20 +115,14 @@
 		"bpm": 146,
 		"easy": 3,
 		"normal": 7,
-		"stars": 100,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Midnight Starlight" ] },
-		"discount": [ 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "RAVELINE ATTACK" ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 500 ] }, 
-			{ "mission": "mission_ClearAnySong", "diff": "Easy", "s": [ 3 ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] }, 
-			{ "mission": "mission_ClearNSongs", "s": [ 6, "BEMANI" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Hello World" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ **You You You** ⇒ Hello World ⇒ Starlight Parade ⇒ Prettiful!" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Hello World" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ **You You You** ⇒ Hello World ⇒ Starlight Parade ⇒ Prettiful!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearDanceGuide", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 1 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 6, "BEMANI" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 85, "RAVELINE ATTACK" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 500 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearAnySong", "mis": "Discount", "diff": "Easy", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, 3 ] } 
 		],
 		"links": [ "RAVELINE ATTACK", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
 		"easyurl": "pF3G-4aq3as&t=22s",
@@ -1355,7 +1349,7 @@
 		"normalurl": "pCrp47_o724",
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Forgetting Machine RUNNING MAN EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Midnight Starlight" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Midnight Starlight" ] } 
 		],
 		"links": [ "Forgetting Machine RUNNING MAN EDITION", "Midnight Starlight" ]
 	},
@@ -1869,7 +1863,7 @@
 			{ "note": "note_OldMission", "mission": "mission_Unlock", "mis": "Discount", "origlength": 0, "s": [ "Don't Stop!!" ] }, 
 			{ "note": "note_OldMission", "mission": "mission_Unlock", "mis": "Discount", "origlength": 0, "s": [ "Gimme a Big Beat" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Thank You Merry Christmas -DANCERUSH Mix-" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Sunshine let me find a way" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Sunshine let me find a way" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Bad Riddim T STEP EDITION" ] } 
 		],
 		"links": [ "Don't Stop!!", "Gimme a Big Beat", "Thank You Merry Christmas -DANCERUSH Mix-", "Sunshine let me find a way", "Bad Riddim T STEP EDITION" ],
@@ -2276,7 +2270,7 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_FCNSongs", "mis": "Discovery", "MM": 3, "noextra": "noExtra", "origlength": 3, "s": [ "A", 20, 2022, 15, "EDM" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 20, 2022, 90, "Thank You Merry Christmas -DANCERUSH Mix-" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 20, 2022, 90, "Be My Baby" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Prettiful!" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Prettiful!" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_FCAnySongs", "mis": "Discount", "diff": "Normal", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 3 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 3, "BAD", "Midnight Amaretto" ] } 
 		],
@@ -2501,7 +2495,7 @@
 		"normal": 9,
 		"notes": [ 
 			{ "note": "note_UnlockFor", "prev": "Previously", "cond": "unlock", "withstars": "withStars", "ing": "ing","s": [ "FLOWER (STARDOM Remix)" ] },
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Easy Peasy" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Easy Peasy" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "Oppress" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, 5 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 19, 2023, 1400 ] } 
@@ -3643,7 +3637,7 @@
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Twinkle" ] }, 
 			"**SPARK FESTIVAL 2019**: \nMemories ⇒ Flying soda ⇒ Fire Spirit ⇒ Night & Day ⇒ Wowie Zowie! ⇒ Twinkle ⇒ **RAVELINE ATTACK** ⇒ Switch ⇒ Set Me Free", 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "Robot Loves Smoked-Salmon CRAB STEP EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "You You You" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "You You You" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Switch" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Switch" ] } 
 		],
@@ -3946,7 +3940,7 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "朧" ] }, 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Event", "s": [ "GHOST KINGDOM CHARLESTON EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Starlight Parade" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Starlight Parade" ] } 
 		],
 		"links": [ "朧", "GHOST KINGDOM CHARLESTON EDITION", "Starlight Parade" ],
 		"easyurl": "yjVZR73lbc4",
@@ -4316,7 +4310,7 @@
 			{ "note": "note_OldMission", "mission": "mission_GetNAnySong2,mission_ScoreTotal", "mis": "Event", "origlength": 0, "s": [ 20, "GOOD", 30, "GREAT", 3, 2000 ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2020SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "A Vague Idea" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Starlight Parade" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Starlight Parade" ] } 
 		],
 		"links": [ "A Vague Idea", "Starlight Parade" ],
 		"easyurl": "sGAdlpaCJOY",
@@ -4412,7 +4406,7 @@
 		"easyurl": "2uj0RuaUF-M",
 		"normalurl": "U-kBA4-MoM0",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Hello World" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Hello World" ] } 
 		],
 		"links": [ "Hello World" ]
 	},
@@ -4710,7 +4704,7 @@
 		],
 		"notes": [ 
 			"**SPARK FESTIVAL 2020**:\nLike This ⇒ **Dive in Blue** ⇒ Shamshir ⇒ Act Now! ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Prettiful!" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Prettiful!" ] } 
 		],
 		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You", "Prettiful!" ],
 		"easyurl": "co7qWvsEaQ8",
@@ -4759,7 +4753,7 @@
 		],
 		"notes": [ 
 			"**SPARK FESTIVAL 2020**:\nLike This ⇒ Dive in Blue ⇒ Shamshir ⇒ **Act Now!** ⇒ Don't Speak ⇒ Touch Me ⇒ Meltdown ⇒ UCHU ⇒ Crazy For You", 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Hello World" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Hello World" ] } 
 		],
 		"links": [ "Like This", "Dive in Blue", "Shamshir", "Act Now!", "Don't Speak", "Touch Me|Dog", "Meltdown", "UCHU", "Crazy For You", "Hello World" ],
 		"easyurl": "pbbeBkT37Gs",
@@ -6545,7 +6539,7 @@
 		"normalurl": "lRSkOpRLYK4",
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Insomniac Nights" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "MOVE! (We Keep It Movin')" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "MOVE! (We Keep It Movin')" ] } 
 		],
 		"links": [ "Insomniac Nights", "MOVE! (We Keep It Movin')" ]
 	},
@@ -6736,7 +6730,7 @@
 		"easyurl": "m6qA26Ae7-M",
 		"normalurl": "zhZBNopZEfg",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "DUAL STRIKER" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "DUAL STRIKER" ] } 
 		],
 		"links": [ "DUAL STRIKER" ]
 	},
@@ -7039,7 +7033,7 @@
 		"easyurl": "uoHwhw45jDI&t=22s",
 		"normalurl": "vyZFiuApLTU&t=22s",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Midnight Starlight" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discovery", "s": [ "Midnight Starlight" ] } 
 		],
 		"links": [ "Midnight Starlight" ]
 	},
@@ -7075,7 +7069,7 @@
 		"easyurl": "xoCaAOEibAU&t=22s",
 		"normalurl": "W4UGrm5UtEo&t=22s",
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Sunshine let me find a way" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Sunshine let me find a way" ] }, 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "10<:Star:575161446904758272> DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)" ] } 
 		],
 		"links": [ "Sunshine let me find a way" ]
@@ -7246,19 +7240,14 @@
 		"bpm": 123,
 		"easy": 4,
 		"normal": 7,
-		"stars": 60,
-		"discount": [ 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "SigSig" ] }, 
-			{ "mission": "mission_ClearAnySong", "extra": "inExtra", "s": [ 1 ] }, 
-			{ "mission": "mission_ClearLesson", "s": [ 1 ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_Clear", "s": [ "1-2-3 Jump!" ] }, 
-			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "You You You" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Midnight Starlight** ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ Prettiful!" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "You You You" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Midnight Starlight** ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ Prettiful!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, "1-2-3 Jump!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 3, "POPS" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 85, "SigSig" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearAnySong", "mis": "Discount", "extra": "inExtra", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 1 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearLesson", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, 1 ] } 
 		],
 		"links": [ "SigSig", "1-2-3 Jump!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
 		"easyurl": "Y3MpDfGk-xQ&t=22s",
@@ -7275,20 +7264,14 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 160,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "You You You" ] },
-		"discount": [ 
-			{ "mission": "mission_GetNSongs", "s": [ 20, "GOOD", 5, "EDM" ] }, 
-			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 60, 3 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Pandora's Box" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_GetNAnySong", "s": [ 15, "BAD", 10 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Act Now!" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Starlight Parade" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ **Hello World** ⇒ Starlight Parade ⇒ Prettiful!" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Starlight Parade" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ **Hello World** ⇒ Starlight Parade ⇒ Prettiful!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNAnySong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 15, "BAD", 10 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 90, "Act Now!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 20, "GOOD", 5, "EDM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "mis": "Discount", "ing": "s", "any": "any", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 60, 3 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, 90, "Pandora's Box" ] } 
 		],
 		"links": [ "Pandora's Box", "Act Now!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
 		"easyurl": "1h0oVdcth0A&t=22s",
@@ -7305,20 +7288,14 @@
 		"bpm": 135,
 		"easy": 5,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Hello World" ] },
-		"discount": [ 
-			{ "mission": "mission_NoteTotal", "s": [ 2000, "PERFECT" ] }, 
-			{ "mission": "mission_GetNOnSong2", "s": [ 10, "BAD", 10, "GOOD", "Starlight Kiss" ] }, 
-			{ "mission": "mission_FCAnySongs", "s": [ 1 ] }
-		],
-		"discovery": [ 
-			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 15 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Red Hot Chili Samba!" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Prettiful!" ] }, 
-			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ **Starlight Parade** ⇒ Prettiful!" ] } 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Prettiful!" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ **Starlight Parade** ⇒ Prettiful!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearAnySong", "mis": "Discovery", "diff": "Normal", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 15 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 90, "Red Hot Chili Samba!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 2000, "PERFECT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong2", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 10, "BAD", 10, "GOOD", "Starlight Kiss" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_FCAnySongs", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, 1 ] } 
 		],
 		"links": [ "Starlight Kiss", "Red Hot Chili Samba!", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!" ],
 		"easyurl": "JSOQ5ts0I54&t=22s",
@@ -7335,21 +7312,15 @@
 		"bpm": 129,
 		"easy": 5,
 		"normal": 9,
-		"stars": 300,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Starlight Parade" ] },
-		"discount": [ 
-			{ "mission": "mission_ScoreTotal", "s": [ 3000 ] }, 
-			{ "mission": "mission_ComboNSongs", "ing": "s", "any": "any", "s": [ 200, 5 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 93, "Dive in Blue" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_Unlock", "s": [ "Crystarium" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Crystarium" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ **Prettiful!**" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Anthurium" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Anthurium" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, "Crystarium" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, "Crystarium" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 3000 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "mis": "Discount", "ing": "s", "any": "any", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 200, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, 93, "Dive in Blue" ] } 
 		],
 		"links": [ "Dive in Blue", "Crystarium", "Midnight Starlight", "You You You", "Hello World", "Starlight Parade", "Prettiful!", "Make That Body", "Anthurium" ],
 		"easyurl": "H6biv3FmQpE&t=22s",
@@ -7367,17 +7338,13 @@
 		"bpm": 119,
 		"easy": 5,
 		"normal": 9,
-		"stars": 160,
-		"singlediscount": true,
-		"discount": [ 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }, 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }, 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "DEADLOCK (STARDOM Remix)", 2 ] }
-		],
 		"notes": [ 
 			{ "note": "note_Random", "prev": "Previously" }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 17, 2023, "DEADLOCK (STARDOM Remix)", 2 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 17, 2023, "DEADLOCK (STARDOM Remix)", 2 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, "DEADLOCK (STARDOM Remix)", 2 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, "DEADLOCK (STARDOM Remix)", 2 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, "DEADLOCK (STARDOM Remix)", 2 ] } 
 		],
 		"links": [ "Make That Body" ],
 		"easyurl": "02t1FhP4tXE&t=22s",
@@ -7396,15 +7363,11 @@
 		"bpm": 130,
 		"easy": 5,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "She Shines Under The Mirror Ball" ] },
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "Official Bootleg" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ **She Shines Under The Mirror Ball** ⇒ Warpstep" ] } 
+			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ **She Shines Under The Mirror Ball** ⇒ Warpstep" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, "Official Bootleg" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 200, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, 1400 ] } 
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep" ],
 		"easyurl": "SQKGJdfC-Y0&t=22s",
@@ -7421,7 +7384,6 @@
 		"bpm": 126,
 		"easy": 6,
 		"normal": 9,
-		"stars": 150,
 		"easyurl": "sOYlXL13wec&t=22s",
 		"normalurl": "ORBGP2rsYc0&t=22s"
 	},
@@ -7451,14 +7413,11 @@
 		"bpm": 142,
 		"easy": 4,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 10 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Triple Cross" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "SUPER SUMMER SALE" ] }, 
-			{ "note": "note_SeeAlso", "s": [ "MOVE! (We Keep It Movin') RUNNING MAN EDITION" ] } 
+			{ "note": "note_SeeAlso", "s": [ "MOVE! (We Keep It Movin') RUNNING MAN EDITION" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearAnySong", "mis": "Discount", "ing": "s", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 10 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 95, "Triple Cross" ] } 
 		],
 		"links": [ "Triple Cross", "SUPER SUMMER SALE", "MOVE! (We Keep It Movin') RUNNING MAN EDITION" ],
 		"easyurl": "RXQOIVy-txw&t=22s",
@@ -7476,10 +7435,9 @@
 		"bpm": 185,
 		"easy": 5,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_ClearAnySong", "s": [ 10 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 95, "Aftermath" ] } 
+		"notes": [ 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearAnySong", "mis": "Discount", "ing": "s", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 10 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 95, "Aftermath" ] } 
 		],
 		"links": [ "Aftermath" ],
 		"easyurl": "cDAyM0yepZc&t=22s",
@@ -7497,21 +7455,16 @@
 		"bpm": 132,
 		"easy": 4,
 		"normal": 7,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_NoteTotal", "s": [ 1000, "PERFECT" ] }, 
-			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 50, 1 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "野球の遊び方　そしてその歴史　～決定版～" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_GetNSongs", "s": [ 15, "BAD", 5, "EDM" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 85, "Saturday Night Love -Phunk Disco Mix-" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Easy Peasy" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] }, 
+			{ "note": "note_UnlockFor", "cond": "unlock", "prev": "Previously", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Easy Peasy" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Go Down" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Sunshine let me find a way** ⇒ Easy Peasy ⇒ Go Down" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 15, "BAD", 5, "EDM" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 85, "Saturday Night Love -Phunk Disco Mix-" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 1000, "PERFECT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "mis": "Discount", "any": "any", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 50, 1 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, 90, "野球の遊び方　そしてその歴史　～決定版～" ] } 
 		],
 		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Saturday Night Love -Phunk Disco Mix-", "野球の遊び方　そしてその歴史　～決定版～", "Funky Street" ],
 		"easyurl": "KqCtZUF3s8o",
@@ -7529,22 +7482,16 @@
 		"bpm": 138,
 		"easy": 4,
 		"normal": 8,
-		"stars": 160,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Sunshine let me find a way" ] },
-		"discount": [ 
-			{ "mission": "mission_ClearAnySong", "diff": "Easy", "s": [ 5 ] }, 
-			{ "mission": "mission_GetNSongs", "s": [ 20, "GOOD", 3, "POPS" ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 10, "BAD", "Impress" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_NoteTotal", "s": [ 1700, "PERFECT" ] }, 
-			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 10, 90 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_UnlockFor", "cond": "unlock", "withstars": "withStars", "andplay": "andPlay", "anddiscount": "anddiscount", "ing": "ing", "s": [ "Go Down" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Go Down" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Go Down" ] }, 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nSunshine let me find a way ⇒ **Easy Peasy** ⇒ Go Down" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "FIRE VOLCANO" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "FIRE VOLCANO" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_NoteTotal", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 1700, "PERFECT" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreAny", "mis": "Discovery", "ing": "s", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 10, 90 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearAnySong", "mis": "Discount", "diff": "Easy", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 20, "GOOD", 3, "POPS" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, 10, "BAD", "Impress" ] } 
 		],
 		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Impress", "FIRE VOLCANO" ],
 		"easyurl": "99I4-eyN5BY",
@@ -7561,21 +7508,15 @@
 		"bpm": 126,
 		"easy": 5,
 		"normal": 10,
-		"stars": 300,
-		"unlock": { "mission": "mission_Unlock", "withstars": "withStars", "andplay": "andPlay", "ing": "ing", "s": [ "Easy Peasy" ] },
-		"discount": [ 
-			{ "mission": "mission_ScoreTotal", "s": [ 2100 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 92, "Sunshine let me find a way" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 92, "Easy Peasy" ] } 
-		],
-		"discovery": [ 
-			{ "mission": "mission_Clear", "s": [ "Summery" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Party Jumpin'" ] }, 
-			{ "mission": "mission_Clear", "s": [ "Chaos of Drum" ] } 
-		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "**", "**:\nSunshine let me find a way ⇒ Easy Peasy ⇒ **Go Down**" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "FIRE VOLCANO" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "FIRE VOLCANO" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, "Summery" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, "Party Jumpin'" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, "Chaos of Drum" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, 2100 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, 92, "Sunshine let me find a way" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, 92, "Easy Peasy" ] } 
 		],
 		"links": [ "Sunshine let me find a way", "Easy Peasy", "Go Down", "Summery", "Party Jumpin'", "Chaos of Drum", "FIRE VOLCANO" ],
 		"easyurl": "9E6WPvc2Bxw&t=22s",
@@ -10249,7 +10190,7 @@
 		"thumbnail": "Sky_Is_The_Limit.png",
 		"remyurl": "Sky_Is_The_Limit",
 		"bpm": 150,
-		"easy": "?",
+		"easy": 4,
 		"normal": 8,
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "wBJJwhKJIsM&t=23s",
@@ -10284,5 +10225,21 @@
 		],
 		"easyurl": "v6JHF8rSky8&t=23s",
 		"normalurl": "DsWLMVKB59M&t=23s"
+	},
+	{
+		"title": "Shall We Matching?",
+		"artist": "まろん(IOSYS) feat. みゅい",
+		"artistalias": [ "MARON", "Mayumi Enomoto", "myui", "Mi~yui" ],
+		"category": "stamp",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Shall_We_Matching.png",
+		"remyurl": "Shall_We_Matching%3F",
+		"bpm": 135,
+		"easy": 6,
+		"normal": 8,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "57PnP3VaWDY&t=23s",
+		"normalurl": "7t2WYhGu9CM&t=23s"
 	}
 ]

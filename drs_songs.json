@@ -8850,7 +8850,7 @@
 		"bpm": 148,
 		"easy": 4,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp" },
+		"stars": 150,
 		"easyurl": "mHaX-OUA_0U&t=23s",
 		"normalurl": "TzPR6DRdJog&t=23s"
 	},
@@ -9348,7 +9348,7 @@
 		"bpm": 152,
 		"easy": 6,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp" },
+		"stars": 150,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rushiest Rush" ] } 
 		],

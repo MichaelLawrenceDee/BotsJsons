@@ -390,9 +390,6 @@
 				{"location":"Aurora", "roleId": "607481217587216384"},
 				{"location":"North Riverside", "roleId": "620103460775264266"}
 			]},
-			{"region": "Kansas", "code": "KS", "locations": [
-				{"location":"Wichita", "roleId": "748209390854864917"}
-			]},
 			{"region": "Massachusetts", "code": "MA", "locations": [
 				{"location":"Holyoke", "roleId": "653453087427788800"}
 			]},

@@ -142,9 +142,6 @@
 		"flag": "🇰🇷",
 		"roleId": "683601069330268160",
 		"regions": [
-			{"region": "서울 (Seoul)", "locations": [
-				{"location":"서울강북 (Gangbuk-gu, Seoul)", "roleId": "1181786718987354112"}
-			]},
 			{"region": "수도권 (Sudogwon)", "locations": [
 				{"location":"경기남부 (Southern Gyeonggi)", "roleId": "1181790082831745156"},
 				{"location":"경기북부 (Northern Gyeonggi)", "roleId": "1181790095615983717"},
@@ -376,6 +373,7 @@
 				{"location":"Lake Mary Arcade Monsters", "roleId": "1063864496919150712"},
 				{"location":"Melbourne Arcade Monsters", "roleId": "975640379858767903"},
 				{"location":"Miami Arcade Odyssey", "roleId": "934004516456648745"},
+				{"location":"Orlando Arcade Monsters International Drive", "roleId": "1381542666860499074"},
 				{"location":"Oviedo Arcade Monsters", "roleId": "714361088199884801"},
 				{"location":"Pembroke Lakes Mall", "roleId": "984609622935613462"},
 				{"location":"Sarasota Arcade Monsters", "roleId": "1063864503344836688"}
@@ -444,6 +442,9 @@
 				{"location":"Lancaster", "roleId": "857306868828078150"},
 				{"location":"Millcreek", "roleId": "643684910376419349"},
 				{"location":"Philadelphia", "roleId": "857307910748110849"}
+			]},
+			{"region": "Tennessee", "code": "TN", "locations": [
+				{"location":"Game Galaxy Smyrna", "roleId": "1381541831417790514"}
 			]},
 			{"region": "Texas", "code": "TX", "locations": [
 				{"location":"Arlington", "roleId": "572437181864476703"},

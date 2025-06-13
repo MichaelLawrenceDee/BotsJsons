@@ -3143,9 +3143,10 @@
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Summery" ] }, 
 			"**SPARK FESTIVAL**: **RISING DAY**\n†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix) ⇒ Summery ⇒ **Deep Vibes** ⇒ HighBALL ⇒ Majestic ⇒ Dual Bladez", 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 19, 2023, "HighBALL" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "HighBALL" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 19, 2023, "HighBALL" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Town Walk" ] } 
 		],
-		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez" ],
+		"links": [ "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)", "Summery", "Deep Vibes", "HighBALL", "Majestic", "Dual Bladez", "Town Walk" ],
 		"easyurl": "__t_pJcKDVE",
 		"normalurl": "PgIAVRv8FjI"
 	},
@@ -3690,9 +3691,10 @@
 			{ "note": "note_SeeAlso", "s": [ "Set Me Free (Hommarju Remix)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "A", 4, 2023, "Electric Dance System Music" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "B", 4, 2023, "Drop The Bounce" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "C", 4, 2023, "Astrogazer" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 9, "origlength": 3, "s": [ "C", 4, 2023, "Astrogazer" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "FIRE FIRE" ] } 
 		],
-		"links": [ "Electric Dance System Music", "Drop The Bounce", "Astrogazer", "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Set Me Free (Hommarju Remix)" ],
+		"links": [ "Electric Dance System Music", "Drop The Bounce", "Astrogazer", "Memories", "Flying soda", "Fire Spirit", "Night & Day", "Wowie Zowie!", "Twinkle", "RAVELINE ATTACK", "Switch", "Set Me Free", "Set Me Free (Hommarju Remix)", "FIRE FIRE" ],
 		"easyurl": "BzW7jkOVZ10",
 		"normalurl": "2si9nqTNLJE"
 	},
@@ -5582,9 +5584,10 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "B", 25, 2023, 25, "BAD", "Wowie Zowie!" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 9, "origlength": 3, "s": [ "C", 25, 2023, 85, "voltississimo (DANCERUSH Style)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "A", 18, 2024, 3, "EDM" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 95, "Drop The Bounce" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 8, "origlength": 3, "s": [ "B", 18, 2024, 95, "Drop The Bounce" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Perfect Resonance" ] } 
 		],
-		"links": [ "Drop The Bounce", "Wowie Zowie!", "voltississimo (DANCERUSH Style)", "Polar Night", "HoneyComb", "Waiting for you" ],
+		"links": [ "Drop The Bounce", "Wowie Zowie!", "voltississimo (DANCERUSH Style)", "Polar Night", "HoneyComb", "Waiting for you", "Perfect Resonance" ],
 		"easyurl": "DHdkwMczEuM",
 		"normalurl": "7W3G4oMtzFA"
 	},
@@ -6660,9 +6663,10 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discovery", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, 700 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discovery", "MM": 10, "origlength": 3, "s": [ "C", 27, 2024, 2, "POPS" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, 95, "Garuda" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, 95, "Small Steps" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, 95, "Small Steps" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Perfect Resonance" ] } 
 		],
-		"links": [ "Garuda", "Small Steps", "Garuda (Hommarju Remix)", "Forgetting Machine (RoughSketch Remix)" ],
+		"links": [ "Garuda", "Small Steps", "Garuda (Hommarju Remix)", "Forgetting Machine (RoughSketch Remix)", "Perfect Resonance" ],
 		"easyurl": "b7xNPKBLJ-Q",
 		"normalurl": "Cx7lTcimDaw"
 	},
@@ -10241,5 +10245,96 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "57PnP3VaWDY&t=23s",
 		"normalurl": "7t2WYhGu9CM&t=23s"
+	},
+	{
+		"title": "Town Walk",
+		"artist": "Carpainter（TREKKIE TRAX）",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Town_Walk.png",
+		"remyurl": "Town_Walk",
+		"bpm": 128,
+		"easy": 4,
+		"normal": 8,
+		"stars": 60,
+		"discount": [ 
+			{ "mission": "mission_ClearDanceGuide", "s": [ 1 ] }, 
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 100, 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Deep Vibes" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ClearAnySong", "ing": "s", "s": [ 7 ] }, 
+			{ "mission": "mission_NoteTotal", "s": [ 2500, "PERFECT" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Perfect Resonance" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "FIRE FIRE" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Town Walk** ⇒ Perfect Resonance ⇒ FIRE FIRE" ] }  
+		],
+		"links": [ "Deep Vibes", "Town Walk", "Perfect Resonance", "FIRE FIRE" ],
+		"easyurl": "wGB1STF9Zn8&t=23s",
+		"normalurl": "9xhWYO3ClDY&t=23s"
+	},
+	{
+		"title": "Perfect Resonance",
+		"artist": "Hommarju",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "EDM", "BEMANI" ],
+		"label": "CLASS",
+		"thumbnail": "Perfect_Resonance_Jacket.png",
+		"remyurl": "Perfect_Resonance",
+		"bpm": 125,
+		"easy": 5,
+		"normal": 8,
+		"stars": 100,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Town Walk" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "BEMANI" ] }, 
+			{ "mission": "mission_ClearAnySong", "diff": "Easy", "s": [ 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Garuda (Hommarju Remix)" ] } 
+		],
+		"discovery": [
+			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 10, 90 ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 25, "BAD", "Polar Night" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "anddiscover": "anddiscover", "ing": "ing", "s": [ "FIRE FIRE" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nTown Walk ⇒ **Perfect Resonance** ⇒ FIRE FIRE" ] }  
+		],
+		"links": [ "Garuda (Hommarju Remix)", "Polar Night", "Town Walk", "Perfect Resonance", "FIRE FIRE" ],
+		"easyurl": "R_usCb6EMuI&t=23s",
+		"normalurl": "HrEoFfcR1Iw&t=23s"
+	},
+	{
+		"title": "FIRE FIRE",
+		"artist": "StripE",
+		"category": "discovery",
+		"record": "Yes",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "FIRE_FIRE.png",
+		"remyurl": "FIRE_FIRE",
+		"bpm": 150,
+		"easy": 6,
+		"normal": 9,
+		"stars": 200,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Perfect Resonance" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 5, "BEMANI" ] }, 
+			{ "mission": "mission_NoteTotal", "s": [ 4500, "PERFECT" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "Set Me Free" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreTotal", "s": [ 2200 ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 20, "BAD", "Town Walk" ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 20, "BAD", "Perfect Resonance" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nTown Walk ⇒ Perfect Resonance ⇒ **FIRE FIRE**" ] }  
+		],
+		"links": [ "Set Me Free", "Town Walk", "Perfect Resonance", "FIRE FIRE" ],
+		"easyurl": "YYVtcaxGw_Q&t=23s",
+		"normalurl": "48EthExn7AI&t=23s"
 	}
 ]

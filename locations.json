@@ -92,9 +92,6 @@
 			{"region": "West Bandung", "code": "Jabar West", "locations": [
 				{"location":"Gamemaster @ Ciwalk", "roleId": "1117783617905635338"},
 				{"location":"Timezone @ Paris Van Java", "roleId": "1117783626285858847"}
-			]},
-			{"region": "West Jakarta", "code": "DKI West", "locations": [
-				{"location":"Element @ Lippo Mall Puri", "roleId": "1117783622557122590"}
 			]}
 		]
 	},
@@ -209,7 +206,7 @@
 			]},
 			{"region": "Metro Manila", "code": "NCR", "locations": [
 				{"location":"Quantum SM Grand Central", "roleId": "970914763406188634"},
-				{"location":"QPS Mall of Asia", "alias": "MOA", "roleId": "970914776731496468"},
+				{"location":"Quantum Greenhills Mall", "alias": "GH", "roleId": "970914776731496468"},
 				{"location":"QPS Power Plant Mall", "alias": "Rockwell", "roleId": "970914780565102642"},
 				{"location":"QPS Shangri-La Mall", "alias": "Shangrila", "roleId": "970914784025382982"}
 			]},

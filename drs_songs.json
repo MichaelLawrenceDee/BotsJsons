@@ -7226,7 +7226,7 @@
 		"normal": 9,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022SPRING～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "prev": "Previously", "s": [ "Make That Body" ] }, 
 			{ "note": "note_OldMission", "mission": "mission_GetNAnySong,mission_ScoreSong", "mis": "Event", "origlength": 0, "s": [ 15, "BAD", 15, 90, "Red Hot Chili Samba!" ] } 
 		],
 		"links": [ "Red Hot Chili Samba!", "Make That Body" ],
@@ -7318,7 +7318,7 @@
 		"normal": 9,
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nMidnight Starlight ⇒ You You You ⇒ Hello World ⇒ Starlight Parade ⇒ **Prettiful!**" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "prev": "Previously", "s": [ "Make That Body" ] }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Anthurium" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, "Crystarium" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discovery", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, "Crystarium" ] }, 
@@ -7344,7 +7344,7 @@
 		"normal": 9,
 		"notes": [ 
 			{ "note": "note_Random", "prev": "Previously" }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Make That Body" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "prev": "Previously", "s": [ "Make That Body" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 17, 2023, "DEADLOCK (STARDOM Remix)", 2 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, "DEADLOCK (STARDOM Remix)", 2 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, "DEADLOCK (STARDOM Remix)", 2 ] }, 
@@ -7537,12 +7537,11 @@
 		"bpm": 130,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Let's Party!!" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Let's Party!!" ] } 
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**:\n**Golden Palms** ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "A", 20, 2025, "Let's Party!!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "B", 20, 2025, "Let's Party!!" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2022**:\n**Golden Palms** ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "nk8IG-Sc_Fs&t=55s",
 		"normalurl": "ba_4rSQhJus&t=55s"
@@ -7560,12 +7559,11 @@
 		"bpm": 126,
 		"easy": 4,
 		"normal": 8,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Ignited Night" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Ignited Night" ] } 
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ **Let's Party!!** ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "A", 20, 2025, "Ignited Night" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "B", 20, 2025, "Ignited Night" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ **Let's Party!!** ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "Z37zi5E-Rrk&t=55s",
 		"normalurl": "20TkgijpJTo&t=55s"
@@ -7581,12 +7579,11 @@
 		"bpm": 149,
 		"easy": 6,
 		"normal": 9,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Neon Rider" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Neon Rider" ] } 
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ **Ignited Night** ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "A", 20, 2025, "Neon Rider" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "B", 20, 2025, "Neon Rider" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ **Ignited Night** ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "wfaLo0cuBdg&t=55s",
 		"normalurl": "6I1LdSREPeE&t=55s"
@@ -7603,12 +7600,11 @@
 		"bpm": 150,
 		"easy": 5,
 		"normal": 10,
-		"stars": 160,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Catastrophic Dance" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Catastrophic Dance" ] } 
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ **Neon Rider** ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "A", 20, 2025, "Catastrophic Dance" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "B", 20, 2025, "Catastrophic Dance" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ **Neon Rider** ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "pK68CjFEYOk&t=55s",
 		"normalurl": "ljia3BEXJvk&t=55s"
@@ -7625,12 +7621,11 @@
 		"bpm": 145,
 		"easy": 5,
 		"normal": 9,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Without Words" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Without Words" ] } 
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ **Catastrophic Dance** ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "A", 20, 2025, "Without Words" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "B", 20, 2025, "Without Words" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ **Catastrophic Dance** ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "Kqcw3VY1Ves&t=55s",
 		"normalurl": "Nh3bkvZjzZU&t=55s"
@@ -7647,12 +7642,11 @@
 		"bpm": 135,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Oboro Cybernetics" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Oboro Cybernetics" ] } 
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ **Without Words** ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "A", 20, 2025, "Oboro Cybernetics" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "B", 20, 2025, "Oboro Cybernetics" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ **Without Words** ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "yIGYhYSAiqA&t=55s",
 		"normalurl": "wLYzc16mU4A&t=55s"
@@ -7668,12 +7662,11 @@
 		"bpm": 121,
 		"easy": 6,
 		"normal": 9,
-		"stars": 40,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Sweet Bordeaux Nightmare" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Sweet Bordeaux Nightmare" ] } 
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ **Oboro Cybernetics** ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "A", 20, 2025, "Sweet Bordeaux Nightmare" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "B", 20, 2025, "Sweet Bordeaux Nightmare" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ **Oboro Cybernetics** ⇒ Sweet Bordeaux Nightmare ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "yuXZBp2f9hY&t=55s",
 		"normalurl": "9LFYE0rJYus&t=55s"
@@ -7691,12 +7684,11 @@
 		"bpm": 131,
 		"easy": 5,
 		"normal": 9,
-		"stars": 160,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Make That Body" ] }, 
-			{ "mission": "mission_Unlock", "s": [ "Make That Body" ] } 
+		"notes": [ 
+			"**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ **Sweet Bordeaux Nightmare** ⇒ Make That Body", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "A", 20, 2025, "Make That Body" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "B", 20, 2025, "Make That Body" ] } 
 		],
-		"notes": [ "**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ **Sweet Bordeaux Nightmare** ⇒ Make That Body" ],
 		"links": [ "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "brBrQVGJtkY&t=55s",
 		"normalurl": "wgWCrY-0P2o&t=55s"
@@ -7713,14 +7705,11 @@
 		"bpm": 140,
 		"easy": 8,
 		"normal": 10,
-		"stars": 200,
-		"discount": [ 
-			{ "mission": "mission_Clear", "s": [ "Prettiful!" ] }, 
-			{ "mission": "mission_Clear", "s": [ "A Vague Idea" ] }, 
-			{ "mission": "mission_Clear", "s": [ "DEADLOCK (STARDOM Remix)" ] } 
-		],
 		"notes": [ 
-			"**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ **Make That Body**" 
+			"**SPARK FESTIVAL 2022**:\nGolden Palms ⇒ Let's Party!! ⇒ Ignited Night ⇒ Neon Rider ⇒ Catastrophic Dance ⇒ Without Words ⇒ Oboro Cybernetics ⇒ Sweet Bordeaux Nightmare ⇒ **Make That Body**", 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "A", 20, 2025, "Prettiful!" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "B", 20, 2025, "A Vague Idea" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "C", 20, 2025, "DEADLOCK (STARDOM Remix)" ] } 
 		],
 		"links": [ "Prettiful!", "A Vague Idea", "DEADLOCK (STARDOM Remix)", "Golden Palms", "Let's Party!!", "Ignited Night", "Neon Rider", "Catastrophic Dance", "Without Words", "Oboro Cybernetics", "Sweet Bordeaux Nightmare", "Make That Body" ],
 		"easyurl": "weEycQA_GEE&t=55s",
@@ -7738,16 +7727,12 @@
 		"bpm": 130,
 		"easy": 6,
 		"normal": 9,
-		"stars": 200,
-		"unlock": { "mission": "mission_Clear", "extra": "inExtra", "ing": "ing", "s": [ "Warpstep" ] },
-		"discount": [ 
-			{ "mission": "mission_Unlock", "s": [ "She Shines Under The Mirror Ball" ] }, 
-			{ "mission": "mission_ExtraStage", "s": [ 5 ] }, 
-			{ "mission": "mission_ScoreTotal", "s": [ 1400 ] } 
-		],
 		"notes": [ 
 			{ "note": "note_StringMerge", "chain": "discount_chain", "s": [ "\n**", "**:\nCrazy Shuffle ⇒ take me higher ⇒ JOK3R ⇒ Undercover ⇒ Midland Mainline ⇒ Roughneck Disco ⇒ Villains ⇒ PRANK ⇒ Don't Rush but Dance Rush ⇒ My Time ⇒ Ch4nge M4 Life ⇒ Synaptic ⇒ Official Bootleg ⇒ She Shines Under The Mirror Ball ⇒ **Warpstep**" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Get On Da Floor" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Get On Da Floor" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "A", 20, 2025, "She Shines Under The Mirror Ball" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "B", 20, 2025, 5 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 7, "origlength": 3, "s": [ "C", 20, 2025, 1400 ] } 
 		],
 		"links": [ "Crazy Shuffle", "take me higher", "JOK3R", "Undercover", "Midland Mainline", "Roughneck Disco", "Villains", "PRANK", "Don't Rush but Dance Rush", "My Time", "Ch4nge M4 Life", "Synaptic", "Official Bootleg", "She Shines Under The Mirror Ball", "Warpstep", "Get On Da Floor" ],
 		"easyurl": "84edJEPnqEU&t=23s",
@@ -7764,7 +7749,6 @@
 		"bpm": 150,
 		"easy": 5,
 		"normal": 9,
-		"stars": 150,
 		"easyurl": "MahTO3S5Efw&t=23s",
 		"normalurl": "6-YrSeVKTo4&t=23s"
 	},
@@ -7781,7 +7765,6 @@
 		"bpm": 117,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "Oppress CHARLESTON EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\n**Broadway Walk CHARLESTON EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ Oppress CHARLESTON EDITION", 
@@ -7805,7 +7788,6 @@
 		"bpm": 128,
 		"easy": 4,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (チャールストン合宿コース/Charleston Training Camp Course)**:\nBroadway Walk CHARLESTON EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **Oppress CHARLESTON EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "Oppress" ] }, 
@@ -7828,7 +7810,6 @@
 		"bpm": 128,
 		"easy": 3,
 		"normal": 7,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "December In Strasbourg CRAB STEP EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\n**Honey Bounce CRAB STEP EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ December In Strasbourg CRAB STEP EDITION", 
@@ -7852,7 +7833,6 @@
 		"bpm": 115,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (クラブステップ合宿コース/Crab Step Training Camp Course)**:\nHoney Bounce CRAB STEP EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **December In Strasbourg CRAB STEP EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "December In Strasbourg" ] }, 
@@ -7876,7 +7856,6 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 40,
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Event", "s": [ "JOK3R RUNNING MAN EDITION" ] }, 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\n**Shuffle the Cards RUNNING MAN EDITION** ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ JOK3R RUNNING MAN EDITION", 
@@ -7900,7 +7879,6 @@
 		"bpm": 150,
 		"easy": 6,
 		"normal": 9,
-		"stars": 40,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (ネオランニングマン合宿コース/Neo Running Man Training Camp Course)**:\nShuffle the Cards RUNNING MAN EDITION ⇒ 5<:Star:575161446904758272> ⇒ 10<:Star:575161446904758272> ⇒ **JOK3R RUNNING MAN EDITION**", 
 			{ "note": "note_SeeAlso", "s": [ "JOK3R" ] }, 
@@ -7922,7 +7900,6 @@
 		"bpm": 128,
 		"easy": 6,
 		"normal": 9,
-		"stars": 100,
 		"notes": [ 
 			"**DANCERUSH STARDOM 炎のDANCE合宿～2022AUTUMN～ (最終仕上げ/Final Finish)**: Unlockable only after finishing all 3 Training Camp Courses", 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] }, 
@@ -9541,7 +9518,7 @@
 		"bpm": 151,
 		"easy": 6,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp" },
+		"stars": 150,
 		"easyurl": "8PJa2aPsR98&t=23s",
 		"normalurl": "b1FJ7uupzRM&t=23s"
 	},
@@ -9757,7 +9734,6 @@
 		"easy": 6,
 		"normal": 9,
 		"stars": 160,
-		"unlock": { "mission": "mission_Clear", "ing": "ing", "s": [ "明鏡止水 (STARDOM Remix)" ] },
 		"singlediscount": true,
 		"discount": [ 
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "明鏡止水 (STARDOM Remix)", 2 ] }, 
@@ -9768,7 +9744,7 @@
 			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "明鏡止水 (STARDOM Remix)", 2 ] }
 		],
 		"notes": [ 
-			{ "note": "note_Random" } 
+			{ "note": "note_Random", "prev": "Previously" } 
 		],
 		"easyurl": "5H4QDeQ7gVA&t=23s",
 		"normalurl": "H6RInMXmjrU&t=23s"
@@ -10336,5 +10312,21 @@
 		"links": [ "Set Me Free", "Town Walk", "Perfect Resonance", "FIRE FIRE" ],
 		"easyurl": "YYVtcaxGw_Q&t=23s",
 		"normalurl": "48EthExn7AI&t=23s"
+	},
+	{
+		"title": "私をディスコに連れてって TOKYO",
+		"alias": [ "Watashi wo disco ni tsuretette TOKYO", "Take me to the disco, Tokyo" ],
+		"artist": "U1 vs U1 overground",
+		"category": "stamp",
+		"record": "No",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Watashi_wo_disco_ni_tsuretette_TOKYO.png",
+		"remyurl": "Watashi_wo_disco_ni_tsuretette_TOKYO",
+		"bpm": 142,
+		"easy": 6,
+		"normal": 9,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "5bJp8XV_zYY&t=23s",
+		"normalurl": "V-82fiH-lws&t=23s"
 	}
 ]

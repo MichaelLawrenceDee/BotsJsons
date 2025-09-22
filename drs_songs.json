@@ -10328,5 +10328,21 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "5bJp8XV_zYY&t=23s",
 		"normalurl": "V-82fiH-lws&t=23s"
+	},
+	{
+		"title": "Lo-Fi-M",
+		"alias": [ "Memorial" ],
+		"artist": "yaseta",
+		"category": "stamp",
+		"record": "No",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Lo-Fi-M.png",
+		"remyurl": "Lo-Fi-M",
+		"bpm": 140,
+		"easy": 5,
+		"normal": 10,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "BErDoljj76M&t=23s",
+		"normalurl": "XK8AUzqhhO0&t=23s"
 	}
 ]

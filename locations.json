@@ -83,6 +83,7 @@
 				{"location":"Timezone @ Galaxy Mall 3", "roleId": "1117783602114080818"}
 			]},
 			{"region": "South Jakarta", "code": "DKI South", "locations": [
+				{"location":"Cow Play Cow Moo @ Lippo Mall Nusantara", "roleId": "1419643455726030951"},
 				{"location":"Timezone @ Lippo Mall Kemang", "roleId": "1196817990809825292"},
 				{"location":"Timezone @ Senayan Park", "roleId": "1117783612721467392"}
 			]},
@@ -357,6 +358,7 @@
 				{"location":"Concord", "roleId": "571972913654398983"},
 				{"location":"Salinas", "roleId": "574618412945506314"},
 				{"location":"Temecula", "roleId": "622969566359715879"},
+				{"location":"The Retro Fix II TURBO Campbell", "roleId": "1419643471454535710"},
 				{"location":"Westfield Plaza Bonita", "roleId": "1254265391887417365"}
 			]},
 			{"region": "Colorado", "code": "CO", "locations": [

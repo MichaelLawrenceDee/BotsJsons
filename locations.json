@@ -77,15 +77,15 @@
 			{"region": "North Jakarta", "code": "DKI North", "locations": [
 				{"location":"Amazone @ Mall Artha Gading", "roleId": "1117783595487080520"},
 				{"location":"Cow Play Cow Moo @ Mall of Indonesia", "roleId": "1332720870082478182"},
-				{"location":"Cow Play Cow Moo @ Pluit Village", "roleId": "1267753750752399401"}
+				{"location":"Cow Play Cow Moo @ Pluit Village", "roleId": "1267753750752399401"},
+				{"location":"Timezone @ La Piazza", "roleId": "1117783612721467392"}
 			]},
 			{"region": "Surabaya", "code": "Jatim", "locations": [
 				{"location":"Timezone @ Galaxy Mall 3", "roleId": "1117783602114080818"}
 			]},
 			{"region": "South Jakarta", "code": "DKI South", "locations": [
 				{"location":"Cow Play Cow Moo @ Lippo Mall Nusantara", "roleId": "1419643455726030951"},
-				{"location":"Timezone @ Lippo Mall Kemang", "roleId": "1196817990809825292"},
-				{"location":"Timezone @ Senayan Park", "roleId": "1117783612721467392"}
+				{"location":"Timezone @ Lippo Mall Kemang", "roleId": "1196817990809825292"}
 			]},
 			{"region": "Tangerang", "locations": [
 				{"location":"Cow Play Cow Moo @ Carstensz", "roleId": "1182680073317392434"}

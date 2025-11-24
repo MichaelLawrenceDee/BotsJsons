@@ -349,6 +349,7 @@
 				{"location":"Hayward", "roleId": "625568317305782272"},
 				{"location":"Moreno Valley", "roleId": "571900957844176907"},
 				{"location":"Puente Hills", "roleId": "569683341394182164"},
+				{"location":"San Diego Arcade Monsters", "roleId": "1442385278525509695"},
 				{"location":"San Francisco", "roleId": "1305046698896130119"},
 				{"location":"San Jose", "roleId": "571917176894652418"},
 				{"location":"San Rafael Haze's Toys", "roleId": "1054224860294959244"},
@@ -408,7 +409,6 @@
 			]},
 			{"region": "New Jersey", "code": "NJ", "locations": [
 				{"location":"Deptford Mall", "roleId": "812147207062552617"},
-				{"location":"Gatcha Menlo Park Mall", "roleId": "1305046712632737852"},
 				{"location":"The Mills at Jersey Gardens", "roleId": "1345770654640898048"}
 			]},
 			{"region": "New Mexico", "code": "NM", "locations": [
@@ -421,7 +421,6 @@
 				{"location":"Reno", "roleId": "682057274356793344"}
 			]},
 			{"region": "New York", "code": "NY", "locations": [
-				{"location":"Gatcha Tangram", "roleId": "1260194488941547550"},
 				{"location":"Hicksville", "roleId": "571739486585880616"},
 				{"location":"Middletown", "roleId": "575717897847046145"}
 			]},

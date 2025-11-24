@@ -10344,5 +10344,21 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "BErDoljj76M&t=23s",
 		"normalurl": "XK8AUzqhhO0&t=23s"
+	},
+	{
+		"title": "F4SH10N",
+		"alias": [ "FASHION" ],
+		"artist": "aran",
+		"category": "stamp",
+		"record": "No",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "F4SH10N.png",
+		"remyurl": "F4SH10N",
+		"bpm": 140,
+		"easy": 5,
+		"normal": 8,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": "aWsPkHCgBfo&t=23s",
+		"normalurl": "jE4ip4kyKlA&t=23s"
 	}
 ]

@@ -68,6 +68,9 @@
 		"flag": "🇮🇩",
 		"regionname": "province",
 		"regions": [
+			{"region": "Bali", "locations": [
+				{"location":"Element @ Freshindo Sanglah", "roleId": "1459934663329058928"}
+			]},
 			{"region": "Depok", "code": "Depok", "locations": [
 				{"location":"Timezone @ MargoCity", "roleId": "1117782744903188600"}
 			]},
@@ -424,7 +427,7 @@
 			{"region": "New York", "code": "NY", "locations": [
 				{"location":"Gatcha Flushing", "roleId": "1459926955188031642"},
 				{"location":"Hicksville", "roleId": "571739486585880616"},
-				{"location":"Max Funland Brooklyn", "roleId": "1459926492485128242"},
+				{"location":"Max Funland 86th St Brooklyn", "roleId": "1459926492485128242"},
 				{"location":"Middletown", "roleId": "575717897847046145"}
 			]},
 			{"region": "Ohio", "code": "OH", "locations": [

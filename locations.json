@@ -84,6 +84,7 @@
 				{"location":"Timezone @ Galaxy Mall 3", "roleId": "1117783602114080818"}
 			]},
 			{"region": "South Jakarta", "code": "DKI South", "locations": [
+				{"location":"Cow Play Cow Moo @ Elysee SCBD", "roleId": "1459927423905697853"},
 				{"location":"Cow Play Cow Moo @ Lippo Mall Nusantara", "roleId": "1419643455726030951"},
 				{"location":"Timezone @ Lippo Mall Kemang", "roleId": "1196817990809825292"}
 			]},
@@ -421,7 +422,9 @@
 				{"location":"Reno", "roleId": "682057274356793344"}
 			]},
 			{"region": "New York", "code": "NY", "locations": [
+				{"location":"Gatcha Flushing", "roleId": "1459926955188031642"},
 				{"location":"Hicksville", "roleId": "571739486585880616"},
+				{"location":"Max Funland Brooklyn", "roleId": "1459926492485128242"},
 				{"location":"Middletown", "roleId": "575717897847046145"}
 			]},
 			{"region": "Ohio", "code": "OH", "locations": [
@@ -449,7 +452,8 @@
 				{"location":"Deerbrook Mall", "roleId": "1342699819302518784"},
 				{"location":"Grapevine", "roleId": "569682829324058656"},
 				{"location":"Okashi Houston", "roleId": "1129275932172103742"},
-				{"location":"San Antonio", "roleId": "1082700225887617054"}
+				{"location":"San Antonio", "roleId": "1082700225887617054"},
+				{"location":"Willowbrook Mall", "roleId": "1459926035712966740"}
 			]},
 			{"region": "Utah", "code": "UT", "locations": [
 				{"location":"Southtowne", "roleId": "823415668871135253"}

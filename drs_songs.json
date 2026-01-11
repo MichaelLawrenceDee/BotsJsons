@@ -2141,9 +2141,10 @@
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "B", 23, 2022, 90, "最小三倍完全数 (DANCERUSH Style)" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discovery", "MM": 2, "origlength": 3, "s": [ "C", 23, 2022, 90, "凛として咲く花の如く" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, "NewAige" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5, "BAD", 3, "BEMANI" ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNSongs", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5, "BAD", 3, "BEMANI" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Caribbean Coast" ] } 
 		],
-		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "NewAige", "GHOST KINGDOM CHARLESTON EDITION", "Graveyard", "Sweets (Soda Pop)", "最小三倍完全数 (DANCERUSH Style)", "凛として咲く花の如く" ],
+		"links": [ "GHOST KINGDOM", "Shuffle cats", "S7AGE", "NewAige", "GHOST KINGDOM CHARLESTON EDITION", "Graveyard", "Sweets (Soda Pop)", "最小三倍完全数 (DANCERUSH Style)", "凛として咲く花の如く", "Caribbean Coast" ],
 		"easyurl": "qvWtZXZsBAA",
 		"normalurl": "R43ga5mtl60"
 	},
@@ -2867,11 +2868,11 @@
 		"normal": 10,
 		"notes": [ 
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "DANCERUSH STARDOM ANTHEM" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "new heaven" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "new heaven" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "A", 28, 2023, 5, "BAD", "Don't Stop!!" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ExtraStage", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "B", 28, 2023, 5 ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 5, "origlength": 3, "s": [ "C", 28, 2023, 2000 ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Dance With The Dead" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Dance With The Dead" ] } 
 		],
 		"links": [ "Don't Stop!!", "DANCERUSH STARDOM ANTHEM", "new heaven", "Dance With The Dead" ],
 		"easyurl": "RD8PKCfwJNs",
@@ -3814,6 +3815,10 @@
 		"bpm": 130,
 		"easy": 4,
 		"normal": 9,
+		"notes": [ 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Marjoram" ] } 
+		],
+		"links": [ "Marjoram" ],
 		"easyurl": "Lhu6Kn0jvjc",
 		"normalurl": "JF99xfdlAKA"
 	},
@@ -4043,10 +4048,10 @@
 		"easy": 7,
 		"normal": 9,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "BENJAMIN" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "BENJAMIN" ] }, 
 			"**DANCERUSH STARDOM GYM2**:\nPoochie ⇒ Honey Bounce ⇒ **BREDLI** ⇒ BENJAMIN ⇒ Awakening", 
 			{ "note": "note_SeeAlso", "s": [ "BREDLI RUNNING MAN EDITION" ] }, 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "新蛇姫" ] }, 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "新蛇姫" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Unlock", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "A", 28, 2024, "Honey Bounce" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "B", 28, 2024, "Honey Bounce" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 1, "origlength": 3, "s": [ "C", 28, 2024, 95, "Honey Bounce" ] } 
@@ -5281,9 +5286,10 @@
 		"notes": [ 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Synth Presets & Sample Loops" ] }, 
 			"**DANCERUSH STARDOM GYM3**:\n**DEVILFISHMANのテーマ** ⇒ Synth Presets & Sample Loops ⇒ Shuffle The Cards ⇒ Penguin Morning ⇒ neu (STARDOM Remix)", 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Funky Street" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Caribbean Coast" ] } 
 		],
-		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)", "Funky Street" ],
+		"links": [ "DEVILFISHMANのテーマ", "Synth Presets & Sample Loops", "Shuffle The Cards", "Penguin Morning", "neu (STARDOM Remix)", "Funky Street", "Caribbean Coast" ],
 		"easyurl": "IAw91LM0QcU",
 		"normalurl": "N79auwfidO4"
 	},
@@ -6711,9 +6717,7 @@
 			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "The GameHacker (Sampled Crazy Shuffle)" ] },
 			{ "note": "note_Random", "prev": "Previously" }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "A", 11, 2023, "ドーパミン (STARDOM Remix)", 2 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 27, 2024, "ドーパミン (STARDOM Remix)", 2 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 27, 2024, "ドーパミン (STARDOM Remix)", 2 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "C", 27, 2024, "ドーパミン (STARDOM Remix)", 2 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A,B,C", 27, 2024, "ドーパミン (STARDOM Remix)", 2 ] } 
 		],
 		"links": [ "The GameHacker (Sampled Crazy Shuffle)" ],
 		"easyurl": "GOYWZk1LAZQ",
@@ -7346,9 +7350,7 @@
 			{ "note": "note_Random", "prev": "Previously" }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "prev": "Previously", "s": [ "Make That Body" ] }, 
 			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 4, "origlength": 3, "s": [ "A", 17, 2023, "DEADLOCK (STARDOM Remix)", 2 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A", 30, 2025, "DEADLOCK (STARDOM Remix)", 2 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "B", 30, 2025, "DEADLOCK (STARDOM Remix)", 2 ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "C", 30, 2025, "DEADLOCK (STARDOM Remix)", 2 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 3, "origlength": 3, "s": [ "A,B,C", 30, 2025, "DEADLOCK (STARDOM Remix)", 2 ] } 
 		],
 		"links": [ "Make That Body" ],
 		"easyurl": "02t1FhP4tXE&t=22s",
@@ -7935,14 +7937,11 @@
 		"bpm": 100,
 		"easy": 6,
 		"normal": 8,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_ClearNSongs", "s": [ 5, "POPS" ] }, 
-			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 3 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Heat Up The Dancefloor" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "新蛇姫" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "新蛇姫" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 26, 2025, 5, "POPS" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearAnySong", "mis": "Discount", "MM": 10, "origlength": 3, "diff": "Normal", "s": [ "B", 26, 2025, 3 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "C", 26, 2025, 90, "Heat Up The Dancefloor" ] } 
 		],
 		"links": [ "Heat Up The Dancefloor", "新蛇姫" ],
 		"easyurl": "71chhkJ3WF8",
@@ -7960,14 +7959,11 @@
 		"bpm": 150,
 		"easy": 6,
 		"normal": 9,
-		"stars": 80,
-		"discount": [ 
-			{ "mission": "mission_ClearNSongs", "s": [ 5, "EDM" ] }, 
-			{ "mission": "mission_ClearAnySong", "diff": "Easy", "s": [ 3 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Rejoin" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Dance With The Dead" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "Dance With The Dead" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearNSongs", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 26, 2025, 3 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ClearAnySong", "mis": "Discount", "MM": 10, "origlength": 3, "diff": "Easy", "s": [ "B", 26, 2025, 3 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "C", 26, 2025, 90, "Rejoin" ] } 
 		],
 		"links": [ "Rejoin", "Dance With The Dead" ],
 		"easyurl": "p0YtsPvx5P0",
@@ -7986,14 +7982,11 @@
 		"bpm": 115,
 		"easy": 4,
 		"normal": 8,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_ComboNSongs", "any": "any", "ing": "s", "s": [ 80, 3 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "New Decade" ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "BREDLI" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "VOLAQUAS" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "VOLAQUAS" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "mis": "Discount", "MM": 10, "origlength": 3, "any": "any", "ing": "s", "s": [ "A", 26, 2025, 80, 3 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 26, 2025, 90, "New Decade" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "C", 26, 2025, 15, "BAD", "BREDLI" ] } 
 		],
 		"links": [ "New Decade", "BREDLI", "VOLAQUAS" ],
 		"easyurl": "0zAaVMmjrm8",
@@ -8012,14 +8005,11 @@
 		"bpm": 150,
 		"easy": 3,
 		"normal": 7,
-		"stars": 100,
-		"discount": [ 
-			{ "mission": "mission_ComboNSongs", "any": "any", "ing": "s", "s": [ 80, 3 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Love 2 Shuffle" ] }, 
-			{ "mission": "mission_GetNOnSong", "s": [ 15, "BAD", "Necroxis Girl" ] } 
-		],
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "VOLAQUAS" ] } 
+			{ "note": "note_MissionFor", "prev": "Previously", "mis": "Discount", "s": [ "VOLAQUAS" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ComboNSongs", "mis": "Discount", "MM": 10, "origlength": 3, "any": "any", "ing": "s", "s": [ "A", 26, 2025, 80, 3 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 26, 2025, 90, "Love 2 Shuffle" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_GetNOnSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "C", 26, 2025, 15, "BAD", "Necroxis Girl" ] } 
 		],
 		"links": [ "Love 2 Shuffle", "Necroxis Girl", "VOLAQUAS" ],
 		"easyurl": "BTG0cNf0lPQ",
@@ -8037,11 +8027,10 @@
 		"bpm": 106,
 		"easy": 7,
 		"normal": 10,
-		"stars": 300,
-		"discount": [ 
-			{ "mission": "mission_ScoreTotal", "s": [ 2500 ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "Dance With The Dead" ] }, 
-			{ "mission": "mission_ScoreSong", "s": [ 90, "新蛇姫" ] } 
+		"notes": [ 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A", 26, 2025, 2500 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "B", 26, 2025, 90, "Dance With The Dead" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreSong", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "C", 26, 2025, 90, "新蛇姫" ] } 
 		],
 		"links": [ "Dance With The Dead", "新蛇姫" ],
 		"easyurl": "JGy-GNaLY2c",
@@ -8058,12 +8047,8 @@
 		"bpm": 120,
 		"easy": 5,
 		"normal": 8,
-		"stars": 240,
-		"singlediscount": true,
-		"discount": [ 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] } 
+		"notes": [ 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "noextra": "noExtra", "MM": 10, "origlength": 3, "s": [ "A,B,C", 26, 2025, 2500 ] } 
 		],
 		"easyurl": "knLGvQQ95ho",
 		"normalurl": "JLvVL20nrIs&t=23s"
@@ -8080,15 +8065,9 @@
 		"bpm": 152,
 		"easy": 6,
 		"normal": 10,
-		"stars": 240,
-		"singlediscount": true,
-		"discount": [ 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] }, 
-			{ "mission": "mission_ScoreTotal", "noextra": "noExtra", "s": [ 2500 ] } 
-		],
 		"notes": [ 
-			{ "note": "note_SeeAlso", "s": [ "Set Me Free" ] } 
+			{ "note": "note_SeeAlso", "s": [ "Set Me Free" ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_ScoreTotal", "mis": "Discount", "noextra": "noExtra", "MM": 10, "origlength": 3, "s": [ "A,B,C", 26, 2025, 2500 ] } 
 		],
 		"links": [ "Set Me Free" ],
 		"easyurl": "ew2o9U9y4lo",
@@ -8105,7 +8084,6 @@
 		"bpm": 128,
 		"easy": 5,
 		"normal": 8,
-		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM5**:\n**HANDS UP IN THE AIR** ⇒ Tropical White ⇒ Rock The Club ⇒ Jumbo Drill ⇒ 音楽 (STARDOM Remix)" 
 		],
@@ -8126,7 +8104,6 @@
 		"bpm": 132,
 		"easy": 4,
 		"normal": 8,
-		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ **Tropical White** ⇒ Rock The Club ⇒ Jumbo Drill ⇒ 音楽 (STARDOM Remix)", 
 			{ "note": "note_SeeAlso", "s": [ "Tropical White RUNNING MAN EDITION" ] } 
@@ -8146,7 +8123,6 @@
 		"bpm": 130,
 		"easy": 6,
 		"normal": 9,
-		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ Tropical White ⇒ **Rock The Club** ⇒ Jumbo Drill ⇒ 音楽 (STARDOM Remix)" 
 		],
@@ -8166,7 +8142,6 @@
 		"bpm": 135,
 		"easy": 7,
 		"normal": 9,
-		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ Tropical White ⇒ Rock The Club ⇒ **Jumbo Drill** ⇒ 音楽 (STARDOM Remix)" 
 		],
@@ -8188,7 +8163,6 @@
 		"bpm": 135,
 		"easy": 6,
 		"normal": 10,
-		"stars": 60,
 		"notes": [ 
 			"**DANCERUSH STARDOM GYM5**:\nHANDS UP IN THE AIR ⇒ Tropical White ⇒ Rock The Club ⇒ Jumbo Drill ⇒ **音楽 (STARDOM Remix)**", 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] } 
@@ -8210,17 +8184,11 @@
 		"bpm": 145,
 		"easy": 5,
 		"normal": 9,
-		"stars": 160,
-		"singlediscount": true,
-		"discount": [ 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }, 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }, 
-			{ "mission": "mission_Clear", "times": "nTimes", "s": [ "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }
-		],
 		"notes": [ 
 			{ "note": "note_Random", "prev": "Previously" }, 
 			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Lose Control" ] }, 
-			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "A", 17, 2024, "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] } 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discovery", "MM": 0, "origlength": 3, "s": [ "A", 17, 2024, "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] }, 
+			{ "note": "note_OldMissionDate", "mission": "mission_Clear", "times": "nTimes", "mis": "Discount", "MM": 10, "origlength": 3, "s": [ "A,B,C", 26, 2025, "黒髪乱れし修羅となりて (STARDOM Remix)", 2 ] } 
 		],
 		"links": [ "Lose Control" ],
 		"easyurl": "Si76d_Ag63c&t=23s",
@@ -9331,9 +9299,10 @@
 		"normal": 9,
 		"stars": 150,
 		"notes": [ 
-			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rushiest Rush" ] } 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Rushiest Rush" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discount", "s": [ "Run The Show" ] } 
 		],
-		"links": [ "Rushiest Rush" ],
+		"links": [ "Rushiest Rush", "Run The Show" ],
 		"easyurl": "jHpwMzpxkew&t=23s",
 		"normalurl": "IrXkbWtZJfw&t=23s"
 	},
@@ -9868,7 +9837,7 @@
 		"bpm": 150,
 		"easy": 7,
 		"normal": 9,
-		"unlock": { "mission": "mission_Stamp" },
+		"stars": 150,
 		"easyurl": "h_dZAOwEYJY&t=23s",
 		"normalurl": "2FHaQImOIKs&t=23s"
 	},
@@ -10360,5 +10329,114 @@
 		"unlock": { "mission": "mission_Stamp" },
 		"easyurl": "aWsPkHCgBfo&t=23s",
 		"normalurl": "jE4ip4kyKlA&t=23s"
+	},
+	{
+		"title": "Caribbean Coast",
+		"artist": "BEMANI Sound Team \"劇団レコード\"",
+		"artistalias": [ "BST Gekidan rekodo", "Theatrical company record" ],
+		"category": "discovery",
+		"record": "No",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Caribbean_Coast.png",
+		"remyurl": "Caribbean_Coast",
+		"bpm": 132,
+		"easy": 4,
+		"normal": 8,
+		"stars": 60,
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "BEMANI" ] }, 
+			{ "mission": "mission_NoteTotal", "s": [ 1500, "PERFECT" ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "DEVILFISHMANのテーマ" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_GetNOnSong", "s": [ 100, "GREAT", "GHOST KINGDOM" ] }, 
+			{ "mission": "mission_ScoreTotal", "s": [ 700 ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "ing": "ing", "s": [ "Marjoram" ] }, 
+			{ "note": "note_MissionFor", "mis": "Discovery", "s": [ "Run The Show" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\n**Caribbean Coast** ⇒ Marjoram ⇒ Run The Show" ] }  
+		],
+		"links": [ "DEVILFISHMANのテーマ", "GHOST KINGDOM", "Caribbean Coast", "Marjoram", "Run The Show" ],
+		"easyurl": "kevm3qBoIIo&t=23s",
+		"normalurl": "dCv5PEa9H6c&t=23s"
+	},
+	{
+		"title": "Marjoram",
+		"artist": "BEMANI Sound Team \"SYUNN\"",
+		"artistalias": [ "BST" ],
+		"category": "discovery",
+		"record": "No",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Marjoram.png",
+		"remyurl": "Marjoram",
+		"bpm": 110,
+		"easy": 6,
+		"normal": 9,
+		"stars": 100,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Caribbean Coast" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 3, "POPS" ] }, 
+			{ "mission": "mission_ClearAnySong", "diff": "Normal", "s": [ 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 90, "Six String Proof (DANCERUSH Style)" ] } 
+		],
+		"discovery": [
+			{ "mission": "mission_ClearNSongs", "s": [ 10, "EDM" ] }, 
+			{ "mission": "mission_NoteTotal", "s": [ 2500, "PERFECT" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_UnlockFor", "cond": "unlock", "anddiscover": "anddiscover", "ing": "ing", "s": [ "Run The Show" ] }, 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCaribbean Coast ⇒ **Marjoram** ⇒ Run The Show" ] }  
+		],
+		"links": [ "Six String Proof (DANCERUSH Style)", "Caribbean Coast", "Marjoram", "Run The Show" ],
+		"easyurl": "Y3ABW0yUU1M&t=23s",
+		"normalurl": "s2diMVwuFdk&t=23s"
+	},
+	{
+		"title": "Run The Show",
+		"artist": "fazerock",
+		"category": "discovery",
+		"record": "No",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Run_The_Show.png",
+		"remyurl": "Run_The_Show",
+		"bpm": 150,
+		"easy": 7,
+		"normal": 9,
+		"stars": 200,
+		"unlock": { "mission": "mission_Unlock", "ing": "ing", "s": [ "Marjoram" ] },
+		"discount": [ 
+			{ "mission": "mission_ClearNSongs", "s": [ 5, "EDM" ] }, 
+			{ "mission": "mission_ComboNSongs", "any": "any", "s": [ 300, 1 ] }, 
+			{ "mission": "mission_ScoreSong", "s": [ 95, "Virtual Bit" ] } 
+		],
+		"discovery": [ 
+			{ "mission": "mission_ScoreAny", "ing": "s", "s": [ 15, 85 ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 20, "BAD", "Caribbean Coast" ] }, 
+			{ "mission": "mission_GetNOnSong", "s": [ 20, "BAD", "Marjoram" ] } 
+		],
+		"notes": [ 
+			{ "note": "note_StringMerge", "chain": "discovery_chain", "s": [ "\n**", "**:\nCaribbean Coast ⇒ Marjoram ⇒ **Run The Show**" ] }  
+		],
+		"links": [ "Virtual Bit", "Caribbean Coast", "Marjoram", "Run The Show" ],
+		"easyurl": "64kChm8qux4&t=23s",
+		"normalurl": "Eomxqb99fKE&t=23s"
+	},
+	{
+		"title": "少女、摩天楼へ",
+		"alias": [ "Shoujo, matenrou e", "Girl to the Skyscraper" ],
+		"artist": "BEMANI Sound Team \"U1 overground\"",
+		"artistalias": [ "BST" ],
+		"category": "stamp",
+		"record": "No",
+		"folders": [ "BEMANI" ],
+		"thumbnail": "Shoujo%2C_matenrou_e.png",
+		"remyurl": "Shoujo,_matenrou_e",
+		"bpm": 150,
+		"easy": "?",
+		"normal": 9,
+		"unlock": { "mission": "mission_Stamp" },
+		"easyurl": false,
+		"normalurl": false
 	}
 ]

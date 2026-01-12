@@ -10433,10 +10433,10 @@
 		"thumbnail": "Shoujo%2C_matenrou_e.png",
 		"remyurl": "Shoujo,_matenrou_e",
 		"bpm": 150,
-		"easy": "?",
+		"easy": 6,
 		"normal": 9,
 		"unlock": { "mission": "mission_Stamp" },
-		"easyurl": false,
-		"normalurl": false
+		"easyurl": "c55OCPDnLT4&t=23s",
+		"normalurl": "dIgpn2of3nM&t=23s"
 	}
 ]

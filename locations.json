@@ -88,8 +88,7 @@
 			]},
 			{"region": "South Jakarta", "code": "DKI South", "locations": [
 				{"location":"Cow Play Cow Moo @ Elysee SCBD", "roleId": "1459927423905697853"},
-				{"location":"Cow Play Cow Moo @ Lippo Mall Nusantara", "roleId": "1419643455726030951"},
-				{"location":"Timezone @ Lippo Mall Kemang", "roleId": "1196817990809825292"}
+				{"location":"Cow Play Cow Moo @ Lippo Mall Nusantara", "roleId": "1419643455726030951"}
 			]},
 			{"region": "Tangerang", "locations": [
 				{"location":"Cow Play Cow Moo @ Carstensz", "roleId": "1182680073317392434"}

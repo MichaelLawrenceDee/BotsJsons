@@ -68,9 +68,6 @@
 		"flag": "🇮🇩",
 		"regionname": "province",
 		"regions": [
-			{"region": "Bali", "locations": [
-				{"location":"Element @ Freshindo Sanglah", "roleId": "1459934663329058928"}
-			]},
 			{"region": "Depok", "code": "Depok", "locations": [
 				{"location":"Timezone @ MargoCity", "roleId": "1117782744903188600"}
 			]},
